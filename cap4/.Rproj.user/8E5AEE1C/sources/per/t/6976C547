@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552968435091.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "547042343",
+    "id" : "6976C547",
+    "lastKnownWriteTime" : 1552985427,
+    "last_content_update" : 1552985427200,
+    "path" : "~/Cap5-Testes/cap4-testes/testes/teste.R",
+    "project_path" : "teste.R",
+    "properties" : {
+        "cursorPosition" : "43,1",
+        "scrollLine" : "30"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

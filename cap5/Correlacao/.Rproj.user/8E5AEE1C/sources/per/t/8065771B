@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552624818903.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "18|55|52|0|\n54|51|95|0|\n97|33|166|0|\n208|36|246|0|\n",
+    "hash" : "1331834282",
+    "id" : "8065771B",
+    "lastKnownWriteTime" : 1558298747,
+    "last_content_update" : 1558298747904,
+    "path" : "~/Cap5-Testes/Correlacao/concat_analysis.R",
+    "project_path" : "concat_analysis.R",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

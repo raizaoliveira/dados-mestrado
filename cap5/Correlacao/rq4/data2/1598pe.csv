@@ -1,0 +1,15 @@
+Curl_getFormData,1,function
+suck,1,function
+curl_memdebug,1,function
+Curl_base64_decode,1,function
+curl_mfprintf,1,function
+FormParse,1,function
+mech,1,variable
+name_to_level,1,function
+Curl_strtok_r,1,function
+mechs,1,variable
+Curl_FormInit,1,function
+curl_mprintf,1,function
+Curl_FormReader,1,function
+Curl_base64_encode,1,function
+orig,1,variable

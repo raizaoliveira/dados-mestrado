@@ -1,0 +1,2 @@
+!def(HAVE_STRLCPY),strlcpy,additon,Function,2
+!def(HAVE_STRLCAT),strlcat,additon,Function,2

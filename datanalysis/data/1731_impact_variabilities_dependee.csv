@@ -1,0 +1,4 @@
+True,argv,exclusion,Variable,1
+True,base_paths,exclusion,Variable,1
+True,argc,exclusion,Variable,1
+True,paths,exclusion,Variable,1

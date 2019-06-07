@@ -1,0 +1,422 @@
+load <- function(arq,ranges, l)
+{
+  data_column <- read_excel(arq, sheet=l,na = "", range = (ranges))
+  return ( na.omit(data_column[[1]]))
+  
+}
+
+freq <- function(dat){
+	fre <- c()
+	for (i in 1:length(dat)){
+    	if(i > 1){
+        	
+        	
+        	  fre <-c(fre, abs(difftime(dat[i],dat[i-1],tz="GMT",units="hours")))
+ 
+    	}
+	}
+
+	return(rmvoutlier(na.omit(fre)))
+}
+
+freqRelease <- function(){
+  
+  
+  
+  C1 <- summary(vimr)
+  C2 <- summary(PaceMakerr)
+  C3 <- summary(LibXMLr)
+  C4 <- summary(Lighttpdr)
+  C5 <- summary(Collectedr)
+  C6 <- summary(Syslogr)
+  C7 <- summary(ccacher)
+  C9 <- summary(Gzipr)
+  C10 <- summary(libnfcr)
+  C11 <- summary(Libsshr)
+  C12 <- summary(librskafkar)
+  C13 <- summary(Mosquittor)
+  C14 <- summary(MPSolver)
+  C15 <- summary(OpenVPNr)
+  C16 <- summary(Ossecr)
+  C17 <- summary(PianoBarr)
+  C18 <- summary(SilverSearchr)
+  C19 <- summary(GNUPlotr)
+  C20 <- summary(OpenSCr)
+  C21 <- summary(diar)
+  C22 <- summary(uwsgir)
+  C23 <- summary(mapserverr)
+  C24 <- summary(Hexchatr)
+  C27 <- summary(totemr)
+  C29 <- summary(Curlr)
+  C30 <- summary(Sylpheedr)
+  
+  
+  
+  # Definition of vectors
+  Sistema <- c("Vim","PaceMaker","LibXML","Lighttpd","Collectd","Syslog","CCache","Gzip","LibNFC","LibSSH","LibrsKakfka","Mosquitto","MPSolve","OpenVPN","Ossec","PianoBar","SilverSearcher","GNUPlot","OpenSC","Dia","Uwsgi","MapServer","Hexchat","Totem","Curl","Sylpheed")
+  Media <- c(C1[4],C2[4],C3[4],C4[4],C5[4],C6[4],C7[4],C9[4],C10[4],C11[4],C12[4],C13[4],C14[4],C15[4],C16[4],C17[4],C18[4],C19[4],C20[4],C21[4],C22[4],C23[4],C24[4],C27[4],C29[4],C30[4])
+  Mediana <- c(C1[3],C2[3],C3[3],C4[3],C5[3],C6[3],C7[3],C9[3],C10[3],C11[3],C12[3],C13[3],C14[3],C15[3],C16[3],C17[3],C18[3],C19[3],C20[3],C21[3],C22[3],C23[3],C24[3],C27[3],C29[3],C30[3]) 
+  Min <- c(C1[1],C2[1],C3[1],C4[1],C5[1],C6[1],C7[1],C9[1],C10[1],C11[1],C12[1],C13[1],C14[1],C15[1],C16[1],C17[1],C18[1],C19[1],C20[1],C21[1],C22[1],C23[1],C24[1],C27[1],C29[1],C30[1]) 
+  Max <- c(C1[6],C2[6],C3[6],C4[6],C5[6],C6[6],C7[6],C9[6],C10[6],C11[6],C12[6],C13[6],C14[6],C15[6],C16[6],C17[6],C18[6],C19[6],C20[6],C21[6],C22[6],C23[6],C24[6],C27[6],C29[6],C30[6]) 
+  Desvio <- c(sd(C1),sd(C2),sd(C3),sd(C4),sd(C5),sd(C6),sd(C7),sd(C9),sd(C10),sd(C11),sd(C12),sd(C13),sd(C14),sd(C15),sd(C16),sd(C17),sd(C18),sd(C19),sd(C20),sd(C21),sd(C22),sd(C23),sd(C24),sd(C27),sd(C29),sd(C30))
+  
+  print(length(Sistema))
+  print(length(Media))
+  print(length(Mediana))
+  print(length(Min))
+  print(length(Max))
+  print(length(Desvio))
+  # Create a data frame from the vectors
+  impactPoints_df <- data.frame(Sistema, Media, Mediana, Min, Max, Desvio)
+  print(impactPoints_df)
+  write.csv(impactPoints_df, file = "SUMMARY_RELEASES_Interval.csv",row.names=FALSE)
+  
+  
+  C1 <- quantile(vimr, prob = seq(0, 1, length = 11), type = 5)
+  C2 <- quantile(PaceMakerr, prob = seq(0, 1, length = 11), type = 5)
+  C3 <- quantile(LibXMLr, prob = seq(0, 1, length = 11), type = 5)
+  C4 <- quantile(Lighttpdr, prob = seq(0, 1, length = 11), type = 5)
+  C5 <- quantile(Collectedr, prob = seq(0, 1, length = 11), type = 5)
+  C6 <- quantile(Syslogr, prob = seq(0, 1, length = 11), type = 5)
+  C7 <- quantile(ccacher, prob = seq(0, 1, length = 11), type = 5)
+  C9 <- quantile(Gzipr, prob = seq(0, 1, length = 11), type = 5)
+  C10 <- quantile(libnfcr, prob = seq(0, 1, length = 11), type = 5)
+  C11 <- quantile(Libsshr, prob = seq(0, 1, length = 11), type = 5)
+  C12 <- quantile(librskafkar, prob = seq(0, 1, length = 11), type = 5)
+  C13 <- quantile(Mosquittor, prob = seq(0, 1, length = 11), type = 5)
+  C14 <- quantile(MPSolver, prob = seq(0, 1, length = 11), type = 5)
+  C15 <- quantile(OpenVPNr, prob = seq(0, 1, length = 11), type = 5)
+  C16 <- quantile(Ossecr, prob = seq(0, 1, length = 11), type = 5)
+  C17 <- quantile(PianoBarr, prob = seq(0, 1, length = 11), type = 5)
+  C18 <- quantile(SilverSearchr, prob = seq(0, 1, length = 11), type = 5)
+  C19 <- quantile(GNUPlotr, prob = seq(0, 1, length = 11), type = 5)
+  C20 <- quantile(OpenSCr, prob = seq(0, 1, length = 11), type = 5)
+  C21 <- quantile(diar, prob = seq(0, 1, length = 11), type = 5)
+  C22 <- quantile(uwsgir, prob = seq(0, 1, length = 11), type = 5)
+  C23 <- quantile(mapserverr, prob = seq(0, 1, length = 11), type = 5)
+  C24 <- quantile(Hexchatr, prob = seq(0, 1, length = 11), type = 5)
+  C27 <- quantile(totemr, prob = seq(0, 1, length = 11), type = 5)
+  C29 <- quantile(Curlr, prob = seq(0, 1, length = 11), type = 5)
+  C30 <- quantile(Sylpheedr, prob = seq(0, 1, length = 11), type = 5)
+  
+  
+  
+  # Definition of vectors
+  Sistema <- c("vim","PaceMaker","LibXML","Lighttpd","Collected","Syslog","ccache","Gzip","libnfc","Libssh","librskafka","Mosquitto","MPSolve","OpenVPN","Ossec","PianoBar","SilverSearch","GNUPlot","OpenSC","dia","uwsgi","mapserver","Hexchat","totem","Curl","Sylpheed")
+  um <- c(C1[1],C2[1],C3[1],C4[1],C5[1],C6[1],C7[1],C9[1],C10[1],C11[1],C12[1],C13[1],C14[1],C15[1],C16[1],C17[1],C18[1],C19[1],C20[1],C21[1],C22[1],C23[1],C24[1],C27[1],C29[1],C30[1]) 
+  dois <- c(C1[2],C2[2],C3[2],C4[2],C5[2],C6[2],C7[2],C9[2],C10[2],C11[2],C12[2],C13[2],C14[2],C15[2],C16[2],C17[2],C18[2],C19[2],C20[2],C21[2],C22[2],C23[2],C24[2],C27[2],C29[2],C20[2])  
+  tres <- c(C1[3],C2[3],C3[3],C4[3],C5[3],C6[3],C7[3],C9[3],C10[3],C11[3],C12[3],C13[3],C14[3],C15[3],C16[3],C17[3],C18[3],C19[3],C20[3],C21[3],C22[3],C23[3],C24[3],C27[3],C29[3],C30[3])
+  quatro <-c(C1[4],C2[4],C3[4],C4[4],C5[4],C6[4],C7[4],C9[4],C10[4],C11[4],C12[4],C13[4],C14[4],C15[4],C16[4],C17[4],C18[4],C19[4],C20[4],C21[4],C22[4],C23[4],C24[4],C27[4],C29[4],C30[4])
+  cinco <- c(C1[5],C2[5],C3[5],C4[5],C5[5],C6[5],C7[5],C9[5],C10[5],C11[5],C12[5],C13[5],C14[5],C15[5],C16[5],C17[5],C18[5],C19[5],C20[5],C21[5],C22[5],C23[5],C24[5],C27[5],C29[5],C30[5]) 
+  seis <- c(C1[6],C2[6],C3[6],C4[6],C5[6],C6[6],C7[6],C9[6],C10[6],C11[6],C12[6],C13[6],C14[6],C15[6],C16[6],C17[6],C18[6],C19[6],C20[6],C21[6],C22[6],C23[6],C24[6],C27[6],C29[6],C30[6]) 
+  sete <- c(C1[7],C2[7],C3[7],C4[7],C5[7],C6[7],C7[7],C9[7],C10[7],C11[7],C12[7],C13[7],C14[7],C15[7],C16[7],C17[7],C18[7],C19[7],C20[7],C21[7],C22[7],C23[7],C24[7],C27[7],C29[7],C30[7]) 
+  oito <- c(C1[8],C2[8],C3[8],C4[8],C5[8],C6[8],C7[8],C9[8],C10[8],C11[8],C12[8],C13[8],C14[8],C15[8],C16[8],C17[8],C18[8],C19[8],C20[8],C21[8],C22[8],C23[8],C24[8],C27[8],C29[8],C30[8]) 
+  nove <- c(C1[9],C2[9],C3[9],C4[9],C5[9],C6[9],C7[9],C9[9],C10[9],C11[9],C12[9],C13[9],C14[9],C15[9],C16[9],C17[9],C18[9],C19[9],C20[9],C21[9],C22[9],C23[9],C24[9],C27[9],C29[9],C30[9]) 
+  dez <- c(C1[10],C2[10],C2[10],C4[10],C5[10],C6[10],C7[10],C9[10],C10[10],C11[10],C12[10],C13[10],C14[10],C15[10],C16[10],C17[10],C18[10],C19[10],C20[10],C21[10],C22[10],C23[10],C24[10],C27[10],C29[10],C30[10])
+  onze <- c(C1[11],C2[11],C3[11],C4[11],C5[11],C6[11],C7[11],C9[11],C10[11],C11[11],C12[11],C13[11],C14[11],C15[11],C16[11],C17[11],C18[11],C19[11],C20[11],C21[11],C22[11],C23[11],C24[11],C27[11],C29[11],C30[11]) 
+  
+  # Create a data frame from the vectors
+  impactPoints_df <- data.frame(Sistema, um, dois,tres, quatro, cinco, seis, sete, oito, nove, dez, onze)
+  print(impactPoints_df)
+  write.csv(impactPoints_df, file = "Quantiles_Releases_Interval.csv",row.names=FALSE)
+  
+}
+
+
+summarALL <- function() {
+	C1 <- summary(vimr)
+	C2 <- summary(PaceMakerr)
+	C3 <- summary(LibXMLr)
+	C4 <- summary(Lighttpdr)
+	C5 <- summary(Collectedr)
+	C6 <- summary(Syslogr)
+	C7 <- summary(ccacher)
+	C8 <- summary(gawkf)
+	C9 <- summary(Gzipr)
+	C10 <- summary(libnfcr)
+	C11 <- summary(Libsshr)
+	C12 <- summary(librskafkar)
+	C13 <- summary(Mosquittor)
+	C14 <- summary(MPSolver)
+	C15 <- summary(OpenVPNr)
+	C16 <- summary(Ossecr)
+	C17 <- summary(PianoBarr)
+	C18 <- summary(SilverSearchr)
+	C19 <- summary(GNUPlotr)
+	C20 <- summary(OpenSCr)
+	C21 <- summary(diar)
+	C22 <- summary(uwsgir)
+	C23 <- summary(mapserverr)
+	C24 <- summary(Hexchatr)
+	C25 <- summary(ethersexf)
+  C26 <- summary(m4f)
+	C27 <- summary(totemr)
+	C28 <- summary(gnuchessf)
+	C29 <- summary(Curlr)
+	C30 <- summary(Sylpheedr)
+
+
+
+	# Definition of vectors
+	Sistema <- c("vim","PaceMaker","LibXML","Lighttpd","Collected","Syslog","ccache","gawk","Gzip","libnfc","Libssh","librskafka","Mosquitto","MPSolve","OpenVPN","Ossec","PianoBar","SilverSearch","GNUPlot","OpenSC","dia","uwsgi","mapserver","Hexchat","ethersex","m4","totem","gnuchess","Curl","Sylpheed")
+	Media <- c(C1[4],C2[4],C3[4],C4[4],C5[4],C6[4],C7[4],C8[4],C9[4],C10[4],C11[4],C12[4],C13[4],C14[4],C15[4],C16[4],C17[4],C18[4],C19[4],C20[4],C21[4],C22[4],C23[4],C24[4],C25[4],C26[4],C27[4],C28[4],C29[4],C30[4])
+	Mediana <- c(C1[3],C2[3],C3[3],C4[3],C5[3],C6[3],C7[3],C8[3],C9[3],C10[3],C11[3],C12[3],C13[3],C14[3],C15[3],C16[3],C17[3],C18[3],C19[3],C20[3],C21[3],C22[3],C23[3],C24[3],C25[3],C26[3],C27[3],C28[3],C29[3],C30[3]) 
+	Min <- c(C1[1],C2[1],C3[1],C4[1],C5[1],C6[1],C7[1],C8[1],C9[1],C10[1],C11[1],C12[1],C13[1],C14[1],C15[1],C16[1],C17[1],C18[1],C19[1],C20[1],C21[1],C22[1],C23[1],C24[1],C25[1],C26[1],C27[1],C28[1],C29[1],C30[1]) 
+	Max <- c(C1[6],C2[6],C3[6],C4[6],C5[6],C6[6],C7[6],C8[6],C9[6],C10[6],C11[6],C12[6],C13[6],C14[6],C15[6],C16[6],C17[6],C18[6],C19[6],C20[6],C21[6],C22[6],C23[6],C24[6],C25[6],C26[6],C27[6],C28[6],C29[6],C30[6]) 
+	Desvio <- c(sd(C1),sd(C2),sd(C3),sd(C4),sd(C5),sd(C6),sd(C7),sd(C8),sd(C9),sd(C10),sd(C11),sd(C12),sd(C13),sd(C14),sd(C15),sd(C16),sd(C17),sd(C18),sd(C19),sd(C20),sd(C21),sd(C22),sd(C23),sd(C24),sd(C25),sd(C26),sd(C27),sd(C28),sd(C29),sd(C30))
+
+	# Create a data frame from the vectors
+	impactPoints_df <- data.frame(Sistema, Min, Mediana,Media, Max, Desvio)
+	print(impactPoints_df)
+	write.csv(impactPoints_df, file = "SUMMARY_Changes_Imterval.csv",row.names=FALSE)
+
+}
+
+boxplotALL <-function(data){
+	library(ggplot2)
+	plt_wool <- ggplot(subset(data, value > 0) , aes(x=variable,y=value)) + 
+	  geom_boxplot(aes(color=factor(variable)),outlier.colour = NA) +
+	  scale_y_log10(breaks = trans_breaks("log10", function(x) 10^x), labels = trans_format("log10", math_format(10^.x))) +
+	  theme_gray() +
+	  theme(axis.text.x=element_text(face="plain", color="#000000", 
+	              size=10, angle=90, vjust=0.2), axis.text.y = element_text(size=12)) +
+	  theme(axis.title=element_text(size=12,face="bold")) +
+	  labs(x = "", y = "Intervalo entre commits (minutos)") +
+	  annotation_logticks(sides = "rl") +
+	  theme(panel.grid.minor = element_blank()) +
+	  guides(title.hjust=0.5) +
+	  theme(plot.margin=unit(c(0,1,0,0),"mm"))
+
+	yp <- subset(data, value>0)             # Choosing only +ve values in col x
+	sts <- boxplot.stats(yp$value)$stats  # Compute lower and upper whisker limits
+
+	p1 = plt_wool + coord_cartesian(ylim = c(sts[2]/2,max(sts)*10.05))
+
+	p1
+
+}
+
+
+rmvoutlier <- function(C){
+  x <- C
+  qnt <- quantile(x, probs=c(.25, .75), na.rm = T)
+  caps <- quantile(x, probs=c(.05, .95), na.rm = T)
+  H <- 1.5 * IQR(x, na.rm = T)
+  x[x < (qnt[1] - H)] <- caps[1] 
+  x[x > (qnt[2] + H)] <- caps[2] 
+  
+  return(x)
+}
+
+
+
+loadChanges_interval <- function(arq, l)
+{
+  f <- read_excel(arq, sheet=l,na = "", range = "d1:d20000")
+  v <- read_excel(arq, sheet=l,na = "", range = "f1:f20000")
+  t <- read_excel(arq, sheet=l,na = "", range = "a1:a20000")
+
+  f <- na.omit(f[[1]])
+  v <- na.omit(v[[1]])
+  t <- na.omit(t[[1]])
+
+  data <- c()
+  lastCh = 1
+  print(l)
+  for (i in 1:length(t)){
+  	if (f[i] > 0 || v[i] > 0){
+  		if(i > 1){
+  			data <- c(data, difftime(t[i],t[lastCh],tz="GMT",units="hours"))
+  			lastCh = i
+  		}
+  		
+  	}
+  } 
+  return ( rmvoutlier(na.omit(data)))
+  
+}
+
+
+
+quantisALL <- function() {
+	C1 <- quantile(vimf, prob = seq(0, 1, length = 11), type = 5)
+	C2 <- quantile(PaceMakerf, prob = seq(0, 1, length = 11), type = 5)
+	C3 <- quantile(LibXMLf, prob = seq(0, 1, length = 11), type = 5)
+	C4 <- quantile(Lighttpdf, prob = seq(0, 1, length = 11), type = 5)
+	C5 <- quantile(Collectedf, prob = seq(0, 1, length = 11), type = 5)
+	C6 <- quantile(Syslogf, prob = seq(0, 1, length = 11), type = 5)
+	C7 <- quantile(ccachef, prob = seq(0, 1, length = 11), type = 5)
+	C8 <- quantile(gawkf, prob = seq(0, 1, length = 11), type = 5)
+	C9 <- quantile(Gzipf, prob = seq(0, 1, length = 11), type = 5)
+	C10 <- quantile(libnfcf, prob = seq(0, 1, length = 11), type = 5)
+	C11 <- quantile(Libsshf, prob = seq(0, 1, length = 11), type = 5)
+	C12 <- quantile(librskafkaf, prob = seq(0, 1, length = 11), type = 5)
+	C13 <- quantile(Mosquittof, prob = seq(0, 1, length = 11), type = 5)
+	C14 <- quantile(MPSolvef, prob = seq(0, 1, length = 11), type = 5)
+	C15 <- quantile(OpenVPNf, prob = seq(0, 1, length = 11), type = 5)
+	C16 <- quantile(Ossecf, prob = seq(0, 1, length = 11), type = 5)
+	C17 <- quantile(PianoBarf, prob = seq(0, 1, length = 11), type = 5)
+	C18 <- quantile(SilverSearchf, prob = seq(0, 1, length = 11), type = 5)
+	C19 <- quantile(GNUPlotf, prob = seq(0, 1, length = 11), type = 5)
+	C20 <- quantile(OpenSCf, prob = seq(0, 1, length = 11), type = 5)
+	C21 <- quantile(diaf, prob = seq(0, 1, length = 11), type = 5)
+	C22 <- quantile(uwsgif, prob = seq(0, 1, length = 11), type = 5)
+	C23 <- quantile(mapserverf, prob = seq(0, 1, length = 11), type = 5)
+	C24 <- quantile(Hexchatf, prob = seq(0, 1, length = 11), type = 5)
+	C25 <- quantile(ethersexf, prob = seq(0, 1, length = 11), type = 5)
+	C26 <- quantile(m4f, prob = seq(0, 1, length = 11), type = 5)
+	C27 <- quantile(totemf, prob = seq(0, 1, length = 11), type = 5)
+	C28 <- quantile(gnuchessf, prob = seq(0, 1, length = 11), type = 5)
+	C29 <- quantile(Curlf, prob = seq(0, 1, length = 11), type = 5)
+	C30 <- quantile(Sylpheedf, prob = seq(0, 1, length = 11), type = 5)
+
+
+
+	# Definition of vectors
+	Sistema <- c("vim","PaceMaker","LibXML","Lighttpd","Collected","Syslog","ccache","gawk","Gzip","libnfc","Libssh","librskafka","Mosquitto","MPSolve","OpenVPN","Ossec","PianoBar","SilverSearch","GNUPlot","OpenSC","dia","uwsgi","mapserver","Hexchat","ethersex","m4","totem","gnuchess","Curl","Sylpheed")
+	um <- c(C1[1],C2[1],C3[1],C4[1],C5[1],C6[1],C7[1],C8[1],C9[1],C10[1],C11[1],C12[1],C13[1],C14[1],C15[1],C16[1],C17[1],C18[1],C19[1],C20[1],C21[1],C22[1],C23[1],C24[1],C25[1],C26[1],C27[1],C28[1],C29[1],C30[1]) 
+	dois <- c(C1[2],C2[2],C3[2],C4[2],C5[2],C6[2],C7[2],C8[2],C9[2],C10[2],C11[2],C12[2],C13[2],C14[2],C15[2],C16[2],C17[2],C18[2],C19[2],C20[2],C21[2],C22[2],C23[2],C24[2],C25[2],C26[2],C27[2],C28[2],C29[2],C20[2])  
+	tres <- c(C1[3],C2[3],C3[3],C4[3],C5[3],C6[3],C7[3],C8[3],C9[3],C10[3],C11[3],C12[3],C13[3],C14[3],C15[3],C16[3],C17[3],C18[3],C19[3],C20[3],C21[3],C22[3],C23[3],C24[3],C25[3],C26[3],C27[3],C28[3],C29[3],C30[3])
+	quatro <-c(C1[4],C2[4],C3[4],C4[4],C5[4],C6[4],C7[4],C8[4],C9[4],C10[4],C11[4],C12[4],C13[4],C14[4],C15[4],C16[4],C17[4],C18[4],C19[4],C20[4],C21[4],C22[4],C23[4],C24[4],C25[4],C26[4],C27[4],C28[4],C29[4],C30[4])
+	cinco <- c(C1[5],C2[5],C3[5],C4[5],C5[5],C6[5],C7[5],C8[5],C9[5],C10[5],C11[5],C12[5],C13[5],C14[5],C15[5],C16[5],C17[5],C18[5],C19[5],C20[5],C21[5],C22[5],C23[5],C24[5],C25[5],C26[5],C27[5],C28[5],C29[5],C30[5]) 
+	seis <- c(C1[6],C2[6],C3[6],C4[6],C5[6],C6[6],C7[6],C8[6],C9[6],C10[6],C11[6],C12[6],C13[6],C14[6],C15[6],C16[6],C17[6],C18[6],C19[6],C20[6],C21[6],C22[6],C23[6],C24[6],C25[6],C26[6],C27[6],C28[6],C29[6],C30[6]) 
+	sete <- c(C1[7],C2[7],C3[7],C4[7],C5[7],C6[7],C7[7],C8[7],C9[7],C10[7],C11[7],C12[7],C13[7],C14[7],C15[7],C16[7],C17[7],C18[7],C19[7],C20[7],C21[7],C22[7],C23[7],C24[7],C25[7],C26[7],C27[7],C28[7],C29[7],C30[7]) 
+	oito <- c(C1[8],C2[8],C3[8],C4[8],C5[8],C6[8],C7[8],C8[8],C9[8],C10[8],C11[8],C12[8],C13[8],C14[8],C15[8],C16[8],C17[8],C18[8],C19[8],C20[8],C21[8],C22[8],C23[8],C24[8],C25[8],C26[8],C27[8],C28[8],C29[8],C30[8]) 
+	nove <- c(C1[9],C2[9],C3[9],C4[9],C5[9],C6[9],C7[9],C8[9],C9[9],C10[9],C11[9],C12[9],C13[9],C14[9],C15[9],C16[9],C17[9],C18[9],C19[9],C20[9],C21[9],C22[9],C23[9],C24[9],C25[9],C26[9],C27[9],C28[9],C29[9],C30[9]) 
+	dez <- c(C1[10],C2[10],C2[10],C4[10],C5[10],C6[10],C7[10],C8[10],C9[10],C10[10],C11[10],C12[10],C13[10],C14[10],C15[10],C16[10],C17[10],C18[10],C19[10],C20[10],C21[10],C22[10],C23[10],C24[10],C25[10],C26[10],C27[10],C28[10],C29[10],C30[10])
+	onze <- c(C1[11],C2[11],C3[11],C4[11],C5[11],C6[11],C7[11],C8[11],C9[11],C10[11],C11[11],C12[11],C13[11],C14[11],C15[11],C16[11],C17[11],C18[11],C19[11],C20[11],C21[11],C22[11],C23[11],C24[11],C25[11],C26[11],C27[11],C28[11],C29[11],C30[11]) 
+		
+	# Create a data frame from the vectors
+	impactPoints_df <- data.frame(Sistema, um, dois,tres, quatro, cinco, seis, sete, oito, nove, dez, onze)
+	print(impactPoints_df)
+	write.csv(impactPoints_df, file = "Quantiles_Changes_Interval.csv",row.names=FALSE)
+
+}
+
+
+
+violinplotALL <-function(data){
+	library(ggplot2)
+  	library(scales)
+
+
+
+	plt_wool <- ggplot(subset(data, value > 0) , aes(x=variable,y=value)) + 
+    geom_violin(aes(fill = variable)) +stat_summary(fun.data="mean_sdl", geom="crossbar", width=0.002 ) +
+    scale_y_log10(breaks = trans_breaks("log10", function(x) 10^x), labels = trans_format("log10", math_format(10^.x))) +
+    theme_gray() + theme(axis.text.x=element_text(face="plain", color="#000000", 
+                                                  size=10, angle=90, vjust=0.2), axis.text.y = element_text(size=12)) +
+    theme(axis.title=element_text(size=12,face="bold")) +
+    labs(x = "", y = "Horas") +
+    annotation_logticks(sides = "rl") +
+    theme(panel.grid.minor = element_blank()) +
+    guides(title.hjust=0.5) +
+    theme(plot.margin=unit(c(0,1,0,0),"mm"))
+  
+  	yp <- subset(data, value>0)             # Choosing only +ve values in col x
+  	sts <- boxplot.stats(yp$value)$stats  # Compute lower and upper whisker limits
+  
+  	p1 = plt_wool + coord_cartesian(ylim = c(sts[2]/40,max(sts)*400.05))
+  
+  	p1
+  	p1+geom_boxplot(width=0.2)
+
+}
+
+
+chunk.2 <- function(x, n, force.number.of.groups = TRUE, len = length(x), groups = trunc(len/n), overflow = len%%n) { 
+  if(force.number.of.groups) {
+    f1 <- as.character(sort(rep(1:n, groups)))
+    f <- as.character(c(f1, rep(n, overflow)))
+  } else {
+    f1 <- as.character(sort(rep(1:groups, n)))
+    f <- as.character(c(f1, rep("overflow", overflow)))
+  }
+  
+  g <- split(x, f)
+  
+  if(force.number.of.groups) {
+    g.names <- names(g)
+    g.names.ordered <- as.character(sort(as.numeric(g.names)))
+  } else {
+    g.names <- names(g[-length(g)])
+    g.names.ordered <- as.character(sort(as.numeric(g.names)))
+    g.names.ordered <- c(g.names.ordered, "overflow")
+  }
+  
+  return(g[g.names.ordered])
+}
+
+quant <- function(C){
+  n = length(C)
+  Csort <- sort.int(C, partial = NULL, na.last = NA, decreasing = FALSE,
+         method = c("quick"), index.return = FALSE)
+
+  
+  r <- chunk.2(Csort,10, force.number.of.groups = TRUE)
+  
+  print(r)
+ 
+
+  ret <- c(mean(r$'1'),mean(r$'2'),mean(r$'3'),mean(r$'4'),mean(r$'5'),mean(r$'6'),mean(r$'7'),mean(r$'8'),mean(r$'9'),mean(r$'10'))        
+ 
+  return(ret)
+
+}
+
+
+
+quantALL <- function() {
+
+	C1 <- quant(vimf)
+	C2 <- quant(PaceMakerf)
+	C3 <- quant(LibXMLf)
+	C4 <- quant(Lighttpdf)
+	C5 <- quant(Collectedf)
+	C6 <- quant(Syslogf)
+	C7 <- quant(ccachef)
+	C8 <- quant(gawkf)
+	C9 <- quant(Gzipf)
+	C10 <- quant(libnfcf)
+	C11 <- quant(Libsshf)
+	C12 <- quant(librskafkaf)
+	C13 <- quant(Mosquittof)
+	C14 <- quant(MPSolvef)
+	C15 <- quant(OpenVPNf)
+	C16 <- quant(Ossecf)
+	C17 <- quant(PianoBarf)
+	C18 <- quant(SilverSearchf)
+	C19 <- quant(GNUPlotf)
+	C20 <- quant(OpenSCf)
+	C21 <- quant(diaf)
+	C22 <- quant(uwsgif)
+	C23 <- quant(mapserverf)
+	C24 <- quant(Hexchatf)
+	C25 <- quant(ethersexf)
+	C26 <- quant(m4f)
+	C27 <- quant(totemf)
+	C28 <- quant(gnuchessf)
+	C29 <- quant(Curlf)
+	C30 <- quant(Sylpheedf)
+
+
+
+	# Definition of vectors
+	#Sistema <- c("vim","PaceMaker","LibXML","Lighttpd","Collected","Syslog","ccache","gawk","Gzip","libnfc","Libssh","librskafka","Mosquitto","MPSolve","OpenVPN","Ossec","PianoBar","SilverSearch","GNUPlot","OpenSC","dia","uwsgi","mapserver","Hexchat","ethersex","m4","totem","gnuchess","Curl","Sylpheed")
+	
+		
+	# Create a data frame from the vectors
+	impactPoints_df <- data.frame(C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21,C22,C23,C24,C25,C26,C27,C28,C29,C30)
+	write.csv(impactPoints_df, file = "Quantiles_Interval.csv",row.names=FALSE)
+
+}
+
+varfreq <- data.frame(value = dataallvar$value, variable = "Variability")
+depfreq  <-data.frame(value = dataalldept$value, variable ="Dependency")
+commfreq <- data.frame(value = dataallfreq$value, variable = "Commit")
+reledep  <-data.frame(value = dataallrelease$value, variable ="Release")
+chanfreq <- data.frame(value = dataallchange$value, variable = "Change")
+
+dfallfreq <- rbind(varfreq, depfreq, commfreq, reledep,chanfreq)
+
+  

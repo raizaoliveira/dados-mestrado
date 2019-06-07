@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554429614952.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "1|1|5|0|\n240|26|293|0|\n326|117|347|0|\n",
+    "hash" : "346585254",
+    "id" : "847F1625",
+    "lastKnownWriteTime" : 1558457997,
+    "last_content_update" : 1558457997598,
+    "path" : "~/cap3/freq/frequencia.R",
+    "project_path" : "frequencia.R",
+    "properties" : {
+        "cursorPosition" : "196,1",
+        "scrollLine" : "172"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

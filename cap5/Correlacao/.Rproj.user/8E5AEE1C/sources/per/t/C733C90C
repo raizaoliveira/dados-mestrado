@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551898431235.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1516373932",
+    "id" : "C733C90C",
+    "lastKnownWriteTime" : 1553327224,
+    "last_content_update" : 1553327224,
+    "path" : "~/Cap5-Testes/Correlacao/boxplot_impacPoints.R",
+    "project_path" : "boxplot_impacPoints.R",
+    "properties" : {
+        "cursorPosition" : "128,21",
+        "scrollLine" : "108"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

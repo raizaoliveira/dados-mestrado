@@ -1,0 +1,9 @@
+{
+    "path" : "~/cap3/freq",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

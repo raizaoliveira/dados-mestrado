@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554429611605.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "127057199",
+    "id" : "48EF7961",
+    "lastKnownWriteTime" : 1556407806,
+    "last_content_update" : 1556407806494,
+    "path" : "~/cap3/freq/loadChanges.R",
+    "project_path" : "loadChanges.R",
+    "properties" : {
+        "cursorPosition" : "74,2",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

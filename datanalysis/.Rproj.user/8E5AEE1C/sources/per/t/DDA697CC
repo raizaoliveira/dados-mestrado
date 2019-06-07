@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548261496889.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "781191759",
+    "id" : "DDA697CC",
+    "lastKnownWriteTime" : 1547684912,
+    "last_content_update" : 1547684912,
+    "path" : "~/IMPACTO/datanalysis/calcCommits.R",
+    "project_path" : "calcCommits.R",
+    "properties" : {
+        "cursorPosition" : "52,0",
+        "scrollLine" : "17",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

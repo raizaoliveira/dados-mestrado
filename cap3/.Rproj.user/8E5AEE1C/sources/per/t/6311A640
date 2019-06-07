@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554429829263.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3785792517",
+    "id" : "6311A640",
+    "lastKnownWriteTime" : 1556408568,
+    "last_content_update" : 1556408568815,
+    "path" : "~/cap3/freq/loadReleases.R",
+    "project_path" : "loadReleases.R",
+    "properties" : {
+        "cursorPosition" : "16,45",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,12 @@
+mprintf,1,function
+vto,1,variable
+FormReader,1,function
+main,1,function
+getFormData,1,function
+FormParse,1,function
+orig,1,variable
+maprintf,1,function
+mfprintf,1,function
+FormInit,1,function
+glob_buffer,1,variable
+strdup,1,function

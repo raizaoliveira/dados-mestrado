@@ -1,0 +1,13 @@
+{
+    "path" : "~/Cap5-Testes/Correlacao/rq4/rqjoin",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 1
+        },
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

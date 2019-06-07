@@ -1,0 +1,2 @@
+!def(HAVE_STRNDUP),strndup,exclusion,Function,1
+!def(HAVE_STRNDUP),ag_strndup,additon,Function,1

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552519688980.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "88|28|144|0|\n147|19|177|0|\n",
+    "hash" : "1101806331",
+    "id" : "FA616EC5",
+    "lastKnownWriteTime" : 1553489843,
+    "last_content_update" : 1553489843709,
+    "path" : "~/Cap5-Testes/Correlacao/rq4/jointable.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "285,0",
+        "scrollLine" : "262"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

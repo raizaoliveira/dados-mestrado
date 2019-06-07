@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551119101454.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4159896944",
+    "id" : "3CD3E577",
+    "lastKnownWriteTime" : 1551682829,
+    "last_content_update" : 1553541842392,
+    "path" : "~/Cap5-Testes/Correlacao/Corr_PointImpacts.R",
+    "project_path" : "Corr_PointImpacts.R",
+    "properties" : {
+        "cursorPosition" : "79,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

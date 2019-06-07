@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554429773257.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "676465707",
+    "id" : "46B5145C",
+    "lastKnownWriteTime" : 1556407138,
+    "last_content_update" : 1556407138,
+    "path" : "~/cap3/freq/loadCommits.R",
+    "project_path" : "loadCommits.R",
+    "properties" : {
+        "cursorPosition" : "62,51",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

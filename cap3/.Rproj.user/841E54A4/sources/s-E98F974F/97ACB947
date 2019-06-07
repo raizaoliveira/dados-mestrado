@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554413465251.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "97ACB947",
+    "lastKnownWriteTime" : 1554403081,
+    "last_content_update" : 1554403081,
+    "path" : "C:/Users/raizaarteman/Desktop/cap3/freq/loadReleases.R",
+    "project_path" : "loadReleases.R",
+    "properties" : {
+        "cursorPosition" : "76,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

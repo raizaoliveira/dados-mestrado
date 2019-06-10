@@ -1,0 +1,2 @@
+def(NOT_YET_IMPLEMENTED),ucg_dev_ic_ssd1289_18,parameter,Function,2
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,2

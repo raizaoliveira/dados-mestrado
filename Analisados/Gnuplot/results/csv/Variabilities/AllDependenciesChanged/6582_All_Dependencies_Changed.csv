@@ -1,0 +1,4 @@
+!def(HAVE_STRSTR),True
+def(EAM_OBJECTS),True
+True,(!def(VOLATILE_REFRESH)&def(EAM_OBJECTS))
+!def(USE_SYSTEM_TIME),True

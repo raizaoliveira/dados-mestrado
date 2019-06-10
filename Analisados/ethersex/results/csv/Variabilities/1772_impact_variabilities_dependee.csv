@@ -1,0 +1,3 @@
+def(I2C_MASTER_SUPPORT),i2c_master_select,exclusion,Function,3
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,3
+def(MODBUS_SUPPORT),len,exclusion,Variable,3

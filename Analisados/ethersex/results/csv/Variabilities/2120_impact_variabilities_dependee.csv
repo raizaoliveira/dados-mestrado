@@ -1,0 +1,3 @@
+True,uip_appdata,exclusion,Variable,3
+True,uip_len,exclusion,Variable,3
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,3

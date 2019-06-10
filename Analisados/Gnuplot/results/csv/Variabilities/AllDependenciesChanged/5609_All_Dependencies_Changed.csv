@@ -1,0 +1,4 @@
+True,!def(AMIGA_SC_6_1)
+def(USE_SYSTEM_TIME),True
+True,!def(EXTENDED_COLOR_SPECS)
+!def(VOLATILE_REFRESH),True

@@ -1,0 +1,16 @@
+def(NO_LOCALE_H),True
+True,!def(SYSTEM_TIME)
+True,def(SYSTEM_TIME)
+!def(SYSTEM_TIME),def(SYSTEM_TIME)
+def(TEST_TERMDOC),True
+True,def(TEST_TIME)
+!def(OSK),True
+!def(MSDOS),True
+!def(LITE),True
+def(SYSTEM_TIME),True
+True,!def(NO_LOCALE_H)
+def(SYSTEM_TIME),!def(SYSTEM_TIME)
+!def(NO_LOCALE_H),True
+def(TEST_TIME),!def(SYSTEM_TIME)
+!def(SYSTEM_TIME),True
+def(TEST_STRFTIME),True

@@ -1,0 +1,4 @@
+def(TEST),True
+True,!def(HAVE_LIBREADLINE)
+True,def(DYNAMIC)
+def(DYNAMIC),True

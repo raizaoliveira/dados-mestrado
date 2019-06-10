@@ -1,0 +1,7 @@
+True,menus_get_item_from_path,exclusion,Function,5
+def(HAVE_LIBART),display_update_menu_state,exclusion,Function,5
+!def(GNOME),get_language_list,parameter,Function,5
+True,color_convert,exclusion,Function,5
+True,charconv_utf8_to_local8,exclusion,Function,5
+True,ddisplay_active,exclusion,Function,5
+True,transform_coord,exclusion,Function,5

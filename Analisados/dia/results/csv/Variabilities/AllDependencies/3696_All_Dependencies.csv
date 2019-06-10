@@ -1,0 +1,14 @@
+True,!def(G_OS_WIN32)
+def(DEBUG),True
+True,def(FOR_TRANSLATORS_ONLY)
+True,def(PAGELAYOUT_TEST)
+True,def(DEBUG)
+!def(HAVE_LIBART),True
+True,!def(HAVE_LIBART)
+def(PAGELAYOUT_TEST),True
+def(HAVE_LIBART),True
+def(TRACE_DIST),True
+!def(HAVE_FREETYPE),True
+True,def(GNOME)
+True,!def(GNOME)
+def(HAVE_FREETYPE),True

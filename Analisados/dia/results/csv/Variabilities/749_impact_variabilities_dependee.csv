@@ -1,0 +1,9 @@
+!def(GNOME),get_language_list,parameter,Function,3
+True,display_nmenu_items,additon,Variable,3
+True,toolbox_menu_items,additon,Variable,3
+!def(GNOME),display_item_factory,exclusion,Variable,3
+True,menus_create_items,exclusion,Function,3
+True,toolbox_nmenu_items,additon,Variable,3
+True,display_menu_items,additon,Variable,3
+True,menus_init,additon,Function,3
+!def(GNOME),toolbox_item_factory,exclusion,Variable,3

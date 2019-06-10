@@ -1,0 +1,4 @@
+!def(GNOME),get_language_list,parameter,Function,3
+True,store,additon,Variable,3
+def(HAVE_LIBART),draw_polygon,additon,Function,3
+True,color_black,additon,Variable,3

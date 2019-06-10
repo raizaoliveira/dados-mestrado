@@ -1,0 +1,4 @@
+True,rfm12_rxfinish,parameter,Function,2
+True,rfm12_txto,additon,Function,2
+True,rfm12_addr_del,additon,Function,2
+True,rfm12_addr_add,additon,Function,2

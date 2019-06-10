@@ -1,0 +1,13 @@
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_terminal,exclusion,Function,3
+True,set_psdir,additon,Function,3
+True,contour,additon,Function,3
+True,title,additon,Variable,3
+True,set_color,additon,Function,3
+True,set_colorbox,exclusion,Function,3
+True,set_terminal,additon,Function,3
+True,set_contour,exclusion,Function,3
+True,set_ticscale,exclusion,Function,3
+True,set_command,additon,Function,3
+True,set_ticslevel,exclusion,Function,3
+True,time_tic_just,parameter,Function,3
+True,axis_array,additon,Variable,3

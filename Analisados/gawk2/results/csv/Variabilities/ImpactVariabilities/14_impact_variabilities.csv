@@ -1,0 +1,5 @@
+True,
+def(MSDOS),
+def(TEST),
+(def(notdef)&def(DEBUG)),
+def(DEBUG),

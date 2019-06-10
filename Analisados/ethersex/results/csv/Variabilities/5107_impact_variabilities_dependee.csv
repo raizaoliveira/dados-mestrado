@@ -1,0 +1,6 @@
+def(I2C_PCF8574X_SUPPORT),i2c_pcf8574x_set,additon,Function,4
+True,data,additon,Variable,4
+def(I2C_PCA9555_SUPPORT),i2c_pca9555_readWord,additon,Function,4
+def(I2C_PCA9555_SUPPORT),i2c_pca9555_writeWord,additon,Function,4
+True,state,additon,Variable,4
+(def(RFM12_ASK_2272_SUPPORT)&def(TEENSY_SUPPORT)),getIntFromString,parameter,Function,4

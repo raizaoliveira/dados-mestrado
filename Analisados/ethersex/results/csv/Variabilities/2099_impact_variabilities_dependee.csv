@@ -1,0 +1,2 @@
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,3
+True,stella_setValue,exclusion,Function,3

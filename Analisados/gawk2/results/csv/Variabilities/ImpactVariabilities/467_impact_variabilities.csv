@@ -1,0 +1,6 @@
+True,
+def(DEBUG),
+def(TEST),
+def(DYNAMIC),
+(def(notdef)&def(DEBUG)),
+!def(NO_VMS_PIPES),

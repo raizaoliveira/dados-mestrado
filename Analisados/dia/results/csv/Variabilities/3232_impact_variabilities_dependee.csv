@@ -1,0 +1,5 @@
+True,transform_coord,exclusion,Function,2
+True,int_rectangle_union,exclusion,Function,2
+True,dia_renderer_get_type,exclusion,Function,2
+!def(GNOME),get_language_list,parameter,Function,2
+True,dia_interactive_renderer_interface_get_type,exclusion,Function,2

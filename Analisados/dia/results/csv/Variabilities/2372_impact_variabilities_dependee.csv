@@ -1,0 +1,4 @@
+True,dia,additon,Variable,2
+True,dia_ps_renderer_get_type,exclusion,Function,2
+True,file,additon,Variable,2
+!def(GNOME),get_language_list,parameter,Function,2

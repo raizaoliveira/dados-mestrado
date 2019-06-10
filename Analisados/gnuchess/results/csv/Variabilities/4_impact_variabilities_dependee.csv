@@ -1,0 +1,9 @@
+True,Hashmv,additon,Variable,1
+True,depth,exclusion,Variable,1
+True,side,exclusion,Variable,1
+True,score,exclusion,Variable,1
+True,killer1,additon,Variable,1
+True,killer2,additon,Variable,1
+True,alpha,exclusion,Variable,1
+True,beta,exclusion,Variable,1
+True,ply,exclusion,Variable,1

@@ -1,0 +1,8 @@
+True,pos,additon,Variable,1
+True,title,exclusion,Variable,1
+True,timelabel,exclusion,Variable,1
+True,color_box,exclusion,Variable,1
+True,time_tic_just,parameter,Function,1
+True,header,parameter,Function,1
+True,axis_array,exclusion,Variable,1
+True,vec,parameter,Function,1

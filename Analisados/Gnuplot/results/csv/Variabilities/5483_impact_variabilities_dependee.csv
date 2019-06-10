@@ -1,0 +1,12 @@
+True,set_keytitle,additon,Function,3
+True,set_colorbox,exclusion,Function,3
+True,reset_key,additon,Function,3
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_terminal,additon,Function,3
+True,set_color,additon,Function,3
+True,set_key,exclusion,Function,3
+True,time_tic_just,parameter,Function,3
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_xyzlabel,additon,Function,3
+True,unset_style,exclusion,Function,3
+True,set_xyzlabel,exclusion,Function,3
+True,set_terminal,exclusion,Function,3
+True,set_style,additon,Function,3

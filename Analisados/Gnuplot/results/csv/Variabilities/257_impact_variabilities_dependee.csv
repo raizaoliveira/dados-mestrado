@@ -1,0 +1,5 @@
+def(TEST_TIME),full_day_names,exclusion,Variable,2
+def(TEST_TIME),abbrev_day_names,exclusion,Variable,2
+def(TEST_TIME),abbrev_month_names,exclusion,Variable,2
+True,_strftime,exclusion,Function,2
+def(TEST_TIME),full_month_names,exclusion,Variable,2

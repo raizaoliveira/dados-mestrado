@@ -1,0 +1,12 @@
+outfile,1,variable
+StartOutput,1,function
+read_line,1,function
+LogScale,1,function
+os_error,1,function
+TEK40move,1,function
+popen,1,variable
+getenv,1,variable
+do_shell,1,function
+done,1,function
+strlen,1,variable
+undefined,1,variable

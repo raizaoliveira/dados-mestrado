@@ -1,0 +1,4 @@
+!def(GNOME),get_language_list,parameter,Function,2
+True,dia_gdk_renderer_get_type,additon,Function,2
+True,dia_renderer_get_type,additon,Function,2
+True,dia_transform_length,additon,Function,2

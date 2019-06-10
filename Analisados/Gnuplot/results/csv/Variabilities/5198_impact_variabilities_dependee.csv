@@ -1,0 +1,6 @@
+True,gp_cairo_enhanced_AttrList,exclusion,Variable,2
+True,start,exclusion,Variable,2
+True,gp_cairo_enhanced_underprinted_AttrList,exclusion,Variable,2
+True,time_tic_just,parameter,Function,2
+True,end,exclusion,Variable,2
+True,gp_cairo_enhanced_save_AttrList,exclusion,Variable,2

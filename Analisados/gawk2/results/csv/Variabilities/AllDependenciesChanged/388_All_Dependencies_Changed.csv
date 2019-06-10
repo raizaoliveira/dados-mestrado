@@ -1,0 +1,16 @@
+True,!def(HAVE_LIBREADLINE)
+def(DYNAMIC),True
+def(DYNAMIC),def(DEBUG)
+True,def(HAVE_ST_BLKSIZE)
+!def(HAVE_LIBREADLINE),True
+def(DEBUG),True
+True,def(DEBUG)
+def(HAVE_ST_BLKSIZE),True
+!def(NO_VMS_PIPES),True
+(!def(VMS)&!def(TEST)),True
+True,def(TEST)
+def(TEST),True
+True,!def(NO_VMS_PIPES)
+True,(!def(VMS)&!def(TEST))
+True,def(DYNAMIC)
+def(GAWKDEBUG),True

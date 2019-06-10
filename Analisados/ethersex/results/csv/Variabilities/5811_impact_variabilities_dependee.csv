@@ -1,0 +1,13 @@
+True,adc_get_setref,additon,Function,4
+True,PIN_CLEAR,additon,Function,4
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,4
+def(SNMP_SUPPORT),onelevel_next,additon,Function,4
+True,snprintf_P,additon,Function,4
+True,tanklevel_get,additon,Function,4
+True,pensize,exclusion,Variable,4
+True,PIN_SET,additon,Function,4
+True,ecmd_sender_send_command_P,exclusion,Function,4
+True,ecmd_sender_send_command,additon,Function,4
+True,contrast,exclusion,Variable,4
+True,ptr,additon,Variable,4
+True,colour,additon,Variable,4

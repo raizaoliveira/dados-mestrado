@@ -1,0 +1,6 @@
+def(USE_SYSTEM_TIME),True
+(!def(AMIGA_SC_6_1)&def(EAM_DATASTRINGS)),True
+True,!def(HAVE_LOCALE_H)
+def(EAM_OBJECTS),True
+(!def(AMIGA_SC_6_1)&def(USE_MOUSE)),True
+!def(LITE),True

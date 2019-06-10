@@ -1,0 +1,5 @@
+(!def(emacs)&!def(SYNTAX_TABLE)),
+!def(FAST),
+True,
+def(test),
+(def(NOTDEF)&def(test)),

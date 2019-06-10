@@ -1,0 +1,13 @@
+True,add_action,exclusion,Function,3
+True,int_error,exclusion,Function,3
+True,vec,parameter,Function,3
+True,int_expression,exclusion,Function,3
+True,set_samples,exclusion,Function,3
+True,time_tic_just,parameter,Function,3
+True,header,parameter,Function,3
+True,start_token,exclusion,Variable,3
+def(BACKWARDS_COMPATIBLE),int_expression,exclusion,Function,3
+def(BACKWARDS_COMPATIBLE),udv,exclusion,Variable,3
+True,add_udv,exclusion,Function,3
+True,begin_token,exclusion,Variable,3
+True,this_plot,exclusion,Variable,3

@@ -1,0 +1,3 @@
+!def(GNOME),menus_get_item_from_path,exclusion,Function,3
+!def(GNOME),get_language_list,parameter,Function,3
+True,menus_get_item_from_path,exclusion,Function,3

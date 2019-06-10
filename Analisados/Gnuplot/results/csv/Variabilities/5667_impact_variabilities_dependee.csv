@@ -1,0 +1,14 @@
+True,set_ticscale,exclusion,Function,5
+True,set_style,additon,Function,5
+True,time_tic_just,parameter,Function,5
+True,title,additon,Variable,5
+True,term,additon,Variable,5
+True,unset_command,additon,Function,5
+True,key,additon,Variable,5
+True,set_color,exclusion,Function,5
+True,set_command,exclusion,Function,5
+True,set_zeroaxis,additon,Function,5
+True,set_colorbox,additon,Function,5
+True,axis,exclusion,Variable,5
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_terminal,exclusion,Function,5
+True,axis_array,additon,Variable,5

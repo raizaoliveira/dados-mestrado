@@ -1,0 +1,4 @@
+def(HAVE_ST_BLKSIZE),True
+True,!def(HAVE_LIBREADLINE)
+def(DYNAMIC),True
+def(TEST),True

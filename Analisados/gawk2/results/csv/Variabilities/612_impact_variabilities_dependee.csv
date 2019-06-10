@@ -1,0 +1,7 @@
+True,do_fork,parameter,Function,2
+True,do_wait,parameter,Function,2
+True,do_chr,parameter,Function,2
+True,err,parameter,Function,2
+True,do_waitpid,parameter,Function,2
+True,do_ord,parameter,Function,2
+True,do_readfile,parameter,Function,2

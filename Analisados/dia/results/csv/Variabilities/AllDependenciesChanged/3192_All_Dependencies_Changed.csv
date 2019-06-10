@@ -1,0 +1,5 @@
+def(HAVE_LIBART),True
+True,def(FOR_TRANSLATORS_ONLY)
+!def(HAVE_LIBART),True
+True,!def(GNOME)
+!def(GNOME),True

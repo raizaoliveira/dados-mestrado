@@ -1,0 +1,17 @@
+True,do_readfile,parameter,Function,4
+def(DEBUG),fields_arr,additon,Variable,4
+True,do_fork,parameter,Function,4
+True,do_ord,parameter,Function,4
+True,do_chdir,parameter,Function,4
+True,vms_strerror,additon,Function,4
+True,vms_exit,exclusion,Function,4
+def(DEBUG),pt,additon,Function,4
+True,do_chr,parameter,Function,4
+def(TEST),fatal,additon,Function,4
+True,do_reada,parameter,Function,4
+True,do_check_arg,parameter,Function,4
+True,do_writea,parameter,Function,4
+True,zaxxon,parameter,Function,4
+True,do_mkarray,parameter,Function,4
+True,do_waitpid,parameter,Function,4
+True,do_stat,parameter,Function,4

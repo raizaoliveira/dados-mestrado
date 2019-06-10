@@ -1,0 +1,3 @@
+def(GTK_DOESNT_TALK_UTF8_WE_DO),True
+True,!def(GNOME)
+True,def(GTK_DOESNT_TALK_UTF8_WE_DO)

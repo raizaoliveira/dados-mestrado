@@ -1,0 +1,4 @@
+True,time_tic_just,parameter,Function,3
+True,icorners,exclusion,Variable,3
+True,ifilled_quadrangle,additon,Function,3
+!def(EXTENDED_COLOR_SPECS),filled_quadrangle,exclusion,Function,3

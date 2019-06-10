@@ -1,0 +1,4 @@
+True,hbridge_enable,additon,Function,2
+True,flmbuf,additon,Variable,2
+def(FREQCOUNT_DUTY_SUPPORT),freqcount_get_duty,parameter,Function,2
+True,hbridge,exclusion,Function,2

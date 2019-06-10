@@ -1,0 +1,15 @@
+dia_ps_renderer_get_type,1,function
+menus_get_action,1,function
+export_render_eps,1,function
+list,1,variable
+main,1,function
+gnome_i18n_get_language_list,1,function
+dist,1,variable
+mid2,1,variable
+dia_page_layout_new,1,function
+display_update_menu_state,1,function
+umlclass_sanity_check,1,function
+color_black,1,variable
+color_white,1,variable
+umlclass_update_data,1,function
+get_language_list,1,function

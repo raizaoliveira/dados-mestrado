@@ -1,0 +1,6 @@
+True,cleanup,exclusion,Function,4
+True,httpd_cleanup,additon,Function,4
+(def(RFM12_ASK_2272_SUPPORT)&def(TEENSY_SUPPORT)),getIntFromString,parameter,Function,4
+True,tanklevel_get_ts,additon,Function,4
+True,ptr,additon,Variable,4
+def(SNMP_SUPPORT),onelevel_next,additon,Function,4

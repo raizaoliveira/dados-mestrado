@@ -1,0 +1,11 @@
+def(DYNAMIC),True
+def(TEST),!def(HAVE_LIBREADLINE)
+def(DEBUG),True
+True,def(TEST)
+True,!def(HAVE_LIBREADLINE)
+(!def(VMS)&!def(TEST)),True
+def(TEST),def(DYNAMIC)
+def(TEST),True
+def(HAVE_ST_BLKSIZE),True
+True,def(DEBUG)
+!def(HAVE_LIBREADLINE),True

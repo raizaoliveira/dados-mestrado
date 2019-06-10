@@ -1,0 +1,4 @@
+True,!def(AMIGA_SC_6_1)
+True,!def(EXTENDED_COLOR_SPECS)
+def(USE_SYSTEM_TIME),True
+!def(AMIGA_SC_6_1),True

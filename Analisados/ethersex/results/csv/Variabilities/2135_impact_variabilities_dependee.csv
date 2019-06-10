@@ -1,0 +1,4 @@
+def(MODBUS_SUPPORT),modbus_recv_timer,type,Variable,4
+def(MODBUS_SUPPORT),modbus_crc_calc,parameter,Function,4
+True,recv_len,exclusion,Variable,4
+def(PS2_SUPPORT),data,additon,Variable,4

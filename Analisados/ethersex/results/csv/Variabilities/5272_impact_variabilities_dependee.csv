@@ -1,0 +1,4 @@
+!def(TEENSY_SUPPORT),mod,additon,Variable,2
+!def(TEENSY_SUPPORT),baud,exclusion,Variable,2
+!def(TEENSY_SUPPORT),rfm12_setpower,exclusion,Function,2
+(def(RFM12_ASK_2272_SUPPORT)&def(TEENSY_SUPPORT)),getIntFromString,parameter,Function,2

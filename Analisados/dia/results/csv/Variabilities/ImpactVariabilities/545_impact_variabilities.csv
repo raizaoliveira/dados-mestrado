@@ -1,0 +1,4 @@
+def(GNOME),
+True,
+def(HAVE_LIBART),
+!def(GNOME),

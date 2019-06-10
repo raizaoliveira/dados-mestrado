@@ -1,0 +1,8 @@
+True,resolv_getserver,additon,Function,2
+True,resolv_newdata,additon,Function,2
+True,resolv_lookup,exclusion,Function,2
+True,ntp_conn,exclusion,Variable,2
+True,ntp_send_packet,exclusion,Function,2
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,2
+True,ntp_dns_query_cb,additon,Function,2
+True,resolv_query,exclusion,Function,2

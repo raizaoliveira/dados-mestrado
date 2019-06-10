@@ -1,0 +1,3 @@
+def(CRON_SUPPORT),jobstruct,additon,Variable,2
+def(CRON_SUPPORT),cron_output,exclusion,Function,2
+True,cron_output,exclusion,Function,2

@@ -1,0 +1,5 @@
+def(DEBUG_CUSTOM),
+!def(GNOME_PRINT),
+!def(GNOME),
+True,
+def(GNOME),

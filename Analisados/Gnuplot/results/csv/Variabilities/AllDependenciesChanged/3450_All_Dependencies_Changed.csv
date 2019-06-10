@@ -1,0 +1,4 @@
+(!def(AMIGA_SC_6_1)&!def(PM3D)&def(USE_ULIG_FILLEDBOXES)),True
+True,(!def(AMIGA_SC_6_1)&!def(PM3D))
+def(USE_SYSTEM_TIME),True
+(!def(AMIGA_SC_6_1)&!def(PM3D)),True

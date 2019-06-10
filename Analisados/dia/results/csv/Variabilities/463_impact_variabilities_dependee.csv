@@ -1,0 +1,4 @@
+!def(GNOME),get_language_list,parameter,Function,2
+True,ddisplay_flush,additon,Function,2
+True,ddisplay_active,additon,Function,2
+True,ddisplay_add_update,additon,Function,2

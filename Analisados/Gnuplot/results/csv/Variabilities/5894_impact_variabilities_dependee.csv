@@ -1,0 +1,6 @@
+True,time_tic_just,parameter,Function,5
+True,reset_key,additon,Function,5
+True,set_zeroaxis,additon,Function,5
+True,set_command,additon,Function,5
+True,set_terminal,exclusion,Function,5
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_terminal,additon,Function,5

@@ -1,0 +1,9 @@
+!def(GNOME),get_language_list,parameter,Function,2
+True,ddisplay_transform_coords,additon,Function,2
+True,ddisp,additon,Variable,2
+True,dialog,exclusion,Variable,2
+True,dialog_vbox,exclusion,Variable,2
+True,transform_coord,exclusion,Function,2
+True,umlclass,exclusion,Variable,2
+!def(GNOME),create_dialog,exclusion,Function,2
+True,ddisplay_transform_coords_double,exclusion,Function,2

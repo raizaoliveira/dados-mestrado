@@ -1,0 +1,5 @@
+def(UNIVERSAL),
+!def(UNIVERSAL),
+def(THREATEXT),
+True,
+def(notdef),

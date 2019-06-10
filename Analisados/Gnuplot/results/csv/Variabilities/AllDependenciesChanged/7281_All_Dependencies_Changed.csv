@@ -1,0 +1,5 @@
+!def(CHECK_HEAP_USE),True
+!def(HAVE_STRSTR),True
+True,(!def(HAVE_INDEX)&!def(HAVE_STRCHR))
+def(USE_MOUSE),True
+!def(USE_SYSTEM_TIME),True

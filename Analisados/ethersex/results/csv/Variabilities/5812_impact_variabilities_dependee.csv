@@ -1,0 +1,9 @@
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,5
+True,ecmd_sender_send_command,exclusion,Function,5
+True,syslog_conn,additon,Variable,5
+True,opacity,additon,Variable,5
+True,colour,exclusion,Variable,5
+def(I2C_TSL2550_SUPPORT),data,additon,Variable,5
+True,font,exclusion,Variable,5
+True,ecmd_sender_send,additon,Function,5
+True,rfm12_trans,exclusion,Function,5

@@ -1,0 +1,9 @@
+def(GP_STRING_VARS),a,additon,Variable,2
+def(GP_STRING_VARS),set_label,additon,Function,2
+True,assign_label_tag,additon,Function,2
+def(GP_STRING_VARS),fill_numbers_into_string,additon,Function,2
+True,int_error,additon,Function,2
+True,time_tic_just,parameter,Function,2
+def(GP_STRING_VARS),assign_label_tag,additon,Function,2
+def(GP_STRING_VARS),save_token,additon,Variable,2
+True,const_express,additon,Function,2

@@ -1,0 +1,4 @@
+def(HAVE_LIBART),
+def(UML_MAINPOINT),
+True,
+!def(GNOME),

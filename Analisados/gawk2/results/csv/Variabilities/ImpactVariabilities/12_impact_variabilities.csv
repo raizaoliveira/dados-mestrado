@@ -1,0 +1,5 @@
+def(MSDOS),
+True,
+(def(notdef)&def(DEBUG)),
+def(NOMEMCMP),
+def(DEBUG),

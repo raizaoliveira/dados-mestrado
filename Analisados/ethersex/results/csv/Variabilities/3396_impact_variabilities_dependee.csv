@@ -1,0 +1,6 @@
+True,stella_setValue,exclusion,Function,2
+True,stella_storeToEEROM,exclusion,Function,2
+True,stella_getValue,exclusion,Function,2
+True,stella_loadFromEEROM,exclusion,Function,2
+True,rfm12_trans,additon,Function,2
+def(PS2_SUPPORT),data,additon,Variable,2

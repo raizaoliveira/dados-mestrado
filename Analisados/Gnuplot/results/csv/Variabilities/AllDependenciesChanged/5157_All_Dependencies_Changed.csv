@@ -1,0 +1,2 @@
+def(USE_SYSTEM_TIME),True
+(!def(AMIGA_SC_6_1)&def(EAM_DATASTRINGS)),True

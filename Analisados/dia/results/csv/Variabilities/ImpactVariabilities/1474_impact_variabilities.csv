@@ -1,0 +1,4 @@
+def(HAVE_FREETYPE),
+True,
+def(HAVE_LIBART),
+!def(GNOME),

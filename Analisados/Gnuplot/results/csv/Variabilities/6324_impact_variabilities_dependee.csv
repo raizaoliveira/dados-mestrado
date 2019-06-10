@@ -1,0 +1,8 @@
+True,key,exclusion,Variable,1
+True,time_tic_just,parameter,Function,1
+True,pm3d_border_lp,exclusion,Variable,1
+True,term,exclusion,Variable,1
+True,set_colorbox,additon,Function,1
+True,title,exclusion,Variable,1
+True,set_color,exclusion,Function,1
+True,axis_array,exclusion,Variable,1

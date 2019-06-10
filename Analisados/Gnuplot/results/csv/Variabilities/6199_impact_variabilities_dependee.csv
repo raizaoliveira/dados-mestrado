@@ -1,0 +1,10 @@
+True,time_tic_just,parameter,Function,3
+True,set_contour,additon,Function,3
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_terminal,additon,Function,3
+True,set_xyzlabel,exclusion,Function,3
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_xyzlabel,additon,Function,3
+True,contour,exclusion,Function,3
+True,set_style,exclusion,Function,3
+True,set_ticscale,exclusion,Function,3
+True,set_terminal,exclusion,Function,3
+True,unset_style,additon,Function,3

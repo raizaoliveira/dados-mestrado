@@ -1,0 +1,4 @@
+True,time_tic_just,parameter,Function,2
+(!def(AMIGA_SC_6_1)&!def(PM3D)&def(EAM_HISTOGRAMS)),place_histogram_titles,specifier,Function,2
+True,style_from_fill,additon,Function,2
+True,fill,exclusion,Function,2

@@ -1,0 +1,6 @@
+(!def(AMIGA_SC_6_1)&!def(PM3D)&def(EAM_HISTOGRAMS)),
+def(TEST_STRFTIME),
+def(USE_SYSTEM_TIME),
+!def(USE_SYSTEM_TIME),
+def(TEST_TIME),
+True,

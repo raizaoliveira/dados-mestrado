@@ -1,0 +1,3 @@
+def(DNS_SUPPORT),resolv_newdata,additon,Function,2
+True,pam_auth,additon,Function,2
+True,httpd_cleanup,exclusion,Function,2

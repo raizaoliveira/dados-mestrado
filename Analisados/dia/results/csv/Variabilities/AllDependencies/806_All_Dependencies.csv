@@ -1,0 +1,15 @@
+!def(GNOME_PRINT),True
+def(G_OS_WIN32),True
+!def(GNOME),True
+def(HAVE_LIBART),True
+(!def(G_OS_WIN32)&def(__EMX__)&(def(__EMX__)|def(G_OS_WIN32))),True
+(!def(__EMX__)&!def(G_OS_WIN32)),True
+def(GNOME),True
+def(HAVE_LIBART),def(GNOME)
+True,!def(GNOME)
+True,def(GNOME)
+True,!def(HAVE_LIBART)
+!def(GNOME),def(GNOME)
+def(PAGELAYOUT_TEST),True
+!def(HAVE_LIBART),def(HAVE_LIBART)
+True,def(HAVE_LIBART)

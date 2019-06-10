@@ -1,0 +1,7 @@
+!def(GNOME),get_language_list,parameter,Function,2
+True,dia_interactive_renderer_interface_get_type,additon,Function,2
+True,dia_untransform_length,additon,Function,2
+True,font_string_width,additon,Function,2
+True,int_rectangle_union,additon,Function,2
+True,transform_coord,additon,Function,2
+True,dia_renderer_get_type,additon,Function,2

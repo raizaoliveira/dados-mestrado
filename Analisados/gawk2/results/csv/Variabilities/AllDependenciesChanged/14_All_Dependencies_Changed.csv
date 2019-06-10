@@ -1,0 +1,9 @@
+def(TEST),True
+def(USG),True
+True,def(TEST)
+True,!def(USG)
+def(notdef),True
+def(DEBUG),True
+!def(USG),True
+True,def(DEBUG)
+True,def(notdef)

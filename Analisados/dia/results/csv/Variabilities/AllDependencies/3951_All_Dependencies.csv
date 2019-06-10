@@ -1,0 +1,14 @@
+def(NEW_TEXT_EDIT),True
+def(HAVE_FREETYPE),True
+True,!def(G_OS_WIN32)
+True,def(FOR_TRANSLATORS_ONLY)
+def(PAGELAYOUT_TEST),True
+!def(G_OS_WIN32),True
+def(TRACE_DIST),True
+True,def(NEW_TEXT_EDIT)
+True,def(GNOME)
+def(DEBUG),True
+True,def(PAGELAYOUT_TEST)
+def(HAVE_PANGOCAIRO_H),True
+True,!def(GNOME)
+!def(HAVE_FREETYPE),True

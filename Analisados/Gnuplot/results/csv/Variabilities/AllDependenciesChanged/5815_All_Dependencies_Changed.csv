@@ -1,0 +1,4 @@
+def(USE_MOUSE),True
+def(USE_SYSTEM_TIME),True
+True,!def(VOLATILE_REFRESH)
+True,!def(AMIGA_SC_6_1)

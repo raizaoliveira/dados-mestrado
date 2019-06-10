@@ -1,0 +1,5 @@
+True,dia_transform_new,parameter,Function,3
+True,width,additon,Variable,3
+!def(GNOME),get_language_list,parameter,Function,3
+def(HAVE_LIBART),set_size,additon,Function,3
+True,height,additon,Variable,3

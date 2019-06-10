@@ -1,0 +1,4 @@
+!def(HAVE_STRSTR),True
+!def(USE_SYSTEM_TIME),True
+True,!def(EAM_OBJECTS)
+!def(EAM_OBJECTS),True

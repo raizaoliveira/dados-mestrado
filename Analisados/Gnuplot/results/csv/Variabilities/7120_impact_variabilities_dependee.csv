@@ -1,0 +1,12 @@
+True,header,parameter,Function,4
+True,time_tic_just,parameter,Function,4
+True,ifilled_quadrangle,exclusion,Function,4
+def(EXTENDED_COLOR_SPECS),corners,exclusion,Variable,4
+True,vec,parameter,Function,4
+def(EXTENDED_COLOR_SPECS),icorners,exclusion,Variable,4
+!def(EXTENDED_COLOR_SPECS),icorners,additon,Variable,4
+def(EXTENDED_COLOR_SPECS),filled_quadrangle,additon,Function,4
+!def(EXTENDED_COLOR_SPECS),corners,additon,Variable,4
+True,first_3dplot,exclusion,Variable,4
+!def(EXTENDED_COLOR_SPECS),filled_quadrangle,exclusion,Function,4
+True,icorners,additon,Variable,4

@@ -1,0 +1,5 @@
+!def(SYSTEM_TIME),
+def(TEST_STRFTIME),
+def(BADRAND),
+def(TEST_TIME),
+True,

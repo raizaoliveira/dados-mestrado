@@ -1,0 +1,7 @@
+True,modify_edit_first_text,specifier,Function,4
+True,transform_coord,additon,Function,4
+True,dia_ps_ft2_renderer_get_type,additon,Function,4
+True,dia_interactive_renderer_interface_get_type,additon,Function,4
+True,int_rectangle_union,additon,Function,4
+!def(GNOME),get_language_list,parameter,Function,4
+True,dia_renderer_get_type,additon,Function,4

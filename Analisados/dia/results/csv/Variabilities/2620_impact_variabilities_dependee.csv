@@ -1,0 +1,5 @@
+True,store,exclusion,Variable,5
+True,object,additon,Variable,5
+True,computer_color,exclusion,Variable,5
+True,alignment,additon,Variable,5
+!def(GNOME),get_language_list,parameter,Function,5

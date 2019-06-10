@@ -1,0 +1,4 @@
+!def(HAVE_STRSTR),True
+True,def(GNUPLOT_HISTORY)
+def(__PUREC__),True
+!def(USE_SYSTEM_TIME),True

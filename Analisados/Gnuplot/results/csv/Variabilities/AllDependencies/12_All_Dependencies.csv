@@ -1,0 +1,3 @@
+def(unix),True
+True,def(unix)
+!def(MSDOS),True

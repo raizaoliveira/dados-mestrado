@@ -1,0 +1,5 @@
+!def(SYSTEM_TIME),gtimegm,exclusion,Function,3
+!def(SYSTEM_TIME),tm,additon,Variable,3
+True,timefmt,exclusion,Variable,3
+!def(SYSTEM_TIME),clock,exclusion,Variable,3
+!def(SYSTEM_TIME),gstrptime,additon,Function,3

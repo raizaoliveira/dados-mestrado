@@ -1,0 +1,3 @@
+def(ADC_SUPPORT),def(SNMP_SUPPORT)
+def(SNMP_SUPPORT),True
+True,def(TEENSY_SUPPORT)

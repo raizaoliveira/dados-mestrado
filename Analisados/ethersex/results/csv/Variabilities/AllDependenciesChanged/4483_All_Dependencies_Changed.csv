@@ -1,0 +1,4 @@
+def(PWM_SERVO_SUPPORT),True
+!def(DUAL_HBRIDGE_SUPPORT),True
+def(DUAL_HBRIDGE_SUPPORT),True
+True,(def(WIN32)&!def(unix))

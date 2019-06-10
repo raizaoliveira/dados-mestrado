@@ -1,0 +1,5 @@
+(def(RFM12_ASK_2272_SUPPORT)&def(TEENSY_SUPPORT)),getIntFromString,parameter,Function,3
+def(DEBUG_YPORT),yport_eth_retransmit,type,Variable,3
+True,snprintf_P,additon,Function,3
+def(DEBUG_YPORT),yport_rx_overflow,type,Variable,3
+def(DEBUG_YPORT),yport_rx_bufferfull,type,Variable,3

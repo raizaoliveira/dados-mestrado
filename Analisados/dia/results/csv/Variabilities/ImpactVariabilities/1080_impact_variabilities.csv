@@ -1,0 +1,6 @@
+def(THIS_IS_PROBABLY_DEAD_CODE),
+!def(GNOME),
+def(HAVE_UNICODE),
+def(HAVE_LIBART),
+True,
+!def(HAVE_UNICODE),

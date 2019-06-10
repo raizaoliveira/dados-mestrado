@@ -1,0 +1,12 @@
+True,unset_style,exclusion,Function,3
+True,set_ticscale,exclusion,Function,3
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_xyzlabel,additon,Function,3
+True,set_color,exclusion,Function,3
+True,reset_key,additon,Function,3
+True,time_tic_just,parameter,Function,3
+True,axis,additon,Variable,3
+True,set_xyzlabel,exclusion,Function,3
+True,set_style,additon,Function,3
+True,unset_command,exclusion,Function,3
+True,set_colorbox,additon,Function,3
+True,set_ticslevel,exclusion,Function,3

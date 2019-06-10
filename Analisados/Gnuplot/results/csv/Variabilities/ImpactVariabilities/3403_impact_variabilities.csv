@@ -1,0 +1,5 @@
+True,
+def(USE_SYSTEM_TIME),
+def(TEST_STRFTIME),
+!def(USE_SYSTEM_TIME),
+def(TEST_TIME),

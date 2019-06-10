@@ -1,0 +1,7 @@
+True,ddisplay_set_renderer,additon,Function,4
+True,ddisplay_add_update,exclusion,Function,4
+def(GNOME),path,additon,Variable,4
+!def(GNOME),get_language_list,parameter,Function,4
+True,ddisplay_transform_coords_double,additon,Function,4
+def(HAVE_LIBART),renderer_libart_copy_to_window,additon,Function,4
+True,ddisplay_add_update_all,additon,Function,4

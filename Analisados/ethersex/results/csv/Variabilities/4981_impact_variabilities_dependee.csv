@@ -1,0 +1,10 @@
+True,selection,exclusion,Variable,7
+True,rfm12_trans,additon,Function,7
+!def(SOFT_SPI_SUPPORT),spi_send,additon,Function,7
+True,len,exclusion,Variable,7
+True,set,additon,Function,7
+True,tanklevel_get_ts,additon,Function,7
+True,tanklevel_params_ram,additon,Variable,7
+True,data,exclusion,Variable,7
+True,tanklevel_get,additon,Function,7
+True,hd44780_hw_init,additon,Function,7

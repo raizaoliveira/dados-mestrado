@@ -1,0 +1,3 @@
+True,def(PS2_SUPPORT)
+def(CRON_SUPPORT),True
+True,(def(STELLA_RESPONSE)&def(CRON_SUPPORT))

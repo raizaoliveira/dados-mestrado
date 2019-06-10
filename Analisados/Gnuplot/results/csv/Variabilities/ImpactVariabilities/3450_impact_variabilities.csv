@@ -1,0 +1,7 @@
+def(USE_SYSTEM_TIME),
+def(TEST_TIME),
+def(TEST_STRFTIME),
+(!def(AMIGA_SC_6_1)&!def(PM3D)&def(USE_ULIG_FILLEDBOXES)),
+def(PM3D),
+!def(USE_SYSTEM_TIME),
+True,

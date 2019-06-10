@@ -1,0 +1,5 @@
+True,data,additon,Variable,3
+True,modbus_recv_timer,additon,Variable,3
+True,crc_calc,exclusion,Function,3
+True,dc3840_send_command,additon,Function,3
+True,modbus_crc_calc,additon,Function,3

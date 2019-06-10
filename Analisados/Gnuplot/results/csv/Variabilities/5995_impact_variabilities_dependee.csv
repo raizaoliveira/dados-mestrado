@@ -1,0 +1,5 @@
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_xyzlabel,additon,Function,2
+True,point,exclusion,Variable,2
+True,set_xyzlabel,exclusion,Function,2
+True,time_tic_just,parameter,Function,2
+True,plot,exclusion,Variable,2

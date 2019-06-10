@@ -1,0 +1,3 @@
+True,newdata,additon,Function,3
+True,i2c_udp_newdata,exclusion,Function,3
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,3

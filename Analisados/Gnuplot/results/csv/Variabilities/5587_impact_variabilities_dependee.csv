@@ -1,0 +1,14 @@
+True,set_terminal,additon,Function,6
+True,set_key,exclusion,Function,6
+True,set_command,additon,Function,6
+True,set_color,additon,Function,6
+def(BACKWARDS_COMPATIBLE),save_token,additon,Variable,6
+True,time_tic_just,parameter,Function,6
+True,set_colorbox,exclusion,Function,6
+True,unset_style,additon,Function,6
+True,check_for_iteration,additon,Function,6
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_terminal,exclusion,Function,6
+True,key,exclusion,Variable,6
+True,next_iteration,additon,Function,6
+True,c_token,additon,Variable,6
+True,set_zeroaxis,additon,Function,6

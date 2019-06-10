@@ -1,0 +1,8 @@
+True,point,additon,Variable,3
+True,set_ticscale,additon,Function,3
+True,set_color,exclusion,Function,3
+True,time_tic_just,parameter,Function,3
+True,set_colorbox,additon,Function,3
+True,set_zeroaxis,exclusion,Function,3
+True,set_ticslevel,additon,Function,3
+True,plot,additon,Variable,3

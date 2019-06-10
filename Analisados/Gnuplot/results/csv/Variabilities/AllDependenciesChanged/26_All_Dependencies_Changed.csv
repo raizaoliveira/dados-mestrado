@@ -1,0 +1,2 @@
+def(SYSTEM_TIME),True
+!def(SYSTEM_TIME),def(SYSTEM_TIME)

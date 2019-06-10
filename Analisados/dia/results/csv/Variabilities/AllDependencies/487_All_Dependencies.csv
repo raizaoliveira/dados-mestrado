@@ -1,0 +1,10 @@
+def(HAVE_LIBART),True
+def(PAGELAYOUT_TEST),True
+def(DEBUG_CUSTOM),True
+True,!def(GNOME)
+def(GNOME),True
+True,def(HAVE_LIBART)
+True,def(GNOME)
+!def(GNOME_PRINT),True
+!def(GNOME),True
+!def(GNOME),def(GNOME)

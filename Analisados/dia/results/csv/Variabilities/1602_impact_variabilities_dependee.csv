@@ -1,0 +1,15 @@
+def(GTK_DOESNT_TALK_UTF8_WE_DO),parameters_get_values,exclusion,Function,5
+True,charconv_unichar_to_utf8,exclusion,Function,5
+def(GTK_DOESNT_TALK_UTF8_WE_DO),templates_get_values,exclusion,Function,5
+def(GTK_DOESNT_TALK_UTF8_WE_DO),attributes_get_values,exclusion,Function,5
+def(GTK_DOESNT_TALK_UTF8_WE_DO),charconv_utf8_to_local8,exclusion,Function,5
+def(GTK_DOESNT_TALK_UTF8_WE_DO),operations_get_values,exclusion,Function,5
+True,umlclass,additon,Variable,5
+!def(GNOME),get_language_list,parameter,Function,5
+def(GTK_DOESNT_TALK_UTF8_WE_DO),templates_set_values,exclusion,Function,5
+def(GTK_DOESNT_TALK_UTF8_WE_DO),attributes_set_values,exclusion,Function,5
+def(GTK_DOESNT_TALK_UTF8_WE_DO),charconv_local8_to_utf8,exclusion,Function,5
+def(HAVE_FREETYPE),dia_font_selector_get_type,additon,Function,5
+def(GTK_DOESNT_TALK_UTF8_WE_DO),parameters_set_values,exclusion,Function,5
+def(GTK_DOESNT_TALK_UTF8_WE_DO),operations_set_values,exclusion,Function,5
+!def(GNOME),create_dialog,additon,Function,5

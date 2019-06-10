@@ -1,0 +1,8 @@
+!def(NO_VMS_PIPES),
+def(TEST),
+def(DEBUG),
+!def(HAVE_LIBREADLINE),
+True,
+def(DYNAMIC),
+def(NOMEMCMP),
+(def(notdef)&def(DEBUG)),

@@ -1,0 +1,8 @@
+True,stella_storeToEEROM,additon,Function,4
+True,modbus_crc_calc,exclusion,Function,4
+def(DNS_SUPPORT),resolv_newdata,exclusion,Function,4
+True,crc_calc,additon,Function,4
+def(MODBUS_CLIENT_SUPPORT),modbus_rxstart,exclusion,Function,4
+def(PS2_SUPPORT),data,additon,Variable,4
+True,stella_loadFromEEROM,additon,Function,4
+def(MODBUS_CLIENT_SUPPORT),modbus_client_state,additon,Variable,4

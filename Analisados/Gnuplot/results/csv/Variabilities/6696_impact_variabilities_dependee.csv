@@ -1,0 +1,14 @@
+True,fill,exclusion,Function,7
+True,axis,additon,Variable,7
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_terminal,additon,Function,7
+True,unset_command,additon,Function,7
+True,time_tic_just,parameter,Function,7
+True,save_fillstyle,additon,Function,7
+True,header,parameter,Function,7
+True,fp,additon,Variable,7
+True,set_ticslevel,additon,Function,7
+True,set_contour,exclusion,Function,7
+True,contour,additon,Function,7
+True,set_ticscale,exclusion,Function,7
+True,set_tic_prop,exclusion,Function,7
+True,set_terminal,exclusion,Function,7

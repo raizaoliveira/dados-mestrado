@@ -1,0 +1,6 @@
+def(DEBUG_CUSTOM),
+!def(GNOME_PRINT),
+True,
+!def(GNOME),
+def(PAGELAYOUT_TEST),
+def(GNOME),

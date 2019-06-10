@@ -1,0 +1,3 @@
+True,uip_udp_conns,additon,Variable,3
+def(ZBUS_SUPPORT),zbus_conn,additon,Variable,3
+True,uip_len,additon,Variable,3

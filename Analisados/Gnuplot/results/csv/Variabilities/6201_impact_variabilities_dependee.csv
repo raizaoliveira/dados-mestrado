@@ -1,0 +1,7 @@
+True,time_tic_just,parameter,Function,3
+True,j,type,Variable,3
+True,axis_array,exclusion,Variable,3
+True,title,exclusion,Variable,3
+True,key,exclusion,Variable,3
+!def(EXTENDED_COLOR_SPECS),i1,exclusion,Variable,3
+True,term,exclusion,Variable,3

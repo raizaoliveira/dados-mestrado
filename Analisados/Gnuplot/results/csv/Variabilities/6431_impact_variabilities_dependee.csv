@@ -1,0 +1,11 @@
+True,key,additon,Variable,5
+True,set_color,exclusion,Function,5
+True,set_ticscale,additon,Function,5
+True,set_colorbox,additon,Function,5
+True,unset_command,exclusion,Function,5
+True,set_zeroaxis,exclusion,Function,5
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_xyzlabel,additon,Function,5
+True,time_tic_just,parameter,Function,5
+True,set_keytitle,additon,Function,5
+True,reset_key,additon,Function,5
+True,set_xyzlabel,exclusion,Function,5

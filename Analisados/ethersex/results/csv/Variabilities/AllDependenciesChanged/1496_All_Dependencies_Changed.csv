@@ -1,0 +1,2 @@
+def(I2C_SLAVE_SUPPORT),True
+True,def(DYNDNS_SUPPORT)

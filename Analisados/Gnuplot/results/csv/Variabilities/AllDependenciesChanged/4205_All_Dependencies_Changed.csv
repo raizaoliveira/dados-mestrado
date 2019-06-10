@@ -1,0 +1,5 @@
+True,def(GNUPLOT_HISTORY)
+True,!def(GP_STRING_VARS)
+def(USE_SYSTEM_TIME),True
+True,def(GP_STRING_VARS)
+!def(GP_STRING_VARS),True

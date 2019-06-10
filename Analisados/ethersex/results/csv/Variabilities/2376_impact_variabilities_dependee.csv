@@ -1,0 +1,4 @@
+def(DNS_SUPPORT),resolv_conf,additon,Function,3
+def(DNS_SUPPORT),resolv_getserver,additon,Function,3
+!def(TEENSY_SUPPORT),print_ipaddr,additon,Function,3
+(!def(DISABLE_IPCONF_SUPPORT)&!def(TEENSY_SUPPORT)),parse_ip,additon,Function,3

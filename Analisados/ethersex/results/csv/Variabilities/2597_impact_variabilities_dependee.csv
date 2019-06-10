@@ -1,0 +1,4 @@
+def(DNS_SUPPORT),resolv_getserver,additon,Function,2
+True,buf,exclusion,Variable,2
+True,resolv_getserver,exclusion,Function,2
+True,ntp_getserver,exclusion,Function,2

@@ -1,0 +1,3 @@
+True,dia_font_selector_set_styles,additon,Function,2
+!def(GNOME),get_language_list,parameter,Function,2
+True,font_getfont,additon,Function,2

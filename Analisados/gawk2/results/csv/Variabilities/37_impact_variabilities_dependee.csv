@@ -1,0 +1,11 @@
+True,fd,additon,Variable,5
+def(DEBUG),r_force_number,exclusion,Function,5
+True,awk_opts,additon,Function,5
+True,argv,additon,Variable,5
+True,assoc_next,type,Function,5
+True,argc,additon,Variable,5
+def(TEST),fatal,exclusion,Function,5
+def(DEBUG),pt,additon,Function,5
+True,_t,additon,Variable,5
+True,vms_strerror,parameter,Function,5
+True,deref,exclusion,Variable,5

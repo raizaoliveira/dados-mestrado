@@ -1,0 +1,3 @@
+def(TFTP_SUPPORT),
+def(DEBUG),
+True,

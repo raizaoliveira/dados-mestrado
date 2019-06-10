@@ -1,0 +1,3 @@
+True,httpd_handle_ecmd,additon,Function,2
+True,httpd_handle_ecmd_setup,exclusion,Function,2
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,2

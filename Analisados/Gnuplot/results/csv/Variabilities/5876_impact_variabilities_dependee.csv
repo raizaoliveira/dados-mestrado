@@ -1,0 +1,14 @@
+!def(USE_SYSTEM_TIME),gstrptime,exclusion,Function,3
+def(USE_SYSTEM_TIME),gstrptime,additon,Function,3
+!def(USE_SYSTEM_TIME),s,exclusion,Variable,3
+True,time_tic_just,parameter,Function,3
+def(USE_SYSTEM_TIME),tm,exclusion,Variable,3
+def(USE_SYSTEM_TIME),gstrftime,exclusion,Function,3
+def(USE_SYSTEM_TIME),t,additon,Variable,3
+!def(USE_SYSTEM_TIME),tm,additon,Variable,3
+!def(USE_SYSTEM_TIME),gtimegm,exclusion,Function,3
+!def(USE_SYSTEM_TIME),gstrftime,additon,Function,3
+True,axis_array,additon,Variable,3
+True,ticfmt,exclusion,Variable,3
+def(USE_SYSTEM_TIME),gtimegm,additon,Function,3
+True,buffer,exclusion,Variable,3

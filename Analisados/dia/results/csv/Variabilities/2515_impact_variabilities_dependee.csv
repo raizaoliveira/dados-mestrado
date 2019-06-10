@@ -1,0 +1,6 @@
+True,store,additon,Variable,4
+True,ddisp,exclusion,Variable,4
+True,file,exclusion,Variable,4
+!def(GNOME),get_language_list,parameter,Function,4
+True,computer_color,additon,Variable,4
+True,dia,exclusion,Variable,4

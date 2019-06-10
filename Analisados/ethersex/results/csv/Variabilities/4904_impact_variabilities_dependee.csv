@@ -1,0 +1,2 @@
+def(ADC_VOLTAGE_SUPPORT),adc_raw_to_voltage,exclusion,Function,2
+(def(RFM12_ASK_2272_SUPPORT)&def(TEENSY_SUPPORT)),getIntFromString,parameter,Function,2

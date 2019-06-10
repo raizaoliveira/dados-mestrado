@@ -1,0 +1,3 @@
+True,def(ROUTER_SUPPORT)
+True,!def(SOFT_SPI_SUPPORT)
+!def(TEENSY_SUPPORT),True

@@ -1,0 +1,4 @@
+True,int_rectangle_union,additon,Function,3
+def(GNOME),menus_get_item_from_path,parameter,Function,3
+!def(GNOME),get_language_list,parameter,Function,3
+True,rectangle_union,exclusion,Function,3

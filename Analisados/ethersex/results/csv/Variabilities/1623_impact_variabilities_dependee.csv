@@ -1,0 +1,2 @@
+def(MODBUS_SUPPORT),recv_len,additon,Variable,2
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,2

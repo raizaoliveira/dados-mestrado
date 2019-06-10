@@ -1,0 +1,3 @@
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,3
+def(NOT_YET_IMPLEMENTED),ucg_dev_ic_ssd1289_18,parameter,Function,3
+def(I2C_DS1631_SUPPORT),i2c_ds1631_start_stop,parameter,Function,3

@@ -1,0 +1,13 @@
+True,toolbox_accels,exclusion,Variable,4
+def(HAVE_LIBART),display_update_menu_state,additon,Function,4
+True,ddisplay_active,exclusion,Function,4
+True,toolbox_menubar,exclusion,Variable,4
+True,toolbox_nmenu_items,exclusion,Variable,4
+!def(GNOME),get_language_list,parameter,Function,4
+True,display_menus,exclusion,Variable,4
+True,menus_get_item_from_path,additon,Function,4
+True,toolbox_menu_items,exclusion,Variable,4
+True,display_accels,exclusion,Variable,4
+def(GNOME),menus_get_item_from_path,exclusion,Function,4
+True,display_nmenu_items,exclusion,Variable,4
+True,display_menu_items,exclusion,Variable,4

@@ -1,0 +1,2 @@
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,2
+True,generate_time_string,parameter,Function,2

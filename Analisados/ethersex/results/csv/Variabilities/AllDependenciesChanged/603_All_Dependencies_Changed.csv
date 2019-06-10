@@ -1,0 +1,3 @@
+True,!def(UIP_CONF_EXTERNAL_BUFFER)
+True,def(DNS_SUPPORT)
+def(NTP_SUPPORT),True

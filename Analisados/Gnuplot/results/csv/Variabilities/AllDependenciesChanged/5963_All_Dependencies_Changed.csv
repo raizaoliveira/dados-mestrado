@@ -1,0 +1,5 @@
+True,!def(AMIGA_SC_6_1)
+def(USE_SYSTEM_TIME),True
+(!def(EAM_OBJECTS)&!def(AMIGA_SC_6_1)),True
+!def(AMIGA_SC_6_1),True
+True,(!def(EAM_OBJECTS)&!def(AMIGA_SC_6_1))

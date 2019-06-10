@@ -1,0 +1,4 @@
+True,def(DEBUG)
+True,def(notdef)
+def(DEBUG),True
+def(notdef),True

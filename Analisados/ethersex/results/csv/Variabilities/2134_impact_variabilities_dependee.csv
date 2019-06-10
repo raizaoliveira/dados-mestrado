@@ -1,0 +1,13 @@
+(def(STELLA_RESPONSE)&def(STELLA_SUPPORT)),stella_net_response,parameter,Function,6
+def(I2C_MASTER_SUPPORT),i2c_master_select,parameter,Function,6
+True,i2c_udp_newdata,exclusion,Function,6
+def(I2C_MASTER_SUPPORT),i2c_master_detect,parameter,Function,6
+(def(STELLA_RESPONSE)&def(STELLA_SUPPORT)),stella_net_unicast,parameter,Function,6
+def(I2C_24CXX_SUPPORT),i2c_24cxx_address,type,Variable,6
+(def(STELLA_RESPONSE)&def(STELLA_SUPPORT)),stella_net_broadcast,parameter,Function,6
+True,newdata,additon,Function,6
+def(I2C_MASTER_SUPPORT),i2c_master_do,parameter,Function,6
+def(I2C_24CXX_SUPPORT),i2c_24CXX_read_block,parameter,Function,6
+True,i2c_slave_core_newdata,exclusion,Function,6
+(def(STELLA_RESPONSE)&def(STELLA_SUPPORT)),stella_net_wb_getvalues,parameter,Function,6
+def(I2C_24CXX_SUPPORT),i2c_24CXX_write_block,parameter,Function,6

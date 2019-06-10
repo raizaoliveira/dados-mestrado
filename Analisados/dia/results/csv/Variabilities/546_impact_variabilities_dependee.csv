@@ -1,0 +1,4 @@
+def(GNOME),diagram_update_menu_sensitivity,additon,Function,3
+def(GNOME),menus_get_item_from_path,additon,Function,3
+!def(GNOME),get_language_list,parameter,Function,3
+True,ddisplay_active,additon,Function,3

@@ -1,0 +1,15 @@
+def(TRACE_DIST),True
+True,def(GNOME)
+def(PAGELAYOUT_TEST),True
+def(HAVE_LIBART),True
+True,!def(GNOME)
+def(G_OS_WIN32),def(PAGELAYOUT_TEST)
+def(GNOME_PRINT),True
+!def(GNOME_PRINT),True
+!def(HAVE_FREETYPE),True
+True,!def(HAVE_FREETYPE)
+True,def(HAVE_LIBART)
+True,def(FOR_TRANSLATORS_ONLY)
+(!def(GNOME_PRINT)&def(GNOME)),True
+def(DEBUG_CUSTOM),True
+!def(GNOME),True

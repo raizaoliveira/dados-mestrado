@@ -1,0 +1,8 @@
+def(PM3D),save_pm3dcolor,exclusion,Function,2
+True,save_tics,exclusion,Function,2
+True,save_textcolor,exclusion,Function,2
+True,time_tic_just,parameter,Function,2
+def(PM3D),save_linetype,exclusion,Function,2
+True,lookup,exclusion,Function,2
+True,save_range,exclusion,Function,2
+True,save_position,exclusion,Function,2

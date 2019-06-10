@@ -1,0 +1,14 @@
+True,!def(HAVE_LIBREADLINE)
+True,!def(NO_VMS_PIPES)
+def(TEST),True
+!def(NO_VMS_PIPES),True
+def(DYNAMIC),True
+def(HAVE_ST_BLKSIZE),True
+True,def(HAVE_ST_BLKSIZE)
+def(DEBUG),True
+True,def(TEST)
+(!def(VMS)&!def(TEST)),True
+def(DYNAMIC),def(DEBUG)
+True,def(DEBUG)
+True,def(DYNAMIC)
+!def(HAVE_LIBREADLINE),True

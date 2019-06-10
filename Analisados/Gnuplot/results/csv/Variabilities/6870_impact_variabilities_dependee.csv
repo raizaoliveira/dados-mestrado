@@ -1,0 +1,9 @@
+True,time_tic_just,parameter,Function,3
+True,axis_array,exclusion,Variable,3
+True,set_zeroaxis,additon,Function,3
+True,set_ticscale,exclusion,Function,3
+True,unset_style,exclusion,Function,3
+True,header,parameter,Function,3
+True,vec,parameter,Function,3
+True,title,exclusion,Variable,3
+True,set_style,additon,Function,3

@@ -1,0 +1,3 @@
+True,newdata,additon,Function,2
+True,ntp_newdata,exclusion,Function,2
+True,ntp_every_second,exclusion,Function,2

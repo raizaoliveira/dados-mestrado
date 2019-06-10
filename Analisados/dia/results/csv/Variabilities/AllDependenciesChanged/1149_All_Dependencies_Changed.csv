@@ -1,0 +1,4 @@
+True,!def(GNOME)
+!def(GNOME),True
+def(HAVE_LIBART),True
+(!def(GNOME_PRINT)&def(GNOME)),True

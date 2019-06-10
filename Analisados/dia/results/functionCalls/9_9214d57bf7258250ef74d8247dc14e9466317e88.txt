@@ -1,0 +1,13 @@
+fopen;True; @ new_eps_renderer;
+message_error;True;True;True; @ new_eps_renderer;set_fillstyle;draw_image;
+g_new;True; @ new_eps_renderer;
+time;True; @ new_eps_renderer;
+getlogin;True; @ new_eps_renderer;
+fprintf;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True; @ new_eps_renderer;new_eps_renderer;set_linewidth;set_linecaps;set_linejoin;set_linestyle;set_linestyle;set_linestyle;set_linestyle;set_font;draw_line;draw_line;draw_polyline;draw_polyline;draw_polyline;draw_polyline;draw_polygon;draw_polygon;draw_polygon;draw_polygon;fill_polygon;fill_polygon;fill_polygon;fill_polygon;draw_rect;draw_rect;fill_rect;fill_rect;draw_arc;draw_arc;fill_arc;fill_arc;draw_ellipse;draw_ellipse;fill_ellipse;fill_ellipse;draw_bezier;draw_bezier;draw_bezier;draw_bezier;fill_bezier;fill_bezier;fill_bezier;fill_bezier;draw_string;draw_string;draw_string;draw_string;draw_string;draw_string;
+fclose;True; @ close_eps_renderer;
+set_linestyle;True; @ set_dashlength;
+g_malloc;True; @ draw_string;
+strcspn;True; @ draw_string;
+strncat;True;True; @ draw_string;draw_string;
+strcat;True; @ draw_string;
+g_free;True; @ draw_string;

@@ -1,0 +1,5 @@
+True,i,exclusion,Variable,4
+!def(EXTENDED_COLOR_SPECS),i1,additon,Variable,4
+!def(EXTENDED_COLOR_SPECS),j1,type,Variable,4
+True,time_tic_just,parameter,Function,4
+def(EXTENDED_COLOR_SPECS),i,additon,Variable,4

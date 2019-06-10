@@ -1,0 +1,10 @@
+True,renderer,additon,Variable,3
+True,custom_properties_dialog,additon,Variable,3
+def(HAVE_LIBART),renderer,exclusion,Variable,3
+True,set_linestyle,exclusion,Function,3
+def(HAVE_LIBART),draw_polygon,exclusion,Function,3
+True,fs,additon,Variable,3
+True,color_black,exclusion,Variable,3
+def(HAVE_LIBART),set_linestyle,additon,Function,3
+True,store,additon,Variable,3
+!def(GNOME),get_language_list,parameter,Function,3

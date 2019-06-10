@@ -1,0 +1,8 @@
+def(BACKWARDS_COMPATIBLE),int_expression,additon,Function,3
+True,set_samples,additon,Function,3
+True,begin_token,additon,Variable,3
+True,int_error,additon,Function,3
+True,start_token,additon,Variable,3
+True,this_plot,additon,Variable,3
+True,int_expression,additon,Function,3
+True,time_tic_just,parameter,Function,3

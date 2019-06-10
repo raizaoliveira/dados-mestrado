@@ -1,0 +1,11 @@
+True,!def(EAM_OBJECTS)
+def(HAVE_LOCALE_H),True
+True,def(HAVE_LOCALE_H)
+!def(BACKWARDS_COMPATIBLE),True
+!def(USE_SYSTEM_TIME),True
+True,!def(HAVE_LOCALE_H)
+!def(HAVE_LOCALE_H),True
+def(__PUREC__),True
+!def(__PUREC__),True
+!def(HAVE_STRSTR),True
+def(BACKWARDS_COMPATIBLE),True

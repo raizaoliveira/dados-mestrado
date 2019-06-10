@@ -1,0 +1,14 @@
+def(DEBUG),(def(notdef)&def(DEBUG))
+(def(notdef)&def(DEBUG)),True
+def(USG),True
+(def(notdef)&def(DEBUG)),def(DEBUG)
+True,def(DEBUG)
+True,def(notdef)
+def(STRICT),True
+True,!def(USG)
+def(DEBUG),True
+!def(STRICT),True
+True,def(NOMEMCMP)
+True,def(USG)
+def(notdef),True
+!def(USG),True

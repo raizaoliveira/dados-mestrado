@@ -1,0 +1,14 @@
+MoveArray,1,variable
+nbits,1,function
+DistMap,1,variable
+readline,1,variable
+board,1,variable
+Ray,1,variable
+RankBit,1,variable
+passed,1,variable
+pieces,1,variable
+pinned,1,variable
+boxes,1,variable
+leadz,1,function
+stonewall,1,variable
+brank7,1,variable

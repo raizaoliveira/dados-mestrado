@@ -1,0 +1,5 @@
+def(USE_SYSTEM_TIME),True
+(!def(AMIGA_SC_6_1)&!def(PM3D)),True
+True,def(GNUPLOT_HISTORY)
+def(PM3D),True
+(!def(AMIGA_SC_6_1)&def(EAM_DATASTRINGS)),True

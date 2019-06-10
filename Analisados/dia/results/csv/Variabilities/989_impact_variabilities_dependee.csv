@@ -1,0 +1,8 @@
+!def(GNOME),get_language_list,parameter,Function,2
+True,object_list_align_v,exclusion,Function,2
+True,ddisplay_active,exclusion,Function,2
+True,diagram_update_connections_selection,exclusion,Function,2
+True,object_list_align_h,exclusion,Function,2
+True,object_add_updates,exclusion,Function,2
+True,diagram_flush,exclusion,Function,2
+True,ddisplay_zoom,exclusion,Function,2

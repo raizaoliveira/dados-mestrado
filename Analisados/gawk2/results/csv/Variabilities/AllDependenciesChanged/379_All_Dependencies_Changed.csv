@@ -1,0 +1,15 @@
+def(GAWKDEBUG),True
+!def(USG),True
+True,def(DEBUG)
+def(ARRAYDEBUG),def(DEBUG)
+(!def(VMS)&!def(TEST)),True
+def(TEST),True
+True,!def(HAVE_LIBREADLINE)
+def(DYNAMIC),True
+True,def(TEST)
+!def(HAVE_LIBREADLINE),True
+def(HAVE_ST_BLKSIZE),True
+def(DEBUG),True
+!def(DYNAMIC),True
+def(ARRAYDEBUG),True
+def(USG),True

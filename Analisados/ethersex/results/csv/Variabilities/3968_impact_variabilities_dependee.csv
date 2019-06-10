@@ -1,0 +1,3 @@
+True,i2c_master_stop,additon,Function,1
+True,i2c_master_select,additon,Function,1
+True,i2c_master_do,additon,Function,1

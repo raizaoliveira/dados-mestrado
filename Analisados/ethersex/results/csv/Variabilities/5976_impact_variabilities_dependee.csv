@@ -1,0 +1,8 @@
+True,ucg_handle_ili9486_l90tc,additon,Function,5
+def(NOT_YET_IMPLEMENTED),ucg_dev_ic_ssd1289_18,parameter,Function,5
+True,PIN_CLEAR,exclusion,Function,5
+True,PIN_SET,exclusion,Function,5
+True,ucg_handle_l90bf,additon,Function,5
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,5
+True,ucg_handle_hx8352c_l90tc,additon,Function,5
+def(I2C_TSL2550_SUPPORT),data,additon,Variable,5

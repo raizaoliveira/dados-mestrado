@@ -1,0 +1,4 @@
+!def(lint),
+def(TEST_STRFTIME),
+True,
+def(VMS),

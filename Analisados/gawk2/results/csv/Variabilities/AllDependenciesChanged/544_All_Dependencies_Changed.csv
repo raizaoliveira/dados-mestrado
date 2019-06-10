@@ -1,0 +1,5 @@
+def(TEST),True
+(!def(VMS)&!def(TEST)),True
+def(TEST),!def(HAVE_LIBREADLINE)
+def(DYNAMIC),True
+True,!def(HAVE_LIBREADLINE)

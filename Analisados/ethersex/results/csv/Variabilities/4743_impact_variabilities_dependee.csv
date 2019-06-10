@@ -1,0 +1,3 @@
+True,rfm12_trans,additon,Function,3
+True,rfm12_modul,additon,Variable,3
+!def(SOFT_SPI_SUPPORT),spi_send,additon,Function,3

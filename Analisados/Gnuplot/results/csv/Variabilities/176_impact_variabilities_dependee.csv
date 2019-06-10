@@ -1,0 +1,5 @@
+True,_strftime,additon,Function,2
+def(TEST_TIME),abbrev_month_names,additon,Variable,2
+def(TEST_TIME),abbrev_day_names,additon,Variable,2
+def(TEST_TIME),full_day_names,additon,Variable,2
+def(TEST_TIME),full_month_names,additon,Variable,2

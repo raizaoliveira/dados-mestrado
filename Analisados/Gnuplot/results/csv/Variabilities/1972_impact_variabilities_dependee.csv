@@ -1,0 +1,6 @@
+def(USE_SYSTEM_TIME),gstrptime,exclusion,Function,3
+def(USE_SYSTEM_TIME),tm,exclusion,Variable,3
+True,timefmt,exclusion,Variable,3
+def(USE_SYSTEM_TIME),t,exclusion,Variable,3
+def(USE_SYSTEM_TIME),gstrftime,additon,Function,3
+!def(USE_SYSTEM_TIME),s,additon,Variable,3

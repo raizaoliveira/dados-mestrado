@@ -1,0 +1,3 @@
+def(USE_SYSTEM_TIME),True
+True,!def(AMIGA_SC_6_1)
+def(USE_MOUSE),True

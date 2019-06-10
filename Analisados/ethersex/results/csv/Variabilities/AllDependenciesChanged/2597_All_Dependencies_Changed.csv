@@ -1,0 +1,3 @@
+def(ENC28J60_SUPPORT),True
+!def(TEENSY_SUPPORT),True
+True,def(DNS_SUPPORT)

@@ -1,0 +1,2 @@
+def(HAVE_LIBART),libart_renderer_set_size,additon,Function,3
+!def(GNOME),get_language_list,parameter,Function,3

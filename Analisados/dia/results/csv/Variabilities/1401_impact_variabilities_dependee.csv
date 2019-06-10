@@ -1,0 +1,6 @@
+True,custom_defaults_dialog,exclusion,Variable,2
+True,diamond_defaults_dialog,exclusion,Variable,2
+True,custom_properties_dialog,exclusion,Variable,2
+!def(GNOME),get_language_list,parameter,Function,2
+True,textobj_defaults_dialog,exclusion,Variable,2
+True,pgram_defaults_dialog,exclusion,Variable,2

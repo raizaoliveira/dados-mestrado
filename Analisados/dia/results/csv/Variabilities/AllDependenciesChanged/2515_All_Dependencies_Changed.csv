@@ -1,0 +1,5 @@
+!def(HAVE_FREETYPE),True
+True,!def(GNOME)
+True,!def(G_OS_WIN32)
+True,!def(HAVE_FREETYPE)
+def(HAVE_LIBART),True

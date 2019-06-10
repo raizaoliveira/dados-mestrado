@@ -1,0 +1,4 @@
+def(HAVE_LIBART),
+def(STEM),
+True,
+!def(GNOME),

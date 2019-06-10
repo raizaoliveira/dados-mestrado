@@ -1,0 +1,5 @@
+uip_buf,1,variable
+chksum,1,function
+read_control_register,1,function
+htons,1,function
+uip_ipchksum,1,function

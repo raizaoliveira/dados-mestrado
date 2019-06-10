@@ -1,0 +1,6 @@
+True,def(HAVE_LIBART)
+True,def(HAVE_FREETYPE)
+def(HAVE_LIBART),True
+True,!def(GNOME)
+True,def(GTK_DOESNT_TALK_UTF8_WE_DO)
+def(GTK_DOESNT_TALK_UTF8_WE_DO),True

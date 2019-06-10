@@ -1,0 +1,7 @@
+!def(lint),
+True,
+def(TEST_TERMDOC),
+(!def(_Windows)&def(__TURBOC__)),
+def(TEST_STRFTIME),
+def(DJGPP),
+def(PIPES),

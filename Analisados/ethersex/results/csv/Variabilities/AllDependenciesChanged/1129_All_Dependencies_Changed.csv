@@ -1,0 +1,3 @@
+def(DNS_SUPPORT),True
+def(DYNDNS_SUPPORT),True
+True,def(DYNDNS_SUPPORT)

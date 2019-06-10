@@ -1,0 +1,4 @@
+True,point,exclusion,Variable,3
+True,plot,exclusion,Variable,3
+!def(EXTENDED_COLOR_SPECS),i1,exclusion,Variable,3
+True,time_tic_just,parameter,Function,3

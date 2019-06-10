@@ -1,0 +1,5 @@
+def(GTK_DOESNT_TALK_UTF8_WE_DO),utfbuf,additon,Variable,3
+def(GTK_DOESNT_TALK_UTF8_WE_DO),locbuf,additon,Variable,3
+!def(GNOME),get_language_list,parameter,Function,3
+True,charconv_utf8_to_local8,additon,Function,3
+True,charconv_local8_to_utf8,additon,Function,3

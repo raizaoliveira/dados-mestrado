@@ -1,0 +1,12 @@
+True,length,exclusion,Variable,4
+True,store,exclusion,Variable,4
+def(HAVE_LIBART),set_linecaps,exclusion,Function,4
+def(HAVE_LIBART),draw_rect,exclusion,Function,4
+True,linewidth,exclusion,Variable,4
+def(HAVE_LIBART),draw_line,exclusion,Function,4
+True,color_black,exclusion,Variable,4
+True,renderer,exclusion,Variable,4
+True,from,exclusion,Variable,4
+True,width,exclusion,Variable,4
+!def(GNOME),get_language_list,parameter,Function,4
+True,to,exclusion,Variable,4

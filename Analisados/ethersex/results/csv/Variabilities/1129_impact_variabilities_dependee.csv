@@ -1,0 +1,2 @@
+True,resolv_query,parameter,Function,2
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,2

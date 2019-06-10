@@ -1,0 +1,5 @@
+!def(BOOTLOADER_SUPPORT),
+True,
+def(TFTP_SUPPORT),
+def(ECMD_SENDER_SUPPORT),
+def(DEBUG),

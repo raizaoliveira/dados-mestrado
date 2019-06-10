@@ -1,0 +1,15 @@
+True,sram_memtest,exclusion,Function,6
+True,recv_len,additon,Variable,6
+True,addcrontest,exclusion,Function,6
+def(DNS_SUPPORT),ntp_init,exclusion,Function,6
+True,modbus_crc_calc,additon,Function,6
+True,httpd_handle_ecmd_setup,additon,Function,6
+True,menu_byte_get,exclusion,Function,6
+True,crc_calc,exclusion,Function,6
+True,httpd_cleanup,additon,Function,6
+def(PS2_SUPPORT),data,additon,Variable,6
+True,test,additon,Function,6
+True,glcdmenuInitS1D13305,additon,Function,6
+True,stream,additon,Variable,6
+True,menu_byte_get_next,additon,Function,6
+True,httpd_handle_ecmd,exclusion,Function,6

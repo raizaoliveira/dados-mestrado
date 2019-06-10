@@ -1,0 +1,14 @@
+True,set_zeroaxis,exclusion,Function,3
+True,set_ticscale,additon,Function,3
+True,title,exclusion,Variable,3
+!def(EAM_OBJECTS),set_samples,exclusion,Function,3
+!def(EAM_OBJECTS),set_zero,additon,Function,3
+!def(EAM_OBJECTS),set_tic_prop,additon,Function,3
+True,unset_style,exclusion,Function,3
+True,set_style,additon,Function,3
+True,set_contour,additon,Function,3
+True,set_ticslevel,additon,Function,3
+True,contour,exclusion,Function,3
+True,set_tic_prop,exclusion,Function,3
+True,axis_array,exclusion,Variable,3
+True,time_tic_just,parameter,Function,3

@@ -1,0 +1,14 @@
+True,uip_conn,additon,Variable,4
+True,resolv_lookup,exclusion,Function,4
+True,usart_init,additon,Function,4
+True,parse_name,exclusion,Function,4
+True,i2c_slave_core_newdata,exclusion,Function,4
+True,resolv_init,exclusion,Function,4
+True,resolv_query,exclusion,Function,4
+def(DYNDNS_SUPPORT),dyndns_query_cb,exclusion,Function,4
+True,uip_appdata,additon,Variable,4
+True,resolv_periodic,exclusion,Function,4
+True,resolv_conf,exclusion,Function,4
+True,resolv_getserver,exclusion,Function,4
+True,crc_calc,exclusion,Function,4
+True,uip_len,exclusion,Variable,4

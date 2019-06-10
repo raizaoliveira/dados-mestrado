@@ -1,0 +1,4 @@
+!def(TEENSY_SUPPORT),True
+def(DNS_SUPPORT),True
+def(NTP_SUPPORT),True
+True,def(DYNDNS_SUPPORT)

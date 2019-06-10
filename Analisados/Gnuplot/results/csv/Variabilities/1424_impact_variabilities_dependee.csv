@@ -1,0 +1,3 @@
+def(USE_SYSTEM_TIME),gstrftime,additon,Function,4
+True,timefmt,additon,Variable,4
+!def(USE_SYSTEM_TIME),s,additon,Variable,4

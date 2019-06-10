@@ -1,0 +1,17 @@
+!def(SYSTEM_TIME),def(SYSTEM_TIME)
+def(TEST_TIME),def(SYSTEM_TIME)
+def(unix),True
+True,def(TEST_TIME)
+def(BADRAND),True
+True,def(BADRAND)
+True,!def(HAVE_ERF)
+!def(BADRAND),True
+True,def(unix)
+def(TEST_STRFTIME),True
+def(SYSTEM_TIME),!def(SYSTEM_TIME)
+def(SYSTEM_TIME),True
+!def(MSDOS),True
+True,!def(BADRAND)
+def(TEST_TIME),!def(SYSTEM_TIME)
+!def(SYSTEM_TIME),True
+!def(HAVE_ERF),True

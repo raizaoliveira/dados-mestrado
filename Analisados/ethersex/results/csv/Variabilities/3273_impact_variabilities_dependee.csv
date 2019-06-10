@@ -1,0 +1,2 @@
+True,recv_len,exclusion,Variable,2
+def(DNS_SUPPORT),ntp_init,exclusion,Function,2

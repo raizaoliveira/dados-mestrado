@@ -1,0 +1,4 @@
+!def(HAVE_UNICODE),True
+True,!def(GNOME)
+True,!def(UNICODE_WORK_IN_PROGRESS)
+!def(UNICODE_WORK_IN_PROGRESS),True

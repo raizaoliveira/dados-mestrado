@@ -1,0 +1,6 @@
+True,i2c_core_init,additon,Function,2
+True,fill_llh_and_transmit,exclusion,Function,2
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,2
+True,uip_udp_conn,exclusion,Variable,2
+True,i2c_core_periodic,additon,Function,2
+True,uip_len,exclusion,Variable,2

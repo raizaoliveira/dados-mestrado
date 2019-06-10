@@ -1,0 +1,10 @@
+hidden3d,1,variable
+abbrev_day_names,1,variable
+abbrev_month_names,1,variable
+set_locale,1,function
+int_error,1,function
+full_month_names,1,variable
+_strftime,1,function
+full_day_names,1,variable
+get_line,1,function
+safe_strncpy,1,function

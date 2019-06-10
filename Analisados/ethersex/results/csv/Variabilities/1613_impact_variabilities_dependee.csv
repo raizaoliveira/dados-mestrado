@@ -1,0 +1,4 @@
+!def(HD44780_SUPPORT),lcd_print,exclusion,Function,4
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,4
+def(HD44780_SUPPORT),lcd_print,additon,Function,4
+True,uip_len,additon,Variable,4

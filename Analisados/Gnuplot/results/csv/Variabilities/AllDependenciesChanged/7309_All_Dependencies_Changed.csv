@@ -1,0 +1,5 @@
+!def(EAM_OBJECTS),True
+!def(USE_SYSTEM_TIME),True
+!def(CHECK_HEAP_USE),True
+!def(HAVE_STRSTR),True
+True,!def(EAM_OBJECTS)

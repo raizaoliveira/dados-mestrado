@@ -1,0 +1,14 @@
+def(HAVE_LIBART),new_libart_renderer,additon,Function,4
+def(HAVE_LIBART),ddisp,exclusion,Variable,4
+True,renderer,additon,Variable,4
+True,from,additon,Variable,4
+def(HAVE_LIBART),renderer,exclusion,Variable,4
+True,width,additon,Variable,4
+True,store,additon,Variable,4
+!def(GNOME),get_language_list,parameter,Function,4
+True,line_colour,additon,Variable,4
+def(HAVE_LIBART),draw_line,additon,Function,4
+True,to,additon,Variable,4
+True,length,additon,Variable,4
+True,color_black,additon,Variable,4
+True,linewidth,additon,Variable,4

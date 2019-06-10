@@ -1,0 +1,5 @@
+def(DEBUG),
+def(TEST),
+True,
+def(DYNAMIC),
+(def(notdef)&def(DEBUG)),

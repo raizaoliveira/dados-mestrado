@@ -1,0 +1,4 @@
+def(GNOME_PRINT),
+def(GNOME),
+!def(GNOME),
+True,

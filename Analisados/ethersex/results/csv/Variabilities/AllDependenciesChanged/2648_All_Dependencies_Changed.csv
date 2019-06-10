@@ -1,0 +1,4 @@
+def(CRON_SUPPORT_TEST),True
+True,def(ROUTER_SUPPORT)
+True,def(PS2_SUPPORT)
+def(STELLA_SUPPORT),True

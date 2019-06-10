@@ -1,0 +1,12 @@
+True,def(GNOME)
+def(PAGELAYOUT_TEST),True
+True,def(FOR_TRANSLATORS_ONLY)
+def(HAVE_FREETYPE),True
+def(HAVE_LIBART),True
+True,def(PAGELAYOUT_TEST)
+!def(HAVE_LIBART),True
+def(TRACE_DIST),True
+def(DEBUG),True
+True,!def(G_OS_WIN32)
+True,!def(GNOME)
+!def(HAVE_FREETYPE),True

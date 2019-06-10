@@ -1,0 +1,8 @@
+def(GNOME),True
+def(PAGELAYOUT_TEST),True
+def(DEBUG_CUSTOM),True
+!def(GNOME),def(GNOME)
+True,def(GNOME)
+True,!def(GNOME)
+!def(GNOME_PRINT),True
+!def(GNOME),True

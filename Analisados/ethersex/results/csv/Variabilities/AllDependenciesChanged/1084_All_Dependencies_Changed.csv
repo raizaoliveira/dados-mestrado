@@ -1,0 +1,3 @@
+def(PSOCK_SUPPORT),True
+True,def(DYNDNS_SUPPORT)
+True,def(PSOCK_SUPPORT)

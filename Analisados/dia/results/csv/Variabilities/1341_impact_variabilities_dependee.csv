@@ -1,0 +1,2 @@
+!def(GNOME),get_language_list,parameter,Function,2
+def(HAVE_LIBART),display_update_menu_state,additon,Function,2

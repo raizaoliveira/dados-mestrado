@@ -1,0 +1,3 @@
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,2
+True,zbus_txstart,additon,Function,2
+True,zbus_send_data,exclusion,Function,2

@@ -1,0 +1,7 @@
+!def(LITE),True
+def(NO_LOCALE_H),True
+def(TEST_TERMDOC),True
+True,def(TEST_STRFTIME)
+True,def(NO_LOCALE_H)
+def(TEST_STRFTIME),True
+!def(NO_LOCALE_H),True

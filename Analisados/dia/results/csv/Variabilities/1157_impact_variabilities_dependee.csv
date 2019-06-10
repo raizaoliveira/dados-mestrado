@@ -1,0 +1,5 @@
+True,data,exclusion,Variable,2
+True,dia,exclusion,Variable,2
+True,file,exclusion,Variable,2
+!def(GNOME),get_language_list,parameter,Function,2
+True,lazy_setcolor,exclusion,Function,2

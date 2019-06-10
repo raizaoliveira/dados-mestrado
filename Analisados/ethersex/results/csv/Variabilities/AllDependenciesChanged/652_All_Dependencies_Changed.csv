@@ -1,0 +1,3 @@
+True,def(DNS_SUPPORT)
+def(ZBUS_SUPPORT),True
+True,def(PSOCK_SUPPORT)

@@ -1,0 +1,12 @@
+True,strchr,exclusion,Function,3
+True,variables,exclusion,Variable,3
+True,strrchr,additon,Function,3
+True,cpbuf,exclusion,Variable,3
+True,signchar,exclusion,Variable,3
+True,vms_strerror,exclusion,Function,3
+def(DEBUG),r_force_number,additon,Function,3
+True,cend,exclusion,Variable,3
+def(DEBUG),pt,exclusion,Function,3
+True,chbuf,exclusion,Variable,3
+True,val,exclusion,Variable,3
+def(TEST),fatal,additon,Function,3

@@ -1,0 +1,2 @@
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,2
+True,uip_udp_conn,additon,Variable,2

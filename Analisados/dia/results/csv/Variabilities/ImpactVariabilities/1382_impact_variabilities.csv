@@ -1,0 +1,5 @@
+def(GTK_DOESNT_TALK_UTF8_WE_DO),
+def(HAVE_LIBART),
+def(HAVE_FREETYPE),
+!def(GNOME),
+True,

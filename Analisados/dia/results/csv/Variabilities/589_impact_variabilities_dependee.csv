@@ -1,0 +1,5 @@
+def(HAVE_LIBART),draw_rect,exclusion,Function,4
+True,store,exclusion,Variable,4
+def(GNOME),menus_get_item_from_path,parameter,Function,4
+!def(GNOME),get_language_list,parameter,Function,4
+True,color_black,exclusion,Variable,4

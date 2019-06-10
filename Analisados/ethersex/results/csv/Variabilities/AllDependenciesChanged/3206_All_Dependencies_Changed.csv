@@ -1,0 +1,3 @@
+def(ECMD_PARSER_SUPPORT),True
+True,def(ECMD_PAM_SUPPORT)
+True,def(DNS_SUPPORT)

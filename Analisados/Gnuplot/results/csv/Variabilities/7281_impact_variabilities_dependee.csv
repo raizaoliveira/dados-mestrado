@@ -1,0 +1,5 @@
+True,vec,parameter,Function,2
+True,header,parameter,Function,2
+(!def(HAVE_INDEX)&!def(HAVE_STRCHR)),strchr,additon,Function,2
+True,time_tic_just,parameter,Function,2
+True,first_3dplot,exclusion,Variable,2

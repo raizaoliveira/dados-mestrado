@@ -1,0 +1,10 @@
+def(ADC_SUPPORT),def(SNMP_SUPPORT)
+True,def(TEENSY_SUPPORT)
+True,!def(DEBUG)
+!def(DEBUG),(def(LARGESCREEN)&def(DEBUG))
+def(SNMP_SUPPORT),True
+!def(HD44780_MULTIENSUPPORT),True
+!def(DEBUG),True
+True,def(DEBUG)
+def(DEBUG),True
+def(DEBUG),(def(LARGESCREEN)&def(DEBUG))

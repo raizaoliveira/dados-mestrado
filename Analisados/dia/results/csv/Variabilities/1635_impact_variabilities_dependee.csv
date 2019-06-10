@@ -1,0 +1,4 @@
+!def(GNOME),get_language_list,parameter,Function,3
+True,dia_font_selector_get_font,additon,Function,3
+True,image_load,exclusion,Function,3
+True,dia_image_load,additon,Function,3

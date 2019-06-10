@@ -1,0 +1,7 @@
+True,header,parameter,Function,5
+True,axis,exclusion,Variable,5
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_terminal,additon,Function,5
+True,set_zeroaxis,additon,Function,5
+True,set_terminal,exclusion,Function,5
+True,set_style,exclusion,Function,5
+True,time_tic_just,parameter,Function,5

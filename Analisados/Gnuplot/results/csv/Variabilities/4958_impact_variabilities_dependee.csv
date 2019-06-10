@@ -1,0 +1,11 @@
+True,ifilled_quadrangle,exclusion,Function,3
+def(EXTENDED_COLOR_SPECS),filled_quadrangle,additon,Function,3
+True,icorners,additon,Variable,3
+True,map3d_xy,exclusion,Function,3
+def(EXTENDED_COLOR_SPECS),corners,exclusion,Variable,3
+!def(EXTENDED_COLOR_SPECS),corners,additon,Variable,3
+!def(EXTENDED_COLOR_SPECS),filled_quadrangle,exclusion,Function,3
+!def(EXTENDED_COLOR_SPECS),icorners,additon,Variable,3
+def(EXTENDED_COLOR_SPECS),icorners,exclusion,Variable,3
+True,time_tic_just,parameter,Function,3
+True,map3d_xy_double,additon,Function,3

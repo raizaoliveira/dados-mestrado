@@ -1,0 +1,4 @@
+def(TEST_STRFTIME),
+True,
+!def(LITE),
+!def(lint),

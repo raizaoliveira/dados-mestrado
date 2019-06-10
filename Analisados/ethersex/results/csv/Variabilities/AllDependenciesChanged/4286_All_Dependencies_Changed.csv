@@ -1,0 +1,2 @@
+True,(def(WIN32)&!def(unix))
+True,def(ECMD_PAM_SUPPORT)

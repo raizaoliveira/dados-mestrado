@@ -1,0 +1,6 @@
+True,tanklevel_get,exclusion,Function,3
+True,ptr,exclusion,Variable,3
+True,adc_get_setref,exclusion,Function,3
+True,snprintf_P,exclusion,Function,3
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,3
+def(SNMP_SUPPORT),onelevel_next,exclusion,Function,3

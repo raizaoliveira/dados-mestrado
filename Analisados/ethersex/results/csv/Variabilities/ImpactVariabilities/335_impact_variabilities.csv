@@ -1,0 +1,5 @@
+def(DEBUG),
+def(RC4_SUPPORT),
+def(TFTP_SUPPORT),
+!def(BOOTLOADER_SUPPORT),
+True,

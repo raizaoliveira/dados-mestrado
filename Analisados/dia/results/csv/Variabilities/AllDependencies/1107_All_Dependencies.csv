@@ -1,0 +1,17 @@
+True,!def(GNOME)
+True,def(HAVE_UNICODE)
+(!def(GNOME_PRINT)&def(GNOME)),True
+True,!def(HAVE_LIBART)
+def(INITIAL_IMAGE),True
+def(G_OS_WIN32),True
+def(PAGELAYOUT_TEST),True
+!def(HAVE_LIBART),def(HAVE_LIBART)
+def(GNOME),True
+def(HAVE_LIBART),True
+!def(GNOME),True
+!def(GNOME_PRINT),True
+def(GNOME_PRINT),True
+True,def(HAVE_LIBART)
+def(HAVE_UNICODE),True
+!def(HAVE_UNICODE),True
+True,def(GNOME)

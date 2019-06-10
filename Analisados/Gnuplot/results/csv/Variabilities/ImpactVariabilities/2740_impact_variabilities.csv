@@ -1,0 +1,7 @@
+def(VMS),
+def(TEST_TIME),
+!def(lint),
+def(BADRAND),
+!def(USE_SYSTEM_TIME),
+def(TEST_STRFTIME),
+True,

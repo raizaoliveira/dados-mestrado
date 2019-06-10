@@ -1,0 +1,3 @@
+True,ntp_conf,additon,Function,3
+def(DNS_SUPPORT),ntp_init,additon,Function,3
+True,ntp_dns_query_cb,exclusion,Function,3

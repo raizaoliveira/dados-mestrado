@@ -1,0 +1,10 @@
+def(ARRAYDEBUG),def(DEBUG)
+def(DYNAMIC),True
+True,def(DEBUG)
+!def(HAVE_LIBREADLINE),True
+True,!def(HAVE_LIBREADLINE)
+def(DEBUG),True
+(!def(VMS)&!def(TEST)),True
+True,def(TEST)
+def(TEST),True
+def(ARRAYDEBUG),True

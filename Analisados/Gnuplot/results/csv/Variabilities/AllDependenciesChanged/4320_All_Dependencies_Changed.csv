@@ -1,0 +1,3 @@
+def(USE_SYSTEM_TIME),True
+True,def(GNUPLOT_HISTORY)
+True,!def(HAVE_LOCALE_H)

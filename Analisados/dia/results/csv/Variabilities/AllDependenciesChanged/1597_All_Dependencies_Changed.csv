@@ -1,0 +1,9 @@
+True,!def(GNOME)
+True,def(GTK_DOESNT_TALK_UTF8_WE_DO)
+def(GTK_DOESNT_TALK_UTF8_WE_DO),True
+True,def(HAVE_LIBART)
+!def(GNOME),True
+def(HAVE_FREETYPE),True
+True,def(FOR_TRANSLATORS_ONLY)
+def(GNOME),True
+!def(HAVE_FREETYPE),True

@@ -1,0 +1,13 @@
+True,set_style,exclusion,Function,7
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_terminal,exclusion,Function,7
+True,key,exclusion,Variable,7
+True,set_command,additon,Function,7
+True,unset_style,additon,Function,7
+True,title,exclusion,Variable,7
+True,term,exclusion,Variable,7
+True,set_key,additon,Function,7
+True,set_terminal,additon,Function,7
+True,axis_array,exclusion,Variable,7
+True,time_tic_just,parameter,Function,7
+True,unset_command,exclusion,Function,7
+True,set_zeroaxis,exclusion,Function,7

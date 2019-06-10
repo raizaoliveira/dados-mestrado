@@ -1,0 +1,2 @@
+def(USB_NET_SUPPORT),True
+def(ECMD_USB_SUPPORT),True

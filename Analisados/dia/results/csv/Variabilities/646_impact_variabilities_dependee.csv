@@ -1,0 +1,8 @@
+def(GNOME),menus_get_item_from_path,parameter,Function,3
+True,toolbox_nmenu_items,additon,Variable,3
+!def(GNOME),get_language_list,parameter,Function,3
+True,ddisplay_active,exclusion,Function,3
+True,display_nmenu_items,additon,Variable,3
+True,display_menu_items,additon,Variable,3
+True,toolbox_menu_items,additon,Variable,3
+!def(GNOME),translate_entries,additon,Function,3

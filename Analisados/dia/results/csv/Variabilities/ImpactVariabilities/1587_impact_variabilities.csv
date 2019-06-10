@@ -1,0 +1,5 @@
+def(HAVE_LIBART),
+True,
+!def(GNOME),
+def(THIS_IS_PROBABLY_DEAD_CODE),
+def(HAVE_FREETYPE),

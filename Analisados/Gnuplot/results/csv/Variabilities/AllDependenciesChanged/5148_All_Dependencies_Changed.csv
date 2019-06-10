@@ -1,0 +1,2 @@
+def(USE_MOUSE),True
+def(USE_SYSTEM_TIME),True

@@ -1,0 +1,6 @@
+MakeNullMove,1,function
+UnmakeMove,1,function
+Search,1,function
+UnmakeNullMove,1,function
+MakeMove,1,function
+userinput,1,variable

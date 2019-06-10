@@ -1,0 +1,4 @@
+True,usart_init,additon,Function,3
+def(DNS_SUPPORT),resolv_newdata,additon,Function,3
+def(DNS_SUPPORT),resolv_periodic,additon,Function,3
+True,recv_len,exclusion,Variable,3

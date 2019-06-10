@@ -1,0 +1,7 @@
+True,j,type,Variable,3
+!def(EXTENDED_COLOR_SPECS),i1,additon,Variable,3
+True,plot,additon,Variable,3
+def(EXTENDED_COLOR_SPECS),i,exclusion,Variable,3
+True,time_tic_just,parameter,Function,3
+True,i,additon,Variable,3
+True,point,additon,Variable,3

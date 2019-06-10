@@ -1,0 +1,8 @@
+True,lcd_data,additon,Variable,4
+True,output_nibble,exclusion,Function,4
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,4
+True,output_byte,additon,Function,4
+True,en,additon,Variable,4
+True,rs,additon,Variable,4
+def(I2C_TSL2550_SUPPORT),data,exclusion,Variable,4
+True,stream,additon,Variable,4

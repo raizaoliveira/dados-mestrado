@@ -1,0 +1,16 @@
+def(GNOME),menus_get_item_from_path,parameter,Function,5
+def(HAVE_LIBART),draw_rect,additon,Function,5
+def(HAVE_LIBART),draw_line,additon,Function,5
+True,store,additon,Variable,5
+def(HAVE_LIBART),height,additon,Variable,5
+!def(GNOME),get_language_list,parameter,Function,5
+True,linewidth,additon,Variable,5
+True,width,additon,Variable,5
+True,renderer,additon,Variable,5
+def(HAVE_LIBART),libart_renderer_set_size,exclusion,Function,5
+def(HAVE_LIBART),width,additon,Variable,5
+True,to,additon,Variable,5
+def(HAVE_LIBART),set_linejoin,additon,Function,5
+True,color_black,additon,Variable,5
+True,from,additon,Variable,5
+True,length,additon,Variable,5

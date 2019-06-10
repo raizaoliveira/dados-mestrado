@@ -1,0 +1,8 @@
+True,pensize,exclusion,Variable,3
+True,contrast,exclusion,Variable,3
+True,colour,additon,Variable,3
+True,ecmd_sender_send_command,exclusion,Function,3
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,3
+True,bitstates,type,Variable,3
+True,ecmd_sender_send,additon,Function,3
+True,sgc_sendcommand,parameter,Function,3

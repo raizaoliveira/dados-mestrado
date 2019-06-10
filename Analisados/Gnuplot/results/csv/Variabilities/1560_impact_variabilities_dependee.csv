@@ -1,0 +1,6 @@
+True,timefmt,additon,Variable,4
+!def(USE_SYSTEM_TIME),s,exclusion,Variable,4
+True,_strftime,exclusion,Function,4
+!def(USE_SYSTEM_TIME),tm,additon,Variable,4
+!def(USE_SYSTEM_TIME),l_clock,additon,Variable,4
+!def(USE_SYSTEM_TIME),gstrftime,additon,Function,4

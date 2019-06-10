@@ -1,0 +1,10 @@
+shape_info_print,1,function
+ddisplay_flush,1,function
+get_language_list,1,function
+ddisplay_active,1,function
+ddisplay_add_update,1,function
+menus_get_item_from_path,1,function
+path,1,variable
+gnome_i18n_get_language_list,1,function
+diagram_print_ps,1,function
+dia_page_layout_new,1,function

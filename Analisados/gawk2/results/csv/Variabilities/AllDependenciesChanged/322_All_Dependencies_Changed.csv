@@ -1,0 +1,13 @@
+True,def(DEBUG)
+def(DEBUG),True
+!def(DYNAMIC),True
+!def(HAVE_LIBREADLINE),True
+def(DYNAMIC),True
+def(DYNAMIC),def(DEBUG)
+!def(USG),True
+True,def(TEST)
+def(USG),True
+def(TEST),True
+(!def(VMS)&!def(TEST)),True
+True,!def(HAVE_LIBREADLINE)
+True,def(DYNAMIC)

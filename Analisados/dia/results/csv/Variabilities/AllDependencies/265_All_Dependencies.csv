@@ -1,0 +1,5 @@
+def(DEBUG_CUSTOM),True
+True,def(GNOME)
+!def(GNOME),True
+!def(GNOME),def(GNOME)
+def(GNOME),True

@@ -1,0 +1,7 @@
+!def(DYNAMIC),True
+def(DYNAMIC),True
+def(DEBUG),True
+def(notdef),True
+def(TEST),True
+True,def(DEBUG)
+True,def(notdef)

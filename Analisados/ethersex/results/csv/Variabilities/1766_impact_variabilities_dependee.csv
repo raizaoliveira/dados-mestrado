@@ -1,0 +1,5 @@
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,4
+True,i2c_core_newdata,additon,Function,4
+def(I2C_MASTER_SUPPORT),i2c_master_do,additon,Function,4
+def(MODBUS_SUPPORT),len,exclusion,Variable,4
+def(I2C_MASTER_SUPPORT),i2c_master_select,exclusion,Function,4

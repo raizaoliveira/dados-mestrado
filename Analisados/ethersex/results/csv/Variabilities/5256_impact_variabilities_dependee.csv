@@ -1,0 +1,6 @@
+!def(TEENSY_SUPPORT),bandwidth,exclusion,Variable,3
+(def(RFM12_ASK_2272_SUPPORT)&def(TEENSY_SUPPORT)),getIntFromString,parameter,Function,3
+!def(TEENSY_SUPPORT),drssi,exclusion,Variable,3
+!def(TEENSY_SUPPORT),rfm12_setbandwidth,additon,Function,3
+!def(TEENSY_SUPPORT),gain,exclusion,Variable,3
+True,rfm12_modul,additon,Variable,3

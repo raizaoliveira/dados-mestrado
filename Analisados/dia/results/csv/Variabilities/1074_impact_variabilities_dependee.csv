@@ -1,0 +1,3 @@
+!def(GNOME),get_language_list,parameter,Function,2
+True,dia_image_load,additon,Function,2
+True,image_load,exclusion,Function,2

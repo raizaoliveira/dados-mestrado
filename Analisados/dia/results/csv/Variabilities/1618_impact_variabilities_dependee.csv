@@ -1,0 +1,5 @@
+True,ddisp,exclusion,Variable,2
+True,image_load,additon,Function,2
+True,dia_image_load,exclusion,Function,2
+!def(GNOME),intl_get_language_list,additon,Function,2
+!def(GNOME),get_language_list,exclusion,Function,2

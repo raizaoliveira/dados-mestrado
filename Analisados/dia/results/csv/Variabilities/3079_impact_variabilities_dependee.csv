@@ -1,0 +1,3 @@
+True,dia_ps_ft2_renderer_get_type,exclusion,Function,3
+True,dia_transform_new,parameter,Function,3
+!def(GNOME),get_language_list,parameter,Function,3

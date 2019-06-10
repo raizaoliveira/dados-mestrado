@@ -1,0 +1,3 @@
+!def(SOFT_SPI_SUPPORT),spi_send,exclusion,Function,3
+True,rfm12_trans,exclusion,Function,3
+True,rfm12_modul,exclusion,Variable,3

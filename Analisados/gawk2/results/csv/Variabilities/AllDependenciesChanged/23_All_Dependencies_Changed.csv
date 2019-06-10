@@ -1,0 +1,5 @@
+def(GFMT_WORKAROUND),True
+def(TEST),True
+def(DEBUG),True
+True,def(DEBUG)
+True,def(TEST)

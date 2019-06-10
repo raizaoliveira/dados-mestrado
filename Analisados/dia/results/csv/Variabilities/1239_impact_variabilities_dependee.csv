@@ -1,0 +1,14 @@
+True,color_convert,additon,Function,3
+True,numpoints,additon,Variable,3
+True,colour,additon,Variable,3
+def(HAVE_LIBART),points,exclusion,Variable,3
+True,renderer,additon,Variable,3
+True,ddisplay_transform_coords,additon,Function,3
+def(HAVE_LIBART),renderer,exclusion,Variable,3
+True,font_get_gdkfont,additon,Function,3
+def(HAVE_LIBART),numpoints,exclusion,Variable,3
+def(HAVE_LIBART),draw_bezier,additon,Function,3
+True,color_black,additon,Variable,3
+!def(GNOME),get_language_list,parameter,Function,3
+True,points,additon,Variable,3
+True,store,additon,Variable,3

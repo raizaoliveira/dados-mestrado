@@ -1,0 +1,5 @@
+True,rfm12_trans,additon,Function,4
+True,ecmd_parse_command,additon,Function,4
+True,resolv_getserver,additon,Function,4
+True,uip_appdata,additon,Variable,4
+!def(UIP_CONF_EXTERNAL_BUFFER),uip_buf,exclusion,Variable,4

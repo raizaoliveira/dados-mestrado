@@ -1,0 +1,7 @@
+True,timelabel,additon,Variable,1
+True,title,additon,Variable,1
+True,plot,additon,Variable,1
+True,axis_array,additon,Variable,1
+True,color_box,additon,Variable,1
+True,time_tic_just,parameter,Function,1
+True,header,parameter,Function,1

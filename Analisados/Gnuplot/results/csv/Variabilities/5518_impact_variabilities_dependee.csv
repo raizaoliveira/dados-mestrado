@@ -1,0 +1,12 @@
+True,reset_key,exclusion,Function,5
+True,set_ticslevel,additon,Function,5
+True,set_contour,additon,Function,5
+True,time_tic_just,parameter,Function,5
+True,delete_linestyle,parameter,Function,5
+True,title,exclusion,Variable,5
+True,set_xyzlabel,additon,Function,5
+True,contour,exclusion,Function,5
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_xyzlabel,exclusion,Function,5
+True,unset_command,additon,Function,5
+True,set_keytitle,exclusion,Function,5
+True,axis_array,exclusion,Variable,5

@@ -1,0 +1,8 @@
+def(USE_SYSTEM_TIME),l_clock,exclusion,Variable,2
+!def(USE_SYSTEM_TIME),xstrftime,specifier,Function,2
+!def(USE_SYSTEM_TIME),s,exclusion,Variable,2
+!def(USE_SYSTEM_TIME),tm,additon,Variable,2
+!def(USE_SYSTEM_TIME),l_clock,additon,Variable,2
+def(USE_SYSTEM_TIME),tm,exclusion,Variable,2
+def(USE_SYSTEM_TIME),t,additon,Variable,2
+def(USE_SYSTEM_TIME),ggmtime,additon,Function,2

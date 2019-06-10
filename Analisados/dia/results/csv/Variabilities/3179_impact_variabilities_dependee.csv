@@ -1,0 +1,4 @@
+!def(GNOME),main,additon,Function,2
+True,dia_transform_new,parameter,Function,2
+!def(GNOME),get_language_list,parameter,Function,2
+True,ddisp,additon,Variable,2

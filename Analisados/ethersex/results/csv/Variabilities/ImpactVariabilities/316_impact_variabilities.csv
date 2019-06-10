@@ -1,0 +1,4 @@
+def(TFTP_SUPPORT),
+def(DEBUG),
+!def(BOOTLOADER_SUPPORT),
+True,

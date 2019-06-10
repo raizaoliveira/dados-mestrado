@@ -1,0 +1,3 @@
+True,uip_conn,exclusion,Variable,4
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,4
+True,crc_calc,additon,Function,4

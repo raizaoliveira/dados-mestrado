@@ -1,0 +1,4 @@
+(def(RFM12_ASK_2272_SUPPORT)&def(TEENSY_SUPPORT)),getIntFromString,parameter,Function,3
+True,cron_execute,exclusion,Function,3
+True,crc_calc,exclusion,Function,3
+True,modbus_crc_calc,additon,Function,3

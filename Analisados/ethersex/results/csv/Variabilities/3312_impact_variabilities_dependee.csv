@@ -1,0 +1,4 @@
+True,stella_setValue,additon,Function,1
+True,stella_loadFromEEROM,additon,Function,1
+True,stella_getValue,additon,Function,1
+True,stella_storeToEEROM,additon,Function,1

@@ -1,0 +1,4 @@
+True,uip_send,exclusion,Function,1
+True,uip_neighbor_out,exclusion,Function,1
+True,tftp_handle_packet,exclusion,Function,1
+True,uip_udp_conns,exclusion,Variable,1

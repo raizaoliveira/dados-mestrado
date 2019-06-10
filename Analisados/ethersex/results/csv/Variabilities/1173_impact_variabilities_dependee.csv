@@ -1,0 +1,6 @@
+True,rfm12_drssi,additon,Variable,2
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,2
+True,uip_len,exclusion,Variable,2
+True,rfm12_gain,additon,Variable,2
+True,uip_appdata,exclusion,Variable,2
+True,rfm12_bandwidth,additon,Variable,2

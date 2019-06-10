@@ -1,0 +1,4 @@
+True,
+(def(notdef)&def(DEBUG)),
+!def(SYNTAX_TABLE),
+def(DEBUG),

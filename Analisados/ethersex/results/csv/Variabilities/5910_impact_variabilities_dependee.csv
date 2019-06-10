@@ -1,0 +1,3 @@
+True,modbus_recv_timer,type,Variable,3
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,3
+def(MODBUS_CLIENT_SUPPORT),modbus_rxstart,parameter,Function,3

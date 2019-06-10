@@ -1,0 +1,3 @@
+!def(GNOME),get_language_list,parameter,Function,3
+def(HAVE_LIBART),set_linestyle,exclusion,Function,3
+True,fs,exclusion,Variable,3

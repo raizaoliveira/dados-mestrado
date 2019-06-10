@@ -1,0 +1,8 @@
+def(USE_SYSTEM_TIME),True
+!def(BACKWARDS_COMPATIBLE),True
+def(HAVE_LOCALE_H),True
+!def(HAVE_LOCALE_H),True
+True,!def(HAVE_LOCALE_H)
+True,!def(EAM_OBJECTS)
+True,def(HAVE_LOCALE_H)
+def(BACKWARDS_COMPATIBLE),True

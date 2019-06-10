@@ -1,0 +1,4 @@
+True,stella_storeToEEROM,additon,Function,2
+True,stella_output_channels,additon,Function,2
+True,stella_loadFromEEROM,additon,Function,2
+True,stella_setValue,additon,Function,2

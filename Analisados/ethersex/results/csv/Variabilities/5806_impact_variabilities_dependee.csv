@@ -1,0 +1,11 @@
+True,ecmd_sender_send_command,exclusion,Function,4
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,4
+True,pensize,additon,Variable,4
+True,contrast,additon,Variable,4
+True,colour,exclusion,Variable,4
+!def(TEENSY_SUPPORT),rfm12_setpower,parameter,Function,4
+True,opacity,exclusion,Variable,4
+True,ecmd_sender_send_command_P,additon,Function,4
+!def(TEENSY_SUPPORT),rfm12_setbandwidth,parameter,Function,4
+True,rfm12_trans,parameter,Function,4
+!def(TEENSY_SUPPORT),rfm12_setbaud,parameter,Function,4

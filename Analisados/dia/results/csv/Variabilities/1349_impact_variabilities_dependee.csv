@@ -1,0 +1,8 @@
+!def(GNOME),get_language_list,parameter,Function,3
+!def(UNICODE_WORK_IN_PROGRESS),bracketted_to_string,exclusion,Function,3
+!def(UNICODE_WORK_IN_PROGRESS),string_to_bracketted,exclusion,Function,3
+True,str,exclusion,Variable,3
+True,charconv_local8_to_utf8,exclusion,Function,3
+True,strend,exclusion,Function,3
+True,charconv_utf8_to_local8,exclusion,Function,3
+True,charconv_unichar_to_utf8,additon,Function,3

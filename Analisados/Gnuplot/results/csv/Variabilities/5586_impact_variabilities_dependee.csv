@@ -1,0 +1,9 @@
+True,set_ticslevel,exclusion,Function,4
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_terminal,additon,Function,4
+True,key,additon,Variable,4
+True,set_key,additon,Function,4
+True,contour,exclusion,Function,4
+True,set_contour,additon,Function,4
+True,set_ticscale,exclusion,Function,4
+True,set_terminal,exclusion,Function,4
+True,time_tic_just,parameter,Function,4

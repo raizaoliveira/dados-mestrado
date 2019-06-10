@@ -1,0 +1,4 @@
+True,
+def(HAVE_UNICODE),
+!def(GNOME),
+def(HAVE_LIBART),

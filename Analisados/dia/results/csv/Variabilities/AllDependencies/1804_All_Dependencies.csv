@@ -1,0 +1,17 @@
+True,def(HAVE_LIBART)
+True,def(GNOME)
+!def(HAVE_LIBART),def(HAVE_LIBART)
+(!def(GNOME_PRINT)&def(GNOME)),True
+True,def(FOR_TRANSLATORS_ONLY)
+def(HAVE_LIBART),True
+def(G_OS_WIN32),def(PAGELAYOUT_TEST)
+def(GNOME_PRINT),True
+def(PAGELAYOUT_TEST),True
+def(HAVE_LIBART),!def(HAVE_LIBART)
+(def(HAVE_LIBART)&!def(HAVE_FREETYPE)&(!def(HAVE_FREETYPE)|!def(HAVE_LIBART))),True
+True,!def(GNOME)
+def(DEBUG_CUSTOM),True
+True,!def(HAVE_LIBART)
+!def(GNOME),True
+!def(GNOME_PRINT),True
+def(GNOME),True

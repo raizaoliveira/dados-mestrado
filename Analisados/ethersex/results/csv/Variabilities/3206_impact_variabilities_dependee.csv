@@ -1,0 +1,2 @@
+True,dc3840_send_command,additon,Function,3
+def(DNS_SUPPORT),resolv_newdata,exclusion,Function,3

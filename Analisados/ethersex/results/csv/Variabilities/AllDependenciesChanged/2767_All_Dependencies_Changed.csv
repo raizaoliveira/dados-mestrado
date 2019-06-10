@@ -1,0 +1,2 @@
+True,!def(DEBUG_USE_SYSLOG)
+def(MODBUS_CLIENT_SUPPORT),True

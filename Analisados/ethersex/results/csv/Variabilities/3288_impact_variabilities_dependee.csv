@@ -1,0 +1,6 @@
+def(PS2_SUPPORT),data,exclusion,Variable,4
+True,dc3840_send_command,exclusion,Function,4
+def(DNS_SUPPORT),ntp_init,exclusion,Function,4
+True,ptr,exclusion,Variable,4
+True,recv_len,additon,Variable,4
+True,lcd_data,exclusion,Variable,4

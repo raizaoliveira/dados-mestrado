@@ -1,0 +1,3 @@
+def(USE_SYSTEM_TIME),True
+!def(WITH_IMAGE),True
+True,!def(WITH_IMAGE)

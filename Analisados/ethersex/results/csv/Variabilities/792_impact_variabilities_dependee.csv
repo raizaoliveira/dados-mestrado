@@ -1,0 +1,4 @@
+True,lcd_print,exclusion,Function,2
+True,lcd_clear,exclusion,Function,2
+True,lcd_home,exclusion,Function,2
+True,lcd_init,exclusion,Function,2

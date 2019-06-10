@@ -1,0 +1,2 @@
+def(HD44780_READBACK),True
+True,def(PS2_SUPPORT)

@@ -1,0 +1,4 @@
+True,ddisp,exclusion,Variable,2
+!def(GNOME),get_language_list,parameter,Function,2
+True,ddisplay_transform_coords,additon,Function,2
+True,ddisplay_transform_coords_double,exclusion,Function,2

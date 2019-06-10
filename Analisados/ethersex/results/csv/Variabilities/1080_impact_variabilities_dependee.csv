@@ -1,0 +1,4 @@
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,3
+def(PSOCK_SUPPORT),psock_send,parameter,Function,3
+def(PSOCK_SUPPORT),psock_init,parameter,Function,3
+True,newdata,exclusion,Function,3

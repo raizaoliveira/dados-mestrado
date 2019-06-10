@@ -1,0 +1,7 @@
+!def(DEBUG),True
+(!def(DEBUG)&def(LARGESCREEN)),True
+True,def(LARGESCREEN)
+True,!def(DEBUG)
+(def(LARGESCREEN)&def(DEBUG)),True
+def(LARGESCREEN),True
+def(DEBUG),True

@@ -1,0 +1,4 @@
+def(NEW_TEXT_EDIT),True
+True,def(PAGELAYOUT_TEST)
+def(PAGELAYOUT_TEST),True
+True,!def(GNOME)

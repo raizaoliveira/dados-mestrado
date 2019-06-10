@@ -1,0 +1,6 @@
+def(BADRAND),
+True,
+!def(SYSTEM_TIME),
+def(TEST_STRFTIME),
+!def(lint),
+def(TEST_TIME),

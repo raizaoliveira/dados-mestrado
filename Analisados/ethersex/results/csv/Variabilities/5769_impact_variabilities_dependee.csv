@@ -1,0 +1,6 @@
+True,opacity,additon,Variable,3
+True,font,additon,Variable,3
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,3
+True,ecmd_sender_send,exclusion,Function,3
+True,ecmd_sender_send_command_P,additon,Function,3
+True,pensize,exclusion,Variable,3

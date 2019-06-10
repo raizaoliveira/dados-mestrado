@@ -1,0 +1,4 @@
+def(GNOME),menus_get_item_from_path,parameter,Function,4
+!def(GNOME),get_language_list,parameter,Function,4
+def(HAVE_LIBART),set_linecaps,additon,Function,4
+True,store,additon,Variable,4

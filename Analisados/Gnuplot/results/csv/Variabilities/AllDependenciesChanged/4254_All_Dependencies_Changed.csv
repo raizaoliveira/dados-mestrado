@@ -1,0 +1,3 @@
+def(USE_SYSTEM_TIME),True
+True,def(GP_STRING_VARS)
+True,!def(GP_STRING_VARS)

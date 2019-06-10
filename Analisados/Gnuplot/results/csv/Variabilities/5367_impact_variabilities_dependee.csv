@@ -1,0 +1,12 @@
+def(EXTENDED_COLOR_SPECS),corners,exclusion,Variable,5
+True,icorners,additon,Variable,5
+True,fill,exclusion,Function,5
+True,time_tic_just,parameter,Function,5
+!def(EXTENDED_COLOR_SPECS),corners,exclusion,Variable,5
+!def(EXTENDED_COLOR_SPECS),icorners,exclusion,Variable,5
+True,free_labels,additon,Function,5
+True,unset_style,additon,Function,5
+def(EXTENDED_COLOR_SPECS),icorners,exclusion,Variable,5
+True,p,additon,Variable,5
+def(EXTENDED_COLOR_SPECS),filled_quadrangle,additon,Function,5
+True,ifilled_quadrangle,exclusion,Function,5

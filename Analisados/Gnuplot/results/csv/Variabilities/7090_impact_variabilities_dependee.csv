@@ -1,0 +1,14 @@
+True,axis_array,additon,Variable,9
+True,reset_key,additon,Function,9
+True,header,parameter,Function,9
+(!def(HAVE_INDEX)&!def(HAVE_STRCHR)),strchr,additon,Function,9
+True,get_position,exclusion,Function,9
+True,save_fillstyle,exclusion,Function,9
+True,title,additon,Variable,9
+True,time_tic_just,parameter,Function,9
+def(USE_STATS),fmt,additon,Function,9
+True,get_position_default,additon,Function,9
+True,parse_range,additon,Function,9
+True,parse,exclusion,Function,9
+True,fill,additon,Function,9
+True,vec,parameter,Function,9

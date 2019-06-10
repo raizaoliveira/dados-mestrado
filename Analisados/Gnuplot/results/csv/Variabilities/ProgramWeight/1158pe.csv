@@ -1,0 +1,11 @@
+safe_strncpy,1,function
+set_locale,1,function
+full_month_names,1,variable
+int_error,1,function
+abbrev_month_names,1,variable
+hidden3d,1,variable
+full_day_names,1,variable
+i,1,variable
+_strftime,1,function
+abbrev_day_names,1,variable
+get_line,1,function

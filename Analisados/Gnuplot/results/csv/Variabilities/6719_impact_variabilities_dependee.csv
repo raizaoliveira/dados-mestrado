@@ -1,0 +1,16 @@
+True,set_zeroaxis,exclusion,Function,6
+True,check_for_iteration,parameter,Function,6
+True,reset_key,additon,Function,6
+True,set_command,additon,Function,6
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_xyzlabel,additon,Function,6
+True,set_contour,exclusion,Function,6
+True,axis,additon,Variable,6
+True,contour,additon,Function,6
+True,set_terminal,additon,Function,6
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_terminal,exclusion,Function,6
+True,time_tic_just,parameter,Function,6
+True,unset_command,exclusion,Function,6
+True,set_ticslevel,exclusion,Function,6
+True,header,parameter,Function,6
+True,next_iteration,parameter,Function,6
+True,set_xyzlabel,exclusion,Function,6

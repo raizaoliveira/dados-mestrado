@@ -1,0 +1,15 @@
+True,suck_font_free,exclusion,Function,2
+True,ddisplay_untransform_length,exclusion,Function,2
+!def(GNOME),get_language_list,parameter,Function,2
+True,font_get_suckfont,exclusion,Function,2
+True,int_rectangle_union,exclusion,Function,2
+True,set_linestyle,exclusion,Function,2
+True,transform_coord,exclusion,Function,2
+True,draw_arc,exclusion,Function,2
+True,dia_image_rgb_data,exclusion,Function,2
+True,ddisplay_transform_length,exclusion,Function,2
+True,fill_arc,exclusion,Function,2
+True,create_renderops_table,exclusion,Function,2
+True,ddisplay_transform_coords_double,exclusion,Function,2
+True,dia_image_height,exclusion,Function,2
+True,dia_image_width,exclusion,Function,2

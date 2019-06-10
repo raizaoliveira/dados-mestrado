@@ -1,0 +1,2 @@
+!def(GNOME),get_language_list,parameter,Function,2
+!def(GNOME),translate_entries,parameter,Function,2

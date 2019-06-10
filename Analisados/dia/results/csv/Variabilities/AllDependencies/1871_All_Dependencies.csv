@@ -1,0 +1,13 @@
+True,def(GNOME)
+def(GNOME_PRINT),True
+!def(GNOME_PRINT),True
+True,def(FOR_TRANSLATORS_ONLY)
+def(GNOME),True
+True,!def(GNOME)
+True,def(HAVE_LIBART)
+(!def(GNOME_PRINT)&def(GNOME)),True
+def(PAGELAYOUT_TEST),True
+def(G_OS_WIN32),def(PAGELAYOUT_TEST)
+def(DEBUG_CUSTOM),True
+def(HAVE_LIBART),True
+!def(GNOME),True

@@ -1,0 +1,4 @@
+def(TRACE_DIST),
+!def(GNOME),
+def(HAVE_LIBART),
+True,

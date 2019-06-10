@@ -1,0 +1,7 @@
+def(I2C_PCA9555_SUPPORT),i2c_pca9555_writeWord,exclusion,Function,4
+True,cron_execute,additon,Function,4
+True,data,exclusion,Variable,4
+True,state,exclusion,Variable,4
+def(I2C_PCF8574X_SUPPORT),i2c_pcf8574x_set,exclusion,Function,4
+(def(RFM12_ASK_2272_SUPPORT)&def(TEENSY_SUPPORT)),getIntFromString,parameter,Function,4
+def(I2C_PCA9555_SUPPORT),i2c_pca9555_readWord,exclusion,Function,4

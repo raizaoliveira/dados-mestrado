@@ -1,0 +1,10 @@
+True,axis_array,additon,Variable,1
+True,vec,parameter,Function,1
+True,header,parameter,Function,1
+True,time_tic_just,parameter,Function,1
+True,timelabel_bottom,additon,Variable,1
+True,t,additon,Variable,1
+True,tmpy,additon,Variable,1
+True,plot_bounds,additon,Variable,1
+True,yoffset,additon,Variable,1
+True,tmpx,additon,Variable,1

@@ -1,0 +1,9 @@
+!def(EXTENDED_COLOR_SPECS),filled_quadrangle,additon,Function,5
+True,time_tic_just,parameter,Function,5
+def(EXTENDED_COLOR_SPECS),corners,additon,Variable,5
+def(EXTENDED_COLOR_SPECS),filled_quadrangle,exclusion,Function,5
+True,icorners,additon,Variable,5
+!def(EXTENDED_COLOR_SPECS),icorners,exclusion,Variable,5
+True,place_labels,exclusion,Function,5
+!def(EXTENDED_COLOR_SPECS),corners,exclusion,Variable,5
+def(EXTENDED_COLOR_SPECS),icorners,additon,Variable,5

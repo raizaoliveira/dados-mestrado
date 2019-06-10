@@ -1,0 +1,4 @@
+True,
+def(TEST),
+(def(notdef)&def(DEBUG)),
+def(DEBUG),

@@ -1,0 +1,3 @@
+def(ZBUS_SUPPORT),True
+def(NTP_SUPPORT),True
+True,def(DNS_SUPPORT)

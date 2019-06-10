@@ -1,0 +1,5 @@
+!def(USE_SYSTEM_TIME),tm,exclusion,Variable,3
+!def(USE_SYSTEM_TIME),gtimegm,additon,Function,3
+def(USE_SYSTEM_TIME),tm,additon,Variable,3
+True,time_tic_just,parameter,Function,3
+def(USE_SYSTEM_TIME),gtimegm,exclusion,Function,3

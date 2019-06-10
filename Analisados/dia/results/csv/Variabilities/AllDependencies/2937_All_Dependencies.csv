@@ -1,0 +1,17 @@
+def(G_OS_WIN32),!def(GNOME)
+(!def(GNOME_PRINT)&def(GNOME)),True
+True,!def(GNOME)
+True,def(GNOME)
+def(DEBUG_CUSTOM),True
+!def(HAVE_FREETYPE),True
+!def(GNOME_PRINT),True
+True,!def(G_OS_WIN32)
+True,!def(HAVE_FREETYPE)
+def(TRACE_DIST),True
+def(GNOME_PRINT),True
+def(HAVE_LIBART),True
+def(NEW_TEXT_EDIT),True
+def(HAVE_FREETYPE),True
+def(PAGELAYOUT_TEST),True
+!def(GNOME),True
+True,def(FOR_TRANSLATORS_ONLY)

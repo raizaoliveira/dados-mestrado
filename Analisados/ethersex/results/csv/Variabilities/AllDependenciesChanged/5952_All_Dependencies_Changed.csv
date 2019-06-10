@@ -1,0 +1,4 @@
+!def(TFTP_CRC_SUPPORT),True
+def(TFTP_CRC_SUPPORT),True
+True,def(TEENSY_SUPPORT)
+True,def(TFTP_CRC_SUPPORT)

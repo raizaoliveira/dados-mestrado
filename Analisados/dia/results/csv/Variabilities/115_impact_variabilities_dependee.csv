@@ -1,0 +1,4 @@
+def(GNOME),get_menu_item_from_path,exclusion,Function,2
+True,ddisplay_active,additon,Function,2
+def(GNOME),path,exclusion,Variable,2
+def(GNOME),menus_get_item_from_path,additon,Function,2

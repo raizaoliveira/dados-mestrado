@@ -1,0 +1,3 @@
+True,uip_appdata,exclusion,Variable,4
+!def(UIP_CONF_EXTERNAL_BUFFER),uip_buf,additon,Variable,4
+True,rfm12_trans,exclusion,Function,4

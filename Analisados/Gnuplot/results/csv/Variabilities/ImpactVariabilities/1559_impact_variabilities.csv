@@ -1,0 +1,6 @@
+!def(USE_SYSTEM_TIME),
+def(__ZTC__),
+def(TEST_STRFTIME),
+True,
+def(BADRAND),
+def(TEST_TIME),

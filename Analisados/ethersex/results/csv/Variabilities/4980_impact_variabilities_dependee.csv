@@ -1,0 +1,13 @@
+True,PIN_SET,additon,Function,6
+True,hd44780_hw_init,exclusion,Function,6
+True,addcrontest,additon,Function,6
+True,len,additon,Variable,6
+True,PIN_CLEAR,additon,Function,6
+True,rfm12_modul,exclusion,Variable,6
+True,tanklevel_get,exclusion,Function,6
+True,test,exclusion,Function,6
+True,hbridge_disable,exclusion,Function,6
+True,rfm12_trans,exclusion,Function,6
+True,tanklevel_params_ram,exclusion,Variable,6
+def(ECMD_USB_SUPPORT),usbFunctionSetup,additon,Function,6
+True,data,additon,Variable,6

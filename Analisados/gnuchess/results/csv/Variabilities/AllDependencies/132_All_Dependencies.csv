@@ -1,0 +1,5 @@
+True,def(HAVE_LIBREADLINE)
+True,def(NO_INLINE)
+def(NO_INLINE),True
+True,def(THREATEXT)
+def(THREATEXT),True

@@ -1,0 +1,5 @@
+def(DEBUG),True
+def(DYNAMIC),True
+def(TEST),True
+True,!def(HAVE_LIBREADLINE)
+True,def(DEBUG)

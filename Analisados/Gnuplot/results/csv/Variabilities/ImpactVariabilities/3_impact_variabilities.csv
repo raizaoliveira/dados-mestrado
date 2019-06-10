@@ -1,0 +1,4 @@
+(def(MSDOS)&!def(vms)),
+(!def(vms)&!def(MSDOS)&def(VFORK)&(!def(MSDOS)|def(vms))),
+True,
+!def(vms),

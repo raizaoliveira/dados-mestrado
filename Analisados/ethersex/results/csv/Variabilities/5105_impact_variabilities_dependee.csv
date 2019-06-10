@@ -1,0 +1,9 @@
+True,recv_buffer,exclusion,Variable,3
+True,cmd,exclusion,Variable,3
+(def(RFM12_ASK_2272_SUPPORT)&def(TEENSY_SUPPORT)),getIntFromString,parameter,Function,3
+True,len,exclusion,Variable,3
+True,state,exclusion,Variable,3
+True,buf,exclusion,Variable,3
+True,write_buffer,exclusion,Variable,3
+True,output,exclusion,Variable,3
+True,text,exclusion,Variable,3

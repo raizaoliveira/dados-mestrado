@@ -1,0 +1,4 @@
+def(HAVE_LIBART),display_update_menu_state,exclusion,Function,3
+def(HAVE_LIBART),new_libart_renderer,exclusion,Function,3
+!def(GNOME),get_language_list,parameter,Function,3
+def(HAVE_LIBART),destroy_libart_renderer,additon,Function,3

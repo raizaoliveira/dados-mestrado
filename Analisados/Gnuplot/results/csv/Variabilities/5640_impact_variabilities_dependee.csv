@@ -1,0 +1,9 @@
+True,set_terminal,exclusion,Function,4
+True,set_style,exclusion,Function,4
+True,time_tic_just,parameter,Function,4
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_terminal,additon,Function,4
+True,set_color,additon,Function,4
+True,reset_key,additon,Function,4
+True,set_colorbox,exclusion,Function,4
+True,set_ticslevel,additon,Function,4
+True,set_ticscale,additon,Function,4

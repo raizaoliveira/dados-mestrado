@@ -1,0 +1,7 @@
+True,!def(GNOME)
+def(HAVE_LIBART),True
+def(HAVE_LIBART),!def(HAVE_LIBART)
+True,def(HAVE_LIBART)
+True,def(GNOME)
+!def(GNOME),True
+def(GNOME),True

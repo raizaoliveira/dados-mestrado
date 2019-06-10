@@ -1,0 +1,6 @@
+True,charconv_utf8_to_local8,exclusion,Function,3
+!def(GNOME),get_language_list,parameter,Function,3
+!def(UNICODE_WORK_IN_PROGRESS),charconv_utf8_to_local8,exclusion,Function,3
+True,name,exclusion,Variable,3
+True,description,exclusion,Variable,3
+!def(UNICODE_WORK_IN_PROGRESS),new_sheet,exclusion,Function,3

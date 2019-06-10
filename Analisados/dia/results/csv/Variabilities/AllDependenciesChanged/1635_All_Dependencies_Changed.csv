@@ -1,0 +1,4 @@
+def(HAVE_FREETYPE),True
+True,def(FOR_TRANSLATORS_ONLY)
+def(INITIAL_IMAGE),True
+True,!def(GNOME)

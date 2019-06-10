@@ -1,0 +1,13 @@
+inputstr,1,variable
+userinput,1,variable
+beta,1,variable
+MakeMove,1,function
+alpha,1,variable
+UnmakeMove,1,function
+Search,1,function
+MakeNullMove,1,function
+score,1,variable
+nodetype,1,variable
+depth,1,variable
+ply,1,variable
+UnmakeNullMove,1,function

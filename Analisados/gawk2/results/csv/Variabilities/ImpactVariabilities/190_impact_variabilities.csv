@@ -1,0 +1,7 @@
+def(NOMEMCMP),
+True,
+def(TEST),
+def(DEBUG),
+def(DYNAMIC),
+!def(NO_VMS_PIPES),
+(def(notdef)&def(DEBUG)),

@@ -1,0 +1,2 @@
+!def(GNOME),get_language_list,additon,Function,1
+!def(GNOME),intl_get_language_list,exclusion,Function,1

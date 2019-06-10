@@ -1,0 +1,5 @@
+True,def(GNUPLOT_HISTORY)
+def(EAM_OBJECTS),True
+def(USE_SYSTEM_TIME),True
+True,!def(EAM_OBJECTS)
+True,(!def(VOLATILE_REFRESH)&def(EAM_OBJECTS))

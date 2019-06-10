@@ -1,0 +1,4 @@
+def(RC4_SUPPORT),True
+!def(TEENSY_SUPPORT),True
+True,def(DNS_SUPPORT)
+True,!def(UIP_CONF_EXTERNAL_BUFFER)

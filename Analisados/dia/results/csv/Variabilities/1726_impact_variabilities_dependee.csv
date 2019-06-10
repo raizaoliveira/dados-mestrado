@@ -1,0 +1,4 @@
+True,renderer,additon,Variable,3
+def(HAVE_LIBART),renderer,exclusion,Variable,3
+def(HAVE_LIBART),draw_pixel_line,additon,Function,3
+!def(GNOME),get_language_list,parameter,Function,3

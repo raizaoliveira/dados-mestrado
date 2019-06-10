@@ -1,0 +1,14 @@
+done,1,function
+memcpy,1,function
+complex,1,function
+os_error,1,function
+at,1,variable
+getenv,1,variable
+TEK40move,1,function
+do_shell,1,function
+read_line,1,function
+pop,1,function
+integer,1,function
+real,1,function
+push,1,function
+undefined,1,variable

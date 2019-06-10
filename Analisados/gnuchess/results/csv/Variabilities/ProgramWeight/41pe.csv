@@ -1,0 +1,11 @@
+userinput,1,variable
+UnmakeMove,1,function
+killer1,1,variable
+MakeNullMove,1,function
+MakeMove,1,function
+UnmakeNullMove,1,function
+Hashmv,1,variable
+SqAtakd,1,function
+IsLegalMove,1,function
+killer2,1,variable
+Search,1,function

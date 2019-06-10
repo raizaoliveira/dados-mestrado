@@ -1,0 +1,9 @@
+True,cmd,exclusion,Variable,2
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,2
+True,text,exclusion,Variable,2
+True,buf,exclusion,Variable,2
+True,recv_buffer,exclusion,Variable,2
+True,state,exclusion,Variable,2
+True,len,exclusion,Variable,2
+True,output,exclusion,Variable,2
+True,write_buffer,exclusion,Variable,2

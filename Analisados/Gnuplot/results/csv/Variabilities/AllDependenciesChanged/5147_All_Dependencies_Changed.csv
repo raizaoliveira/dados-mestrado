@@ -1,0 +1,6 @@
+True,!def(GP_STRING_VARS)
+!def(GP_STRING_VARS),True
+def(EAM_OBJECTS),True
+def(USE_SYSTEM_TIME),True
+True,def(GP_STRING_VARS)
+def(GP_STRING_VARS),True

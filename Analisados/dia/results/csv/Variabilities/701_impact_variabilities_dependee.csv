@@ -1,0 +1,4 @@
+!def(GNOME),get_language_list,parameter,Function,3
+True,dialog,additon,Variable,3
+!def(GNOME),translate_entries,parameter,Function,3
+True,ddisp,additon,Variable,3

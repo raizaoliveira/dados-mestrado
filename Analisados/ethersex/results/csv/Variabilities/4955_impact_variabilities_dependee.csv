@@ -1,0 +1,5 @@
+(def(RFM12_ASK_2272_SUPPORT)&def(TEENSY_SUPPORT)),getIntFromString,parameter,Function,3
+True,ptr,additon,Variable,3
+True,set,exclusion,Function,3
+True,tanklevel_get,additon,Function,3
+True,tanklevel_params_ram,additon,Variable,3

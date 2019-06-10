@@ -1,0 +1,4 @@
+def(USE_MOUSE),True
+def(USE_SYSTEM_TIME),True
+True,def(GP_STRING_VARS)
+def(GP_STRING_VARS),True

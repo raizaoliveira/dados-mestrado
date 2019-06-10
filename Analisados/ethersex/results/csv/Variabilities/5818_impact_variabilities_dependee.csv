@@ -1,0 +1,4 @@
+True,vnc_conn,exclusion,Variable,2
+True,httpd_handle_ecmd_setup,additon,Function,2
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,2
+True,httpd_handle_ecmd,exclusion,Function,2

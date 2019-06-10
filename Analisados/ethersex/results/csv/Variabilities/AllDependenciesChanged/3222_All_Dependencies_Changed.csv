@@ -1,0 +1,2 @@
+def(HTTPD_AUTH_SUPPORT),True
+True,def(HTTPD_AUTH_SUPPORT)

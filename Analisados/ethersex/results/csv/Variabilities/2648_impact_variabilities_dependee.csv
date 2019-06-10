@@ -1,0 +1,8 @@
+True,addcrontest,additon,Function,3
+True,stella_output_channels,exclusion,Function,3
+True,stella_setValue,additon,Function,3
+True,stella_loadFromEEROM,exclusion,Function,3
+def(PS2_SUPPORT),data,exclusion,Variable,3
+True,stella_storeToEEROM,exclusion,Function,3
+True,stella_getValue,additon,Function,3
+True,test,exclusion,Function,3

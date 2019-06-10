@@ -1,0 +1,12 @@
+def(STRICT),True
+True,!def(USG)
+True,def(notdef)
+!def(STRICT),True
+True,def(USG)
+(def(notdef)&def(DEBUG)),def(DEBUG)
+def(DEBUG),True
+!def(USG),True
+def(USG),True
+(def(notdef)&def(DEBUG)),True
+True,def(DEBUG)
+def(notdef),True

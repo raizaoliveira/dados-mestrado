@@ -1,0 +1,4 @@
+True,
+def(TFTP_SUPPORT),
+def(RC4_SUPPORT),
+def(DEBUG),

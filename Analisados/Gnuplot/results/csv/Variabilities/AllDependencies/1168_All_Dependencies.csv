@@ -1,0 +1,8 @@
+True,def(TEST_STRFTIME)
+!def(LITE),True
+def(TEST_TERMDOC),True
+!def(NO_LOCALE_H),True
+def(TEST_STRFTIME),True
+True,!def(BITMAPDEBUG)
+True,def(NO_LOCALE_H)
+def(NO_LOCALE_H),True

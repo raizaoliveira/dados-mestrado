@@ -1,0 +1,7 @@
+True,set_zeroaxis,exclusion,Function,6
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_xyzlabel,exclusion,Function,6
+True,set_ticslevel,additon,Function,6
+True,set_xyzlabel,additon,Function,6
+True,reset_key,additon,Function,6
+True,time_tic_just,parameter,Function,6
+True,set_command,additon,Function,6

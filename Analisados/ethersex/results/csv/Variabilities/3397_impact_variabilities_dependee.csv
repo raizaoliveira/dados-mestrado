@@ -1,0 +1,9 @@
+def(PS2_SUPPORT),data,exclusion,Variable,2
+True,lcd_writeCmd,exclusion,Function,2
+True,rfm12_trans,exclusion,Function,2
+True,lcd_writeCmdByte,additon,Function,2
+True,stella_getValue,additon,Function,2
+True,stella_loadFromEEROM,additon,Function,2
+True,stella_storeToEEROM,additon,Function,2
+True,stella_setValue,additon,Function,2
+True,httpd_cleanup,additon,Function,2

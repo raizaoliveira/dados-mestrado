@@ -1,0 +1,7 @@
+!def(GNOME),get_language_list,parameter,Function,3
+True,dia,additon,Variable,3
+True,ddisp,additon,Variable,3
+True,display_nmenu_items,additon,Variable,3
+True,toolbox_nmenu_items,additon,Variable,3
+True,display_menu_items,additon,Variable,3
+True,toolbox_menu_items,additon,Variable,3

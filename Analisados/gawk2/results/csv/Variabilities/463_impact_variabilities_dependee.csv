@@ -1,0 +1,17 @@
+True,do_readfile,parameter,Function,3
+True,do_writea,parameter,Function,3
+True,do_waitpid,parameter,Function,3
+True,err,parameter,Function,3
+True,do_mkarray,parameter,Function,3
+True,do_chr,parameter,Function,3
+True,fd,type,Variable,3
+True,do_stat,parameter,Function,3
+True,array_vname,parameter,Function,3
+True,zaxxon,parameter,Function,3
+True,do_chdir,parameter,Function,3
+True,do_fork,parameter,Function,3
+True,do_check_arg,parameter,Function,3
+def(DYNAMIC),strerror,type,Function,3
+True,do_reada,parameter,Function,3
+True,strerror,modifier,Function,3
+True,do_ord,parameter,Function,3

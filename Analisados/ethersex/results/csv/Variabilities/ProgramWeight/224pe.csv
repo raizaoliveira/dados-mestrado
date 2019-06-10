@@ -1,0 +1,13 @@
+uip_send,1,function
+main,1,function
+psock_send,1,function
+uip_listen,1,function
+chksum,1,function
+read_control_register,1,function
+c,1,variable
+ecmd_net_init,1,function
+psock_init,1,function
+htons,1,function
+psock_readto,1,function
+newdata,1,function
+uip_buf,1,variable

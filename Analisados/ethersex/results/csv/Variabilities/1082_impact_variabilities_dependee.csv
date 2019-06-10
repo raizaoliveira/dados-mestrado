@@ -1,0 +1,7 @@
+True,newdata,additon,Function,3
+def(PSOCK_SUPPORT),psock_init,parameter,Function,3
+True,uip_appdata,exclusion,Variable,3
+def(PSOCK_SUPPORT),send_data,exclusion,Function,3
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,3
+True,uip_len,exclusion,Variable,3
+def(PSOCK_SUPPORT),psock_send,parameter,Function,3

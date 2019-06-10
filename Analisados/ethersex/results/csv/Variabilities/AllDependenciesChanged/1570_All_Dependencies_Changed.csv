@@ -1,0 +1,2 @@
+(!def(DEBUG_USE_SYSLOG)&def(DEBUG)),def(PS2_SUPPORT)
+True,def(DYNDNS_SUPPORT)

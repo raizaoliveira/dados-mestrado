@@ -1,0 +1,8 @@
+True,add_action,additon,Function,4
+def(GP_STRING_VARS),text,additon,Variable,4
+!def(GP_STRING_VARS),text,exclusion,Variable,4
+def(GP_STRING_VARS),a,exclusion,Variable,4
+def(GP_STRING_VARS),parse_additive_expression,exclusion,Function,4
+!def(GP_STRING_VARS),parse_additive_expression,additon,Function,4
+True,time_tic_just,parameter,Function,4
+True,accept_multiplicative_expression,additon,Function,4

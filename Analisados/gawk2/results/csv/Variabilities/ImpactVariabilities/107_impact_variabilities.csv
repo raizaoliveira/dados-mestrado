@@ -1,0 +1,6 @@
+(def(notdef)&def(DEBUG)),
+True,
+def(TEST),
+def(DYNAMIC),
+def(NOMEMCMP),
+def(DEBUG),

@@ -1,0 +1,6 @@
+(def(notdef)&def(DEBUG)),
+def(DYNAMIC),
+(!def(PIPES_SIMULATED)&!def(NO_VMS_PIPES)&((!def(PIPES_SIMULATED)&!def(NO_VMS_PIPES))|((def(NO_VMS_PIPES)|!def(PIPES_SIMULATED))&(def(NO_VMS_PIPES)|!def(PIPES_SIMULATED)|def(STDC_HEADERS))))),
+True,
+def(DEBUG),
+def(TEST),

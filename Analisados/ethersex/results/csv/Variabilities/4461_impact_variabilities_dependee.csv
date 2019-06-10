@@ -1,0 +1,4 @@
+def(FREQCOUNT_DUTY_SUPPORT),freqcount_get_duty,parameter,Function,2
+True,hbridge,additon,Function,2
+True,hbridge_disable,exclusion,Function,2
+True,hbridge_enable,exclusion,Function,2

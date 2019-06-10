@@ -1,0 +1,2 @@
+(def(RFM12_ASK_2272_SUPPORT)&def(TEENSY_SUPPORT)),getIntFromString,parameter,Function,2
+True,ecmd_parse_command,exclusion,Function,2

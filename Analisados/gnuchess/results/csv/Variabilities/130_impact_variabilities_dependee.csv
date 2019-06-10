@@ -1,0 +1,6 @@
+True,alpha,exclusion,Variable,2
+True,score,exclusion,Variable,2
+True,nodetype,exclusion,Variable,2
+True,depth,exclusion,Variable,2
+True,beta,exclusion,Variable,2
+True,ply,exclusion,Variable,2

@@ -1,0 +1,3 @@
+True,setPixel,exclusion,Function,1
+True,lcd_setCursorPos,exclusion,Function,1
+True,set,additon,Function,1

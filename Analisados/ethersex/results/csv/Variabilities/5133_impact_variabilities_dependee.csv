@@ -1,0 +1,5 @@
+True,modbus_recv_timer,additon,Variable,3
+True,crc_calc,additon,Function,3
+True,modbus_crc_calc,exclusion,Function,3
+True,PIN_CLEAR,additon,Function,3
+(def(RFM12_ASK_2272_SUPPORT)&def(TEENSY_SUPPORT)),getIntFromString,parameter,Function,3

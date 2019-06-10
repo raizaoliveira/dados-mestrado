@@ -1,0 +1,3 @@
+!def(USE_SYSTEM_TIME),True
+def(USE_MOUSE),True
+!def(EAM_OBJECTS),True

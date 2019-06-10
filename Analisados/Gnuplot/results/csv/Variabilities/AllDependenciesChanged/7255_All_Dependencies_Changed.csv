@@ -1,0 +1,4 @@
+!def(GPLT_X11_MODE),True
+!def(HAVE_STRSTR),True
+!def(USE_SYSTEM_TIME),True
+!def(CHECK_HEAP_USE),True

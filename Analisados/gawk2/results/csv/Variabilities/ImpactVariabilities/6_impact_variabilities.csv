@@ -1,0 +1,5 @@
+True,
+(def(notdef)&def(DEBUG)),
+!def(DEBUG),
+def(DEBUG),
+def(NOMEMCMP),

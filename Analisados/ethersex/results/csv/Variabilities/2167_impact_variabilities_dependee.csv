@@ -1,0 +1,4 @@
+def(STELLA_RESPONSE),stella_protocol_parse,exclusion,Function,3
+True,recv_len,additon,Variable,3
+def(DNS_SUPPORT),resolv_newdata,exclusion,Function,3
+True,usart_init,exclusion,Function,3

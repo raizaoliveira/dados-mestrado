@@ -1,0 +1,6 @@
+True,RFM12_lastlen,exclusion,Variable,2
+True,uip_len,additon,Variable,2
+def(DYNDNS_SUPPORT),dyndns_query_cb,parameter,Function,2
+True,uip_appdata,additon,Variable,2
+True,RFM12_ret_platz,exclusion,Variable,2
+True,RFM12_lastlen_sj,exclusion,Variable,2

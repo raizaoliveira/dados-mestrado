@@ -1,0 +1,12 @@
+True,height,exclusion,Variable,3
+True,transform_coord,exclusion,Function,3
+def(HAVE_LIBART),set_size,exclusion,Function,3
+True,dia_transform_new,exclusion,Function,3
+True,int_rectangle_union,exclusion,Function,3
+True,dia_interactive_renderer_interface_get_type,exclusion,Function,3
+True,width,exclusion,Variable,3
+True,dia_renderer_get_type,exclusion,Function,3
+def(HAVE_LIBART),new_libart_renderer,exclusion,Function,3
+True,dia_untransform_length,exclusion,Function,3
+True,font_string_width,exclusion,Function,3
+!def(GNOME),get_language_list,parameter,Function,3

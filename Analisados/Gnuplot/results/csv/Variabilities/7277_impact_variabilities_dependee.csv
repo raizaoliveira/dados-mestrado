@@ -1,0 +1,10 @@
+True,time_tic_just,parameter,Function,3
+(!def(HAVE_BCOPY)&!def(HAVE_MEMCPY)),memcpy,additon,Function,3
+True,parse_range,exclusion,Function,3
+(!def(EAM_OBJECTS)&def(BACKWARDS_COMPATIBLE)),set_xyzlabel,exclusion,Function,3
+True,vec,parameter,Function,3
+True,set_xyzlabel,additon,Function,3
+True,axis_array,additon,Variable,3
+True,parse,additon,Function,3
+True,header,parameter,Function,3
+True,pos,exclusion,Variable,3

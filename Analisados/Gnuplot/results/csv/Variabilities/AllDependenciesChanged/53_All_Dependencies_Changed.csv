@@ -1,0 +1,4 @@
+!def(LITE),True
+!def(SYSTEM_TIME),True
+True,!def(SYSTEM_TIME)
+!def(SYSTEM_TIME),def(SYSTEM_TIME)

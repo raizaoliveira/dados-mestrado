@@ -1,0 +1,4 @@
+!def(GNOME),get_language_list,parameter,Function,3
+True,clickedpoint,additon,Variable,3
+True,ddisp,additon,Variable,3
+True,event,additon,Variable,3

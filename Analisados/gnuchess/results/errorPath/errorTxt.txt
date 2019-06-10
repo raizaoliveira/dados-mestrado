@@ -1,0 +1,504 @@
+
+Analysis number: 1
+
+Analysis number: 2
+
+Analysis number: 3
+
+Analysis number: 4
+
+Analysis number: 5
+
+Analysis number: 6
+
+Analysis number: 7
+
+Analysis number: 8
+
+Analysis number: 9
+
+Analysis number: 10
+
+Analysis number: 11
+
+Analysis number: 12
+
+Analysis number: 13
+
+Analysis number: 14
+
+Analysis number: 15
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\cmd.c
+Duplicate short option D with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\cmd.c
+Duplicate short option E with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\output.c
+Duplicate short option I with systemIncludes
+
+Analysis number: 16
+
+Analysis number: 17
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\search.c
+Duplicate short option P with systemIncludes
+
+Analysis number: 18
+
+Analysis number: 19
+
+Analysis number: 20
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\cmd.c
+Duplicate short option U with systemIncludes
+
+Analysis number: 21
+
+Analysis number: 22
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\atak.c
+Duplicate short option W with systemIncludes
+
+Analysis number: 23
+
+Analysis number: 24
+
+Analysis number: 25
+
+Analysis number: 26
+
+Analysis number: 27
+
+Analysis number: 28
+
+Analysis number: 29
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\book.c
+Duplicate short option c with settingsFile
+
+Analysis number: 30
+
+Analysis number: 31
+
+Analysis number: 32
+
+Analysis number: 33
+
+Analysis number: 34
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\eval.c
+Duplicate short option h with systemIncludes
+
+Analysis number: 35
+
+Analysis number: 36
+
+Analysis number: 37
+
+Analysis number: 38
+
+Analysis number: 39
+
+Analysis number: 40
+
+Analysis number: 41
+
+Analysis number: 42
+
+Analysis number: 43
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\eval.c
+Duplicate short option o with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\eval.c
+Duplicate short option p with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\iterate.c
+Duplicate short option r with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\main.c
+Duplicate short option t with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\pgn.c
+Duplicate short option v with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\pgn.c
+Duplicate short option w with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\pgn.c
+Duplicate short option x with systemIncludes
+
+Analysis number: 44
+
+Analysis number: 45
+
+Analysis number: 46
+
+Analysis number: 47
+
+Analysis number: 48
+
+Analysis number: 49
+
+Analysis number: 50
+
+Analysis number: 51
+
+Analysis number: 52
+
+Analysis number: 53
+
+Analysis number: 54
+
+Analysis number: 55
+
+Analysis number: 56
+
+Analysis number: 57
+
+Analysis number: 58
+
+Analysis number: 59
+
+Analysis number: 60
+
+Analysis number: 61
+
+Analysis number: 62
+
+Analysis number: 63
+
+Analysis number: 64
+
+Analysis number: 65
+
+Analysis number: 66
+
+Analysis number: 67
+
+Analysis number: 68
+
+Analysis number: 69
+
+Analysis number: 70
+
+Analysis number: 71
+
+Analysis number: 72
+
+Analysis number: 73
+
+Analysis number: 74
+
+Analysis number: 75
+
+Analysis number: 76
+
+Analysis number: 77
+
+Analysis number: 78
+
+Analysis number: 79
+
+Analysis number: 80
+
+Analysis number: 81
+
+Analysis number: 82
+
+Analysis number: 83
+
+Analysis number: 84
+
+Analysis number: 85
+
+Analysis number: 86
+
+Analysis number: 87
+
+Analysis number: 88
+
+Analysis number: 89
+
+Analysis number: 90
+
+Analysis number: 91
+
+Analysis number: 92
+
+Analysis number: 93
+
+Analysis number: 94
+
+Analysis number: 95
+
+Analysis number: 96
+
+Analysis number: 97
+
+Analysis number: 98
+
+Analysis number: 99
+
+Analysis number: 100
+
+Analysis number: 101
+
+Analysis number: 102
+
+Analysis number: 103
+
+Analysis number: 104
+
+Analysis number: 105
+
+Analysis number: 106
+
+Analysis number: 107
+
+Analysis number: 108
+
+Analysis number: 109
+
+Analysis number: 110
+
+Analysis number: 111
+
+Analysis number: 112
+
+Analysis number: 113
+
+Analysis number: 114
+
+Analysis number: 115
+
+Analysis number: 116
+
+Analysis number: 117
+
+Analysis number: 118
+
+Analysis number: 119
+
+Analysis number: 120
+
+Analysis number: 121
+
+Analysis number: 122
+
+Analysis number: 123
+
+Analysis number: 124
+
+Analysis number: 125
+
+Analysis number: 126
+
+Analysis number: 127
+
+Analysis number: 128
+
+Analysis number: 129
+
+Analysis number: 130
+
+Analysis number: 131
+
+Analysis number: 132
+
+Analysis number: 133
+
+Analysis number: 134
+
+Analysis number: 135
+
+Analysis number: 136
+
+Analysis number: 137
+
+Analysis number: 138
+
+Analysis number: 139
+
+Analysis number: 140
+
+Analysis number: 141
+
+Analysis number: 142
+C:\Users\Perseu\runtime-EclipseApplication\gnuchess\analysis\debug.c
+null
+
+Analysis number: 143
+
+Analysis number: 144
+
+Analysis number: 145
+
+Analysis number: 146
+
+Analysis number: 147
+
+Analysis number: 148
+
+Analysis number: 149
+
+Analysis number: 150
+
+Analysis number: 151
+
+Analysis number: 152
+
+Analysis number: 153
+
+Analysis number: 154
+
+Analysis number: 155
+
+Analysis number: 156
+
+Analysis number: 157
+
+Analysis number: 158
+
+Analysis number: 159
+
+Analysis number: 160
+
+Analysis number: 161
+
+Analysis number: 162
+
+Analysis number: 163
+
+Analysis number: 164
+
+Analysis number: 165
+
+Analysis number: 166
+
+Analysis number: 167
+
+Analysis number: 168
+
+Analysis number: 169
+
+Analysis number: 170
+
+Analysis number: 171
+
+Analysis number: 172
+
+Analysis number: 173
+
+Analysis number: 174
+
+Analysis number: 175
+
+Analysis number: 176
+
+Analysis number: 177
+
+Analysis number: 178
+
+Analysis number: 179
+
+Analysis number: 180
+
+Analysis number: 181
+
+Analysis number: 182
+
+Analysis number: 183
+
+Analysis number: 184
+
+Analysis number: 185
+
+Analysis number: 186
+
+Analysis number: 187
+
+Analysis number: 188
+
+Analysis number: 189
+
+Analysis number: 190
+
+Analysis number: 191
+
+Analysis number: 192
+
+Analysis number: 193
+
+Analysis number: 194
+
+Analysis number: 195
+
+Analysis number: 196
+
+Analysis number: 197
+
+Analysis number: 198
+
+Analysis number: 199
+
+Analysis number: 200
+
+Analysis number: 201
+
+Analysis number: 202
+
+Analysis number: 203
+
+Analysis number: 204
+
+Analysis number: 205
+
+Analysis number: 206
+
+Analysis number: 207
+
+Analysis number: 208
+
+Analysis number: 209
+
+Analysis number: 210
+
+Analysis number: 211
+
+Analysis number: 212
+
+Analysis number: 213
+
+Analysis number: 214
+
+Analysis number: 215
+
+Analysis number: 216
+
+Analysis number: 217
+
+Analysis number: 218
+
+Analysis number: 219
+
+Analysis number: 220
+
+Analysis number: 221
+
+Analysis number: 222
+
+Analysis number: 223
+
+Analysis number: 224
+
+Analysis number: 225
+
+Analysis number: 226
+
+Analysis number: 227
+
+Analysis number: 228
+
+Analysis number: 229
+
+Analysis number: 230
+
+Analysis number: 231
+
+Analysis number: 232
+
+Analysis number: 233
+
+Analysis number: 234
+
+Analysis number: 235
+
+Analysis number: 236

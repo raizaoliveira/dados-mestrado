@@ -1,0 +1,7 @@
+True,def(SYSTEM_TIME)
+!def(SYSTEM_TIME),def(SYSTEM_TIME)
+def(SYSTEM_TIME),!def(SYSTEM_TIME)
+def(TEST_TIME),!def(SYSTEM_TIME)
+def(SYSTEM_TIME),True
+!def(SYSTEM_TIME),True
+True,!def(SYSTEM_TIME)

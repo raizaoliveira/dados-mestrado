@@ -1,0 +1,8 @@
+True,
+def(HAVE_LIBART),
+!def(GNOME),
+def(GNOME),
+!def(GNOME_PRINT),
+def(DEBUG_CUSTOM),
+def(PAGELAYOUT_TEST),
+!def(HAVE_LIBART),

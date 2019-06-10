@@ -1,0 +1,4 @@
+True,en,exclusion,Variable,4
+True,stream,exclusion,Variable,4
+def(I2C_TSL2550_SUPPORT),data,additon,Variable,4
+def(TEENSY_SUPPORT),getIntFromString,parameter,Function,4

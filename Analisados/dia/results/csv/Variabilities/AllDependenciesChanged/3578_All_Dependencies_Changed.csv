@@ -1,0 +1,3 @@
+def(DEBUG),True
+True,!def(GNOME)
+True,def(DEBUG)

@@ -1,0 +1,3 @@
+!def(CURL_DISABLE_HTTP),True
+True,!def(CURL_DISABLE_HTTP)
+def(MALLOCDEBUG),True

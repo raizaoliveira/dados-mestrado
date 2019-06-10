@@ -1,0 +1,8 @@
+val,1,variable
+pf_init,1,function
+plugin_register_read,1,function
+pf_read,1,function
+plugin_register_init,1,function
+interface_read,1,function
+interface_config,1,function
+plugin_dispatch_values,1,function

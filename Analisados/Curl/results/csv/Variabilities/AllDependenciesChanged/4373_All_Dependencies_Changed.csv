@@ -1,0 +1,5 @@
+(!def(HAVE_GSSAPI)&!def(USE_SSLEAY)),True
+True,(!def(HAVE_GSSAPI)&!def(USE_SSLEAY))
+True,!def(USE_SSLEAY)
+(def(_FORM_DEBUG)&!def(CURL_DISABLE_HTTP)),!def(CURL_DISABLE_HTTP)
+(def(ENABLE_IPV6)&!def(HAVE_INET_PTON)),!def(HAVE_INET_PTON)

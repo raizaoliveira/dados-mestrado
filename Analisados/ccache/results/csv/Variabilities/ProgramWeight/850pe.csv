@@ -1,0 +1,11 @@
+lockfile,1,variable
+cc_log,1,function
+argvtos,1,function
+lockfile_release,1,function
+mkstemp,1,function
+lock_staleness_limit,1,variable
+stats_file,1,variable
+lockfile_acquire,1,function
+staleness_limit,1,variable
+x_malloc,1,function
+getopt_long,1,function

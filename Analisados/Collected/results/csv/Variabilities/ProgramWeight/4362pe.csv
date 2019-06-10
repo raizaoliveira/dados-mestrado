@@ -1,0 +1,6 @@
+wireless_percent_to_power,1,function
+kc,1,variable
+plugin_log,1,function
+ksp,1,variable
+submit,1,function
+wireless_read,1,function

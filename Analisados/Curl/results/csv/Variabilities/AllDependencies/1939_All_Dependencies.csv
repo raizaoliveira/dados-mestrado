@@ -1,0 +1,16 @@
+def(_OLD_FORM_DEBUG),True
+def(HAVE_GETPASS_R),True
+True,!def(HAVE_STRTOK_R)
+def(KRB4),True
+True,!def(WIN32)
+def(DPRINTF_DEBUG2),True
+def(_FORM_DEBUG),True
+def(_NETRC_DEBUG),True
+def(TEST_DECODE),True
+def(DPRINTF_DEBUG),True
+def(CURL_COOKIE_DEBUG),True
+def(MALLOCDEBUG),True
+def(TEST_ENCODE),True
+def(HAVE_O_NONBLOCK),True
+True,def(_FORM_DEBUG)
+def(HAVE_FIONBIO),True

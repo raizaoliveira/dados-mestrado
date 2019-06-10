@@ -1,0 +1,13 @@
+True,def(GLOBURL)
+def(DPRINTF_DEBUG2),True
+def(_NETRC_DEBUG),True
+!def(WIN32),True
+def(WIN32),!def(WIN32)
+def(GLOBURL),True
+def(_FORM_DEBUG),True
+def(WIN32),True
+(def(HAVE_RAND_STATUS)&def(USE_SSLEAY)&(!def(HAVE_RAND_SCREEN)|!def(USE_SSLEAY))),True
+True,def(DPRINTF_DEBUG2)
+(def(USE_SSLEAY)&!def(HAVE_RAND_STATUS)&(!def(HAVE_RAND_SCREEN)|!def(USE_SSLEAY))),True
+!def(GLOBURL),True
+def(DPRINTF_DEBUG),True

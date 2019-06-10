@@ -1,0 +1,3 @@
+!def(DEBUGBUILD),True
+True,def(DEBUGBUILD)
+def(DEBUGBUILD),True

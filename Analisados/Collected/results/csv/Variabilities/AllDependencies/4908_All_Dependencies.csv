@@ -1,0 +1,7 @@
+def(RTNL_DUMP_FILTER_FIVE_ARGS),True
+def(ASN_NULL),True
+True,!def(HAVE_LIBKSTAT)
+!def(HAVE_LIBKSTAT),True
+!def(RTNL_DUMP_FILTER_FIVE_ARGS),True
+def(HAVE_VARNISH_V2),True
+!def(ASN_NULL),True

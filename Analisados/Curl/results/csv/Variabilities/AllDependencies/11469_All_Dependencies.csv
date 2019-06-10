@@ -1,0 +1,14 @@
+True,!def(HAVE_STRTOK_R)
+def(TEST_ENCODE),True
+def(HAVE_GETPASS_R),True
+def(TEST_DECODE),True
+def(_OLD_FORM_DEBUG),True
+def(_NETRC_DEBUG),True
+def(_FORM_DEBUG),True
+def(CURL_COOKIE_DEBUG),True
+True,!def(WIN32)
+def(KRB4),True
+def(DPRINTF_DEBUG),True
+True,def(_FORM_DEBUG)
+def(MALLOCDEBUG),True
+def(DPRINTF_DEBUG2),True

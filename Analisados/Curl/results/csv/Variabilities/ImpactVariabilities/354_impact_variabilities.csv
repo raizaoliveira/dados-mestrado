@@ -1,0 +1,5 @@
+def(DPRINTF_DEBUG2),
+def(DPRINTF_DEBUG),
+True,
+!def(HAVE_STRDUP),
+def(_FORM_DEBUG),

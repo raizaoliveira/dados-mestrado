@@ -1,0 +1,3 @@
+True,def(_WIN32)
+True,!def(HAVE_GETOPT_LONG)
+True,!def(HAVE_MKSTEMP)

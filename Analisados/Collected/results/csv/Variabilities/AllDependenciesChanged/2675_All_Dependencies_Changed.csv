@@ -1,0 +1,3 @@
+def(KERNEL_LINUX),True
+(!def(HAVE_LIBKSTAT)&def(HAVE_LIBRRD)),True
+!def(HAVE_LIBKSTAT),True

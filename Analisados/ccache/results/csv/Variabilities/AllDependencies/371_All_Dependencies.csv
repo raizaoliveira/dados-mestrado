@@ -1,0 +1,4 @@
+True,def(TEST_MDFOUR)
+def(TEST_MDFOUR),True
+True,!def(HAVE_MKSTEMP)
+!def(HAVE_STRNDUP),True

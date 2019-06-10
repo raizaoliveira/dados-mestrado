@@ -1,0 +1,5 @@
+!def(CURL_DISABLE_HTTP),FormParse,exclusion,Function,3
+True,curl_mvsprintf,exclusion,Function,3
+def(WIN32),check_wsock2,parameter,Function,3
+True,post,exclusion,Variable,3
+True,flags,exclusion,Variable,3

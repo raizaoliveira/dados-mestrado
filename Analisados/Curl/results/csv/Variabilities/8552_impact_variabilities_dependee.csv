@@ -1,0 +1,3 @@
+def(CURLDEBUG),multi_runsingle,additon,Function,2
+True,Curl_http_connect,additon,Function,2
+True,easy,exclusion,Variable,2

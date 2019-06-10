@@ -1,0 +1,7 @@
+def(CURLDEBUG),multi_runsingle,exclusion,Function,3
+def(WIN32),check_wsock2,parameter,Function,3
+True,data,additon,Variable,3
+True,lock,parameter,Function,3
+True,easy,additon,Variable,3
+True,multi,additon,Variable,3
+True,unlock,parameter,Function,3

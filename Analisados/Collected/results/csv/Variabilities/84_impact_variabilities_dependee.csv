@@ -1,0 +1,2 @@
+(!def(HAVE_LIBKSTAT)&!def(HAVE_LIBRRD)),sstrncpy,exclusion,Function,2
+(!def(HAVE_LIBKSTAT)&def(HAVE_LIBRRD)),rrd_update_file,additon,Function,2

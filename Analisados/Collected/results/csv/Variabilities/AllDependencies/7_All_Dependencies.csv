@@ -1,0 +1,7 @@
+True,def(HAVE_VARNISH_V2)
+def(ASN_NULL),True
+True,def(KERNEL_LINUX)
+def(HAVE_VARNISH_V2),True
+def(KERNEL_LINUX),True
+True,def(HAVE_LIBKSTAT)
+!def(ASN_NULL),True

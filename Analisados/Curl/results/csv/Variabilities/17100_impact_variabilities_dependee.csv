@@ -1,0 +1,4 @@
+(!def(CURL_DISABLE_VERBOSE_STRINGS)&!def(CURL_DISABLE_TFTP)),tftp_connect_for_rx,additon,Function,2
+True,curlx_tvnow,additon,Function,2
+True,Curl_speedcheck,additon,Function,2
+(!def(CURL_DISABLE_VERBOSE_STRINGS)&!def(CURL_DISABLE_TFTP)),tftp_connect_for_tx,exclusion,Function,2

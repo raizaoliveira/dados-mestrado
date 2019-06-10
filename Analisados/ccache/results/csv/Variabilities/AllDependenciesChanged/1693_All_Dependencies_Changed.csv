@@ -1,0 +1,6 @@
+def(TEST_LOCKFILE),def(_WIN32)
+!def(_WIN32),True
+def(INFLATE_ALLOW_INVALID_DISTANCE_TOOFAR_ARRR),True
+!def(_WIN32),def(_WIN32)
+True,def(_WIN32)
+def(_WIN32),True

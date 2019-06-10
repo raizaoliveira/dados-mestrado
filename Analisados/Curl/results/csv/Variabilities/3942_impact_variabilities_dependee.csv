@@ -1,0 +1,6 @@
+!def(USE_SSLEAY),http_auth_headers,additon,Function,3
+True,conn,additon,Variable,3
+True,Curl_http,exclusion,Function,3
+True,Curl_output_basic,additon,Function,3
+True,Curl_output_basic_proxy,exclusion,Function,3
+True,data,additon,Variable,3

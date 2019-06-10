@@ -1,0 +1,2 @@
+def(DPRINTF_DEBUG2),True
+def(_NETRC_DEBUG),True

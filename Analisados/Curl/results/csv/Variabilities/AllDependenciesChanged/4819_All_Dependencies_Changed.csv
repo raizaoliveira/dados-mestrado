@@ -1,0 +1,7 @@
+!def(CURL_DISABLE_HTTP),True
+!def(USE_SSLEAY),True
+def(USE_SSLEAY),True
+(!def(HAVE_GSSAPI)&!def(USE_SSLEAY)),True
+True,!def(CURL_DISABLE_HTTP)
+True,def(WIN32)
+True,(!def(HAVE_GSSAPI)&!def(USE_SSLEAY))

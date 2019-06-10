@@ -1,0 +1,8 @@
+def(WIN32),check_wsock2,parameter,Function,3
+True,Curl_http,exclusion,Function,3
+True,conn,exclusion,Variable,3
+!def(CURL_DISABLE_HTTP),conn,exclusion,Variable,3
+True,Curl_output_basic,additon,Function,3
+True,request,exclusion,Variable,3
+True,Curl_output_basic_proxy,exclusion,Function,3
+True,Curl_http_auth_stage,additon,Function,3

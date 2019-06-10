@@ -1,0 +1,7 @@
+def(DPRINTF_DEBUG),True
+True,def(DPRINTF_DEBUG2)
+def(_FORM_DEBUG),True
+(def(HAVE_TERMIOS_H)&def(WIN32)&(!def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))&(def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))),((def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))&(!def(HAVE_TERMIOS_H)|!def(WIN32)|(def(HAVE_TERMIO_H)&(!def(HAVE_TERMIOS_H)|!def(WIN32)))))
+True,def(_FORM_DEBUG)
+def(_NETRC_DEBUG),True
+def(DPRINTF_DEBUG2),True

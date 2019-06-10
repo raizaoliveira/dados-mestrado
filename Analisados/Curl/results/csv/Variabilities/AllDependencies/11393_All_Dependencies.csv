@@ -1,0 +1,9 @@
+def(_NETRC_DEBUG),True
+def(MALLOCDEBUG),True
+def(KRB4),True
+def(_FORM_DEBUG),True
+def(TEST_DECODE),True
+True,!def(HAVE_STRTOK_R)
+def(TEST_ENCODE),True
+def(DPRINTF_DEBUG2),True
+def(DPRINTF_DEBUG),True

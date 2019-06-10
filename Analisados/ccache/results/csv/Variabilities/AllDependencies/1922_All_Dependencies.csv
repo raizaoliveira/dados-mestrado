@@ -1,0 +1,15 @@
+def(SIGQUIT),True
+def(_WIN32),!def(_WIN32)
+True,!def(HAVE_GETOPT_LONG)
+True,def(INFLATE_ALLOW_INVALID_DISTANCE_TOOFAR_ARRR)
+False,True
+True,def(_WIN32)
+True,def(SIGQUIT)
+def(_WIN32),True
+!def(_WIN32),True
+True,!def(_WIN32)
+!def(_WIN32),def(_WIN32)
+def(INFLATE_ALLOW_INVALID_DISTANCE_TOOFAR_ARRR),True
+def(SIGHUP),True
+def(MAKEFIXED),True
+def(TEST_LOCKFILE),True

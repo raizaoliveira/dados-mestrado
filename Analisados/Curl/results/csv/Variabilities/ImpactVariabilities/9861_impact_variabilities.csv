@@ -1,0 +1,7 @@
+def(_FORM_DEBUG),
+def(DPRINTF_DEBUG2),
+def(DPRINTF_DEBUG),
+!def(HAVE_STRDUP),
+True,
+def(WIN32),
+!def(WIN32),

@@ -1,0 +1,14 @@
+def(DEBUGBUILD),curlx_strdup,exclusion,Function,3
+True,variables,additon,Variable,3
+True,easy,additon,Variable,3
+True,Curl_gss_init_sec_context,exclusion,Function,3
+True,negotiate,exclusion,Function,3
+True,now,additon,Variable,3
+True,buf,exclusion,Variable,3
+True,multi,additon,Variable,3
+def(CURL_DOES_CONVERSIONS),Curl_convert_from_network,exclusion,Function,3
+True,Curl_base64_encode,exclusion,Function,3
+True,data,exclusion,Variable,3
+def(CURL_DOES_CONVERSIONS),Curl_convert_to_network,exclusion,Function,3
+def(CURL_DOES_CONVERSIONS),Curl_convert_clone,exclusion,Function,3
+True,Curl_base64_decode,exclusion,Function,3

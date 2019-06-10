@@ -1,0 +1,3 @@
+def(USE_CYASSL),sockindex,additon,Variable,2
+True,CURLE_OK,additon,Function,2
+def(USE_CYASSL),conn,additon,Variable,2

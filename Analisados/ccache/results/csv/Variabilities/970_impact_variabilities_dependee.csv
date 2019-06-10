@@ -1,0 +1,14 @@
+True,cc_log,additon,Function,2
+True,fatal,additon,Function,2
+def(_WIN32),hash_fd,additon,Function,2
+def(_WIN32),win32getshell,additon,Function,2
+True,args_free,additon,Function,2
+True,find,additon,Function,2
+def(_WIN32),argvtos,exclusion,Function,2
+True,find_executable_in_path,additon,Function,2
+True,args,additon,Variable,2
+True,get_extension,additon,Function,2
+def(_WIN32),hash,additon,Function,2
+True,stats_update,additon,Function,2
+True,hash_fd,additon,Function,2
+def(_WIN32),win32argvtos,additon,Function,2

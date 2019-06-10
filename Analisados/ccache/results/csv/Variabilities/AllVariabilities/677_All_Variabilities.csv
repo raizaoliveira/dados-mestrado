@@ -1,0 +1,5 @@
+def(CCACHE_DEBUG_HASH),
+!def(HAVE_STRNDUP),
+def(HAVE_GETPWUID),
+True,
+!def(HAVE_MKSTEMP),

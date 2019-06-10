@@ -1,0 +1,10 @@
+True,x_strdup,additon,Function,2
+def(_WIN32),hash_command_output,additon,Function,2
+True,fatal,additon,Function,2
+True,dirname,additon,Function,2
+True,find_executable,exclusion,Function,2
+True,find,additon,Function,2
+True,hash,exclusion,Function,2
+def(_WIN32),command,additon,Variable,2
+def(_WIN32),path,additon,Variable,2
+True,clean_up_pending_tmp_files,additon,Function,2

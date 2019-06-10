@@ -1,0 +1,3 @@
+!def(CURL_DISABLE_HTTP),conn,additon,Variable,2
+True,Curl_http,additon,Function,2
+!def(CURL_DISABLE_HTTP),Curl_output_digest,additon,Function,2

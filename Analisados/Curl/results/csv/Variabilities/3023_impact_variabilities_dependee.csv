@@ -1,0 +1,4 @@
+True,curl_mfprintf,exclusion,Function,1
+True,Curl_base64_encode,exclusion,Function,1
+True,curl_mvfprintf,exclusion,Function,1
+True,curl_maprintf,exclusion,Function,1

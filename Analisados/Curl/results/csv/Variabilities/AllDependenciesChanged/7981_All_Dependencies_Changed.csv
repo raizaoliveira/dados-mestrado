@@ -1,0 +1,5 @@
+!def(WIN32),True
+!def(CURL_DISABLE_HTTP),True
+def(WIN32),True
+def(CURLDEBUG),True
+True,def(WIN32)

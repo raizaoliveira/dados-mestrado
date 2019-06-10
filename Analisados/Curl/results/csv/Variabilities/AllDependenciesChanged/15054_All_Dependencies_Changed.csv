@@ -1,0 +1,2 @@
+def(USE_NTLM),True
+def(USE_NTLM),!def(USE_WINDOWS_SSPI)

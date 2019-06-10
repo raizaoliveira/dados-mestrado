@@ -1,0 +1,3 @@
+def(HAVE_O_NONBLOCK),True
+True,def(TEST_ENCODE)
+def(HAVE_FIONBIO),True

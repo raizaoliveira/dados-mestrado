@@ -1,0 +1,8 @@
+(def(HAVE_TERMIOS_H)&def(WIN32)&(!def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))&(def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))),((def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))&(!def(HAVE_TERMIOS_H)|!def(WIN32)|(def(HAVE_TERMIO_H)&(!def(HAVE_TERMIOS_H)|!def(WIN32)))))
+def(USE_SSLEAY),True
+def(DPRINTF_DEBUG),True
+def(_FORM_DEBUG),True
+True,def(_FORM_DEBUG)
+True,def(DPRINTF_DEBUG2)
+def(DPRINTF_DEBUG2),True
+def(_NETRC_DEBUG),True

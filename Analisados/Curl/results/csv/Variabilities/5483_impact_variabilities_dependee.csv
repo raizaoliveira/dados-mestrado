@@ -1,0 +1,7 @@
+def(WIN32),check_wsock2,parameter,Function,3
+True,lock,parameter,Function,3
+!def(CURL_DISABLE_HTTP),curl_formadd,exclusion,Function,3
+!def(CURL_DISABLE_HTTP),curl_formfree,exclusion,Function,3
+!def(CURL_DISABLE_HTTP),Curl_cookie_init,parameter,Function,3
+!def(CURL_DISABLE_HTTP),FormAdd,additon,Function,3
+True,post,additon,Variable,3

@@ -1,0 +1,3 @@
+True,lock,parameter,Function,2
+def(WIN32),check_wsock2,parameter,Function,2
+True,easy,additon,Variable,2

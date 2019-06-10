@@ -1,0 +1,4 @@
+True,def(CURLDEBUG)
+(!def(HAVE_GSSAPI)&!def(USE_SSLEAY)),True
+True,(!def(HAVE_GSSAPI)&!def(USE_SSLEAY))
+def(CURLDEBUG),True

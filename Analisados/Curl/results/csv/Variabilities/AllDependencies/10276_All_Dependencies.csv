@@ -1,0 +1,13 @@
+((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))),(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))&(((!def(KRB4)|def(FTP_SERVER)|(def(FTP_SERVER)&def(KRB4)))&(!def(KRB4)|def(FTP_SERVER)))|(def(FTP_SERVER)&def(KRB4))))
+True,def(_FORM_DEBUG)
+(def(KRB4)&!def(FTP_SERVER)&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))),(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4))))&(!def(FTP_SERVER)|!def(KRB4))&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))))
+def(_NETRC_DEBUG),True
+((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))),True
+(def(HAVE_TERMIOS_H)&def(WIN32)&(!def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))&(def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))),((def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))&(!def(HAVE_TERMIOS_H)|!def(WIN32)|(def(HAVE_TERMIO_H)&(!def(HAVE_TERMIOS_H)|!def(WIN32)))))
+(def(FTP_SERVER)&def(KRB4)&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))),True
+(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4))))&(!def(FTP_SERVER)|!def(KRB4))&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))),True
+def(DPRINTF_DEBUG2),True
+def(DPRINTF_DEBUG),True
+(def(KRB4)&!def(FTP_SERVER)&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))),(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))&(((!def(KRB4)|def(FTP_SERVER)|(def(FTP_SERVER)&def(KRB4)))&(!def(KRB4)|def(FTP_SERVER)))|(def(FTP_SERVER)&def(KRB4))))
+((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))),(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4))))&(!def(FTP_SERVER)|!def(KRB4))&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))))
+def(_FORM_DEBUG),True

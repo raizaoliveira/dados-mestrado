@@ -1,0 +1,3 @@
+def(HAVE_O_NONBLOCK),True
+def(HAVE_FIONBIO),True
+def(MALLOCDEBUG),True

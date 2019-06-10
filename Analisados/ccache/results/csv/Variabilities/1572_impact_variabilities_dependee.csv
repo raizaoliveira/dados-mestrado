@@ -1,0 +1,16 @@
+True,find_executable,additon,Function,2
+def(_WIN32),hash,additon,Function,2
+True,hash,additon,Function,2
+True,argv,exclusion,Variable,2
+True,stats_update,additon,Function,2
+True,fatal,additon,Function,2
+def(_WIN32),hash_fd,additon,Function,2
+True,hash_fd,additon,Function,2
+True,args,additon,Variable,2
+def(_WIN32),path,exclusion,Variable,2
+True,cc_log,additon,Function,2
+def(_WIN32),hash_command_output,additon,Function,2
+True,do_clean_up_pending_tmp_files,exclusion,Function,2
+True,dirname,exclusion,Function,2
+True,args_free,additon,Function,2
+True,argc,exclusion,Variable,2

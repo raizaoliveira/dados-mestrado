@@ -1,0 +1,4 @@
+def(_WIN32),hash,additon,Function,3
+True,hash_fd,additon,Function,3
+True,hash,exclusion,Function,3
+def(_WIN32),hash_command_output,additon,Function,3

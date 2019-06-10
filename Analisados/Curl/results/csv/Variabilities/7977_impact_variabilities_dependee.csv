@@ -1,0 +1,7 @@
+True,init,additon,Function,3
+True,Curl_cookie_init,exclusion,Function,3
+def(WIN32),check_wsock2,parameter,Function,3
+True,lock,parameter,Function,3
+True,Curl_http,exclusion,Function,3
+True,unlock,parameter,Function,3
+!def(CURL_DISABLE_HTTP),conn,additon,Variable,3

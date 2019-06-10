@@ -1,0 +1,8 @@
+True,mprintf,exclusion,Function,1
+True,endpos,exclusion,Function,1
+True,vto,exclusion,Variable,1
+True,curl_mprintf,additon,Function,1
+True,format,exclusion,Variable,1
+True,mfprintf,exclusion,Function,1
+True,pos,exclusion,Function,1
+True,maprintf,exclusion,Function,1

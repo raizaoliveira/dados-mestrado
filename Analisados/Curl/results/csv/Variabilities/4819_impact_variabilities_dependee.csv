@@ -1,0 +1,10 @@
+True,Curl_http,additon,Function,4
+True,Curl_output_basic_proxy,additon,Function,4
+True,Curl_output_basic,exclusion,Function,4
+True,request,additon,Variable,4
+def(WIN32),check_wsock2,parameter,Function,4
+!def(CURL_DISABLE_HTTP),conn,additon,Variable,4
+True,httpcode,exclusion,Variable,4
+True,auth,additon,Variable,4
+True,data,exclusion,Variable,4
+True,conn,additon,Variable,4

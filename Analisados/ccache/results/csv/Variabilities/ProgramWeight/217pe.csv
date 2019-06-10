@@ -1,0 +1,7 @@
+mdfour_update,1,function
+mdfour_begin,1,function
+argv,1,variable
+mkstemp,1,function
+mdfour_result,1,function
+argc,1,variable
+main,1,function

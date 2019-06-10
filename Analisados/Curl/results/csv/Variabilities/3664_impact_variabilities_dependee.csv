@@ -1,0 +1,2 @@
+True,Curl_http,exclusion,Function,2
+!def(CURL_DISABLE_HTTP),conn,exclusion,Variable,2

@@ -1,0 +1,6 @@
+True,curl_maprintf,additon,Function,4
+def(WIN32),check_wsock2,parameter,Function,4
+True,curl_msnprintf,additon,Function,4
+True,data,additon,Variable,4
+!def(HAVE_STRTOK_R),Curl_strtok_r,additon,Function,4
+True,Curl_base64_encode,additon,Function,4

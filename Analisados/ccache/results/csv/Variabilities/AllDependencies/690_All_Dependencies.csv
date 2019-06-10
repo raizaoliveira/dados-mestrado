@@ -1,0 +1,2 @@
+True,!def(HAVE_MKSTEMP)
+True,!def(HAVE_GETOPT_LONG)

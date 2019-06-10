@@ -1,0 +1,6 @@
+True,lock,parameter,Function,3
+def(WIN32),check_wsock2,parameter,Function,3
+!def(CURL_DISABLE_CRYPTO_AUTH),MD5_Final,additon,Function,3
+!def(CURL_DISABLE_CRYPTO_AUTH),MD5_Init,additon,Function,3
+!def(CURL_DISABLE_CRYPTO_AUTH),Curl_md5it,exclusion,Function,3
+!def(CURL_DISABLE_CRYPTO_AUTH),MD5_Update,additon,Function,3

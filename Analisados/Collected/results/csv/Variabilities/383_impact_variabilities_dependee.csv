@@ -1,0 +1,9 @@
+!def(APCMAIN),apc_write_percent,parameter,Function,2
+!def(APCMAIN),apcups_detail,exclusion,Variable,2
+!def(APCMAIN),apc_write_timeleft,parameter,Function,2
+!def(APCMAIN),apc_write_voltage,parameter,Function,2
+!def(APCMAIN),apcups_read,specifier,Function,2
+!def(APCMAIN),apc_write_charge,parameter,Function,2
+!def(APCMAIN),apc_write_temperature,parameter,Function,2
+!def(APCMAIN),apc_write_frequency,parameter,Function,2
+True,submit,exclusion,Function,2

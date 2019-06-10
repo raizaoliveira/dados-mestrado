@@ -1,0 +1,2 @@
+def(WIN32),init_by_resolv_conf,exclusion,Function,3
+True,try_config,parameter,Function,3

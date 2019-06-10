@@ -1,0 +1,5 @@
+True,(!def(HAVE_GSSAPI)&!def(USE_SSLEAY))
+True,!def(USE_SSLEAY)
+!def(USE_SSLEAY),True
+def(USE_SSLEAY),True
+(!def(HAVE_GSSAPI)&!def(USE_SSLEAY)),True

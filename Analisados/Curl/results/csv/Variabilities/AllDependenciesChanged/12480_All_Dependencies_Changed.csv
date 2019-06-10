@@ -1,0 +1,2 @@
+!def(HAVE_INET_NTOP),True
+def(CURLRES_IPV6),True

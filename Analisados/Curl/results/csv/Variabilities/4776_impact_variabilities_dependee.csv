@@ -1,0 +1,5 @@
+True,Curl_http_auth_stage,exclusion,Function,3
+True,Curl_http,additon,Function,3
+True,conn,exclusion,Variable,3
+def(WIN32),check_wsock2,parameter,Function,3
+True,httpcode,exclusion,Variable,3

@@ -1,0 +1,7 @@
+def(IPTC_DEBUG2),
+def(HAVE_LIBKSTAT),
+def(IPTC_DEBUG),
+!def(ASN_NULL),
+def(KERNEL_LINUX),
+True,
+def(ASN_NULL),

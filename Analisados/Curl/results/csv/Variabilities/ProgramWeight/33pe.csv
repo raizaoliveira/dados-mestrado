@@ -1,0 +1,16 @@
+glob_url,1,function
+fileinfo,1,variable
+helpf,1,function
+vto,1,variable
+config,1,variable
+FormInit,1,function
+FormReader,1,function
+url,1,variable
+FormParse,1,function
+mfprintf,1,function
+mprintf,1,function
+next_url,1,function
+orig,1,variable
+getFormData,1,function
+match_url,1,function
+maprintf,1,function

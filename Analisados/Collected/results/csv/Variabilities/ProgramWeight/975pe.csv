@@ -1,0 +1,8 @@
+interface_config,1,function
+sstrerror,1,function
+plugin_log,1,function
+operating_mode,1,variable
+start_server,1,function
+start_client,1,function
+varnish_monitor,1,function
+submit_derive,1,function

@@ -1,0 +1,15 @@
+((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))),True
+def(TEST_ENCODE),True
+def(DPRINTF_DEBUG),True
+def(DPRINTF_DEBUG2),True
+((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))),(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))&(((!def(KRB4)|def(FTP_SERVER)|(def(FTP_SERVER)&def(KRB4)))&(!def(KRB4)|def(FTP_SERVER)))|(def(FTP_SERVER)&def(KRB4))))
+def(TEST_DECODE),True
+def(MALLOCDEBUG),True
+True,def(_FORM_DEBUG)
+(!def(HAVE_GETPASS_R)&(def(HAVE_GETPASS_R)|!def(WIN32))&!def(WIN32)&def(HAVE_TERMIOS_H)&(def(WIN32)|def(HAVE_GETPASS_R)|def(VMS))&(def(HAVE_GETPASS_R)|(def(HAVE_TERMIOS_H)&(def(WIN32)|def(HAVE_GETPASS_R)|def(VMS)))|def(WIN32)|!def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&(def(WIN32)|def(HAVE_GETPASS_R)|def(VMS))&!def(WIN32)&!def(HAVE_GETPASS_R)))&((def(HAVE_TERMIOS_H)&(def(WIN32)|def(HAVE_GETPASS_R)|def(VMS))&!def(WIN32)&!def(HAVE_GETPASS_R))|(!def(WIN32)&!def(HAVE_GETPASS_R)&(!def(HAVE_TERMIOS_H)|(!def(WIN32)&!def(HAVE_GETPASS_R)&!def(VMS)))&def(HAVE_TERMIO_H)))),(!def(HAVE_GETPASS_R)&(def(HAVE_GETPASS_R)|!def(WIN32))&!def(WIN32)&def(HAVE_TERMIOS_H)&(def(WIN32)|def(HAVE_GETPASS_R)|def(VMS)))
+def(_FORM_DEBUG),True
+(def(KRB4)&!def(FTP_SERVER)&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))),(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))&(((!def(KRB4)|def(FTP_SERVER)|(def(FTP_SERVER)&def(KRB4)))&(!def(KRB4)|def(FTP_SERVER)))|(def(FTP_SERVER)&def(KRB4))))
+(def(KRB4)&!def(FTP_SERVER)&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))),(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4))))&(!def(FTP_SERVER)|!def(KRB4))&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))))
+def(_NETRC_DEBUG),True
+True,!def(HAVE_STRTOK_R)
+(!def(HAVE_GETPASS_R)&(def(HAVE_GETPASS_R)|!def(WIN32))&!def(WIN32)&(def(HAVE_GETPASS_R)|def(WIN32)|!def(HAVE_TERMIOS_H)|(!def(WIN32)&!def(HAVE_GETPASS_R)&!def(VMS))|(!def(HAVE_GETPASS_R)&def(HAVE_TERMIO_H)&(!def(HAVE_TERMIOS_H)|(!def(WIN32)&!def(HAVE_GETPASS_R)&!def(VMS)))&!def(WIN32)&(!def(HAVE_TERMIOS_H)|(!def(WIN32)&!def(HAVE_GETPASS_R)&!def(VMS))|def(WIN32)|def(HAVE_GETPASS_R))))&((def(HAVE_TERMIOS_H)&(def(WIN32)|def(HAVE_GETPASS_R)|def(VMS))&!def(WIN32)&!def(HAVE_GETPASS_R))|(!def(WIN32)&!def(HAVE_GETPASS_R)&(!def(HAVE_TERMIOS_H)|(!def(WIN32)&!def(HAVE_GETPASS_R)&!def(VMS)))&def(HAVE_TERMIO_H)))),(!def(HAVE_GETPASS_R)&(def(HAVE_GETPASS_R)|!def(WIN32))&!def(WIN32)&def(HAVE_TERMIOS_H)&(def(WIN32)|def(HAVE_GETPASS_R)|def(VMS)))

@@ -1,0 +1,2 @@
+def(USE_CYASSL),conn,exclusion,Variable,1
+def(USE_CYASSL),sockindex,exclusion,Variable,1

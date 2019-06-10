@@ -1,0 +1,2 @@
+def(WIN32),init_by_resolv_conf,additon,Function,3
+True,channel,additon,Variable,3

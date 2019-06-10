@@ -1,0 +1,5 @@
+def(_NETRC_DEBUG),True
+def(_FORM_DEBUG),True
+def(DPRINTF_DEBUG),True
+def(DPRINTF_DEBUG2),True
+True,def(_FORM_DEBUG)

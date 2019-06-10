@@ -1,0 +1,9 @@
+((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))),True
+((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))),(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))&(((!def(KRB4)|def(FTP_SERVER)|(def(FTP_SERVER)&def(KRB4)))&(!def(KRB4)|def(FTP_SERVER)))|(def(FTP_SERVER)&def(KRB4))))
+(def(KRB4)&!def(FTP_SERVER)&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))),(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))&(((!def(KRB4)|def(FTP_SERVER)|(def(FTP_SERVER)&def(KRB4)))&(!def(KRB4)|def(FTP_SERVER)))|(def(FTP_SERVER)&def(KRB4))))
+def(DPRINTF_DEBUG2),True
+True,def(_FORM_DEBUG)
+def(_FORM_DEBUG),True
+(def(KRB4)&!def(FTP_SERVER)&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))),(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4))))&(!def(FTP_SERVER)|!def(KRB4))&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))))
+def(DPRINTF_DEBUG),True
+(def(HAVE_TERMIOS_H)&def(WIN32)&(!def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))&(def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))),((def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))&(!def(HAVE_TERMIOS_H)|!def(WIN32)|(def(HAVE_TERMIO_H)&(!def(HAVE_TERMIOS_H)|!def(WIN32)))))

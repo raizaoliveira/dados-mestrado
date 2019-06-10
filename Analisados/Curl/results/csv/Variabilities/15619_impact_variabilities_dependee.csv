@@ -1,0 +1,5 @@
+def(DEBUGBUILD),gethostname,additon,Function,3
+True,gethostname,additon,Function,3
+def(__VMS),getpass_r,exclusion,Function,3
+True,CURLE_OK,exclusion,Function,3
+True,negotiate,additon,Function,3

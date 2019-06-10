@@ -1,0 +1,8 @@
+True,def(WIN32)
+def(TEST_ENCODE),True
+True,def(CURLDEBUG)
+def(USE_SSLEAY),True
+def(TEST_DECODE),True
+!def(CURL_DISABLE_HTTP),True
+def(ENABLE_IPV6),True
+def(CURLDEBUG),True

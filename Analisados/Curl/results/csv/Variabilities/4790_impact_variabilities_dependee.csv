@@ -1,0 +1,6 @@
+True,Curl_output_basic_proxy,additon,Function,3
+True,Curl_output_basic,exclusion,Function,3
+True,data,additon,Variable,3
+True,Curl_http,exclusion,Function,3
+True,conn,additon,Variable,3
+def(WIN32),check_wsock2,parameter,Function,3

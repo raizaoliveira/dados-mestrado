@@ -1,0 +1,3 @@
+!def(HAVE_STRTOK_R),Curl_strtok_r,parameter,Function,2
+True,Curl_base64_decode,parameter,Function,2
+True,Curl_base64_encode,parameter,Function,2

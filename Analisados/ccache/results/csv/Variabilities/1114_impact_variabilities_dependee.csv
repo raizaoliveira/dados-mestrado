@@ -1,0 +1,7 @@
+def(_WIN32),lockfile_acquire,additon,Function,2
+True,argc,exclusion,Variable,2
+True,argv,exclusion,Variable,2
+True,find_executable_in_path,exclusion,Function,2
+True,hash,parameter,Function,2
+True,find,additon,Function,2
+def(_WIN32),hash_command_output,exclusion,Function,2

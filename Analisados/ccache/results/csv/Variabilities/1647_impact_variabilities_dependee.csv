@@ -1,0 +1,10 @@
+def(_WIN32),get_current_working_dir,specifier,Function,2
+True,make_relative_path,additon,Function,2
+True,orig_args,exclusion,Variable,2
+def(_WIN32),calculate_common_hash,exclusion,Function,2
+def(_WIN32),make_relative_path,exclusion,Function,2
+True,hash,parameter,Function,2
+def(_WIN32),ccache,exclusion,Function,2
+True,preprocessor_args,exclusion,Variable,2
+True,compiler_args,exclusion,Variable,2
+def(_WIN32),common_hash,additon,Function,2

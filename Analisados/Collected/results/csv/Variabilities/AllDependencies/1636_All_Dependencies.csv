@@ -1,0 +1,7 @@
+!def(HAVE_LIBRRD),True
+True,!def(HAVE_LIBKSTAT)
+!def(HAVE_LIBKSTAT),True
+True,def(HAVE_VARNISH_V2)
+def(HAVE_VARNISH_V2),True
+def(HAVE_LIBRRD),(!def(HAVE_LIBKSTAT)&def(HAVE_LIBRRD))
+def(HAVE_LIBRRD),True

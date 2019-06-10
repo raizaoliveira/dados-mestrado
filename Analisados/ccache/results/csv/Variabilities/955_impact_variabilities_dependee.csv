@@ -1,0 +1,11 @@
+def(_WIN32),hash_fd,additon,Function,2
+True,find,additon,Function,2
+True,args,additon,Variable,2
+True,fatal,additon,Function,2
+True,argv,additon,Variable,2
+def(_WIN32),hash,additon,Function,2
+True,args_free,additon,Function,2
+True,argc,additon,Variable,2
+True,hash_fd,additon,Function,2
+True,stats_update,additon,Function,2
+True,cc_log,additon,Function,2

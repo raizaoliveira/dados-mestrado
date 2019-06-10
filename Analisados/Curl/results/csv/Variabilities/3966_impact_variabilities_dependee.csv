@@ -1,0 +1,4 @@
+True,Curl_http,exclusion,Function,2
+True,Curl_output_basic_proxy,additon,Function,2
+True,conn,additon,Variable,2
+True,Curl_output_basic,exclusion,Function,2

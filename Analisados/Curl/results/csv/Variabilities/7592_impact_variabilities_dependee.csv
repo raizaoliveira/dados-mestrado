@@ -1,0 +1,3 @@
+def(CURLDEBUG),multistate,additon,Function,2
+def(WIN32),check_wsock2,parameter,Function,2
+def(CURLDEBUG),curl_socket,additon,Function,2

@@ -1,0 +1,4 @@
+mkstemp,1,function
+mdfour_result,1,function
+mdfour_begin,1,function
+mdfour,1,function

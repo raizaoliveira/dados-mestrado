@@ -1,0 +1,8 @@
+jrand48,1,function
+ksp,1,variable
+seed,1,variable
+wireless_submit,1,function
+erand48,1,function
+cdtime,1,function
+fopen,1,function
+wireless_percent_to_power,1,function

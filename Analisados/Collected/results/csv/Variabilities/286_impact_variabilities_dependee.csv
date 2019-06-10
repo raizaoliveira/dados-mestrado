@@ -1,0 +1,17 @@
+True,scoreboard_ds_def,exclusion,Variable,2
+True,bytes_file,exclusion,Variable,2
+True,bytes_ds_num,exclusion,Variable,2
+True,sstrdup,exclusion,Function,2
+True,rra_timespans,exclusion,Variable,2
+(!def(HAVE_LIBKSTAT)&def(HAVE_LIBRRD)),rrd_update_file,exclusion,Function,2
+True,requests_file,exclusion,Variable,2
+True,ds_num_current,exclusion,Variable,2
+True,ds_num_charge,exclusion,Variable,2
+True,ds_def_current,exclusion,Variable,2
+True,bytes_ds_def,exclusion,Variable,2
+True,requests_ds_def,exclusion,Variable,2
+True,ds_num_voltage,exclusion,Variable,2
+True,ds_def_voltage,exclusion,Variable,2
+True,ds_def_charge,exclusion,Variable,2
+True,requests_ds_num,exclusion,Variable,2
+True,scoreboard_ds_num,exclusion,Variable,2

@@ -1,0 +1,1 @@
+(!def(HAVE_LIBKSTAT)&!def(HAVE_HTONLL)),htonll,exclusion,Function,1

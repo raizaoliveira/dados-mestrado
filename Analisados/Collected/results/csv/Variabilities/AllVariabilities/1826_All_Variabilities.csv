@@ -1,0 +1,7 @@
+(!def(HAVE_LIBKSTAT)&def(HAVE_LIBRRD)),
+def(HAVE_VARNISH_V2),
+!def(HAVE_LIBKSTAT),
+!def(HAVE_LIBRRD),
+True,
+def(KERNEL_LINUX),
+def(HAVE_LIBRRD),

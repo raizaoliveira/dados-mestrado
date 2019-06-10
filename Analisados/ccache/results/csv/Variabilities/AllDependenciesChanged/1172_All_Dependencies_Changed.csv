@@ -1,0 +1,2 @@
+def(TEST_LOCKFILE),True
+def(_WIN32),True

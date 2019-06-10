@@ -1,0 +1,2 @@
+True,lock,exclusion,Function,2
+(def(HAVE_KRB4)&!def(CURL_DISABLE_FTP)),len,exclusion,Variable,2

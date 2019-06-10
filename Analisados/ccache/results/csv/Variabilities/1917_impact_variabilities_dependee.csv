@@ -1,0 +1,11 @@
+def(_WIN32),lockfile_acquire,exclusion,Function,2
+True,path_exists,additon,Function,2
+True,fatal,exclusion,Function,2
+True,get_relative_path,exclusion,Function,2
+True,create_file,additon,Function,2
+True,x_malloc,exclusion,Function,2
+def(_WIN32),x_malloc,exclusion,Function,2
+True,lockfile_acquire,additon,Function,2
+True,cc_log,exclusion,Function,2
+True,get_extension,exclusion,Function,2
+True,hash,parameter,Function,2

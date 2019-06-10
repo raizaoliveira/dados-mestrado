@@ -1,0 +1,2 @@
+!def(CURL_DISABLE_HTTP),FormAdd,additon,Function,2
+True,curl_mvsprintf,exclusion,Function,2

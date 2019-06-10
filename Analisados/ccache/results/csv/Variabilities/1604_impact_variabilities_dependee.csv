@@ -1,0 +1,7 @@
+True,fatal,exclusion,Function,2
+def(_WIN32),path,exclusion,Variable,2
+True,dirname,exclusion,Function,2
+True,find,exclusion,Function,2
+True,find_executable,additon,Function,2
+True,clean_up_pending_tmp_files,exclusion,Function,2
+True,hash,parameter,Function,2

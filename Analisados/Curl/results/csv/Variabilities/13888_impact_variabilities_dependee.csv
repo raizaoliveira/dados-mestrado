@@ -1,0 +1,2 @@
+def(CURL_DOES_CONVERSIONS),Curl_convert_from_network,exclusion,Function,2
+True,data,exclusion,Variable,2

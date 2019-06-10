@@ -1,0 +1,3 @@
+def(APCMAIN),True
+!def(APCMAIN),True
+True,!def(APCMAIN)

@@ -1,0 +1,4 @@
+True,len,exclusion,Variable,2
+True,p,exclusion,Variable,2
+True,convert_char,additon,Function,2
+def(__VMS),vms_show,additon,Variable,2

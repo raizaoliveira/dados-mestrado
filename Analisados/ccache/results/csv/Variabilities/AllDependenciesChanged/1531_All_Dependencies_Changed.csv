@@ -1,0 +1,2 @@
+def(SIGQUIT),True
+def(SIGHUP),True

@@ -1,0 +1,3 @@
+(!def(GSSAPI)&!def(USE_SSLEAY)),True
+!def(USE_SSLEAY),True
+True,(!def(GSSAPI)&!def(USE_SSLEAY))

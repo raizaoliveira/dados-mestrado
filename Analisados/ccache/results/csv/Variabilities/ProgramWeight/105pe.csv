@@ -1,0 +1,6 @@
+main,1,function
+mdfour_begin,1,function
+argv,1,variable
+argc,1,variable
+mdfour_update,1,function
+mdfour,1,function

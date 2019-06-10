@@ -1,0 +1,7 @@
+def(_WIN32),
+def(HAVE_GETPWUID),
+!def(HAVE_MKSTEMP),
+True,
+!def(HAVE_STRNDUP),
+!def(HAVE_GETOPT_LONG),
+def(CCACHE_DEBUG_HASH),

@@ -1,0 +1,5 @@
+True,Curl_hash_pick,additon,Function,3
+True,unlock,parameter,Function,3
+def(CURLDEBUG),statename,additon,Variable,3
+def(WIN32),check_wsock2,parameter,Function,3
+True,lock,parameter,Function,3

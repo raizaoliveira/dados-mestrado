@@ -1,0 +1,4 @@
+True,argv,exclusion,Variable,2
+True,argc,exclusion,Variable,2
+True,lockfile_acquire,exclusion,Function,2
+def(_WIN32),lockfile_acquire,additon,Function,2

@@ -1,0 +1,6 @@
+def(CCACHE_DEBUG_HASH),
+!def(HAVE_GETOPT_LONG),
+!def(HAVE_MKSTEMP),
+!def(HAVE_STRNDUP),
+def(HAVE_GETPWUID),
+True,

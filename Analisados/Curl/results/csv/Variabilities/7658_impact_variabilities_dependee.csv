@@ -1,0 +1,4 @@
+True,lock,additon,Function,2
+def(WIN32),check_wsock2,parameter,Function,2
+True,share,additon,Variable,2
+True,unlock,additon,Function,2

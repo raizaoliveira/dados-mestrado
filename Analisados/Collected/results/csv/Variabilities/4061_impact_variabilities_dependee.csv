@@ -1,0 +1,5 @@
+True,fc_read_dir_callback,additon,Function,1
+True,thermal_sysfs_device_read,additon,Function,1
+True,dirname_procfs,additon,Variable,1
+True,dirname_sysfs,additon,Variable,1
+True,thermal_procfs_device_read,additon,Function,1

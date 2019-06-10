@@ -1,0 +1,7 @@
+True,ds_def_voltage,additon,Variable,2
+True,ds_def_charge,additon,Variable,2
+True,ds_num_charge,additon,Variable,2
+True,ds_num_current,additon,Variable,2
+(!def(HAVE_LIBKSTAT)&def(HAVE_LIBRRD)),rrd_update_file,additon,Function,2
+True,ds_def_current,additon,Variable,2
+True,ds_num_voltage,additon,Variable,2

@@ -1,0 +1,7 @@
+def(DPRINTF_DEBUG2),
+(def(KRB4)&!def(FTP_SERVER)&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))),
+(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4))))&(!def(FTP_SERVER)|!def(KRB4))&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))),
+def(_FORM_DEBUG),
+True,
+def(DPRINTF_DEBUG),
+((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))),

@@ -1,0 +1,13 @@
+def(DEBUGBUILD),statename,additon,Variable,3
+True,variables,exclusion,Variable,3
+True,size,additon,Variable,3
+True,mstate,exclusion,Function,3
+True,Curl_infof,additon,Function,3
+True,Curl_sendf,additon,Function,3
+True,Curl_failf,additon,Function,3
+def(DEBUGBUILD),multistate,additon,Function,3
+True,multistate,exclusion,Function,3
+True,Curl_client_write,additon,Function,3
+def(DEBUGBUILD),mstate,additon,Function,3
+True,Curl_write,additon,Function,3
+def(DEBUGBUILD),isHandleAtHead,additon,Function,3

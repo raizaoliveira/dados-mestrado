@@ -1,0 +1,2 @@
+def(HAVE_FIONBIO),True
+def(HAVE_O_NONBLOCK),True

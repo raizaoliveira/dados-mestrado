@@ -1,0 +1,12 @@
+def(HAVE_GETPASS_R),True
+((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))),True
+def(DPRINTF_DEBUG2),True
+def(MALLOCDEBUG),True
+((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))),(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))&(((!def(KRB4)|def(FTP_SERVER)|(def(FTP_SERVER)&def(KRB4)))&(!def(KRB4)|def(FTP_SERVER)))|(def(FTP_SERVER)&def(KRB4))))
+(def(KRB4)&!def(FTP_SERVER)&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))),(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4))))&(!def(FTP_SERVER)|!def(KRB4))&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))))
+(def(KRB4)&!def(FTP_SERVER)&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))),(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))&(((!def(KRB4)|def(FTP_SERVER)|(def(FTP_SERVER)&def(KRB4)))&(!def(KRB4)|def(FTP_SERVER)))|(def(FTP_SERVER)&def(KRB4))))
+def(DPRINTF_DEBUG),True
+True,def(_FORM_DEBUG)
+True,!def(HAVE_STRTOK_R)
+def(_NETRC_DEBUG),True
+def(_FORM_DEBUG),True

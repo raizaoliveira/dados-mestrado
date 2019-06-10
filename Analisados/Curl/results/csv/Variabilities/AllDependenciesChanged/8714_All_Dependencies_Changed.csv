@@ -1,0 +1,2 @@
+!def(CURL_DISABLE_HTTP),True
+!def(CURL_DISABLE_DICT),True

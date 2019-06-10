@@ -1,0 +1,6 @@
+True,lock,parameter,Function,2
+True,unlock,parameter,Function,2
+True,data,exclusion,Variable,2
+def(WIN32),check_wsock2,parameter,Function,2
+True,easy,exclusion,Variable,2
+True,multi,exclusion,Variable,2

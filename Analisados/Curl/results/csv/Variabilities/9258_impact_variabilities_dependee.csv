@@ -1,0 +1,6 @@
+True,my_lock,parameter,Function,2
+True,multi,exclusion,Variable,2
+(!def(HAVE_LDAP_URL_PARSE)&!def(CURL_DISABLE_LDAP)),_ldap_url_parse,parameter,Function,2
+True,data,exclusion,Variable,2
+True,easy,exclusion,Variable,2
+True,my_unlock,parameter,Function,2

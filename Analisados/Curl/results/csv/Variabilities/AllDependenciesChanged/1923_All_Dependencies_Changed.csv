@@ -1,0 +1,7 @@
+def(DPRINTF_DEBUG),True
+def(TEST_ENCODE),True
+def(KRB4),True
+def(_NETRC_DEBUG),True
+def(DPRINTF_DEBUG2),True
+def(TEST_DECODE),True
+def(HAVE_GETPASS_R),True

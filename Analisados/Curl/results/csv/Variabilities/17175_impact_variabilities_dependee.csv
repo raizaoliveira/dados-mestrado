@@ -1,0 +1,8 @@
+True,Curl_client_write,exclusion,Function,3
+True,data,additon,Variable,3
+True,now,additon,Variable,3
+!def(CURL_DISABLE_HTTP),Curl_httpchunk_read,additon,Function,3
+True,easy,additon,Variable,3
+True,multi,additon,Variable,3
+True,Curl_read,additon,Function,3
+True,Curl_read_plain,exclusion,Function,3

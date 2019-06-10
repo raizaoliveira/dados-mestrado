@@ -1,0 +1,3 @@
+True,!def(HAVE_MKSTEMP)
+def(TEST_MDFOUR),True
+True,def(TEST_MDFOUR)

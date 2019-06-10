@@ -1,0 +1,6 @@
+(def(HAVE_LIBZ)&!def(CURL_DISABLE_HTTP)),True
+def(CURLDEBUG),True
+True,(!def(HAVE_GSSAPI)&!def(USE_SSLEAY))
+(!def(HAVE_GSSAPI)&!def(USE_SSLEAY)),True
+True,def(CURLDEBUG)
+!def(CURL_DISABLE_HTTP),True

@@ -1,0 +1,3 @@
+!def(USE_SSLEAY),http_auth_headers,exclusion,Function,3
+True,Curl_http,additon,Function,3
+True,data,exclusion,Variable,3

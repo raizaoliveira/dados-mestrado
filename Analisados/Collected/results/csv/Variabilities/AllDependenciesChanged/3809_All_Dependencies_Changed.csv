@@ -1,0 +1,2 @@
+def(HAVE_VARNISH_V2),True
+def(KERNEL_LINUX),True

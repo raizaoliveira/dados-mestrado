@@ -1,0 +1,9 @@
+True,auth,exclusion,Variable,5
+True,conn,additon,Variable,5
+True,request,exclusion,Variable,5
+def(WIN32),check_wsock2,parameter,Function,5
+True,httpcode,additon,Variable,5
+True,data,additon,Variable,5
+!def(USE_SSLEAY),http_auth_headers,additon,Function,5
+True,Curl_http,exclusion,Function,5
+!def(CURL_DISABLE_HTTP),conn,exclusion,Variable,5

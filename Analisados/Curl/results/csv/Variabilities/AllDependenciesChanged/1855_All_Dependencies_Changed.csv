@@ -1,0 +1,4 @@
+def(HAVE_FIONBIO),True
+def(_OLD_FORM_DEBUG),True
+def(_FORM_DEBUG),True
+def(HAVE_O_NONBLOCK),True

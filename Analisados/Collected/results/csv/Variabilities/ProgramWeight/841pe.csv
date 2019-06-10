@@ -1,0 +1,7 @@
+start_server,1,function
+submit_derive,1,function
+start_client,1,function
+interface_config,1,function
+varnish_monitor,1,function
+operating_mode,1,variable
+ksp,1,variable

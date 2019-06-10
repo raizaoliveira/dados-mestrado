@@ -1,0 +1,2 @@
+True,mfprintf,additon,Function,2
+!def(HAVE_STRDUP),strdup,exclusion,Function,2

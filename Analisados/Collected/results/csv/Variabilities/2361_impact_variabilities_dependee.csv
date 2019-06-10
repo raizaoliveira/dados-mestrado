@@ -1,0 +1,2 @@
+True,thermal_sysfs_device_read,parameter,Function,1
+True,thermal_procfs_device_read,parameter,Function,1

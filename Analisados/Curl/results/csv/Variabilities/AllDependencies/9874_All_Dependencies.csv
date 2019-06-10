@@ -1,0 +1,11 @@
+def(DPRINTF_DEBUG2),True
+True,def(DPRINTF_DEBUG2)
+def(_FORM_DEBUG),True
+def(DPRINTF_DEBUG),True
+!def(GLOBURL),True
+True,!def(GLOBURL)
+def(_NETRC_DEBUG),True
+True,def(_FORM_DEBUG)
+True,def(GLOBURL)
+def(GLOBURL),True
+(def(HAVE_TERMIOS_H)&def(WIN32)&(!def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))&(def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))),((def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))&(!def(HAVE_TERMIOS_H)|!def(WIN32)|(def(HAVE_TERMIO_H)&(!def(HAVE_TERMIOS_H)|!def(WIN32)))))

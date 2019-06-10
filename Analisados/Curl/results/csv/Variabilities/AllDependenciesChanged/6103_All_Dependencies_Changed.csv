@@ -1,0 +1,5 @@
+True,def(WIN32)
+def(HAVE_POLL_FINE),True
+True,!def(CURL_DISABLE_HTTP)
+!def(HAVE_POLL_FINE),True
+!def(CURL_DISABLE_HTTP),True

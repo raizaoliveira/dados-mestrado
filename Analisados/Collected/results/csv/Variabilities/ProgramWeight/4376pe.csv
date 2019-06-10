@@ -1,0 +1,13 @@
+val,1,variable
+ksp,1,variable
+values,1,variable
+kc,1,variable
+wireless_percent_to_power,1,function
+plugin_log,1,function
+pf_init,1,function
+submit,1,function
+pf_read,1,function
+plugin_register_read,1,function
+plugin_register_init,1,function
+wireless_read,1,function
+dispatch_values,1,function

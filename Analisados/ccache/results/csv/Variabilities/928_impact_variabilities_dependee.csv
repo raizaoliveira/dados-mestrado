@@ -1,0 +1,2 @@
+True,lockfile_acquire,additon,Function,2
+def(_WIN32),lockfile_acquire,exclusion,Function,2

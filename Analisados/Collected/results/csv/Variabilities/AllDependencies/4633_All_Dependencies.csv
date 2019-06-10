@@ -1,0 +1,7 @@
+!def(TEST),True
+!def(ASN_NULL),True
+def(TEST),True
+!def(HAVE_LIBKSTAT),True
+True,!def(TEST)
+True,!def(HAVE_LIBKSTAT)
+def(ASN_NULL),True

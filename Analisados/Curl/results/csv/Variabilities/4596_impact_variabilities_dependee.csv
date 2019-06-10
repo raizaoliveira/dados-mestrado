@@ -1,0 +1,4 @@
+True,config_nameserver,parameter,Function,3
+def(WIN32),p,additon,Variable,3
+!def(WIN32),try_config,exclusion,Function,3
+True,try_config,additon,Function,3

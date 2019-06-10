@@ -1,0 +1,6 @@
+True,dirname,additon,Function,2
+True,fatal,additon,Function,2
+True,hash,additon,Function,2
+True,clean_up_pending_tmp_files,additon,Function,2
+True,x_strdup,additon,Function,2
+def(_WIN32),path,additon,Variable,2

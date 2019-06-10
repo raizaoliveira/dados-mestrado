@@ -1,0 +1,6 @@
+True,Curl_http_auth_stage,additon,Function,3
+!def(CURL_DISABLE_HTTP),conn,additon,Variable,3
+!def(USE_SSLEAY),Curl_output_basic_proxy,additon,Function,3
+True,Curl_http,additon,Function,3
+True,checkheaders,additon,Function,3
+True,Curl_output_basic_proxy,additon,Function,3

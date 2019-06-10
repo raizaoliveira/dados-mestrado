@@ -1,0 +1,8 @@
+def(ASN_NULL),True
+!def(TEST),True
+def(TEST),True
+!def(ASN_NULL),True
+!def(HAVE_LIBKSTAT),True
+True,!def(HAVE_LIBKSTAT)
+True,!def(TEST)
+def(HAVE_VARNISH_V2),True

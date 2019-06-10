@@ -1,0 +1,8 @@
+True,
+!def(ASN_NULL),
+!def(HAVE_LIBRRD),
+(!def(HAVE_LIBKSTAT)&def(HAVE_LIBRRD)),
+def(HAVE_LIBRRD),
+def(HAVE_VARNISH_V2),
+!def(HAVE_LIBKSTAT),
+def(ASN_NULL),

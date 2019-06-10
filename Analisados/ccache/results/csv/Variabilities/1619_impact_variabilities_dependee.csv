@@ -1,0 +1,6 @@
+True,find_executable,exclusion,Function,2
+True,lock_staleness_limit,type,Variable,2
+def(_WIN32),hash_command_output,exclusion,Function,2
+True,find,additon,Function,2
+def(_WIN32),full_path_win_ext,additon,Variable,2
+True,hash,additon,Function,2

@@ -1,0 +1,6 @@
+True,Curl_client_write,additon,Function,1
+True,data,additon,Variable,1
+True,conn,additon,Variable,1
+True,multi,additon,Variable,1
+True,easy,additon,Variable,1
+True,now,additon,Variable,1

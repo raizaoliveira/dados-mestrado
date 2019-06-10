@@ -1,0 +1,1 @@
+(!def(NO_FILESYSTEM)&def(USE_CYASSL)),def(USE_CYASSL)

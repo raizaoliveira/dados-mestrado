@@ -1,0 +1,3 @@
+(!def(HAVE_LIBKSTAT)&def(HAVE_LIBRRD)),rrd_update_file,additon,Function,3
+(!def(HAVE_LIBKSTAT)&!def(HAVE_LIBRRD)),sstrncpy,exclusion,Function,3
+True,temperature_file,exclusion,Variable,3

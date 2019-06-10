@@ -1,0 +1,16 @@
+submit_derive,1,function
+wireless_read,1,function
+start_client,1,function
+thermal_sysfs_device_read,1,function
+dirname_sysfs,1,variable
+plugin_log,1,function
+start_server,1,function
+submit,1,function
+dirname_procfs,1,variable
+fc_read_dir_callback,1,function
+thermal_procfs_device_read,1,function
+wireless_percent_to_power,1,function
+operating_mode,1,variable
+varnish_monitor,1,function
+sstrerror,1,function
+strsplit,1,function

@@ -1,0 +1,10 @@
+win32getshell,1,function
+get_extension,1,function
+win32argvtos,1,function
+cc_log,1,function
+x_malloc,1,function
+lockfile_acquire,1,function
+getopt_long,1,function
+mkstemp,1,function
+lockfile_release,1,function
+find,1,function

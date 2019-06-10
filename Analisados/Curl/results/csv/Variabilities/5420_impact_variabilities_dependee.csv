@@ -1,0 +1,4 @@
+True,data,additon,Variable,2
+True,curl_maprintf,additon,Function,2
+True,conn,additon,Variable,2
+def(WIN32),check_wsock2,parameter,Function,2

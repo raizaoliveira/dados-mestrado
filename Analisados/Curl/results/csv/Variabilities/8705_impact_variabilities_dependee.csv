@@ -1,0 +1,5 @@
+True,multi,exclusion,Variable,1
+True,lock,parameter,Function,1
+True,easy,exclusion,Variable,1
+True,unlock,parameter,Function,1
+True,data,exclusion,Variable,1

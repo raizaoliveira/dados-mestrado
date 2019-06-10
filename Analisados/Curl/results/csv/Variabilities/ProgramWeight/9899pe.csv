@@ -1,0 +1,16 @@
+dprintf_Pass1,1,function
+vto,1,variable
+endpos,1,variable
+ParseNetrc,1,function
+getFormData,1,function
+mprintf,1,function
+maprintf,1,function
+FormParse,1,function
+FormReader,1,function
+password,1,variable
+mfprintf,1,function
+orig,1,variable
+format,1,variable
+FormInit,1,function
+login,1,variable
+main,1,function

@@ -1,0 +1,2 @@
+!def(USE_SSLEAY),MD5_Update,parameter,Function,1
+!def(USE_SSLEAY),MD5_Final,parameter,Function,1

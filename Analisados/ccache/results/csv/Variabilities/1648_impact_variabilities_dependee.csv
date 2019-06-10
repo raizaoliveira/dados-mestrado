@@ -1,0 +1,6 @@
+True,hash,parameter,Function,2
+def(_WIN32),get_current_working_dir,specifier,Function,2
+def(_WIN32),hash,exclusion,Function,2
+True,argv,additon,Variable,2
+def(_WIN32),compopt_takes_path,exclusion,Function,2
+True,argc,additon,Variable,2

@@ -1,0 +1,5 @@
+True,easy,exclusion,Variable,3
+True,unlock,parameter,Function,3
+True,Curl_client_write,additon,Function,3
+True,lock,parameter,Function,3
+def(CURLDEBUG),multi_runsingle,additon,Function,3

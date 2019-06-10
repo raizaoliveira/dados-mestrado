@@ -1,0 +1,10 @@
+!def(CURL_DISABLE_HTTP),Curl_cookie_init,parameter,Function,4
+True,curl_getdate,exclusion,Function,4
+def(WIN32),check_wsock2,parameter,Function,4
+True,Curl_cookie_init,additon,Function,4
+True,Curl_cookie_cleanup,additon,Function,4
+!def(HAVE_STRTOK_R),Curl_strtok_r,additon,Function,4
+!def(CURL_DISABLE_HTTP),Curl_cookie_freelist,exclusion,Function,4
+True,data,exclusion,Variable,4
+!def(CURL_DISABLE_HTTP),Curl_cookie_getlist,exclusion,Function,4
+True,lock,parameter,Function,4

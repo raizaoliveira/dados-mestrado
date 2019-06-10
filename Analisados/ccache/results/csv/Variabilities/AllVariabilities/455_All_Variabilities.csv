@@ -1,0 +1,4 @@
+!def(HAVE_MKSTEMP),
+True,
+!def(HAVE_STRNDUP),
+def(HAVE_GETPWUID),

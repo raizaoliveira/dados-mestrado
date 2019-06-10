@@ -1,0 +1,4 @@
+True,def(WIN32)
+!def(CURL_DISABLE_HTTP),True
+True,!def(CURL_DISABLE_HTTP)
+!def(WIN32),def(WIN32)

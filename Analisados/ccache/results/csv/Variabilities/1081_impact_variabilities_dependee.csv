@@ -1,0 +1,5 @@
+True,argv,additon,Variable,2
+def(_WIN32),hash_command_output,additon,Function,2
+True,hash,parameter,Function,2
+def(_WIN32),lockfile_acquire,exclusion,Function,2
+True,argc,additon,Variable,2

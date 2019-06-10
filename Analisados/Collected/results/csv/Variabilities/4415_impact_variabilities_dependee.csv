@@ -1,0 +1,3 @@
+True,plugin_register_init,additon,Function,1
+True,plugin_dispatch_values,additon,Function,1
+True,plugin_register_read,additon,Function,1

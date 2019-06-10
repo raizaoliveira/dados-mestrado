@@ -1,0 +1,2 @@
+!def(HAVE_STRNDUP),True
+True,!def(HAVE_MKSTEMP)

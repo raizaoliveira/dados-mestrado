@@ -1,0 +1,5 @@
+!def(HAVE_MKSTEMP),
+def(TEST_MDFOUR),
+True,
+!def(ENABLE_ZLIB),
+def(HAVE_GETPWUID),

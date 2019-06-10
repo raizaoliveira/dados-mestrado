@@ -1,0 +1,8 @@
+def(WIN32),check_wsock2,parameter,Function,3
+!def(CURL_DISABLE_HTTP),Curl_cookie_init,exclusion,Function,3
+True,unlock,additon,Function,3
+!def(CURL_DISABLE_HTTP),curl_share_cleanup,additon,Function,3
+True,share,additon,Variable,3
+True,lock,additon,Function,3
+!def(CURL_DISABLE_HTTP),Curl_cookie_cleanup,exclusion,Function,3
+!def(CURL_DISABLE_HTTP),curl_share_setopt,additon,Function,3

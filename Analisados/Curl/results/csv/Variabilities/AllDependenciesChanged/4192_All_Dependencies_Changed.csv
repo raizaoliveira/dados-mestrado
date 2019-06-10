@@ -1,0 +1,2 @@
+True,(def(HAVE_KRB4)&!def(CURL_DISABLE_FTP))
+(def(HAVE_KRB4)&!def(CURL_DISABLE_FTP)),True

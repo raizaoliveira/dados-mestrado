@@ -1,0 +1,9 @@
+(!def(HAVE_LIBKSTAT)&!def(HAVE_LIBRRD)),sstrncpy,exclusion,Function,3
+True,commands_ds_def,additon,Variable,3
+True,traffic_file,additon,Variable,3
+(!def(HAVE_LIBKSTAT)&def(HAVE_LIBRRD)),rrd_update_file,additon,Function,3
+True,traffic_ds_def,additon,Variable,3
+True,traffic_ds_num,additon,Variable,3
+True,commands_file,additon,Variable,3
+True,commands_ds_num,additon,Variable,3
+True,host,additon,Variable,3

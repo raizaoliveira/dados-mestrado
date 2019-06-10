@@ -1,0 +1,3 @@
+True,conn,exclusion,Variable,2
+True,data,additon,Variable,2
+def(WIN32),check_wsock2,parameter,Function,2

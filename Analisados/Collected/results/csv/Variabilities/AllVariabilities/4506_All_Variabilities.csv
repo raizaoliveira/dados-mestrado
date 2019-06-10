@@ -1,0 +1,5 @@
+!def(TEST),
+(!def(HAVE_LIBKSTAT)&!def(HAVE_HTONLL)),
+!def(HAVE_LIBKSTAT),
+def(TEST),
+True,

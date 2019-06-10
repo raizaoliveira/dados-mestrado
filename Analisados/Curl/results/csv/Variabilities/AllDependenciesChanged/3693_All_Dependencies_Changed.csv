@@ -1,0 +1,4 @@
+!def(USE_SSLEAY),True
+True,!def(CURL_DISABLE_HTTP)
+True,!def(USE_SSLEAY)
+!def(CURL_DISABLE_HTTP),True

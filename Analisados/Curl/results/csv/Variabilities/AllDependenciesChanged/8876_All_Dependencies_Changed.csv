@@ -1,0 +1,2 @@
+def(CURLDEBUG),True
+!def(CURL_DISABLE_HTTP),True

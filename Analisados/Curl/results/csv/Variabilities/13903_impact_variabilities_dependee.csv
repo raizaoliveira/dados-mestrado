@@ -1,0 +1,6 @@
+!def(CURL_DISABLE_HTTP),cleanup,additon,Function,3
+True,negotiate,additon,Function,3
+def(CURL_DOES_CONVERSIONS),Curl_convert_from_network,exclusion,Function,3
+def(CURL_DOES_CONVERSIONS),Curl_convert_to_network,exclusion,Function,3
+True,data,exclusion,Variable,3
+def(CURL_DOES_CONVERSIONS),Curl_convert_clone,exclusion,Function,3

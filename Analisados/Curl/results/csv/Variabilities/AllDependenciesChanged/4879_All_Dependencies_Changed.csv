@@ -1,0 +1,2 @@
+(def(HAVE_KRB4)&!def(CURL_DISABLE_FTP)),True
+True,def(WIN32)

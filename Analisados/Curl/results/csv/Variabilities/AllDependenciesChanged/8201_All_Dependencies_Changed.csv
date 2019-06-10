@@ -1,0 +1,3 @@
+True,(!def(HAVE_GSSAPI)&!def(USE_SSLEAY))
+(def(HAVE_LIBZ)&!def(CURL_DISABLE_HTTP)),True
+!def(CURL_DISABLE_HTTP),True

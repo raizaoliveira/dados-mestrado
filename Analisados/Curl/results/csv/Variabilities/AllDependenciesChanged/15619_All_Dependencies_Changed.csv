@@ -1,0 +1,6 @@
+!def(CURL_DISABLE_HTTP),True
+True,def(DEBUGBUILD)
+!def(DEBUGBUILD),True
+True,def(__VMS)
+def(DEBUGBUILD),True
+!def(CURL_DISABLE_TFTP),True

@@ -1,0 +1,1 @@
+(!def(HAVE_LIBKSTAT)&!def(HAVE_LIBRRD)),sstrncpy,exclusion,Function,2

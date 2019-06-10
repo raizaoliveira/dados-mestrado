@@ -1,0 +1,3 @@
+(def(HAVE_TERMIO_H)&(!def(HAVE_TERMIOS_H)|!def(WIN32))),True
+(def(HAVE_TERMIOS_H)&def(WIN32)),True
+(def(HAVE_TERMIOS_H)&def(WIN32)&(def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))),True

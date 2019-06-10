@@ -1,0 +1,4 @@
+!def(TEST),True
+True,!def(TEST)
+def(TEST),True
+True,!def(HAVE_LIBKSTAT)

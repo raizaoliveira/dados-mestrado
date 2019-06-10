@@ -1,0 +1,8 @@
+submit,1,function
+wireless_percent_to_power,1,function
+plugin_log,1,function
+submit_derive,1,function
+wireless_read,1,function
+ksp,1,variable
+varnish_monitor,1,function
+kc,1,variable

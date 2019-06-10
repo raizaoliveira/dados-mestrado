@@ -1,0 +1,7 @@
+True,curl_mfprintf,additon,Function,6
+def(WIN32),check_wsock2,parameter,Function,6
+True,lock,parameter,Function,6
+True,share,additon,Variable,6
+def(USE_SSLEAY),rand_enough,additon,Function,6
+True,FormAdd,additon,Function,6
+!def(CURL_DISABLE_HTTP),Curl_cookie_init,parameter,Function,6

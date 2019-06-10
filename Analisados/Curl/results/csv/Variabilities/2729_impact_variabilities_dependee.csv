@@ -1,0 +1,8 @@
+True,curl_mfprintf,additon,Function,3
+!def(HAVE_STRTOK_R),Curl_strtok_r,parameter,Function,3
+!def(CURL_DISABLE_HTTP),FormAdd,additon,Function,3
+True,Curl_http,exclusion,Function,3
+True,Curl_base64_decode,parameter,Function,3
+!def(CURL_DISABLE_HTTP),conn,exclusion,Variable,3
+True,curl_memdebug,parameter,Function,3
+True,Curl_base64_encode,parameter,Function,3

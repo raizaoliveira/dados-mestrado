@@ -1,0 +1,13 @@
+(!def(HAVE_GETPASS_R)&(!def(HAVE_TERMIOS_H)|def(HAVE_GETPASS_R)|(!def(WIN32)&!def(HAVE_GETPASS_R)&!def(VMS))|(!def(HAVE_GETPASS_R)&def(HAVE_TERMIO_H)&(!def(HAVE_TERMIOS_H)|(!def(WIN32)&!def(HAVE_GETPASS_R)&!def(VMS)))&!def(WIN32)&(!def(HAVE_TERMIOS_H)|(!def(WIN32)&!def(HAVE_GETPASS_R)&!def(VMS))|def(WIN32)|def(HAVE_GETPASS_R)))|def(WIN32))&!def(WIN32)&(def(HAVE_GETPASS_R)|!def(WIN32))&((!def(HAVE_GETPASS_R)&def(HAVE_TERMIO_H)&(!def(HAVE_TERMIOS_H)|(!def(WIN32)&!def(HAVE_GETPASS_R)&!def(VMS)))&!def(WIN32)&(!def(HAVE_TERMIOS_H)|(!def(WIN32)&!def(HAVE_GETPASS_R)&!def(VMS))|def(WIN32)|def(HAVE_GETPASS_R)))|(!def(HAVE_GETPASS_R)&(def(WIN32)|def(VMS))&!def(WIN32)&def(HAVE_TERMIOS_H)))),(!def(HAVE_GETPASS_R)&(def(HAVE_GETPASS_R)|def(WIN32)|def(VMS))&!def(WIN32)&(def(HAVE_GETPASS_R)|!def(WIN32))&def(HAVE_TERMIOS_H))
+def(MALLOCDEBUG),True
+def(DPRINTF_DEBUG2),True
+def(HAVE_GETPASS_R),True
+def(KRB4),True
+def(CURL_COOKIE_DEBUG),True
+(!def(HAVE_GETPASS_R)&(def(HAVE_GETPASS_R)|!def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&(def(HAVE_GETPASS_R)|def(WIN32)|def(VMS))&!def(WIN32)&!def(HAVE_GETPASS_R))|(def(HAVE_TERMIOS_H)&(def(HAVE_GETPASS_R)|def(WIN32)|def(VMS)))|def(WIN32))&(def(HAVE_GETPASS_R)|def(WIN32)|def(VMS))&!def(WIN32)&(def(HAVE_GETPASS_R)|!def(WIN32))&def(HAVE_TERMIOS_H)&((!def(HAVE_GETPASS_R)&def(HAVE_TERMIO_H)&(!def(HAVE_TERMIOS_H)|(!def(WIN32)&!def(HAVE_GETPASS_R)&!def(VMS)))&!def(WIN32)&(!def(HAVE_TERMIOS_H)|(!def(WIN32)&!def(HAVE_GETPASS_R)&!def(VMS))|def(WIN32)|def(HAVE_GETPASS_R)))|(!def(HAVE_GETPASS_R)&(def(WIN32)|def(VMS))&!def(WIN32)&def(HAVE_TERMIOS_H)))),(!def(HAVE_GETPASS_R)&(def(HAVE_GETPASS_R)|def(WIN32)|def(VMS))&!def(WIN32)&(def(HAVE_GETPASS_R)|!def(WIN32))&def(HAVE_TERMIOS_H))
+def(_FORM_DEBUG),True
+True,!def(HAVE_STRTOK_R)
+def(TEST_ENCODE),True
+def(TEST_DECODE),True
+def(DPRINTF_DEBUG),True
+def(_NETRC_DEBUG),True

@@ -1,0 +1,4 @@
+True,find_executable_in_path,exclusion,Function,1
+True,find,exclusion,Function,1
+True,hash,parameter,Function,1
+True,find_executable,additon,Function,1

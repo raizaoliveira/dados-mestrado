@@ -1,0 +1,8 @@
+True,conn,exclusion,Variable,3
+True,request,exclusion,Variable,3
+True,data,exclusion,Variable,3
+!def(USE_SSLEAY),Decode,exclusion,Function,3
+!def(CURL_DISABLE_HTTP),FormAdd,exclusion,Function,3
+True,curl_mvsprintf,additon,Function,3
+True,curl_mfprintf,additon,Function,3
+True,auth,exclusion,Variable,3

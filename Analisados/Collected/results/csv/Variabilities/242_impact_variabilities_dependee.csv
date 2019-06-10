@@ -1,0 +1,1 @@
+(!def(HAVE_LIBKSTAT)&def(HAVE_LIBRRD)),rrd_update_file,exclusion,Function,1

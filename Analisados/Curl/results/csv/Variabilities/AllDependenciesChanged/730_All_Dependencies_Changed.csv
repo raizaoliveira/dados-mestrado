@@ -1,0 +1,3 @@
+def(DPRINTF_DEBUG2),True
+def(DPRINTF_DEBUG),True
+((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4))),True

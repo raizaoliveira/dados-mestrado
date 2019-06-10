@@ -1,0 +1,5 @@
+def(ASN_NULL),True
+True,def(KERNEL_LINUX)
+def(KERNEL_LINUX),True
+True,def(HAVE_LIBKSTAT)
+!def(ASN_NULL),True

@@ -1,0 +1,3 @@
+!def(WIN32),Curl_tvnow,additon,Function,2
+True,Curl_tvdiff,additon,Function,2
+True,Curl_tvnow,additon,Function,2

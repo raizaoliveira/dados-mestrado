@@ -1,0 +1,2 @@
+def(WIN32),check_wsock2,parameter,Function,2
+True,Curl_poll,exclusion,Function,2

@@ -1,0 +1,15 @@
+!def(HAVE_STRDUP),True
+def(_FORM_DEBUG),True
+def(_NETRC_DEBUG),True
+def(GLOBURL),True
+def(DPRINTF_DEBUG2),True
+def(WIN32),!def(WIN32)
+!def(WIN32),True
+True,def(GLOBURL)
+!def(GLOBURL),True
+def(GLOBURL),!def(HAVE_STRDUP)
+def(WIN32),True
+True,!def(HAVE_STRDUP)
+True,def(_FORM_DEBUG)
+True,def(DPRINTF_DEBUG2)
+def(DPRINTF_DEBUG),True

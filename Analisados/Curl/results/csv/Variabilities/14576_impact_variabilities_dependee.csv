@@ -1,0 +1,2 @@
+True,multi_handle,exclusion,Variable,2
+!def(CURL_DISABLE_HTTP),cleanup,exclusion,Function,2

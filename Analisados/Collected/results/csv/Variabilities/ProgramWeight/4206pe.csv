@@ -1,0 +1,17 @@
+start_server,1,function
+operating_mode,1,variable
+handle,1,variable
+start_client,1,function
+ip6tc_init,1,function
+wireless_read,1,function
+ssnprintf,1,function
+submit,1,function
+strsplit,1,function
+plugin_write,1,function
+sstrerror,1,function
+set_environment,1,function
+plugin_log,1,function
+interface_read,1,function
+wireless_percent_to_power,1,function
+interface_config,1,function
+list_start_pos,1,variable

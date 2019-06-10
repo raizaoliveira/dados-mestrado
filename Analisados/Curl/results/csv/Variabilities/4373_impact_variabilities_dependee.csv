@@ -1,0 +1,4 @@
+!def(HAVE_INET_PTON),inet_pton4,parameter,Function,5
+True,conn,exclusion,Variable,5
+!def(USE_SSLEAY),http_auth_headers,additon,Function,5
+!def(CURL_DISABLE_HTTP),FormAdd,additon,Function,5

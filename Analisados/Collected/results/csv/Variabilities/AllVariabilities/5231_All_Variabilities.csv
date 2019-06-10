@@ -1,0 +1,6 @@
+def(MOCK_TIME),
+True,
+def(WIN32),
+def(KERNEL_LINUX),
+!def(MOCK_TIME),
+def(HAVE_LIBKSTAT),

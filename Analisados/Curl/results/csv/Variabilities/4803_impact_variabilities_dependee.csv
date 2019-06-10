@@ -1,0 +1,3 @@
+def(WIN32),readfile_read,additon,Variable,1
+def(WIN32),buffer,exclusion,Variable,1
+def(WIN32),check_wsock2,parameter,Function,1

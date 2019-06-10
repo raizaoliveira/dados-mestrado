@@ -1,0 +1,3 @@
+def(DEBUGBUILD),True
+def(CURL_DOES_CONVERSIONS),True
+True,def(__VMS)

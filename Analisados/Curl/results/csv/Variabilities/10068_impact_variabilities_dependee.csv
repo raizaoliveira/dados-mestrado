@@ -1,0 +1,3 @@
+True,login,exclusion,Variable,1
+True,password,exclusion,Variable,1
+True,mfprintf,additon,Function,1

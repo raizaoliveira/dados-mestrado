@@ -1,0 +1,5 @@
+def(DEBUGBUILD),parse_filename,additon,Function,2
+True,curl_getenv,additon,Function,2
+True,curl_free,additon,Function,2
+True,len,additon,Variable,2
+True,p,additon,Variable,2

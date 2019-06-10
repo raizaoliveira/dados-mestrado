@@ -1,0 +1,10 @@
+def(_WIN32),hash_command_output,additon,Function,2
+True,find_executable,exclusion,Function,2
+True,hash_fd,type,Function,2
+True,register_signal_handler,additon,Function,2
+True,find,additon,Function,2
+True,hash,parameter,Function,2
+True,argv,exclusion,Variable,2
+True,signal_handler,exclusion,Function,2
+True,argc,exclusion,Variable,2
+def(_WIN32),lockfile_acquire,type,Function,2

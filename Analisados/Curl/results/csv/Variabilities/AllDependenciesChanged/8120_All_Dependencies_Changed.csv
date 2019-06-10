@@ -1,0 +1,2 @@
+def(ENABLE_IPV6),True
+!def(CURL_DISABLE_HTTP),True

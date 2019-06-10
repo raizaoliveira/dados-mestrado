@@ -1,0 +1,12 @@
+True,Curl_base64_encode,additon,Function,3
+True,now,exclusion,Variable,3
+def(DEBUGBUILD),moveHandleFromSendToRecvPipeline,additon,Function,3
+True,data,exclusion,Variable,3
+def(DEBUGBUILD),Curl_move_handle_from_send_to_recv_pipe,additon,Function,3
+True,easy,exclusion,Variable,3
+True,multi,exclusion,Variable,3
+def(DEBUGBUILD),checkPendPipeline,additon,Function,3
+True,base64_encode,exclusion,Function,3
+True,conn,exclusion,Variable,3
+def(DEBUGBUILD),addHandleToSendOrPendPipeline,additon,Function,3
+def(DEBUGBUILD),Curl_add_handle_to_pipeline,additon,Function,3

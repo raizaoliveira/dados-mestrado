@@ -1,0 +1,5 @@
+True,Curl_http_auth_stage,additon,Function,3
+True,Curl_output_basic,exclusion,Function,3
+True,Curl_http,exclusion,Function,3
+True,Curl_output_basic_proxy,additon,Function,3
+!def(USE_SSLEAY),http_auth_headers,exclusion,Function,3

@@ -1,0 +1,17 @@
+register_signal_handler,1,function
+get_relative_path,1,function
+lockfile_release,1,function
+get_extension,1,function
+lockfile_acquire,1,function
+find,1,function
+mkstemp,1,function
+win32getshell,1,function
+staleness_limit,1,variable
+lockfile,1,variable
+full_path_win_ext,1,variable
+x_malloc,1,function
+getopt_long,1,function
+stats_file,1,variable
+win32argvtos,1,function
+lock_staleness_limit,1,variable
+cc_log,1,function

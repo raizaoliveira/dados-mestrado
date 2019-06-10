@@ -1,0 +1,6 @@
+True,Curl_client_write,exclusion,Function,2
+True,Curl_base64_encode,exclusion,Function,2
+True,base64_encode,additon,Function,2
+True,Curl_write,additon,Function,2
+True,data,additon,Variable,2
+True,Curl_write_plain,exclusion,Function,2

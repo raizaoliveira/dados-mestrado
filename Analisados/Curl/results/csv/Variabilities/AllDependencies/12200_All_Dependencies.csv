@@ -1,0 +1,17 @@
+def(TEST),True
+def(DPRINTF_DEBUG),True
+def(DPRINTF_DEBUG2),True
+(def(HAVE_FIONBIO)&(!def(HAVE_STDLIB_H)|def(WIN32))),True
+def(CURL_COOKIE_DEBUG),True
+True,!def(WIN32)
+def(TEST_DECODE),True
+def(_NETRC_DEBUG),True
+def(HAVE_GETPASS_R),True
+True,!def(HAVE_STRTOK_R)
+def(TEST_ENCODE),True
+(def(HAVE_O_NONBLOCK)&(!def(HAVE_STDLIB_H)|def(WIN32))),True
+def(MALLOCDEBUG),True
+def(_OLD_FORM_DEBUG),True
+def(_FORM_DEBUG),True
+True,def(DPRINTF_DEBUG2)
+def(KRB4),True

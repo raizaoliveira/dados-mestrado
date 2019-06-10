@@ -1,0 +1,3 @@
+True,thermal_sysfs_device_read,specifier,Function,1
+True,fc_read_dir_callback,parameter,Function,1
+True,thermal_procfs_device_read,specifier,Function,1

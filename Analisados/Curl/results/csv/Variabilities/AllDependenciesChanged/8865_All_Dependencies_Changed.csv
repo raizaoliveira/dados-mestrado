@@ -1,0 +1,5 @@
+True,(!def(HAVE_GSSAPI)&!def(USE_SSLEAY))
+!def(CURL_DISABLE_HTTP),True
+(!def(HAVE_GSSAPI)&!def(USE_SSLEAY)),True
+def(CURL_DO_LINEEND_CONV),True
+(def(HAVE_LIBZ)&!def(CURL_DISABLE_HTTP)),True

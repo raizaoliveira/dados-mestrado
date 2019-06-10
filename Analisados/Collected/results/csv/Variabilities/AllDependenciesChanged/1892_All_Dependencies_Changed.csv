@@ -1,0 +1,2 @@
+True,!def(HAVE_LIBKSTAT)
+def(KERNEL_LINUX),True

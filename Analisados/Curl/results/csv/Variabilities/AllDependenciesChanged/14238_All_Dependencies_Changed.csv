@@ -1,0 +1,3 @@
+!def(CURL_DISABLE_FTP),True
+(def(_LDAP_PVT_H)&!def(USE_SSL)),True
+!def(CURL_DISABLE_HTTP),True

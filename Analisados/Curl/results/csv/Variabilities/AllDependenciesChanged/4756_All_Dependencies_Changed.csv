@@ -1,0 +1,3 @@
+!def(USE_SSLEAY),True
+True,def(WIN32)
+(!def(HAVE_GSSAPI)&!def(USE_SSLEAY)),True

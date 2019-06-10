@@ -1,0 +1,10 @@
+def(_FORM_DEBUG),main,exclusion,Function,2
+True,maprintf,parameter,Function,2
+True,ParseNetrc,exclusion,Function,2
+True,endpos,exclusion,Variable,2
+True,mprintf,parameter,Function,2
+def(_FORM_DEBUG),last_post,additon,Function,2
+True,format,exclusion,Variable,2
+True,vto,exclusion,Variable,2
+True,mfprintf,parameter,Function,2
+def(_FORM_DEBUG),httppost,additon,Function,2

@@ -1,0 +1,4 @@
+def(_WIN32),True
+True,def(_WIN32)
+!def(_WIN32),def(_WIN32)
+!def(_WIN32),True

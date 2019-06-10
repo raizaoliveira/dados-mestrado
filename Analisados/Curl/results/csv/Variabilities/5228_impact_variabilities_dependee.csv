@@ -1,0 +1,7 @@
+!def(CURL_DISABLE_HTTP),Curl_output_digest,parameter,Function,4
+True,curl_maprintf,additon,Function,4
+def(WIN32),check_wsock2,parameter,Function,4
+True,data,exclusion,Variable,4
+True,request,additon,Variable,4
+!def(CURL_DISABLE_HTTP),Curl_input_digest,parameter,Function,4
+True,conn,additon,Variable,4

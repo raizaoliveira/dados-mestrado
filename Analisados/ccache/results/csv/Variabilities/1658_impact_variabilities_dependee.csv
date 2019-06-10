@@ -1,0 +1,11 @@
+True,cached_dwo,additon,Variable,2
+True,output_dep,additon,Variable,2
+True,output_dia,additon,Variable,2
+True,cached_dia,additon,Variable,2
+True,hash,parameter,Function,2
+def(_WIN32),lockfile_acquire,additon,Function,2
+True,cached_obj,additon,Variable,2
+True,cached_cov,additon,Variable,2
+def(_WIN32),get_current_working_dir,specifier,Function,2
+True,output_obj,additon,Variable,2
+True,cached_dep,additon,Variable,2

@@ -1,0 +1,14 @@
+!def(HAVE_SETENV),True
+!def(HAVE_LIBKSTAT),True
+True,!def(HAVE_LIBKSTAT)
+def(ASN_NULL),True
+(!def(HAVE_LIBKSTAT)&def(HAVE_LIBRRD)),True
+def(HAVE_LIBRRD),(!def(HAVE_LIBKSTAT)&def(HAVE_LIBRRD))
+def(HAVE_SETENV),True
+def(KERNEL_LINUX),True
+def(DEBUG),True
+def(HAVE_LIBRRD),True
+!def(ASN_NULL),True
+!def(HAVE_LIBRRD),True
+True,!def(HAVE_SETENV)
+True,def(KERNEL_LINUX)

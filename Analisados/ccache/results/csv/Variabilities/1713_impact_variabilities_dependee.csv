@@ -1,0 +1,8 @@
+True,lockfile,additon,Variable,3
+True,stats_file,additon,Variable,3
+def(_WIN32),lockfile_acquire,type,Function,3
+True,hash,parameter,Function,3
+True,find,exclusion,Function,3
+True,find_executable,additon,Function,3
+True,staleness_limit,additon,Variable,3
+True,lock_staleness_limit,additon,Variable,3

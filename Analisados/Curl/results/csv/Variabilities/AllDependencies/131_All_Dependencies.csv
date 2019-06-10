@@ -1,0 +1,13 @@
+def(GLOBURL),!def(HAVE_STRDUP)
+def(_FORM_DEBUG),True
+def(_NETRC_DEBUG),True
+def(GLOBURL),True
+!def(HAVE_STRDUP),True
+def(DPRINTF_DEBUG),True
+(def(HAVE_RAND_STATUS)&def(USE_SSLEAY)&(!def(HAVE_RAND_SCREEN)|!def(USE_SSLEAY))),True
+True,!def(HAVE_STRDUP)
+True,def(DPRINTF_DEBUG2)
+def(DPRINTF_DEBUG2),True
+!def(GLOBURL),True
+(def(USE_SSLEAY)&!def(HAVE_RAND_STATUS)&(!def(HAVE_RAND_SCREEN)|!def(USE_SSLEAY))),True
+True,def(GLOBURL)

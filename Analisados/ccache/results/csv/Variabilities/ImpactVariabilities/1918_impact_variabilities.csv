@@ -1,0 +1,5 @@
+def(MAKEFIXED),
+def(_WIN32),
+True,
+!def(HAVE_GETOPT_LONG),
+def(TEST_LOCKFILE),

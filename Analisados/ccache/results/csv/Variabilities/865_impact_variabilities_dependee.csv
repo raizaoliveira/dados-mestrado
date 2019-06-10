@@ -1,0 +1,5 @@
+True,lock_staleness_limit,exclusion,Variable,1
+True,stats_file,exclusion,Variable,1
+True,lockfile_acquire,exclusion,Function,1
+True,staleness_limit,exclusion,Variable,1
+True,lockfile,exclusion,Variable,1

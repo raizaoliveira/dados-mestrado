@@ -1,0 +1,12 @@
+True,curl_mfprintf,parameter,Function,2
+True,curl_mvfprintf,parameter,Function,2
+True,Curl_base64_decode,parameter,Function,2
+True,vto,exclusion,Variable,2
+True,curl_maprintf,parameter,Function,2
+True,FormAdd,additon,Function,2
+True,endpos,exclusion,Variable,2
+True,FormParse,exclusion,Function,2
+True,curl_mprintf,parameter,Function,2
+True,format,exclusion,Variable,2
+!def(HAVE_STRTOK_R),Curl_strtok_r,parameter,Function,2
+True,Curl_base64_encode,parameter,Function,2

@@ -1,0 +1,4 @@
+True,def(WIN32)
+!def(CURL_DISABLE_HTTP),True
+def(TEST_DECODE),True
+(def(HAVE_KRB4)&!def(CURL_DISABLE_FTP)),True

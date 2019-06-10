@@ -1,0 +1,10 @@
+lockfile_acquire,1,function
+main,1,function
+x_malloc,1,function
+argc,1,variable
+mkstemp,1,function
+win32argvtos,1,function
+cc_log,1,function
+getopt_long,1,function
+argv,1,variable
+lockfile_release,1,function

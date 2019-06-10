@@ -1,0 +1,6 @@
+True,multi,exclusion,Variable,2
+True,lock,parameter,Function,2
+True,easy,exclusion,Variable,2
+True,data,exclusion,Variable,2
+True,unlock,parameter,Function,2
+def(CURLDEBUG),multi_runsingle,exclusion,Function,2

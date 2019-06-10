@@ -1,0 +1,7 @@
+def(CURLDEBUG),curl_debuglogfile,exclusion,Variable,3
+True,curl_mprintf,exclusion,Function,3
+True,curl_mfprintf,exclusion,Function,3
+True,lock,parameter,Function,3
+True,curl_msnprintf,exclusion,Function,3
+def(CURLDEBUG),memsize,exclusion,Variable,3
+def(WIN32),check_wsock2,parameter,Function,3

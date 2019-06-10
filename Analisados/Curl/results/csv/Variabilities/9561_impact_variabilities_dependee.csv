@@ -1,0 +1,9 @@
+True,share,exclusion,Variable,3
+True,my_lock,exclusion,Function,3
+True,init,exclusion,Function,3
+True,request,exclusion,Variable,3
+!def(CURL_DISABLE_HTTP),conn,exclusion,Variable,3
+(!def(HAVE_LDAP_URL_PARSE)&!def(CURL_DISABLE_LDAP)),_ldap_url_parse,parameter,Function,3
+True,Curl_input_digest,parameter,Function,3
+True,my_unlock,exclusion,Function,3
+True,conn,exclusion,Variable,3

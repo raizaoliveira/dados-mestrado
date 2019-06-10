@@ -1,0 +1,5 @@
+!def(_WIN32),
+!def(HAVE_GETOPT_LONG),
+def(TEST_LOCKFILE),
+True,
+def(_WIN32),

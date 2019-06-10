@@ -1,0 +1,3 @@
+def(USE_CYASSL),conn,exclusion,Variable,2
+!def(HAVE_INET_PTON),Curl_inet_pton,additon,Function,2
+def(USE_CYASSL),sockindex,exclusion,Variable,2

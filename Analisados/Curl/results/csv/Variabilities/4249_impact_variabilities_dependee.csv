@@ -1,0 +1,4 @@
+!def(CURL_DISABLE_HTTP),conn,exclusion,Variable,3
+True,conn,additon,Variable,3
+True,Curl_http,exclusion,Function,3
+True,Curl_http_auth_stage,exclusion,Function,3

@@ -1,0 +1,2 @@
+True,rrd_file,additon,Variable,2
+(!def(HAVE_LIBKSTAT)&def(HAVE_LIBRRD)),rrd_update_file,additon,Function,2

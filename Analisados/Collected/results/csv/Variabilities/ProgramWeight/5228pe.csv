@@ -1,0 +1,15 @@
+dirname_sysfs,1,variable
+thermal_sysfs_device_read,1,function
+interface_read,1,function
+dirname_procfs,1,variable
+thermal_procfs_device_read,1,function
+interface_config,1,function
+sstrerror,1,function
+submit_derive,1,function
+plugin_log,1,function
+walk_directory,1,function
+submit,1,function
+submit_derive,1,function
+kc,1,variable
+ksp,1,variable
+wireless_percent_to_power,1,function

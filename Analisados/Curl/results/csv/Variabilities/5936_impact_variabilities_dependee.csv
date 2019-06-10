@@ -1,0 +1,11 @@
+True,post,exclusion,Variable,3
+True,lock,parameter,Function,3
+True,data,exclusion,Variable,3
+True,curl_mvsnprintf,exclusion,Function,3
+!def(CURL_DISABLE_HTTP),Curl_cookie_init,parameter,Function,3
+!def(CURL_DISABLE_HTTP),Curl_getFormData,exclusion,Function,3
+def(WIN32),check_wsock2,parameter,Function,3
+!def(CURL_DISABLE_HTTP),Curl_formclean,exclusion,Function,3
+!def(CURL_DISABLE_HTTP),Curl_formpostheader,exclusion,Function,3
+True,flags,exclusion,Variable,3
+!def(CURL_DISABLE_HTTP),Curl_FormInit,exclusion,Function,3

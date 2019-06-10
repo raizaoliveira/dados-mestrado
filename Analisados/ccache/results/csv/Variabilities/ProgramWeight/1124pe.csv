@@ -1,0 +1,16 @@
+mkstemp,1,function
+lockfile_acquire,1,function
+find,1,function
+args,1,variable
+args_free,1,function
+cc_log,1,function
+hash,1,function
+win32argvtos,1,function
+stats_update,1,function
+lockfile_release,1,function
+get_extension,1,function
+getopt_long,1,function
+hash_fd,1,function
+win32getshell,1,function
+fatal,1,function
+x_malloc,1,function

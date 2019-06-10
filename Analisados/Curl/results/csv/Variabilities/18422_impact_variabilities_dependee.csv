@@ -1,0 +1,7 @@
+True,Curl_write,exclusion,Function,1
+True,multi,additon,Variable,1
+True,Curl_read_plain,additon,Function,1
+True,now,additon,Variable,1
+True,easy,additon,Variable,1
+True,data,additon,Variable,1
+True,Curl_write_plain,additon,Function,1

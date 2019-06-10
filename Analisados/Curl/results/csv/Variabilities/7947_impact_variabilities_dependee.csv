@@ -1,0 +1,9 @@
+True,Curl_http,additon,Function,3
+True,easy,additon,Variable,3
+!def(CURL_DISABLE_HTTP),conn,additon,Variable,3
+True,Curl_client_write,additon,Function,3
+True,unlock,parameter,Function,3
+True,lock,parameter,Function,3
+def(WIN32),check_wsock2,parameter,Function,3
+True,Curl_read,parameter,Function,3
+True,Curl_write,parameter,Function,3

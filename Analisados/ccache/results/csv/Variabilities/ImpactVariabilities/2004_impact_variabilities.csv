@@ -1,0 +1,6 @@
+True,
+!def(ASMINF),
+def(_WIN32),
+def(MAKEFIXED),
+!def(HAVE_GETOPT_LONG),
+def(TEST_LOCKFILE),

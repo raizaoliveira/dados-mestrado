@@ -1,0 +1,8 @@
+True,Curl_write,additon,Function,3
+def(CURLDEBUG),multistate,additon,Function,3
+True,Curl_client_write,additon,Function,3
+True,Curl_read,additon,Function,3
+True,Curl_infof,additon,Function,3
+True,lock,parameter,Function,3
+True,Curl_failf,additon,Function,3
+def(WIN32),check_wsock2,parameter,Function,3

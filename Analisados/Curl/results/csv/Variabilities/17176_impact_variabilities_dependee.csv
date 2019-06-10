@@ -1,0 +1,5 @@
+True,data,additon,Variable,1
+True,Curl_read,exclusion,Function,1
+True,Curl_client_write,additon,Function,1
+True,Curl_read_plain,additon,Function,1
+True,easy,additon,Variable,1

@@ -1,0 +1,5 @@
+True,submit_derive,additon,Function,1
+True,thermal_procfs_device_read,parameter,Function,1
+True,thermal_sysfs_device_read,parameter,Function,1
+True,submit,exclusion,Function,1
+True,fc_read_dir_callback,parameter,Function,1

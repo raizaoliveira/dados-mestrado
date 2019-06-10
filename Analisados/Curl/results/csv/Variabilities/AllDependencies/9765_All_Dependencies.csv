@@ -1,0 +1,13 @@
+def(WIN32),True
+def(GLOBURL),True
+True,def(DPRINTF_DEBUG2)
+True,def(_FORM_DEBUG)
+def(DPRINTF_DEBUG2),True
+def(USE_SSLEAY),True
+True,def(GLOBURL)
+!def(WIN32),True
+def(_NETRC_DEBUG),True
+def(DPRINTF_DEBUG),True
+!def(GLOBURL),True
+def(WIN32),!def(WIN32)
+def(_FORM_DEBUG),True

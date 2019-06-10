@@ -1,0 +1,16 @@
+True,Curl_output_digest,additon,Function,5
+!def(USE_SSLEAY),MD5_Final,exclusion,Function,5
+True,conn,exclusion,Variable,5
+!def(USE_SSLEAY),MD5_Init,exclusion,Function,5
+True,curl_maprintf,exclusion,Function,5
+!def(USE_SSLEAY),MD5_Update,exclusion,Function,5
+!def(HAVE_STRTOK_R),Curl_strtok_r,exclusion,Function,5
+True,lock,parameter,Function,5
+!def(CURL_DISABLE_HTTP),Curl_output_digest,exclusion,Function,5
+True,Curl_input_digest,additon,Function,5
+True,Curl_md5it,exclusion,Function,5
+def(WIN32),check_wsock2,parameter,Function,5
+True,Curl_base64_encode,exclusion,Function,5
+!def(CURL_DISABLE_HTTP),Curl_cookie_init,parameter,Function,5
+True,curl_msnprintf,exclusion,Function,5
+True,data,exclusion,Variable,5

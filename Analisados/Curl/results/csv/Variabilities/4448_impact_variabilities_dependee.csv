@@ -1,0 +1,4 @@
+def(CURLDEBUG),curl_multi_perform,exclusion,Function,2
+True,curl_mfprintf,exclusion,Function,2
+True,multi_handle,exclusion,Variable,2
+True,multi,exclusion,Variable,2

@@ -1,0 +1,3 @@
+True,def(DLT_LOOP)
+True,def(DLT_RAW)
+(def(HAVE_LIBKSTAT)|def(HAVE_LIBRRD)),True

@@ -1,0 +1,4 @@
+(def(HAVE_LIBZ)&!def(CURL_DISABLE_HTTP)),True
+def(CURL_DO_LINEEND_CONV),True
+!def(CURL_DISABLE_HTTP),True
+True,def(WIN32)

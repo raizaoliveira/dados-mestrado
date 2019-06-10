@@ -1,0 +1,6 @@
+True,thermal_sysfs_device_read,additon,Function,2
+True,thermal_procfs_device_read,additon,Function,2
+True,dirname_procfs,additon,Variable,2
+True,submit_derive,additon,Function,2
+True,submit,exclusion,Function,2
+True,dirname_sysfs,additon,Variable,2

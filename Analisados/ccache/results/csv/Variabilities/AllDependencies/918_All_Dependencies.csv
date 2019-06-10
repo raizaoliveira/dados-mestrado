@@ -1,0 +1,8 @@
+def(_WIN32),True
+def(TEST_LOCKFILE),True
+def(TEST_LOCKFILE),def(_WIN32)
+True,def(_WIN32)
+!def(_WIN32),def(_WIN32)
+!def(_WIN32),True
+True,!def(HAVE_MKSTEMP)
+True,!def(HAVE_GETOPT_LONG)

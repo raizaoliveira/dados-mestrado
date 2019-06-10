@@ -1,0 +1,13 @@
+!def(WIN32),True
+def(_FORM_DEBUG),True
+(def(USE_SSLEAY)&!def(HAVE_RAND_STATUS)&(!def(WIN32)|!def(USE_SSLEAY))),True
+def(WIN32),True
+(def(HAVE_RAND_STATUS)&def(USE_SSLEAY)&(!def(WIN32)|!def(USE_SSLEAY))),True
+def(DPRINTF_DEBUG),True
+def(DPRINTF_DEBUG2),True
+True,def(DPRINTF_DEBUG2)
+!def(GLOBURL),True
+True,def(GLOBURL)
+def(_NETRC_DEBUG),True
+def(GLOBURL),True
+def(WIN32),!def(WIN32)

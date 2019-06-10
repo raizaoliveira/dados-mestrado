@@ -1,0 +1,12 @@
+(!def(GSSAPI)&!def(USE_SSLEAY)),!def(CURL_DISABLE_HTTP)
+(def(GSSAPI)&!def(USE_SSLEAY)),True
+(def(GSSAPI)&!def(USE_SSLEAY)),!def(CURL_DISABLE_HTTP)
+(!def(GSSAPI)&def(USE_SSLEAY)),!def(CURL_DISABLE_HTTP)
+def(USE_SSLEAY),True
+!def(USE_SSLEAY),True
+True,(!def(GSSAPI)&!def(USE_SSLEAY))
+True,!def(USE_SSLEAY)
+(!def(GSSAPI)&!def(USE_SSLEAY)),True
+(!def(GSSAPI)&def(USE_SSLEAY)),True
+(def(GSSAPI)&def(USE_SSLEAY)),True
+(def(GSSAPI)&def(USE_SSLEAY)),!def(CURL_DISABLE_HTTP)

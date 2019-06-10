@@ -1,0 +1,17 @@
+True,set_search,exclusion,Function,2
+True,main,exclusion,Function,2
+True,config_lookup,exclusion,Function,2
+!def(WIN32),set_search,exclusion,Function,2
+True,channel,exclusion,Variable,2
+True,config_nameserver,exclusion,Function,2
+!def(WIN32),config_sortlist,exclusion,Function,2
+True,config_sortlist,exclusion,Function,2
+!def(WIN32),ares__read_line,exclusion,Function,2
+!def(WIN32),config_nameserver,exclusion,Function,2
+!def(WIN32),init_by_resolv_conf,exclusion,Function,2
+True,set_options,exclusion,Function,2
+!def(WIN32),config_domain,exclusion,Function,2
+!def(WIN32),set_options,exclusion,Function,2
+True,ares__read_line,exclusion,Function,2
+True,try_config,exclusion,Function,2
+!def(WIN32),config_lookup,exclusion,Function,2

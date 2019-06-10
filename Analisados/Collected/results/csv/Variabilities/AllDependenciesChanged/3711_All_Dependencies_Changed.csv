@@ -1,0 +1,4 @@
+def(KERNEL_LINUX),True
+!def(HAVE_LIBKSTAT),True
+def(HAVE_VARNISH_V2),True
+True,!def(HAVE_LIBKSTAT)

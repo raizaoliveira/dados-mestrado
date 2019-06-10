@@ -1,0 +1,6 @@
+True,Curl_client_write,exclusion,Function,3
+True,data,exclusion,Variable,3
+True,conn,exclusion,Variable,3
+def(CURLDEBUG),multi_runsingle,exclusion,Function,3
+True,easy,additon,Variable,3
+True,multi,exclusion,Variable,3

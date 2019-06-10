@@ -1,0 +1,4 @@
+True,
+(!def(HAVE_LIBKSTAT)&def(HAVE_LIBRRD)),
+(def(HAVE_LIBKSTAT)|def(HAVE_LIBRRD)),
+(!def(HAVE_LIBKSTAT)&!def(HAVE_LIBRRD)),

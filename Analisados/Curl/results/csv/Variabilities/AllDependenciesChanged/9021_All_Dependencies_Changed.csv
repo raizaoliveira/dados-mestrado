@@ -1,0 +1,10 @@
+(def(HAVE_GSSAPI)&!def(USE_SSLEAY)),True
+!def(CURL_DISABLE_HTTP),True
+True,def(CURLDEBUG)
+True,(!def(HAVE_GSSAPI)&!def(USE_SSLEAY))
+(!def(HAVE_GSSAPI)&!def(USE_SSLEAY)),True
+(def(HAVE_GSSAPI)&def(USE_SSLEAY)),True
+(!def(HAVE_GSSAPI)&def(USE_SSLEAY)),True
+def(CURLDEBUG),True
+!def(CURL_DISABLE_DICT),True
+(def(HAVE_KRB4)&!def(CURL_DISABLE_FTP)),True

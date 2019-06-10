@@ -1,0 +1,5 @@
+True,get_current_working_dir,additon,Function,2
+True,hash,parameter,Function,2
+def(_WIN32),common_hash,additon,Function,2
+def(_WIN32),get_current_working_dir,specifier,Function,2
+def(_WIN32),to_cache,exclusion,Function,2

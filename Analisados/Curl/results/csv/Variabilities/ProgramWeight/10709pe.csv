@@ -1,0 +1,16 @@
+Curl_base64_encode,1,function
+mech,1,variable
+format,1,variable
+Curl_getFormData,1,function
+Curl_base64_decode,1,function
+name_to_level,1,function
+endpos,1,function
+pos,1,function
+vto,1,variable
+httppost,1,function
+last_post,1,function
+curl_memdebug,1,function
+orig,1,variable
+FormParse,1,function
+curl_mprintf,1,function
+mechs,1,variable

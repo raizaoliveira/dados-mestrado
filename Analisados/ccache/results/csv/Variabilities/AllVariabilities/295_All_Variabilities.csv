@@ -1,0 +1,6 @@
+def(HAVE_UTIMES),
+def(TEST_MDFOUR),
+!def(HAVE_UTIMES),
+True,
+!def(HAVE_MKSTEMP),
+def(HAVE_GETPWUID),

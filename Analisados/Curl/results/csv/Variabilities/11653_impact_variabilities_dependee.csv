@@ -1,0 +1,4 @@
+True,curl_mvfprintf,parameter,Function,1
+True,curl_mprintf,parameter,Function,1
+True,curl_mfprintf,parameter,Function,1
+True,curl_maprintf,parameter,Function,1

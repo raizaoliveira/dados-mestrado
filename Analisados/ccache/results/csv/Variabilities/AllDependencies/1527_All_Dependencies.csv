@@ -1,0 +1,10 @@
+!def(_WIN32),def(_WIN32)
+def(SIGHUP),True
+!def(_WIN32),True
+True,def(_WIN32)
+def(TEST_LOCKFILE),def(_WIN32)
+def(_WIN32),True
+True,!def(HAVE_GETOPT_LONG)
+def(TEST_LOCKFILE),True
+def(SIGQUIT),True
+True,!def(HAVE_MKSTEMP)

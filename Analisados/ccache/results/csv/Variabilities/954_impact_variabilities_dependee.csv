@@ -1,0 +1,10 @@
+True,find,exclusion,Function,2
+True,fatal,exclusion,Function,2
+True,args,exclusion,Variable,2
+True,hash,exclusion,Function,2
+def(_WIN32),hash_fd,exclusion,Function,2
+def(_WIN32),hash,exclusion,Function,2
+True,stats_update,exclusion,Function,2
+True,args_free,exclusion,Function,2
+True,cc_log,exclusion,Function,2
+True,hash_fd,exclusion,Function,2

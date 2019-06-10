@@ -1,0 +1,2 @@
+(def(HAVE_GSSAPI)&!def(CURL_DISABLE_FTP)),True
+!def(DEBUGBUILD),True

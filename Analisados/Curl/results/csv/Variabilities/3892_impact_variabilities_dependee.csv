@@ -1,0 +1,4 @@
+True,request,exclusion,Variable,1
+True,Curl_http_auth_stage,additon,Function,1
+True,Curl_http,exclusion,Function,1
+True,conn,exclusion,Variable,1

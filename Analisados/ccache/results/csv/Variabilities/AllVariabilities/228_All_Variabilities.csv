@@ -1,0 +1,4 @@
+True,
+def(TEST_MDFOUR),
+def(HAVE_GETPWUID),
+!def(HAVE_MKSTEMP),

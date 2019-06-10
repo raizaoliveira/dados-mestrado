@@ -1,0 +1,16 @@
+!def(GLOBURL),True
+def(DPRINTF_DEBUG),True
+!def(WIN32),True
+def(WIN32),True
+(def(MIME_SEPARATORS)&def(GLOBURL)),True
+def(WIN32),!def(WIN32)
+def(_NETRC_DEBUG),True
+True,def(DPRINTF_DEBUG2)
+True,!def(GLOBURL)
+(def(CURL_SEPARATORS)&def(GLOBURL)),True
+def(GLOBURL),True
+def(_FORM_DEBUG),True
+def(DPRINTF_DEBUG2),True
+True,def(GLOBURL)
+def(USE_SSLEAY),True
+True,(def(MIME_SEPARATORS)&def(GLOBURL))

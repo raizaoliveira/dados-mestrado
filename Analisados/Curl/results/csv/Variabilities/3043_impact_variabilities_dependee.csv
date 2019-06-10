@@ -1,0 +1,4 @@
+True,curl_mfprintf,additon,Function,2
+True,Curl_http,additon,Function,2
+True,multi_handle,additon,Variable,2
+!def(CURL_DISABLE_HTTP),conn,additon,Variable,2

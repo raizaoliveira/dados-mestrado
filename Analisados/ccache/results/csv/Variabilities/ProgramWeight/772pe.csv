@@ -1,0 +1,3 @@
+argvtos,1,function
+getopt_long,1,function
+mkstemp,1,function

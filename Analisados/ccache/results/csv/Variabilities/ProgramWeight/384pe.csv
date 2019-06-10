@@ -1,0 +1,7 @@
+mkstemp,1,function
+m,1,variable
+main,1,function
+mdfour,1,function
+n,1,variable
+argv,1,variable
+argc,1,variable

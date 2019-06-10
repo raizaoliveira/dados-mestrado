@@ -1,0 +1,4 @@
+def(USE_SSL),True
+(((def(USE_SSL)&!def(USE_SSLEAY)&def(USE_GNUTLS))|(def(USE_SSLEAY)&def(USE_SSL))|((!def(USE_SSL)|def(USE_SSLEAY)|!def(USE_GNUTLS))&(!def(USE_SSLEAY)|!def(USE_SSL))&def(USE_SSL)))&((def(USE_SSL)&!def(USE_SSLEAY)&def(USE_GNUTLS))|(def(USE_SSLEAY)&def(USE_SSL)))),True
+True,def(WIN32)
+!def(CURL_DISABLE_HTTP),True

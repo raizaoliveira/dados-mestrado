@@ -1,0 +1,2 @@
+(def(_LDAP_PVT_H)&!def(USE_SSL)),True
+(def(HAVE_GSSAPI)&!def(CURL_DISABLE_FTP)),True

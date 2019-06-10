@@ -1,0 +1,4 @@
+True,def(WIN32)
+!def(WIN32),def(WIN32)
+def(CURL_DO_LINEEND_CONV),True
+!def(CURL_DISABLE_HTTP),True

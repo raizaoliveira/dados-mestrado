@@ -1,0 +1,3 @@
+!def(CURL_DISABLE_HTTP),True
+def(TEST_ENCODE),True
+True,!def(CURL_DISABLE_HTTP)

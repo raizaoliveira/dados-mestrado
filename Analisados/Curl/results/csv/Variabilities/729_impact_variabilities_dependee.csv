@@ -1,0 +1,15 @@
+True,base64_decode,exclusion,Function,4
+True,FormInit,exclusion,Function,4
+True,mvfprintf,exclusion,Function,4
+True,getFormData,exclusion,Function,4
+def(_FORM_DEBUG),httppost,additon,Function,4
+!def(HAVE_STRDUP),strdup,additon,Function,4
+True,FormParse,specifier,Function,4
+True,Curl_getFormData,additon,Function,4
+True,maprintf,exclusion,Function,4
+True,Curl_base64_encode,additon,Function,4
+True,Curl_base64_decode,additon,Function,4
+(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4))))&(!def(FTP_SERVER)|!def(KRB4))&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))),mfprintf,exclusion,Function,4
+(((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4))))&(!def(FTP_SERVER)|!def(KRB4))&((def(KRB4)&!def(FTP_SERVER))|(def(KRB4)&!def(FTP_SERVER)&(!def(FTP_SERVER)|!def(KRB4)))|(def(FTP_SERVER)&def(KRB4)))),Curl_mfprintf,additon,Function,4
+True,FormReader,exclusion,Function,4
+True,base64_encode,exclusion,Function,4

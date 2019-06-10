@@ -1,0 +1,9 @@
+True,Curl_write_plain,additon,Function,4
+True,easy,additon,Variable,4
+!def(CURL_DISABLE_HTTP),Curl_httpchunk_read,exclusion,Function,4
+def(USE_CYASSL),sockindex,additon,Variable,4
+def(USE_CYASSL),conn,additon,Variable,4
+True,multi,additon,Variable,4
+True,data,additon,Variable,4
+True,Curl_write,exclusion,Function,4
+True,now,additon,Variable,4

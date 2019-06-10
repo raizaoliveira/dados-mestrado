@@ -1,0 +1,15 @@
+True,def(INFLATE_ALLOW_INVALID_DISTANCE_TOOFAR_ARRR)
+def(INFLATE_ALLOW_INVALID_DISTANCE_TOOFAR_ARRR),True
+True,def(_WIN32)
+def(SIGQUIT),True
+!def(_WIN32),def(_WIN32)
+!def(_WIN32),True
+True,!def(HAVE_MKSTEMP)
+True,def(SIGQUIT)
+True,!def(_WIN32)
+def(_WIN32),True
+def(TEST_LOCKFILE),True
+True,!def(HAVE_GETOPT_LONG)
+def(MAKEFIXED),True
+def(SIGHUP),True
+def(_WIN32),!def(_WIN32)

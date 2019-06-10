@@ -1,0 +1,15 @@
+def(_WIN32),hash,additon,Function,2
+True,stats_file,additon,Variable,2
+def(_WIN32),lockfile_acquire,additon,Function,2
+True,find,additon,Function,2
+True,cc_log,additon,Function,2
+True,lock_staleness_limit,additon,Variable,2
+True,lockfile,additon,Variable,2
+True,lockfile_acquire,exclusion,Function,2
+True,args,additon,Variable,2
+True,fatal,additon,Function,2
+True,args_free,additon,Function,2
+True,hash_fd,additon,Function,2
+True,hash,additon,Function,2
+True,staleness_limit,additon,Variable,2
+True,stats_update,additon,Function,2

@@ -1,0 +1,5258 @@
+Number of commitsId: 2080
+Commit f42859a15c39f0efd28382e7e7031895247cc085
+	number of .c files: 7
+	ASTs: 6/7 85.71429%
+Commit ecb3bfc6e8b5083342ddcb35cb6f26b8f6199b2b
+	number of .c files: 7
+	ASTs: 6/7 85.71429%
+Commit f171a5c9ffbcf3083dbcbccdb9a7f39442598157
+	number of .c files: 7
+	ASTs: 6/7 85.71429%
+Commit 11628d7f7bd4f5f134e95877d835ae6fa68b8a6f
+	number of .c files: 7
+	ASTs: 6/7 85.71429%
+Commit 42ed452a5776f017c9579ac30cd3aaf2c1d84582
+	number of .c files: 7
+	ASTs: 6/7 85.71429%
+Commit b97c2c60e233fee7aed6b722f760feb37186218b
+	number of .c files: 7
+	ASTs: 6/7 85.71429%
+Commit a3130d6a7039bc939268c121b4e64116e2c2fbd8
+	number of .c files: 7
+	ASTs: 6/7 85.71429%
+Commit 0fe34ad74cc4a5597d88ca8a5437af67ab9bea65
+	number of .c files: 6
+	ASTs: 6/6 100.0%
+Commit 3b4bf198485a9145df6b1cad24857bd1b893135b
+	number of .c files: 6
+Commit 283c55dbfea2b815c5a124e74c98081490f0678f
+	number of .c files: 6
+	ASTs: 6/6 100.0%
+Commit e563d0bb7f4feab5dd7d79728da23917a1745a05
+	number of .c files: 6
+	ASTs: 6/6 100.0%
+Commit 49018976e9102c16b24154c0be0af21b83261c3c
+	number of .c files: 6
+	ASTs: 6/6 100.0%
+Commit 9684d92d50430dab2e551ff4d6066452b5cb5d70
+	number of .c files: 6
+	ASTs: 6/6 100.0%
+Commit 763a062be5e7f1e2b8de8c0f04843faace574003
+	number of .c files: 6
+	ASTs: 6/6 100.0%
+Commit 09cf1d2364e4486f3d6db51b7146ec36c869a5f5
+	number of .c files: 6
+Commit 971801d9b34e598e1377036e1fa606bd5f3ea75f
+	number of .c files: 6
+Commit b93b8ff936c2851c040f25260e3e6fb03639ce97
+	number of .c files: 6
+	ASTs: 6/6 100.0%
+Commit 57088bae34467af6c1a7e8180d1695a412e6aa5d
+	number of .c files: 6
+	ASTs: 6/6 100.0%
+Commit 10920460b5b00b77316602eb4e7c998a80464a88
+	number of .c files: 6
+	ASTs: 6/6 100.0%
+Commit 4101c3fd395a5e47f985ecb2e8763e410c1aec16
+	number of .c files: 6
+	ASTs: 6/6 100.0%
+Commit 75d34ac390d9d2e28d4dc5bebd902226f049f51f
+	number of .c files: 6
+	ASTs: 6/6 100.0%
+Commit 7f1767724fec1a1b1405965df7db56e6632bcf99
+	number of .c files: 6
+Commit 0ccc61344b368ee2112a01e0df10726c2ab3935e
+	number of .c files: 6
+	ASTs: 6/6 100.0%
+Commit 2c280499c33e39337c210ea84a0b0fe4ddbff6f6
+	number of .c files: 6
+	ASTs: 6/6 100.0%
+Commit db1f80c11f08ef3b3c56a589640b8c560d0b670e
+	number of .c files: 6
+Commit bd4ab5b6c510326c994d064b3bd9122d060a572c
+	number of .c files: 6
+Commit cb9047a5a40e1d4d8f0d166955f0e70168de06a0
+	number of .c files: 7
+	ASTs: 7/7 100.0%
+Commit 12ccc74465ee557a6be3462e9614c55b58984559
+	number of .c files: 7
+Commit de8f44273ccf85764ea408b6971fada9fd25a0f7
+	number of .c files: 7
+	ASTs: 7/7 100.0%
+Commit 21886013d1a287c7df687d34f428a3ab1135516c
+	number of .c files: 7
+	ASTs: 7/7 100.0%
+Commit 56d19b0a225b867f02881c6f73a8d80409b53986
+	number of .c files: 7
+Commit 1d053105720949fc7bbcf594f7d0add95a19e717
+	number of .c files: 7
+	ASTs: 7/7 100.0%
+Commit c5c69c705454ab633231d9a91addfb4e0fd51366
+	number of .c files: 7
+	ASTs: 7/7 100.0%
+Commit 46a88256bc2006a19508589b25a44daf4c78b4b4
+	number of .c files: 7
+	ASTs: 7/7 100.0%
+Commit c2286aa2f6b737992fbf76b8c4f21aa64dbef94d
+	number of .c files: 7
+Commit c79ad6ff5d63c19e2ef07c6b08d17344afef4daa
+	number of .c files: 7
+	ASTs: 7/7 100.0%
+Commit c4c9a38c7efe0144ad86f4c551641368020a348d
+	number of .c files: 7
+Commit 9dfed6dd027607b634524ba03161d9a14311c71d
+	number of .c files: 7
+	ASTs: 7/7 100.0%
+Commit 8d91b7ceb32f52b8bec3594f375c48fe92fe39df
+	number of .c files: 7
+	ASTs: 7/7 100.0%
+Commit 221cdbefb124a37fcb5db34e8a696fbabf48cbac
+	number of .c files: 7
+	ASTs: 7/7 100.0%
+Commit e27b51a85a41d243c2708bcbb8de737f2a0783fb
+	number of .c files: 7
+	ASTs: 7/7 100.0%
+Commit b06f5fb2c3e6d9f4e178401a37630c939c64222a
+	number of .c files: 7
+	ASTs: 7/7 100.0%
+Commit ea710755c4c443320c942fc335da3a8012651e4b
+	number of .c files: 9
+	ASTs: 9/9 100.0%
+Commit 1fa78d96a04dcd6c8954ebcbafa76d161050f8ef
+	number of .c files: 9
+Commit 325374360893c48d9308f8b3a484922074a19b2f
+	number of .c files: 9
+	ASTs: 9/9 100.0%
+Commit 949054c711da0038b256498ce6c4efede7cf7990
+	number of .c files: 9
+	ASTs: 9/9 100.0%
+Commit d9ec27591a0c16c72b7847cb3c5e303daa94d49f
+	number of .c files: 8
+	ASTs: 8/8 100.0%
+Commit eecfcde327953231e232daa5f0f7aa7e3fc96b40
+	number of .c files: 8
+Commit bf83f14715306cd8e3123909b98dd3395c1fe471
+	number of .c files: 8
+Commit ca321490a021cdd838727c4bb3bf7bbc10c87fc0
+	number of .c files: 8
+Commit 65f932325ba1945f8d2a232a84ab7944ae9db7f7
+	number of .c files: 8
+Commit 2ddc45e8a6fdb766423b874c76b6840104ac2d74
+	number of .c files: 8
+Commit e08bfa750184738656779b810f1ea3265510ca6a
+	number of .c files: 8
+Commit cac450db455843ed6337c777fc87dbd8dc791486
+	number of .c files: 8
+Commit cf1384fa095fd5032a005c96304d11a81cd472ea
+	number of .c files: 8
+Commit a8197b4d6d584895befd595e949fa2183b7a24cd
+	number of .c files: 8
+	ASTs: 8/8 100.0%
+Commit a8dc53c89cb0e137a5b88ae0b9a3097f31dae5b0
+	number of .c files: 8
+	ASTs: 8/8 100.0%
+Commit 2b3560fbea9f2a379ce486146d7fc1c73457e2cc
+	number of .c files: 8
+	ASTs: 8/8 100.0%
+Commit 4065079f55faf79b01bcf5419da3e58910220417
+	number of .c files: 8
+Commit 80a6418d989b5c3b12c35281cf106e8b36ad285a
+	number of .c files: 8
+Commit 5aa7e83a928803c958335ab8a5c3af2fd42e21ac
+	number of .c files: 8
+Commit 452407279abf6156d3f5f5986b13acb16f842637
+	number of .c files: 8
+Commit d50c8ff6bb171485652a17a9ab89478169b30123
+	number of .c files: 8
+Commit 0b82aa4f7254dd1539534faffbe84983fe5d792f
+	number of .c files: 8
+	ASTs: 8/8 100.0%
+Commit dfaced06f81b7626f42fb0e7a5605d80bbf51bad
+	number of .c files: 8
+Commit 9deb110181b8c0077c1e138dd934d48196f6660d
+	number of .c files: 8
+Commit 9ed440e65660effa4e69a60cd7612287205d62b0
+	number of .c files: 8
+Commit 8d683566a74eaf0ad5442d488caede6a6c4316f3
+	number of .c files: 8
+Commit 9ab8dfef89e9c8c12f633f13d11002fc92fdf685
+	number of .c files: 8
+Commit b934bde9da9ce1f9bef1cf15c8723d6df4f2b848
+	number of .c files: 8
+Commit b48716b2c8cd7ee6cd50e8aadcdbc1cfaee950ed
+	number of .c files: 8
+Commit 766ff30628f6dcc23cee18493150ea022542ce5b
+	number of .c files: 8
+Commit 70e5ba143fe773dc4370981d277f4410bb458945
+	number of .c files: 9
+	ASTs: 9/9 100.0%
+Commit 9bf22b8337e107a54f1c3097acf6a6d939449e72
+	number of .c files: 9
+Commit c041c21a20d7b9164d643af67a921f413e48962c
+	number of .c files: 9
+Commit 46786271893d79a77c9bf5588d0e11404facbb35
+	number of .c files: 9
+Commit 62c9a2aa2b4c6484619ae27d871ceec776252582
+	number of .c files: 9
+	ASTs: 9/9 100.0%
+Commit 5750ebb24e218d69e2c638c95154712fad06639b
+	number of .c files: 9
+	ASTs: 9/9 100.0%
+Commit 560dbf98bd4399ca5b8a51ede2dc541e18838c74
+	number of .c files: 9
+	ASTs: 9/9 100.0%
+Commit 86674d3e5681da84659eb7394072f3a12a2d8d26
+	number of .c files: 9
+Commit 83628668de9af986a6b8c3188075c3e6b6dab7b5
+	number of .c files: 9
+	ASTs: 9/9 100.0%
+Commit 9bb1cf850743c43283e58da82f8894b81d8ad919
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 83c0593f7f34d09b8c650c5a24b3883686471cde
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit fdc0e861b6fea8e913d190fc7d1d64c8d7a623c4
+	number of .c files: 10
+Commit 5bfcd81a73a2afdb9cc5bbeb7d71f6c5d8a29117
+	number of .c files: 10
+Commit 5d11689fb7b3bdef2c91ec2d42d319c88e715e96
+	number of .c files: 10
+Commit 4867d787f27e19931ad95b8185dfd3dff22664bc
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 386092cfbe723c76bebd22aa98423a252ea695e1
+	number of .c files: 10
+Commit 7a952aedac7e42f39bb434263bb6070fa71a9309
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit aa617d17e2ccc115dfe3a82c577dc1cafe18e76e
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit a70e277deb0dd3bcea98e9a43c1ac36ddbafc0a8
+	number of .c files: 10
+Commit c4a6c91cb841b4c6f1ef96853c912d4af778cfd9
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 7d6fbb2ba5dbc63c28100c1e4b1ed82fb17893dd
+	number of .c files: 10
+Commit 985ef02f058049b5e0e0f286ea2f65a8a634f9fe
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 633b80ed373caa0599c0aa0bb7ad81f9b2215d32
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 93ef062cc5b3f326b7ec19ba39327e0b81c25215
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 65042f0269ccfda7fe0fffeef9fad4c4810f440e
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 251b2775c98dbf6662d0af08f5dce00c68cf8c15
+	number of .c files: 10
+Commit 73a20826166f98448a623e7745e0e5a49f6f8c49
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit b94e2a764e4b9544729b75aade4730852ce37a9a
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 7b46104d09d31da3baf856eed841cffa79acea4e
+	number of .c files: 10
+Commit 72a834b25e0458d5e89e16c623a4dac21b57ceed
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 2cf82676eb72ec9a74f09ff9a1a80162e83fada6
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit e1f562e039d0d87c0cc691182e9e0ae4aa40df00
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 23bcd0a719fa1ea4f1ad7675b5b50199c48cef8b
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 1b2d1e3c573b6113bdaa1ea171d89350eb389a73
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 976c926aab20ae83dd0eef3dd8f9061ecfdebb1e
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 21bd33367f3bfe73a4a647bda1785e4443a80892
+	number of .c files: 10
+Commit ba7dda6673a23a486204a6877fbe1d2af293f77c
+	number of .c files: 10
+Commit fa6661c6705d0c8497b6b5b7ed59af6e5d901875
+	number of .c files: 10
+Commit cdcb027913dcbc2df84edcfa0496d8325232faca
+	number of .c files: 10
+Commit 3442427f47fff608f40842836c7c7b22e668d882
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 47aa8583cf8ea501f7edad1bf922bdf9c15c9e45
+	number of .c files: 10
+Commit b6dd47eba89ad75ff8e7cf994106cdf55b821685
+	number of .c files: 10
+Commit 2e17e43cb9c522cf2120fb5b57ff5338f45b39e9
+	number of .c files: 10
+Commit 3a18ed4bc6e6215a938facea56e89130c8928b91
+	number of .c files: 10
+Commit 5f6f50107b3ca95419207190340490894f15f99c
+	number of .c files: 10
+Commit e26c7f621269452232d57a31382d29daab2bff05
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 8379491257f7d31d30b45575d074169fe4c80b13
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 21d668779efeab97052dd35a8f9ade9a54de11cf
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit b0cbe0ae5b41a5df6f6c9d2bb266ad2c332130dc
+	number of .c files: 10
+Commit d09fe269cf1871cdc3971100e918f0def288e79e
+	number of .c files: 10
+Commit a4122e581631101ef48d729405d59d6848bf0f30
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 7dfb47d3ad2835dada806c3a8bf9669ed128f999
+	number of .c files: 10
+Commit c22bbbe8109de9ed2e1a28d1647c1a44bc5c0e96
+	number of .c files: 10
+Commit 7ef3b29b465b99a1af6616728b582f59fd477e16
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit b74bf9f12ec1a3be8b6b39dcc787b8b4340ced6a
+	number of .c files: 10
+Commit 46b5fac98b73048c2a0e7c87c7af240e8bb2119a
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 6d5190fb7268c5abbedccc45e4d6d05321712595
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 7d870180a20b921b390a123b4146369d947d8b08
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 6ac6e764fbd57d13d81613122064c1ee49bedada
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 241e178b9d3dfd47845fff20130a4845d0cf6037
+	number of .c files: 10
+Commit acc32dfe269f14b47fe675b40347adb58a2a2301
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit a26a53c43cfabd2a9256c3e8d9b7cd7f33e3cf83
+	number of .c files: 10
+Commit cc8de9b8ce2e8ba4bf9e6b336b4f1a48ef6f74dd
+	number of .c files: 10
+Commit fa199076f12430daa99ffe393e497e52a2a26634
+	number of .c files: 10
+Commit a9caa1f3220d9d8367cce99d03ccb764d5ca63c4
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit d53d4da65e5aed07d5ad8e67e1926844ce3d17d2
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit ce3a6b06f464168e49a9885013b3136b57cc1319
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 9b43deabc59363bf1cf1857689defc2ab8b88abe
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 93cd97109b48905baf6154d2e4f5e4c6388fba9c
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit df51b129d1ffbd98020350b47bc04b6cf0387ac2
+	number of .c files: 10
+Commit 7370af43fe11f15faae8df491d2c63f61fe3f8f9
+	number of .c files: 10
+Commit 86d8040cde5a52dd47f5abf15402dbd06bdc2ff6
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 13b33b12b35ef4cc2c8d691a559b51091f6133cf
+	number of .c files: 10
+Commit 2018733240dc5fad726a27cd8302a1ea066863cf
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 8b44312b4a38763cc0183b7fe26363dd5c823916
+	number of .c files: 10
+Commit 282f29dd8a97027a6d8e7e1a1656bbb448b9ddf9
+	number of .c files: 10
+Commit 205bb5d6e0335100ad62bfd95fca4c502f49ea8a
+	number of .c files: 10
+Commit 8f2084b166afb87633c958700d4cb6ca312fa011
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit d1ccdba918f0acf173624918efff8f8fb300e5a4
+	number of .c files: 10
+Commit 4f9b2589f84b97730427fc27ce792ddc15c78036
+	number of .c files: 10
+Commit 1d7f340f989f72805ceefbf26ef3b9a9cb3c233c
+	number of .c files: 10
+Commit 9fd352be5a0efb417f9e9b78bda81f5ec0dcb2c9
+	number of .c files: 10
+Commit 64fc20ee97bac3f055b8b1a8f116af95ad103c43
+	number of .c files: 10
+Commit 456741bdc50011e4309f196ab08d5a6bf6e89703
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 4bf504a6632d3c16f2e45981f2d688c209af3180
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit d59c4b7d67ba1e4c08db1f41ac9185f6ff4bd600
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 01578ad97063319bd8bec302f1933f0f11c66096
+	number of .c files: 10
+Commit 8597f3a880682b8a23be7eb9a27ca018e18ef492
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 6c686d52080b70989cdc2e7d9fd0d62f0f28ff80
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 3d938aa33a60c7e7fd343d70be44f9fd604bf243
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit f3715e0088d36ffdb9749d4c769d6d0d2ae5a818
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 0fa1b933460236b6cd600728daae5796fd1ece80
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 5cc1bebc467fdc5b965628f0ca2c47ecdafeea2d
+	number of .c files: 10
+Commit 86e6a344f360e3de4d0de8cc6434da50ae5e2493
+	number of .c files: 10
+Commit 6be789637f425a4ea5c9701a20057ca355a98ec1
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 06cac7bddaa614b8321825dc262de8b3b093e923
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit b8f55a1d76f9306e5f23a9661ecea00b6cc8da48
+	number of .c files: 10
+Commit 011f7d77a378955129db7448ea628dea624a5732
+	number of .c files: 10
+Commit 8378f35825a9c47463ad588f524e546ec22d1815
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 0192c583935371bf05d7a32279994237985b79e5
+	number of .c files: 10
+Commit 7ebe2a139ee0244180ad03ede263fb2c67065744
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 15c9a6cdf295c6c5dd3d699604c42dbfd07f461b
+	number of .c files: 10
+Commit f9bb8066174144db057c9e88aa9889e66cf8404e
+	number of .c files: 10
+Commit 70b4385dbe6a99b8ffb167f25c36676378265d02
+	number of .c files: 10
+Commit d77d4396a7a143db0b84a1443f3d3f8a08c1cbdb
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 6ed1a0c531dbfb965d0ebafa95b258b5e0d63b04
+	number of .c files: 10
+Commit a186125cd0f85aa7540c8cd37c7823fa7d6a485b
+	number of .c files: 10
+Commit f34645e616598915416d06d3609d40e00de56731
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 25fbe62acc8ed4470de10bb301072686cb286366
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit f243df628c371d67d8e2dd1d281138cbf2e8d872
+	number of .c files: 10
+Commit df18a2a8150d11bfbeda12e81aeb58c710e0e428
+	number of .c files: 10
+Commit 992aec3604dd59c98273bcc9d3f2a5072eac04a2
+	number of .c files: 10
+Commit 5777bbcd8309e4f67bbcd9276cf9a7a0990382d3
+	number of .c files: 10
+Commit 9d4bb78f887eb3d8348d1559b8c9b7de6427c0dc
+	number of .c files: 10
+Commit fe2d3bf5a3f85ee995adfddecb3c85d7d7490cfe
+	number of .c files: 10
+Commit 1edf1afde273d5344fc180367a2b4130c9f3390b
+	number of .c files: 10
+Commit 6c0d53595ce1f11769755a73f9446eed598b9975
+	number of .c files: 10
+Commit 1a02d58cb3fdc631522be8684bfe60ab6b18e080
+	number of .c files: 10
+Commit f835d9fd6f6b27e6545db472b382663cc4b3b1d2
+	number of .c files: 10
+Commit a8a84975dab27ab68a5d0d5de401768a280275fd
+	number of .c files: 10
+Commit 8e918cccc201f18a75abd605947f3aba14986ab1
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 458fc08504c7352f4f32dc04cba107eda69231cc
+	number of .c files: 10
+Commit c8ecc60886c7ed37559d938834ba4c1698cc3f2a
+	number of .c files: 10
+Commit e5994b23f66f22a7f96b630128d89e2fa619c413
+	number of .c files: 10
+Commit 542837babfff458ff3c2c526a97927e5b0799f1d
+	number of .c files: 10
+Commit 341508409c19ccd5d3811a026956183cef5746a3
+	number of .c files: 10
+Commit 2434217fcc69dfab41cff991191dc6d50acdfde0
+	number of .c files: 10
+Commit 8ad85f2c85057d006a7a93eb0ab04e947b9bf43d
+	number of .c files: 10
+Commit 3a0abff1411967737cf6fbed761c317f69b4348b
+	number of .c files: 10
+Commit 026f2f4a13fc58d56a60326c56d925ff8f7c67fa
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 7c09826c8484ae4d491f520bf9158967ce7e1c68
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit b41edf9e0c1c529466f296fe2a3a315f048839da
+	number of .c files: 10
+Commit 91abe457dec79972d9d1ddb20870f176e33d52e4
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 46d7dca4771e25ffcf826d1565922ae3c1801fff
+	number of .c files: 10
+Commit bf44b83f2ff8103e52526e53d80a69320e540ac4
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 27f95a9bded2641357901b8648523991720fb008
+	number of .c files: 10
+Commit bccd81cefce332b33f5ddbf968c18f68a28888d2
+	number of .c files: 10
+Commit 0bd4ffafcfc4a233279991ea8d1f0aa97443ae14
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit e7759749fc7426c88e589fcb199d5a12c5572a9e
+	number of .c files: 10
+Commit 75dd382407a36b3ebab36bb1027eb43a07498bec
+	number of .c files: 10
+Commit bd2002b923bc729d543cd897474645243f58eb6a
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit eaee620f79fa8d8b801a8736da54f9669c9245e7
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 6d2254d6c8533c236f5017a7b5641aa006021252
+	number of .c files: 10
+Commit 9fb6d909021eea55604a1be6ee3b096bcdf7e4eb
+	number of .c files: 10
+Commit 5dd2f6c36a0ff9a3944c7b491e493dd11c1305c7
+	number of .c files: 10
+Commit 96587e1bd1e064397f15793e54a0c8dc611dd89f
+	number of .c files: 10
+Commit 995c4342fc4217cf0559569b7fcde9bb8dc0e8ff
+	number of .c files: 10
+Commit 79e104c97d49e676b865895a4842a08b62c4d3a7
+	number of .c files: 10
+Commit 040aec469f790f1d7b4874e735109e4de57a7e25
+	number of .c files: 10
+Commit 2090a5dd8d257b90bff8ce76cbf765e4188c8991
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit bf102e3bc79a008630ea92a36b733b890e0d38e7
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 8b50a88c2128715c604f2a5146752c976d7e6a0a
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 2aa8cf97f760697206e4fa46354572e3f73e4191
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 2c629987c2667667df136fbf3413b2d192a9dd5e
+	number of .c files: 10
+Commit 604f1c8a3ef3e61ddf171c588e36c5d3c10fdb73
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit d487f930ce8400d8d2631c20bd9a949a4a7c28dc
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit eef08856b5a95ed478df480914675bf54f9dd894
+	number of .c files: 10
+Commit c890194669c4b353a69472eada3085d9dab5f81d
+	number of .c files: 10
+Commit 0df8530cab4df895060f21560220abc50ad99111
+	number of .c files: 10
+Commit 4ebb9a36352c6127ea76317f7a86eaad54bae076
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 36ddc709cc8104767146e1123aba2e3df30bc84b
+	number of .c files: 10
+Commit 0a7cea64efef430e2bbf6329bd56ed49405ba25b
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 317615e4cffaa9a6d7a8cc7dca43e4afbe757a8b
+	number of .c files: 10
+Commit f4ebe2a5b72c90008af02c346f41c5bf689543a1
+	number of .c files: 10
+Commit 9068bd58f73c3b775043e2990b376d83116bde7e
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit a5ab55ad60785c3da7371cb02e12091c5b1eed4a
+	number of .c files: 10
+Commit f72f9fe655508d3b9b1a756e27be457814f1ad05
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit a02c1e7363ee0ac8a5a1481e04fed3fd88903848
+	number of .c files: 10
+Commit b2f9c1608f2df8aa21cf8c00d6220abc6c01d23e
+	number of .c files: 10
+Commit 4a6d5713eca039cba74eba91155d8d2f2d49f36f
+	number of .c files: 10
+Commit 4e01e0ae49fbf662d3b23260ae149acb1d5e8dbe
+	number of .c files: 10
+Commit 43049c07e47e8cb6d9dc0be4c696a575963d561c
+	number of .c files: 10
+Commit 106566bb638d112826fafa1661259258ac6ac1f7
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit b826a4d9c1a7fd6af134fbc6fd6328686c745ee2
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 52a9cd8eb8a69f9dc6944c047faf112b7137a07b
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit a83ccbebb20d276af4c9b97bb9c31ef26043a901
+	number of .c files: 10
+Commit 845077a6ffe0862f90b0d623ce7a9d918bf56b56
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit d304020939cc83de27ea64f8568bea1bcb4bf74a
+	number of .c files: 10
+Commit 8fd41240fee568d38dc9efb0d3554fe18a2ca6b1
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 3d7e33e81e239663cd4899e38fcc5ab704432d22
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 39ba92e064a1c594d4fa6f9c1f546bb7668a3c37
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit d932069a70a23114848709f9bbe7e399c1b61cc8
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit e8354384f67bc733bea5a9dc8e5e90fc0bc75e32
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit feed6077d211dbd20edabdad410dfec8c27d6b24
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 5a900b40df7e3f67bb72daed257b097a04b2367c
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 237bee66157f59be586fa1f558804c92860c0ead
+	number of .c files: 10
+Commit 9786fdf1d22a17e4c1cc314759ec8e840aecc3b2
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit da8859ce48c583f6730b1b5467fe90b223b6f9ca
+	number of .c files: 10
+Commit 3259ac1e5cb44ffb30e00c8845d985217ec89df0
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 71f0bb1153ee4bb218b21ef533e42b555de95557
+	number of .c files: 10
+Commit efab18842fc89f9b35175891e69eda6ffd2b12ad
+	number of .c files: 10
+Commit 779008fc84021387bb98a7224569207b317eb570
+	number of .c files: 10
+Commit 1f37b8d1a89bbdf493d1ce09c1a52f122851e516
+	number of .c files: 10
+Commit 75b02657dcec8a8136143a8dd8bf64aaeda9e8cd
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit a2a4fa8c7f05b45d0d9cf1e3726d900a1a138d1c
+	number of .c files: 10
+Commit 1fd0dde1d99b1fe89752cd0ff2a329f6f6b9cb23
+	number of .c files: 10
+Commit cc903b4a545004c4ffadb29ec94e385dd530263d
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit e289678ff80ff76abdc8de651ad5a048ae99cbc1
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit ef69d33b2df31a68d7943bb59fbf4ea2bb796349
+	number of .c files: 10
+Commit 47ad4524f33cc0b1bf3b11f982a4b7e881a52984
+	number of .c files: 10
+Commit 62f7683b15d3983c52833d6cb429f675e0c68b7e
+	number of .c files: 10
+Commit dca11d321b7259c47d39d94ea8cc7c994ea21bda
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 9ec8fa991be40c6586e179263d3f795eb36d10ff
+	number of .c files: 10
+Commit 09e93f68aa09f75e2db3d7c112983a530f6ebb6e
+	number of .c files: 10
+Commit 9928604eb5ca96697b3e1bb4ec563431e34011a2
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit 90835e650f62b2c501d3c2a1e0a3fa7698d77217
+	number of .c files: 10
+Commit 26d779b300afb80974d4a6a825630920778bcc08
+	number of .c files: 10
+	ASTs: 10/10 100.0%
+Commit e53af1a618c68b455a68ed5615bfb3bb5487035d
+	number of .c files: 15
+	ASTs: 15/15 100.0%
+Commit eca439a2f7b5b171f121a49f0843a7e61ac98719
+	number of .c files: 15
+Commit b80dfc477b51c52fc82a40c7554e20890a600eae
+	number of .c files: 15
+	ASTs: 15/15 100.0%
+Commit 37739bc9e143930b27c1dcdf317d4c8ef9ec3715
+	number of .c files: 15
+	ASTs: 15/15 100.0%
+Commit ba93474268362904e32f272b9558c811a2cb7f65
+	number of .c files: 15
+Commit 905f885a107c84110577004de315a9066d3dc402
+	number of .c files: 15
+	ASTs: 15/15 100.0%
+Commit f5bb7e4e5a4f05ea66b37d417c270462559f376a
+	number of .c files: 15
+	ASTs: 15/15 100.0%
+Commit 396d948ff29a29f972aab9b13ea72f755cb6538c
+	number of .c files: 15
+Commit 3e9dda00ab98427b95f96db759cc9981a54eb597
+	number of .c files: 15
+Commit 98f23bd8fd320bcc7d34e4e860e824df464e03cd
+	number of .c files: 15
+	ASTs: 15/15 100.0%
+Commit befbba943b7d03a1b8e8858e22cb2dfce2ac7935
+	number of .c files: 15
+Commit f40af7cc641cc52440bfd9fb61c71e106fe4254e
+	number of .c files: 15
+	ASTs: 15/15 100.0%
+Commit 9e167408cb535005466e8e13a656f53ba8990cd7
+	number of .c files: 15
+Commit d7f13ac8ffba3c6de14d6e350a14b9aa87e1cda6
+	number of .c files: 15
+Commit 8190792e35df60c1bc2ee8f131be2f367417aa95
+	number of .c files: 15
+	ASTs: 15/15 100.0%
+Commit fb61183998993dd6894ca3fb068982684cc327d4
+	number of .c files: 15
+	ASTs: 15/15 100.0%
+Commit 0139d90fb967762b8d504acb50cb0c265f517b30
+	number of .c files: 15
+	ASTs: 15/15 100.0%
+Commit 8d121763f2aea8028034b78353250f16448bed9e
+	number of .c files: 15
+Commit 63a505fe797ea9a791b09272e6229b523f14a811
+	number of .c files: 15
+Commit 3ebcc3b8c9a89b43e6f504c649af588759b69e3e
+	number of .c files: 15
+Commit a00e4ae04ec6ba9b7c562371b556de7f7eab4a1d
+	number of .c files: 15
+	ASTs: 15/15 100.0%
+Commit 5de11867ce6efd5ab45746184b0c19faa2b49e75
+	number of .c files: 15
+Commit 59eb6b9fc3c3835328ff1aa828bd234b8ce72de0
+	number of .c files: 15
+Commit 9bd32895fd68790ae95723d2f0e575d7e278b032
+	number of .c files: 15
+Commit 84fc7d1ce515cbeb783d254769b0721f8b264a86
+	number of .c files: 15
+Commit 4b8883c5d86cc021ecbc648f9845d9d32c33a74b
+	number of .c files: 15
+Commit 160f1937fbc4b454a83d1c6f81ff4eaff72613de
+	number of .c files: 15
+Commit ed90c13b1a47f02875c84233b9b6d697e3aee76f
+	number of .c files: 15
+Commit 24f886c412d01b6530ccfd2457faa82a16dffcc0
+	number of .c files: 15
+Commit 9e5eda09c707f4231dc50f9a947592ffa7770b93
+	number of .c files: 15
+	ASTs: 15/15 100.0%
+Commit 9fa541fd13079aab467cb90d408454c1ae0aa8af
+	number of .c files: 15
+Commit 92843a0cb6646aacf4b5e15d76967c44258b48a2
+	number of .c files: 15
+	ASTs: 15/15 100.0%
+Commit 78beb6c38b62f8aa75bbaff195419ddeca432e20
+	number of .c files: 15
+Commit 0114296fcbd08fd19e1bd86f6c767691c3eb08b0
+	number of .c files: 16
+Commit 7057b132a42376f204238e5f9f992e685e1a4112
+	number of .c files: 16
+Commit 1c8693f58de1ce1fa85a7a703a22882c0e3680f4
+	number of .c files: 16
+Commit 36014d7275eb4171cd41bd9f5a12166a4b6a5515
+	number of .c files: 16
+Commit 00c04c79acf5a407b13903e8088dca935c5188af
+	number of .c files: 16
+Commit b8ad2040e83780b761a08a8f9938099562a72698
+	number of .c files: 16
+Commit 909a0ebde7e840c299dab904f3d89bc046329bb1
+	number of .c files: 16
+Commit f98719bc9048dc72072c55cd5b5432493cc8a3b1
+	number of .c files: 16
+Commit 42273c937f72802ad3b21abcd8886b5d5012368c
+	number of .c files: 16
+Commit d92aeb593c1e6c91409294c5c19e6e974e0a7c85
+	number of .c files: 16
+Commit 2486873ee68f57e579442bfccb804806f1b0738a
+	number of .c files: 16
+Commit 2b14cabf6473732c4714dacaaf15f82e6006df6f
+	number of .c files: 16
+Commit 2872fe872f8f56c6487e8fa224ce3ab4b77ac2ab
+	number of .c files: 16
+	ASTs: 15/16 93.75%
+Commit 672140654985864fae68621093fcb81a59691fcc
+	number of .c files: 16
+	ASTs: 15/16 93.75%
+Commit ce0dece114e42a4910d19aa30361ff5a2da6ba95
+	number of .c files: 16
+Commit d1f553ce98d2e84b8b174e84be57726c6d35cc88
+	number of .c files: 16
+	ASTs: 15/16 93.75%
+Commit 95807ca77313f007f3192e181109d68e1e3127bb
+	number of .c files: 16
+	ASTs: 15/16 93.75%
+Commit 47a89259f20065656e2a4d48228e3fce56dd8821
+	number of .c files: 16
+	ASTs: 15/16 93.75%
+Commit d44f0b0592beefbeec36980ca060422aef763158
+	number of .c files: 16
+Commit e7544f9b76aac01fbaeac38e25e5ef1223e2513a
+	number of .c files: 16
+Commit 4ea8fbe7d6a722b8aebde9239511a0b1f7ebbabd
+	number of .c files: 16
+Commit 0386c0c15154082d8f0046f4e6243a1d8446c55e
+	number of .c files: 16
+Commit 84a63bc1e8ba5fb335c0e06567832f3d6bf4b8a5
+	number of .c files: 16
+Commit df7d2dd5fad5d45b36e5f0c6b7305ea74ff2b52c
+	number of .c files: 16
+	ASTs: 15/16 93.75%
+Commit b554a73e69a706a9fd838be0f20c935d7b48a491
+	number of .c files: 16
+	ASTs: 15/16 93.75%
+Commit 5682b0cb1723f27c852931c14876a9cdee220de7
+	number of .c files: 10
+Commit f1cf9871fa1e02a0d5ed10d7ff46ce5fdf17e0b2
+	number of .c files: 16
+Commit 89433889e529a67f077e395ebeadaca38847775a
+	number of .c files: 16
+Commit 66d76233828d3df3ed834870ac38ef25b4ee2cc4
+	number of .c files: 16
+Commit fd0cd87c6b1dbf129505a41393a3da064efeca07
+	number of .c files: 16
+Commit 71ab57ed972304a1345225be30d1482478d76c60
+	number of .c files: 16
+Commit 50178c1de937968ad8d1704de75312aff1533dca
+	number of .c files: 16
+Commit aad0e2a75e669b3dfb73cd9246070293c6634764
+	number of .c files: 16
+Commit 6982e2e7cdd067245d56bfd576d1243f1a51d2c3
+	number of .c files: 16
+Commit 50089dd54378785fbbc4e9e06c61d0944caf2a23
+	number of .c files: 16
+Commit 6cda0cce3cbf9d4f7e30da456a21ddf93b76e756
+	number of .c files: 16
+Commit 1e6a72350a4064f3739217abc797ed0dd1376243
+	number of .c files: 16
+Commit 2ef46395cdee9f83f9f6aca9f5fe042b151b24c4
+	number of .c files: 16
+Commit 89c1146bb87eb7b5053aac07d7c90a4be7fa8499
+	number of .c files: 16
+Commit 77b950db48668c0da6b17550c089a2a521e64910
+	number of .c files: 16
+	ASTs: 15/16 93.75%
+Commit 1f5b0aa3582fff0d63aa473c83393095f4ec24ea
+	number of .c files: 16
+Commit 00a9c50bb5c9d506e2029a0471c95d45999b3e28
+	number of .c files: 17
+Commit 4ad5570d232bb6a5bcc1ef10955e0535625e4ded
+	number of .c files: 17
+Commit 145462baa98adc8de9792b7b25e8103281bca2c6
+	number of .c files: 17
+	ASTs: 15/17 88.2353%
+Commit d93529548a2f338e4321bb109630209c05ee26f4
+	number of .c files: 17
+	ASTs: 15/17 88.2353%
+Commit ecf85fc492366c9ee7db9fef060972971f6ad698
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 976e256525e757c0960b8de1a9ac08199cf7d32e
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 681036bcd87c7f0b4adf0c63f94104da88ef3ab7
+	number of .c files: 17
+Commit 4a49cf6661f9a8b6a9ccaa6d42cdd092791ff007
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit a04bed3aebd3638108cfdab82dddca03538ac3a8
+	number of .c files: 17
+Commit 3eaee4c2a7c9992547585e416f51da1a6337e167
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 7f34148090f6ca55a3e2d89ce296a243a24d7dba
+	number of .c files: 17
+Commit ce92d74175bc04b5b7110ea9b68f768fbf75089e
+	number of .c files: 17
+Commit 5ea294ef76877ed90e3695ab0eff323ea0db1489
+	number of .c files: 17
+Commit 309e423f991f426968bde55d62c4068c76fe914b
+	number of .c files: 17
+Commit e641e1e28030c0b9f8cf943cd70cd321461b05da
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 7ecd43080c921bbb439e294e775776c0ee2bd4f1
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit e8cd56fdeb5850bc6e5d577c01072aced3ddfe76
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 61703fee0b2836aa2a970e874750d5c3606b66b0
+	number of .c files: 17
+Commit b88b4feb490a3da35a5928fa7e2008262ede5c00
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit cbe36a2bf0696e57b46cf20c7f104b9e5cd944b4
+	number of .c files: 17
+Commit db73c8536cf5ef51242f28c48d8be6cecc9001c4
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 741bb5587fe02f2ea046b4bc684dc03b570ab56c
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 598bf7677b677ed999ec12faf124f3247809aab7
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 56ef07fdd61e1cdbaef02fb00e66fbb3bda1ac78
+	number of .c files: 17
+Commit 694fdd67753169cae984fc5eec85d3122c7a67c4
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 196baceaef0de84ffe2a5980bfdae6790a9def26
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 131111cd58945ab20aea8b75a7d476376956eb55
+	number of .c files: 17
+Commit f327c837fcdb613a78f49db6f0909c23013f4a7c
+	number of .c files: 17
+Commit 2b215563e0e0282d2221537073f6025b87000b41
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 45835d47e6ed33c84e619f39b4f4181dfee89ef4
+	number of .c files: 17
+Commit 1e389176a5871402bccbcb8a5d8202995da53f78
+	number of .c files: 17
+Commit a441e791ff2631e2013460ce17eeffa04d0ebd24
+	number of .c files: 17
+Commit fb360d9e10df8c52c3864a2dca563dc66a6007ae
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit eb874ae9fdd1d85701cff298bbfa048a016cde2f
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 4af546d3dc0871fc95454b5556ac1582d0271904
+	number of .c files: 17
+Commit fdbd384f29679e41a902d28a47d9294d0638ae20
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 936dc017bd4d60d4c6ccb3b385863dc2c3498f84
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 5c6b15ddeeee7b3f9efabb990525e08ddc952aa4
+	number of .c files: 17
+Commit 8f2365f24df1e937f6e21446af2953ea9cab5a10
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 7788247669d07318911af0bb464ec998de05abb9
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit ef8079b9534bf0ec5d1a0cb7f8ff291988999439
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit ecd8e731ae227a357d8d72e2b81b0f35f79d39f8
+	number of .c files: 17
+Commit 815d96dd6a87ef5e7e3470bebcef42c43a7ced46
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 3eb87a8bbf63b714928d94f0ebfa383dc64ffd2b
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit 1e2da1868ab0319b915ab0046f7dd2ee02334ee0
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit e374b1b1d0d9d468d57e68ee36f4eb4e46a2bc57
+	number of .c files: 17
+	ASTs: 16/17 94.117645%
+Commit f9cf675f44d23330d5673c689dade222a3aa283c
+	number of .c files: 27
+Commit 1af0bd848651c62cdf72eea9918f5d57402de838
+	number of .c files: 27
+Commit ef95e5c6e22400e56d3fdd971d27ebf044d64cc8
+	number of .c files: 27
+Commit 6c5b4b7efce655648d20176a330933aee7a7dd45
+	number of .c files: 27
+Commit 9f562b25f244e7c04ab654d1e1c5771b72c497d9
+	number of .c files: 27
+Commit b4c372f8290af2e23547a965b9dbadbdc750bdc5
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit c63aad8807ebf50e57fff01f15667f2e3f58798d
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit e4859569295d3fd108b5ab91ae12b66bd12fa186
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit fc65db8dfd2412194eea683457aa07a8ab7340bb
+	number of .c files: 27
+Commit 977fcbf9c46e31daafaa47da0a8bc0b78abf646d
+	number of .c files: 27
+Commit 2c0be1c61d9a8cdd2d4d9118851aab96c13f6cab
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit dd9f6cd234f20fedda6cb839859a526e5bbdae43
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 6dc4ccf6fe771b586ad4f341e16382de20c6f4db
+	number of .c files: 27
+Commit 063c9a062a2f3619c667157eaac0016d5ebc47ba
+	number of .c files: 27
+Commit 619c15760efa077a4ea6c6a731efd36489e6573a
+	number of .c files: 27
+Commit e2817265361eb4e11da5cf09581a355f94c96a4a
+	number of .c files: 27
+Commit 921390869ad9a5c2961f93683772be4b82a5b569
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit d4d884358825b249278531095afe7fec457ffcfb
+	number of .c files: 27
+Commit 2b2f5ddcd817d1cbbe48f0875776c9bb32a80299
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit f447ee7c14c63f17158ca4b3275a7d1032291a31
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 9fbe4e45780e2f33a5085b7b98a5b1e31f9c4361
+	number of .c files: 27
+Commit a1e6035722b2ce1e268c8531eb1ada5a99f9f381
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 1783d5fd43f0cf2c9225bcbd389a5460b71ecf40
+	number of .c files: 27
+Commit f6ac19d570d374c9ab8bcebe00dd01c7809a01ca
+	number of .c files: 27
+Commit 70264c3113b9bab3c62407540225735f7d141804
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 1685c08ec6585096f4f5248447347f32947e912e
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 19867b3bd23edfdd3c1b9569a0426d7b667e9dcb
+	number of .c files: 27
+Commit 8ce0a8475fe1409b8349c71ee9aeca1a27f38e68
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 6256d04b043f3938be8adf4e9dc7472c0cc8bcaf
+	number of .c files: 27
+Commit 1f964727716f660a61e60e08fbdad690a2133132
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 23b55608510d49340b3173ef47def69a65f92afd
+	number of .c files: 27
+Commit d5dad3c61b9d66577e55547ff024d184797436f5
+	number of .c files: 27
+Commit 614a19141adb1f4ccac300e0f04751d63eb0701f
+	number of .c files: 27
+Commit 20cca3c195914fc4eb0c7884d667b793b7398739
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 9c9a31ccb2c6d26e578ab41c1613db6c40381149
+	number of .c files: 27
+Commit bf14db7b38191d17ada6e80081a28f21f15d3c9f
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit cad3f040d522a5308eb8ecf8d7d37e3be1d37cb7
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 29258775d9e575b12bc49fb70ac8eefcc9211a07
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit f870e807e12f90728a70aab74781206c8e8bf545
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 1959ee6cad09655c8f61a41a9fe360cc89c0617b
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 209de521e4ff73be3d0a8e72e8a21554997a3d57
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit f3fab49c67b92e5485b760066eb0c73a235dc406
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 9f190feebf1643024557eec35dca550af8e9b46f
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit cff73fff68de516825b46efc4d794454249dd8d4
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 1c31b315b4989fbc5c080d05f1d8c307362bf21d
+	number of .c files: 27
+Commit 38926cce43c3c848b0da2148862ce9606dd99541
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit d36c70046a6823db3f9705c053151a0a6f7b5757
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 9e6bd62af9b12eb8d0624b767c37d62dda2b7e10
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 162e2f4db33062a202c65be4c66cfb51dae13ab6
+	number of .c files: 27
+Commit 0b2233dbdcccc27535cc7d48ca6414dcc71b9ef9
+	number of .c files: 27
+Commit 8dab83c28a63f586c4ec91b58e3572c0c5529fd8
+	number of .c files: 27
+Commit 79a239f6fcb732e5d435148eb88bddb6e2b674a2
+	number of .c files: 27
+Commit 4d690c7adb353fee15272ee53934fb666a28784a
+	number of .c files: 27
+Commit 176a3346e2c9532c282e224d38408248b84800ed
+	number of .c files: 27
+Commit 3546fb39c2d0c033c8261e0ce5dc861f9f74565b
+	number of .c files: 27
+Commit db71fc59f17b134239f7b3a5129a1dc94be2e6b0
+	number of .c files: 27
+Commit eb821998168bdf1ca4e4526081e520173e001d13
+	number of .c files: 27
+Commit c641d064959ede0df607046d1de5eb57bf8123e2
+	number of .c files: 27
+Commit c3e036733284ab7ded7c6bf9eefe8620d0c5e5b8
+	number of .c files: 27
+Commit 271a4e48afc0f05e9ccb241a441bbaefa28d7171
+	number of .c files: 27
+Commit baf2ff5d6b882052d558815ff5d701ab65b3fb6f
+	number of .c files: 27
+Commit 106533eab5ec07cd8dc89f6c950666bb138b17a7
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 574ab5a9af08b0639d38b623b2fb7d882272db50
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit ef0d32ad2ff5eacefd6af73e6c620e508edf307b
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit bb8820db3abe2ad2d9e7a9f1e34238d9ed21a71f
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 5873f4b1f7b0f88abeb88ff6113b912bda5da550
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit e8d07ea50cafa04187db4a622c54fca7f7acd8bf
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit cfb3b58f5c62ffb6e8704d4fe610f7d192ed9a01
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 76b7e6d6f99a6023fbb7684572f58f9c02de5381
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 07cc7bbb5ffee18917c9c2be07299fef51e8a45e
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 2b4aeed39281e211870423e2ee9fa14f1d1fe072
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 9a9f5b173671776fc7422f127c3c3460b3b8e864
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit b6f5348a5065ba6f5ef63f57075fbd280dfa07e4
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 112e7eece20c4fdc1f78838de4c43c3f98f04dd3
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 819f879c889ff8ddf5afb17814a0e62730c21f19
+	number of .c files: 27
+Commit 6853433b50d6b9d9327400b9ba440c92f6981e93
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit b0f0af5ac0e393ea45859e24093d8d8562e3c2ce
+	number of .c files: 27
+Commit 64fa702c732d93093c4e36b3b42a3eb5024ec847
+	number of .c files: 27
+Commit 46e577edb75c109d8349574e962c312cd5e4bc0d
+	number of .c files: 27
+Commit 7f8fbdb02a970e0fc3ca3570ab22c3d5214f9950
+	number of .c files: 27
+Commit 007445b9ff6cd66beac5ca3561e4e28b6a6df1e7
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit e1c9e3f330b42971385f4921ca355d8833f9568b
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit 508979e5e97e21ebe76d48906c56da71061161ce
+	number of .c files: 27
+Commit 27e67fa67935c3d7841c6a9f35592d19b465106c
+	number of .c files: 27
+Commit 712a416de6223f738bd9a3920494e6965ab0b703
+	number of .c files: 27
+Commit 246a65d4f13a91e36975b3d87eae5729941a557c
+	number of .c files: 27
+Commit 9e062dfacb82d9d93585a56128143859a2d3dcde
+	number of .c files: 27
+Commit 2901c06d7285d63d5a8ff4b7b0308bff6b6d699e
+	number of .c files: 27
+Commit f25b460aaf46929ba7438bfd6309ea2e66faa636
+	number of .c files: 27
+Commit 0536ebfaf570e8e327b269ee1a2b9e795bd799bf
+	number of .c files: 27
+Commit 40c0a3906995070a924d33438dee9e70e94de426
+	number of .c files: 27
+Commit 702db98740f0a76998a03f6d7c043e7d5f94c8ae
+	number of .c files: 27
+	ASTs: 16/27 59.25926%
+Commit fca0348c46e065c785a6985563a828f943ad2d3f
+	number of .c files: 27
+Commit b2dd02bbdc703f96ed96bb37cda2047e217273e2
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 0c38083fb53da533ca402e7a6e2ff788d4609706
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 32e96d16a3a7220d424e37aeb2ac15c69dcb2f32
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 6faf3267d20f9c758d53f25aaef79d45195a0948
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 149d4912dcda693cade96f7da7bf41af92f3884d
+	number of .c files: 26
+Commit 91bd8ee9010c3eebf00a47010ca8df15d9888b68
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 583e0ad97c93d318d1699a1c8e0afe23b6ba3267
+	number of .c files: 26
+Commit ede39e1eb781dfa0c39e77a4317ca80a067456f5
+	number of .c files: 26
+Commit 6331376531a8acab6c0317c27829e567a543eca5
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 26ee9257269749c5605d8b3dd6f1e1b70a13f8ac
+	number of .c files: 26
+Commit 509b11bf2369a88945151d5cd811c93e4db29ca2
+	number of .c files: 26
+Commit db10ada44cdf3c4a57795bcb3053266c72e24a96
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 45c981c012a596e3fdfe14ee40686d5ff77f4854
+	number of .c files: 26
+Commit 025e2a58a9e6aabb9b319b8b62b1ba4209106645
+	number of .c files: 26
+Commit a60d2af7c28482284973e768b98f4cd15a3096cf
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 5c50b864c125c325047a792e32bace85886a7f3c
+	number of .c files: 26
+Commit 34c51f1c5465141bc921b54ef36ca759ee71bc37
+	number of .c files: 26
+Commit ec5d8356fbbade2a7a97cd1c61fe8cf523c9e54b
+	number of .c files: 26
+Commit 3f26134a072a75437cd0847f161b48e80b6f4ddb
+	number of .c files: 26
+Commit 6663eebc6069e745a1cb6d9d90c03bfffba163f9
+	number of .c files: 26
+Commit 4c54413ef2e02f441dc37d6d53b5fd61114ac5a3
+	number of .c files: 26
+Commit ddc73017566ada719cf584cc1c78385cbae69cec
+	number of .c files: 26
+Commit e48e3e665c1bd2314746d0b87f4acc5baa116c68
+	number of .c files: 26
+Commit d0c58fe92b84f0ca5bf8834003a072b4e52ef6dc
+	number of .c files: 26
+Commit 40af60caec793d45ff880ece089d78cdff683d22
+	number of .c files: 26
+Commit 4567605f3a119c4413c95a6bd19cbfa044ce3c31
+	number of .c files: 26
+Commit 8886e66ba678e81dc38d8eb95f20b817cedce59e
+	number of .c files: 26
+Commit 1b322f5fe45adfc02a8f841d149dd826ecb2cb8e
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 609fb3417fd1461670240f730432b1ed03ef98b2
+	number of .c files: 26
+Commit 614f764df9c299471b85cf040bb9222849ee0d3f
+	number of .c files: 26
+Commit 55ae1d4ab4ddb47be12420acb2874c3149f6ceba
+	number of .c files: 26
+Commit 65de2814540849469e8c5e77872f05c46a5cc9af
+	number of .c files: 26
+Commit 747b1944656fbd4b2c0c995b643547f51eccc791
+	number of .c files: 26
+Commit d94df1875c1d8918ad06fddff21a469ff5d5b1db
+	number of .c files: 26
+Commit 2dc0d9323811f51d8182bccbc1c0ab854b2a0186
+	number of .c files: 26
+Commit 5ad5e0807b44470e5554adfa420e841d58a225c0
+	number of .c files: 26
+Commit 11a8b1439a90b70460e517aa092179f50d4d93ed
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 3aba52af10988afd4c7e5dd9d1944b14146da7dc
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit f23deef9fdc1abe9b9a3e7069fb071cdd5e7418b
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 618aa3c418a7c143b3fafc32bec5de74659c6b25
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 91f19db87374939a26f763574ad7b0341c2345d7
+	number of .c files: 26
+Commit b964c173cf493a1c0c0749a9c6a39bc07936507b
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit d4a20d5a3a2751041faaeb992918bfa1ec294d47
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 45b4932efb4c13ae3d6a63a67fbc9e1ab4adcf70
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 7f2c7aa91df7c0aa619631f7393014b3b022197f
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 89fe28488e30657591386c63f906ffdece4b9e02
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 022c16be740583dc4f9edf2882c062bf9692a124
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit f12d64243ffae8f1e8a438ee9f6b9703a9826c9e
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit c609b16cc0896ae0ee7f8e1b5eb60f07264204e8
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 66f175d54d03d4b380698a8d896fa9c942001e2b
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit d3314ffe5521c4154a9ce8b8dc567258eff02442
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 24e6033df724ded801bcfc5ae72148dbb9c0d16b
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit c9b159e541ccbd6c30cf0027e091dd90e64b5371
+	number of .c files: 26
+Commit 14865889bdfaee9b7a85d19d1e8602a8edb3ae12
+	number of .c files: 26
+Commit 4ea12e1d1d0dfb4d17d2ced8403b9bd4afe0e9bd
+	number of .c files: 26
+Commit 39f48df93bab25e7cb4a33f8c0858e8e28384b0e
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 2c0d4095ad9d40cab3b9b25370ea651f16d5db30
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 862e729f0760aa0d4dc7c2b3df063393e15aff76
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 48f9d72e985de907ecd211be1e08fe5aa9544c19
+	number of .c files: 26
+Commit 247f619565211acc079ab2a39501c0f6272357e9
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 4795f6e3defd1f15a9f2f661f80215a12102f2aa
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 1a56b7d238b2cfe45b1fea1b5b826d1784bd225a
+	number of .c files: 26
+Commit 6e40dc54424e8eda709b29cbeeae96be5415baba
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 1737ec889f6b49e1acd514306d5a7b02e483db65
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 7a79364bca7e84dd077c696efb10504b5296c376
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 2679d080902d153510260f9cba75fd2f9c5a45fa
+	number of .c files: 26
+Commit a83c52e1ee450cbe4da3ffe0d2d13979210edc50
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit cb2902b07a9530594c3981f76747c386c380fea2
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit a23ba28a7462030438f5f25b8014d82bd55cbe1c
+	number of .c files: 26
+Commit 763d2d389f4497b5e17f3cc416735b28a6c30e3d
+	number of .c files: 26
+Commit c922a9cc42d942e4bc783840a0369a033a9d62f2
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit ba303352bbc42d68d46346bd53017c0403d442a3
+	number of .c files: 26
+Commit eb5d9bd3beb546b968f81875ee858c4a9eb1c86a
+	number of .c files: 26
+Commit a3787c4e2ca3ed6618c891e51d5caa3db83b4ff6
+	number of .c files: 26
+Commit 39a7f839d9367e581ae4892080611bbc44968b4f
+	number of .c files: 26
+Commit 608c921cb0b0ad946345b64a32a3f1e5cf45ced2
+	number of .c files: 26
+Commit fccc4a0b8833eaa1676a8ab9dc77fe5612f867b1
+	number of .c files: 26
+Commit 87ef08d6c903a0e48f63353d4e952da088079012
+	number of .c files: 26
+Commit fbaca2f9ded34e28dd95d9abb06e47f4db586fa6
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 577956c5b5abc6b6c4a25e33a43719079bc5d14d
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit e21e09c6a4c1e83288f97b5c8f7dea1690b15257
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 048e718410515085d029c31fd90077c440b00c0a
+	number of .c files: 26
+Commit 5260ff01428656aee66726e9ef6e13feecbdaaaf
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit ef8ffb89531ad5fed3f546d526bc4a1cc7b8ae11
+	number of .c files: 26
+Commit 609ad69a1986d0af171e2604294d79c4477081ea
+	number of .c files: 26
+Commit d4cdaed1f54f796161b7d7a2c637407c2178d90a
+	number of .c files: 26
+Commit c247a6c6566a0b6c001bfe7be831b53180ae6fa1
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit b441f4313e08cc04167e11c6c2a6d1d1bcf5aea3
+	number of .c files: 26
+Commit 6bd6a5d158eead7c39a55b6dcfd9494db0d6e4b4
+	number of .c files: 26
+Commit 77389a7849cf793be09bdbc62f54d1a4fe81a6dc
+	number of .c files: 26
+Commit 132814d6035bc17b1802f4174a09177407e50096
+	number of .c files: 26
+Commit 816ec0053a83f68444d797b173a1318ddfa9ef36
+	number of .c files: 26
+Commit ff8c80e5aa89805779e4b08fe6b93296b23e0876
+	number of .c files: 26
+Commit eac1ed06f4ede0eea7f89c22ced27bbb266ca97f
+	number of .c files: 26
+Commit f461122e8680eeddcead5bd7b43b94f230f4f5b5
+	number of .c files: 26
+Commit 69ad706a32a05ede47ec7e6e0a84206694bf5c13
+	number of .c files: 26
+Commit 5904c7ca312e25b6d0cbd040391b2ae68bfd5304
+	number of .c files: 26
+Commit 7b1205ab2ddc30b3e0847063e99c4369ca143fba
+	number of .c files: 26
+Commit 258bee6250839ff83dfa10f9ed7293fde5447688
+	number of .c files: 26
+Commit 010d377849c5f65e4ef7373f399cd99fa528f07e
+	number of .c files: 26
+Commit fbaf70012b34c8d9673fe6705cd52c09b517d85d
+	number of .c files: 26
+Commit 6c00f4ce8664de2600f9926736a9c294841390d7
+	number of .c files: 26
+Commit ac89d6a00c38bd4b1b42e9b1cb48736e6ea4be53
+	number of .c files: 26
+Commit 06cebc8375fc40cdf23d6e987766e73bc5f6994f
+	number of .c files: 26
+Commit ccd8133cc6fbe19dfbb8129e275065079f18a72b
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit a92910ca32896857953b52b5375ad69ceadbec48
+	number of .c files: 26
+Commit 594068be7f9aa9be51b2949a075c790a3448e985
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit b83d806b0367198453dc0e32e1f9e4aa3548a31d
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit ef89cb63c6e16aeb432d56e35e0409cab68739ed
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 062cd87fb78748f742e5694d6573475d895e73c7
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit a0d1ce52d381fe38108257fd1ee7993352e1b89a
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit a80dca5d423d6ee8979772b376754debb188ca37
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 35617456e8d79d715a5c3609081507a070baed79
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit dd153c944a75e98553308a2ac305b88147db4132
+	number of .c files: 26
+Commit 2d3de36d24f7b20b327e057029a8f2ffdad55631
+	number of .c files: 26
+Commit dd82adfd501a19f8b936b1b91a2eb3d7a9fee6a1
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 5f517024420e2b16fb61fc5f6eb3c1486931d236
+	number of .c files: 26
+Commit 0eec63e2089e96fa4125852fe6ebecaf9fa57930
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit e78642b0f0b366f9fc54d89f0a6abb117b28efa1
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 49b61282fee363c0b4d59a4800a5fe2428b26d37
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 92e9ebf1bc9c14d165d507c1f8d391322218bb06
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 37780f19c34d8573c4ca9796df33da3cdadf9e92
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit ba0be15954cb27c43f85d16d472eff00d7bed76c
+	number of .c files: 26
+Commit 236c1c7697589244ae34d55af4ccdb2509a1f9ef
+	number of .c files: 26
+Commit db3e1b26f0a594f24bfc155c3d09f15a41990c68
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 0b97d2c74b8bd92233a265f534fe0ad844ce4485
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 4ac79a47100fc36bcea21d60b2cf123aa32f7b86
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 2bf541d1fe6b740aca0f31d3873679a82b79dd39
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 346c94602e85433dfb587f93aee10f2a75c02621
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 17f18b3b8b66e62cdb1983ac699e793b9a9e2152
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit c6d63f7507b9371984f4e450ad583a9931a0daf8
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 62bd365227112df9d7b90cc4048a99c2db30614e
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit cf903676ce09aff9538020872dcb522feebb5cee
+	number of .c files: 26
+Commit 76b544d5c086692c15816df3d0b3039e02dbc058
+	number of .c files: 26
+Commit cf8cc67ca77e7c31d14b4de5c45acf6ac015967d
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 68e046746d99e16bf4bd6f385b1edaaf416c322a
+	number of .c files: 26
+Commit 93c6e9ac32677f0891b71799497649fa7e1cc17e
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 9b055d1076947ad9cf8480cafb65447c639a087f
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit dd20069a11955be357cb6aea779dea8fa7c91b4d
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 4de68ec9b7f04de790f876cf8358674c22961631
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 7acf0db7ab1644c5cde2574b0e2562b3104f2804
+	number of .c files: 26
+Commit 9c0d14557d5f1ff16ff4b4887f415fc9ba265614
+	number of .c files: 26
+Commit 407db453ba9023ed70fb03a97ffb64863f468b86
+	number of .c files: 26
+Commit 342dae0d59df8cbcce941f2b4eb08c5fd800079e
+	number of .c files: 26
+Commit 691b98c6873063c0c5b6245ab31ae8872e4b7afc
+	number of .c files: 26
+Commit 3c72bfa4786c13220735b2e8cfcb46dc2ec1380f
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit fe0bc33c6a11e4a11223df1ea2b4c4ca9683d659
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 2c1f49ca7d6f4b27c4205ad602b09cd5139378ea
+	number of .c files: 26
+Commit 83eb86a1728567760d997d8bcccd2f6cb235bdde
+	number of .c files: 26
+Commit 3ce634b36f4a07c92715ed244b0533d0709d1618
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit ad4e1ea23cc8f8f47f2a57a6a0800bbe97df8efd
+	number of .c files: 26
+Commit fdf1b54d158917890d504a9d1af1dc9cb323f86f
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit d7e7049076b6f685a7770a9aaed989c292434eb5
+	number of .c files: 26
+Commit 8f7d124e30e827df01d22d98778d3ed69f593fa9
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit de813673a6e91158aa2e1dacae60f53aea4e7fca
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 9ad940a421790030cd6e7405d4deb00b8a6aeaf1
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 70d7e3d98b86e2ed2b739681fbb969506736d4f7
+	number of .c files: 26
+Commit 092541147578f17152314f26f71692c221e5aff6
+	number of .c files: 26
+Commit ee1e009d9b61b54ab106815e55e154f036b9a25b
+	number of .c files: 26
+Commit 40ea1865ec12136302bdfb8cbf4df7a9710b5a19
+	number of .c files: 26
+Commit a87f7173d833e48369e41a16b8432b4e13e57ad2
+	number of .c files: 26
+Commit 4e907973a16c32cf53dadab38360812b769a6b54
+	number of .c files: 26
+Commit 3123dd6f12bd1db3e9b5652145e1cd603c7505d3
+	number of .c files: 26
+Commit 7cd4f0c7f1c57be42d4253c05c024009e4dfb72f
+	number of .c files: 26
+Commit f35a13cdcda4724017f6518255047ad9bee5f4cd
+	number of .c files: 26
+Commit 50279b35227a0089f15657fcbfafa32b72c166cb
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit e7ce8336ea58a81af6013b1e9b21f7e0075c43d0
+	number of .c files: 26
+Commit 85de04e8e57f082954af855dd4d84b463e6c1165
+	number of .c files: 26
+Commit aca2ac8cebefa8028d3134f52224b0c17e6c5510
+	number of .c files: 26
+Commit 93cb69dbeef8efdf0f1217e3927f93981bb3fc12
+	number of .c files: 26
+Commit 934fddbc61de05128ed20a4f4f65b7f7b2753e9c
+	number of .c files: 26
+Commit d7d80b8ac1b40613ced19a4a0ff27809947233a6
+	number of .c files: 26
+Commit 112c74521d6d1becf76bdcfce2a6d47532324b35
+	number of .c files: 26
+Commit 9acf6e965e2abf32c81ad023eae264eb61e44346
+	number of .c files: 26
+Commit 0259ce4bc9c2a49804a7fb7111e2831793de2aec
+	number of .c files: 26
+Commit 94c2e1c1df23068830218bebd0f19cf381306fbd
+	number of .c files: 26
+Commit 76b132d70c787300cac0a8f2b811c411db676347
+	number of .c files: 26
+Commit 793740e4901c3e5435c2bc6eec53adc399dd7c5e
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit a115e7892abacdcbc4f90a008d1b900d7b28af9e
+	number of .c files: 26
+Commit 2eaba7428671363cde5fb60b9f2a3dde9ec9030d
+	number of .c files: 26
+Commit 29a91e105da1e26b22ff9c9cb71314a0d9034224
+	number of .c files: 26
+Commit 11ec900409648b0879e473928e86e6679304597d
+	number of .c files: 26
+Commit b8982f4b885dcb769720f90339238a1a2c083d1a
+	number of .c files: 26
+Commit ac85d150dd04a09ae301eb648c32387ed2b705c4
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit 91d74375b92015bdea369a55703ae430d6002dca
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit ffbdbe879b8adb621e911762d8e5a0b1b7e85f09
+	number of .c files: 26
+	ASTs: 15/26 57.692307%
+Commit d165b4ebc3a4ae40cf9631c86e83bfb7519ca1be
+	number of .c files: 26
+	ASTs: 16/26 61.538464%
+Commit 8ef4d3ebf74422863872471c7562f25355812587
+	number of .c files: 26
+	ASTs: 16/26 61.538464%
+Commit 1026690909543dfab38aabd5def3e31dade8082a
+	number of .c files: 26
+	ASTs: 16/26 61.538464%
+Commit 97ea9fd4fa45c4d224adc4879177c5ef0c082dde
+	number of .c files: 26
+	ASTs: 16/26 61.538464%
+Commit 9df9bc81f894085617f97eaadedcba175a51a39c
+	number of .c files: 26
+Commit 62511a1d5f793d5e4df3e3edb90b10ac692ef288
+	number of .c files: 26
+Commit b5bfe8605200143b905b2d0f80b3a344579de93b
+	number of .c files: 26
+	ASTs: 16/26 61.538464%
+Commit fdad44c641ed4804688c3644ba338f9db095e63a
+	number of .c files: 26
+	ASTs: 16/26 61.538464%
+Commit a417ea68b2fe2e7d236bfb57ffadad59faef0529
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit 1ae74b66e1565b49e4e0d5b1d9d097dc65b03df8
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit 932a3555aa7b0b89b3087971f6f4b3bf18fc6874
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit eead79ebf13233dbb9254e735d745a7c67b49985
+	number of .c files: 27
+Commit 36bb1666e37c1ae97d0e5a89193639dc55b8363b
+	number of .c files: 26
+	ASTs: 16/26 61.538464%
+Commit fb0abeed29d56052a8252c96e4c191174575a789
+	number of .c files: 26
+Commit bcc22fb4b3b97b733c6295f07c29d770f64bd910
+	number of .c files: 26
+Commit e59371152c94d7fb20aedf3f845d23ef673a2a74
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit 5a86308a6a3881ad985787bb525b82ff101c1b84
+	number of .c files: 27
+Commit 117e0c6e3af83fcd1ec9665d2088fe2e2702ab05
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit d674630d241ae86c769afbbef1e6969a8e00f3b2
+	number of .c files: 27
+Commit c58b743679fd8debca20a3cb220ced3dc0cc34e2
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit bf8a44fa642057c0d186bcb9bc0b181c7d664433
+	number of .c files: 28
+	ASTs: 18/28 64.28571%
+Commit 38ec0f3c4d53fbc006971ae2eeea4bc6b495d0b4
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit ce58d8ac8be5ee5ef0e270b75a2a3191131de3c5
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit bbdf06a8d4e85abccb361a187fa63711366cf664
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit 032636e5a3a7b3d8a6ff516b85b8ea73a471ac90
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit 0fa05736bbb6d3523964a0649c67297f2a3e1e15
+	number of .c files: 30
+Commit 033d21e329454a93e4a5d3765e3c16c98ae116a7
+	number of .c files: 30
+Commit d1ccf73aaeef41c6af648bbb1bbf2218a9dc2b6b
+	number of .c files: 30
+Commit aebc480793d00a41f672606cecb9ab1f2fd4331b
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit 1fc590556fdca7297611aa2352b72e3ec3b0042e
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit b37137c5143b9e8e7dbbf2bae83cff1a4cf483ae
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit 3cd699042a80b9170ced75e69331df40d10b0da9
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit d325739040adcb1b3742b782746c0d61fe4e5b52
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit 82b78764731958fb0909ec0277e2e50242168bef
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit 601465721948490717308d16c9f4b8a9a26aead4
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit 0bdaeb12a0c49c104eddcd8e47f351924bb4d8f1
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit f38e9f397a95e0d48820bc72fc5b8440749479de
+	number of .c files: 27
+	ASTs: 17/27 62.96296%
+Commit 36dff814511a500f66685f7c46a6980a11b9894b
+	number of .c files: 27
+Commit 41fc0ed3e212072c8a705f2a0e556e1cb453ca14
+	number of .c files: 27
+Commit 2bacab3f9204c8cc96bb5ababa145712f4efbcea
+	number of .c files: 27
+Commit 8809f726abc578016b50abb94c7df9049c0a7ff6
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit a996b5dd1b29ad74828f8d45132e2149f9dbba07
+	number of .c files: 30
+Commit aa1e6b531f760d8034da7a6d75fb26c8e101176c
+	number of .c files: 30
+Commit f7cd699be7248a61778df969e19eaf3f30f024a4
+	number of .c files: 30
+Commit dcfd19e3631d1dea96cdcab323912835a3cedec5
+	number of .c files: 30
+Commit 755eaafad9a2955bd1ea5c3956a6cf16af651d94
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit 977253bc89f187cdda4ee3a0c5cdb27777d98b5f
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit a4d44f1eb9bda649654334d660aa615954471e1e
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit d4cb1d7daf7e47b61ce4d7d913521ebebc53f192
+	number of .c files: 30
+Commit 06fbca2650b1230fcfc79dcfb0a6d8ddc05031e2
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit fa933d884d0ba8e0e9db0635e33616c566f9fec2
+	number of .c files: 30
+Commit 3a442eb97bf6682452b2be09a0015deef37a75cb
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit 4d7b4810bd3b8b53832605927c100a5ba4a60fb1
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit fc1cd8c5c846abbc218a0b331221366b83ff02fb
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit d06c5fd0488c705aae1abc1b38d46ea1e9b0131e
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit 7f5d5a39b9a8488230335c11cba231f42fbf129d
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit 86d6a5d7cb7b6329afbe5e0a44cdf834ffbefec8
+	number of .c files: 30
+Commit 6b3f0b643cc4c43de1621438b4f8f3765cf31da0
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit 450e475bd24f95be2c4eba84675580dbbc3b8fed
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit 050d58c3067e0fe7e16201b48456085190e14cf4
+	number of .c files: 30
+Commit 670670ed714bbe91ed8575831ccc34be8860612b
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit 1e306da1fa1088b9586f963c24ea352ad7fecccb
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit 204b72d5c5b56777e01638b26911dd200fdd5369
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit 3d613aa587b47193bb356217886a64e13b0360b3
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit ca8330398fba1c481f9c41822c592759615a271a
+	number of .c files: 30
+Commit 2d590e3ca52fae4284415fb64d0c8022c3507a98
+	number of .c files: 30
+Commit d907a7c966b2759972e896008bb14696285bc110
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit 4e07d0ea7deedf9ef345d5067aaf3f13f49c502f
+	number of .c files: 30
+Commit 987374646a8c13abf66853f861df466561d60023
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit 0aee1a349805d9123e2ffc5b8b7a4078497ca461
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit 7e1a65e28ccc99a4d2aa73eb2671e8140708e15a
+	number of .c files: 30
+	ASTs: 19/30 63.333332%
+Commit 5271039bd28e3184243f1e2feab363b08027fd82
+	number of .c files: 30
+Commit 4bda6c9ac8a0bbfad15bafb97e753498424c66c6
+	number of .c files: 31
+	ASTs: 19/31 61.290325%
+Commit 22ba5db1d494cf3ebcc00835beb213b53527f627
+	number of .c files: 31
+	ASTs: 19/31 61.290325%
+Commit 97b2778196df8afa05f88c7f5fadb9d3e7954aeb
+	number of .c files: 31
+	ASTs: 19/31 61.290325%
+Commit 8005f7a243be4a5909a1dd26e6882abbcf807d06
+	number of .c files: 31
+	ASTs: 19/31 61.290325%
+Commit fa618764c7ee81d74fd9bdfbca87a21785b0b2db
+	number of .c files: 31
+	ASTs: 19/31 61.290325%
+Commit b9f00885f88c2cd0c3825722abeee9774cd95abc
+	number of .c files: 31
+	ASTs: 19/31 61.290325%
+Commit 187817a70754dfcc1fb5059fe289974e15efaadd
+	number of .c files: 31
+	ASTs: 19/31 61.290325%
+Commit 3c314f42ceaf5b54edc3535837a3ce3f7e716c21
+	number of .c files: 31
+Commit a9b2f164ff0205332e22678d979563a4b2520ba2
+	number of .c files: 31
+Commit b259b9100721ba111b74a7fee06b5768c340ad37
+	number of .c files: 31
+	ASTs: 19/31 61.290325%
+Commit 56b8c877b0e5c4e28bb38d8cfa9573c1633dd1f4
+	number of .c files: 31
+Commit a29a99ba47a3dba7797e7caf4a212bb9495455dd
+	number of .c files: 31
+	ASTs: 19/31 61.290325%
+Commit b67a22faa41826f1620251a0fb0194471da6275c
+	number of .c files: 31
+	ASTs: 19/31 61.290325%
+Commit e6096e9716199785a569eaafad1f5b566b97025c
+	number of .c files: 31
+	ASTs: 19/31 61.290325%
+Commit d4f478176e8b446dd9899be02da0a00e75bccf3c
+	number of .c files: 31
+Commit c45bf6090dc366b42f4389577b375aca145e9c9a
+	number of .c files: 31
+Commit f4e92259b63e978bf027de2aac9e277ba951f91f
+	number of .c files: 31
+	ASTs: 19/31 61.290325%
+Commit 0ea9d9e0a379db26417f4d55e807d2a933208f2b
+	number of .c files: 31
+	ASTs: 19/31 61.290325%
+Commit 15edf50279c44bc2df28158a6a61f4f029101bc2
+	number of .c files: 31
+Commit c1dcc3fc5336dc75a0097bb7db0a5123aff74d14
+	number of .c files: 31
+Commit e0f47527530ad7e690cd7d28a94ac35f2f62a338
+	number of .c files: 31
+	ASTs: 19/31 61.290325%
+Commit 2538f20aabde0586b0c8b0a2be4719595e8d569d
+	number of .c files: 31
+	ASTs: 19/31 61.290325%
+Commit bc8efe996bc6d422b03d7a8c129b78dbe5a100f8
+	number of .c files: 31
+	ASTs: 20/31 64.51613%
+Commit a98cbbc465a96aa41e3aa656d0712aff45cd0f02
+	number of .c files: 31
+	ASTs: 20/31 64.51613%
+Commit 89916bf718646f50eb7dc8f2e7a4d52fdeab42c6
+	number of .c files: 31
+Commit 789cb1559f3cb36aa4534caff5d7da8203c9e05e
+	number of .c files: 31
+	ASTs: 20/31 64.51613%
+Commit 12629c547915d99f90275024b8de7239586522e8
+	number of .c files: 31
+	ASTs: 20/31 64.51613%
+Commit 404bf3ccd1521f784edd24b0f5952627f5ea4bb3
+	number of .c files: 31
+Commit debed7544bc1872a492b9b367f04731249403432
+	number of .c files: 31
+Commit ff2a6f1b3aefd413bcf31ea7a54597edfbde9adc
+	number of .c files: 31
+	ASTs: 20/31 64.51613%
+Commit 852228dea5186bd08edb4e9e21d53b9f0142324d
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit ca008ee79a6f48166a04aed15e2f9d45b1b04707
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit 7daab1e4c204de630675a95d8c05dfc4d5a106ea
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit 1827192df5a009c182042b316025c9cdd79724b9
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit 29e6dcee1b4cc0429561fdd5acca32743bc80aea
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit 530dfe7c114eae25d594be539febf3e60c438e8d
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit 29825dc842aa4de2cff1a0cf3bd2d10729c93751
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit feb1e2d7b4cc2d93308001ecf1764989b7b65837
+	number of .c files: 33
+Commit 4aaa6a151d5a5942da12c1a53f931f135111ea42
+	number of .c files: 33
+Commit 9d50112a5704c16171a673b8bf1db9952c3a6920
+	number of .c files: 33
+Commit 844797f090d8839509fa5b335c535490fb8865bd
+	number of .c files: 33
+Commit e4dd835ecf9fa73491212f08050ea9cec3710f31
+	number of .c files: 33
+Commit bffb8f07a8d0f11225d79b6dd4b12159a3351dac
+	number of .c files: 33
+Commit 5e8c1872a32e2821a806aad96f5beb1f48b2bb6b
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit 32c47a1a6b6bf5215146ca8a0254e30badb82d83
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit eb19e1f305dde90ec1e0ea0be845a4de196127ff
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit 4f883d1e4178e0cd464cb25041f47f484dbb6078
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit 20bec5d8c63beb4059292d3aa89d3b8263b2facf
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit c122428ba47df6c33e7a4f13a25684ce6e61b7a9
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit 8544ce8c55af9a899611abca582119ccdefd414f
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit 42b3fd0d46e5cb4d155854e9c467f67333b7a22a
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit 8c071cf6e0405ab3479a90477081563e64a3404a
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit 52c4606d2ca4ee3fe6d3baa44c943f78bac0409f
+	number of .c files: 33
+	ASTs: 22/33 66.66667%
+Commit 01fa3dfbf4ff440dabff87788bbab9fd427b877a
+	number of .c files: 33
+Commit 16b25cac09f8e6e4e59a2e90834dfde5b8587bbb
+	number of .c files: 36
+	ASTs: 25/36 69.44444%
+Commit 37fc4be75eccc578d6ad15b8c95f2eef9d2a1746
+	number of .c files: 36
+	ASTs: 25/36 69.44444%
+Commit 745bb97e782010decbcd49776eeb5e67a7672336
+	number of .c files: 36
+Commit 40413957882fa94950581b61e162546291176428
+	number of .c files: 36
+Commit d122bb1cfb464b98245ec32bf8d2c6cfd80e24a3
+	number of .c files: 36
+Commit 100db488ef495f628baf7725664c4a4a97fbe47a
+	number of .c files: 36
+Commit 20f4b8f908933a19f0202caba424f69892b4ade4
+	number of .c files: 36
+Commit bb956e3c5062590c0f50a4123a47c4c0f11ee38d
+	number of .c files: 36
+Commit 9702c57ab2c261f2b9ce7905881d21d0647768b5
+	number of .c files: 36
+Commit 0e828cb8b985da559207003b2c355e546c1499dc
+	number of .c files: 36
+Commit 18cc772aa665dd38e317735009d0f1b3680f54ae
+	number of .c files: 36
+	ASTs: 25/36 69.44444%
+Commit 9ba6a5b247643601b35a02da316ac8cec0ae2abd
+	number of .c files: 36
+Commit f86dbeaf3ce67733ca3f6e927a53e5afda34803b
+	number of .c files: 36
+	ASTs: 25/36 69.44444%
+Commit 65c847fa22931ee4aae172d9b5f9ffdd44484d93
+	number of .c files: 36
+	ASTs: 25/36 69.44444%
+Commit 861184b72519d0116d06ee09557ff64076624e3e
+	number of .c files: 36
+Commit bf782199d2e9d055bc25e5e237f344d699bfd438
+	number of .c files: 36
+	ASTs: 25/36 69.44444%
+Commit df0b495cfc41a78abaef840f2c5341d59ea5cd03
+	number of .c files: 36
+Commit 54fd1b176550ff9896da727b77a8033ebac68418
+	number of .c files: 36
+Commit 76a2b0f0c5278d2e2a96e07896bd05883bbe67bd
+	number of .c files: 36
+	ASTs: 25/36 69.44444%
+Commit aaf5cbd18a312b87e297cc0fe584d80bd1c8e4bd
+	number of .c files: 37
+	ASTs: 26/37 70.27027%
+Commit e0f5d3aa58a43bebb8d0c814f7d502febbc78585
+	number of .c files: 37
+	ASTs: 26/37 70.27027%
+Commit 80342192220d92805a16cf94bee5d471804984a0
+	number of .c files: 37
+Commit 074e8ade4e57eb9bd790bc7babf0a4de54c457bb
+	number of .c files: 38
+	ASTs: 27/38 71.05263%
+Commit ff2089c914d17b5c153e5e5cc1de1e2a0f8a71e8
+	number of .c files: 38
+	ASTs: 27/38 71.05263%
+Commit e04a9e40bbf2204b1f7c5e657e8daac4299949cc
+	number of .c files: 38
+	ASTs: 27/38 71.05263%
+Commit 1ac5db597eca0651b820999c88a47d99801cbafe
+	number of .c files: 38
+	ASTs: 27/38 71.05263%
+Commit b3550e0a15e03db122ee5f31f8b71cc97d41fb29
+	number of .c files: 38
+Commit 6138b104cb02012ccfe3c3419c8d43d9188fe803
+	number of .c files: 38
+	ASTs: 27/38 71.05263%
+Commit 125de7177d696c6207457a960028a8892ee3f9fd
+	number of .c files: 38
+Commit e0b2f338539dda2d16fcd7cb7071e903709ee6b3
+	number of .c files: 38
+Commit 7784733a0db77e26db2136e6b96afd699a7879d2
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit 456e545d43017dd2d5d2bb8bccf9a9b470fc9ca8
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit 3de51996adb39221d5b5d75bf4b440778065686a
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit d8927d46cbf195de51a19d224d9e3ea4e8915c85
+	number of .c files: 39
+Commit 4f6023b3e99e56acf16a953d06771e60698a833a
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit 3d2a41628d51814e3300cce2536a13664b66ba0a
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit 4a425001c9102958c378dae05c2e26dbbd460c33
+	number of .c files: 39
+Commit 0812885d9ddcdb3421b1ccb1b5dbe5c6024e97af
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit 7668c86a7e50d0d985ff71eca7a524c6a47ac917
+	number of .c files: 39
+Commit cdc3c73642d7d444c033161e17378be4f91bfcb0
+	number of .c files: 39
+Commit 9a5ce3c79e1797cf6983dbe9a538ba971a1e93c1
+	number of .c files: 39
+Commit 3f780612d9216388d681dc608214fb6e22d6b54c
+	number of .c files: 39
+Commit 928ad0e8f63d715eeca9737842409561fc064516
+	number of .c files: 39
+Commit cd9eadfef518bf44ad32a197bf2136c6bf5ee0f2
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit 95dbcc38cba62b96d04dabba37bec4466554fdaa
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit 4db8870fc385739a1cb2634e2e57225d7c47b8d3
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit 4ac86e614b7827c6a87037db3ea200fb7b4a3fd4
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit 0d160410924e0d3b9d197ccba5b3d1b883e289bc
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit c358e7c801e265ce07e909d75f3f3fd4e16c7f65
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit ce5b723f65844d342209433e2ff911c8408abe55
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit 858dfed248a0107ed346dac0b93477d49c8cc6f4
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit 710ba5b600ceabcb9c3f480d53f845c3fb56df6b
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit 40346ee48ee20264ce2369e9ddd354f7dbd8880a
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit e8d8daa112aeb1058debed3aa38367e90ec032c3
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit 1928d4d10cf836a9c855825f9d201f8f40681e1e
+	number of .c files: 39
+Commit 7fd2b883218d8bc9e6f291fd8c49c9ba38b8c058
+	number of .c files: 39
+Commit acc2ff8f82fc3ad75af58b600ed1eb36ee833619
+	number of .c files: 39
+Commit 9ce3b94936486b9ec457b42d4179a404ff33ef2d
+	number of .c files: 39
+	ASTs: 28/39 71.794876%
+Commit c85386d928dc6741a35a748b1d594c953c968981
+	number of .c files: 40
+Commit d8880584ec1c184edca4676e4f1a51eac75526d6
+	number of .c files: 40
+Commit 0d7decde78bb91ccb0367d80263e937b6c044454
+	number of .c files: 40
+	ASTs: 28/40 70.0%
+Commit 1b298bb748ebb5575f30a2d113f9c1f82936e918
+	number of .c files: 40
+	ASTs: 28/40 70.0%
+Commit 41113e3087aabc68bf4379d5c101da351a5c7e67
+	number of .c files: 40
+Commit 0a6b820cc4fc532cddcfc8e2d875ea3f6431aab5
+	number of .c files: 40
+	ASTs: 29/40 72.5%
+Commit 57d640d42bcffa0d79c1691dd7a7ebd912001706
+	number of .c files: 40
+	ASTs: 29/40 72.5%
+Commit 5d8643612d11f1ade5efe016c6ac1da1eea1919e
+	number of .c files: 40
+Commit bda86ac5a74b3f7761031266f3f9714c8592d5a9
+	number of .c files: 40
+Commit 47d430a56db0fa0b69d28b44ed83959dac442b28
+	number of .c files: 40
+Commit 3a75236ab2d23b2b1b7e0ec59448461523418abf
+	number of .c files: 40
+Commit 2c2b582266fc08f6a18fdba7576b21d7a310e289
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit edba4df4723d76662e5f624268f751ed5993f28b
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 14f9e1e7fe1d78cba76e71dfe29715fa100f2f8c
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit bfffc92d5d018bfa6e85a2227852607c0bac17f0
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 890bb7312b04393d0ab2c92ddaacd810b4398d27
+	number of .c files: 42
+Commit 13fb386e0a9115c98012c4d51b12ee805b03c1e4
+	number of .c files: 42
+Commit 95f1260b50063d749de4d9ae150b8acaaaf05c10
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 2352069ec1fe77134d327cf5ca36ff0c12a275af
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 3264d5e59900420501a637c5d8fae81e939350f8
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 8b6216a31d9e7a7399feaea50fa0cccdd9d48cce
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit f38abae7e6d1ef0cd268fdbe52180c32b1b549e0
+	number of .c files: 42
+Commit 16c2076733beb22a4e1c28a0f24f909aa2a62e55
+	number of .c files: 42
+Commit 1d5e98332544e29a4ea0e8c58462ce2d1776bd57
+	number of .c files: 42
+Commit a914a9746268c6108cce66094f070f6038492c98
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit cc0b63bb6d568cb1b6e9332a21c2f8b6f888d853
+	number of .c files: 42
+Commit be9be61acb29655712d72076d9a2a674fe5185db
+	number of .c files: 42
+Commit 78080b1517db60837e11881c218df379625a7640
+	number of .c files: 42
+Commit c6a1740bc67ac8bc36b7009d14983528a2c28985
+	number of .c files: 42
+Commit a97801ce561cb56b494c3a17556bf3828bac8d23
+	number of .c files: 42
+Commit aefb383b9904622998bc17a9cf99243b1ed73fa8
+	number of .c files: 42
+Commit 634bb8d895cc8e1f11b7866ef5dfdf9f79ba2ee6
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 6a562c1dfc6cc04608da9730cfad2cde081ffa4d
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 5a5e9edd7b2922bd3abac95d02ca489b138e2a8a
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 8d70fc3f1730d338be3ddc6d789a31ce970478ee
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 0660f94ee5910ad941755ca62d6a34de5ac69cfc
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 8177355fc3bf8f51109ff7d4557c50f71e6e105b
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit c70a582e5ef7a381814fcac3437751e6fbe36088
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 581658774adf95449883005375892f0c926bcfed
+	number of .c files: 42
+Commit 588214d6a4d6997e2a67a1c732d009993c40c0b0
+	number of .c files: 42
+Commit f65c46cabd0d841559461bdf897f1707e5f32e72
+	number of .c files: 42
+Commit 76a0286fd8fe306a96fe007e7dc0a2211964ce75
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit cb2bf5daa1231ea426e50b5fec90d69159d50dc2
+	number of .c files: 42
+Commit e1b287d0ca3cdb48a5d3e8b0d46b9af51ee39abe
+	number of .c files: 42
+Commit 6fc46e5403dda15999d9464f91506675a64765ff
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 4b0f4f6d99ab71460d6c4f4377447148e4849b39
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 00ebb752c2ec1f14c8eb089442c3b5ec0eb23594
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 8b73fe9ac9952bea410dafcc01ca8d03c8f78d4a
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 419ec564c37820f4e8ddc45d331b11cb80460b73
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 1e0fd56aaa0e588c01ad0ea1b070576283d3fdfb
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 92cc99ef379f301a9ee3cb15f6a6744ea7a75a08
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 37e27eb1972a49779c5afce62bb0732a506210be
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit b74cb2884be5e7e7f92c339fbde935c4e1c436eb
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit b91097778f02c339f5124ff4604e54ea7ce02f07
+	number of .c files: 42
+Commit 251bf5656edb4e9a10a896d0e1aa26cb8b9c35ff
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 8fd5fa1b29fd2fc0efe9918148da22caca8eda13
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 5dcb2620c9486e58bf53944282312305772c16b1
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit b2a420ee514fea824306ed135fcb2c95e498b09d
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit ebb89778828ce35a8c581de8969441c53e6dbdf1
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 12715a28b2d163533f5e765e0d68d0d71880820a
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 7aefc5d24ae5988e989d8ad5f715e36df484a77b
+	number of .c files: 42
+Commit 1f1cfa864d07fc596e449bf079ab3c03818fa442
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit ff824c7d7685f6e30eaa122717fa5bb44a3c2a34
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 5d07bcfbd50de12db061a08c7da73f132829f031
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit f375665ef8786071411bdc326af83b01291b2036
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 83f2624dffe2312d303d42720959bb82e0bf6adf
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 22bffd28cae021231dc7ddd4cda288b3115f2da1
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 132b57cad795d00d9275c80af97c2a7405d1ebb0
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 106a448ee782e1547525b3ba8336b12abe9a0a33
+	number of .c files: 42
+Commit 1c70e25cb57eb813707cec996ef557e80203de1a
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit d887888cd2b8297452f3bf49812d13ba4fb089be
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit d0ea783a8a687447ef3b7c7b18b91b584fa3b8b8
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 45799f9ad2c83be14643e4dba4a92a359f5b8201
+	number of .c files: 42
+Commit 87c78c9b299c2c543a93a66b7018332ae845892d
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit 05cbd53c8852b8eadbc2a2c5da9162a201697c8e
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit aedcfc5cc7ff1e6416d94b9109da6dc593cdd8ba
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit bdfbea066666025b6239ef0b9e4470b3380c3e16
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit ab0319f23ad7f36fdb76a5227fa8a530552d3b01
+	number of .c files: 42
+	ASTs: 31/42 73.809525%
+Commit de36c5490a6aa55b1e3542b4844e397fc0cb02e1
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit b2936340b0a6b5ca39cfea7a524cca9ade193f51
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 1d1c0d6659c4ff69281a4e5c8dc28db4f6183c51
+	number of .c files: 42
+Commit 099e73921e80e1325e870938ad852dec5825460a
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit d9471cdbd68d5b3b2d57f525c0056a5612ab3f25
+	number of .c files: 42
+Commit 8c60a3874565e24d31d168df18b764e352c371ff
+	number of .c files: 42
+Commit d58e4e637bcc8ebd0b83a9561728a21a09291d9f
+	number of .c files: 42
+Commit 9643775780ec6b39dde9d5a8cb451aca58f7daca
+	number of .c files: 42
+Commit d3cb726b87920cf7887ef25f0424c465a5976306
+	number of .c files: 42
+Commit b4f926b3a00527d8ab182b23222ca3cb9dd86e7e
+	number of .c files: 42
+Commit a3d18ef79bb477a1485c7a62a79829bc7b8827cb
+	number of .c files: 42
+Commit 7da640605c8118a5f2af6d15c223e51ae2cdc332
+	number of .c files: 42
+Commit 806d37359cf62b68bc559edf4270dfdaa1f1d092
+	number of .c files: 42
+Commit 6ba799b80614330ae4d8ae0f8beefa946b2ed679
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 9cdd115480513cd47f9039da3751f457aef50ef6
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 1e0299c1c080f70f32420b28ec18070d2eb782df
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit ce5d7154d2bed2832375cfd6dde4400fb1a1404a
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 5912bba9876d5a85f89ea96253037968becda489
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit a8e23f24db6e6da750bbed194ad6e21a0683ce18
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 99ea217e93a5e74d07ce5bb5fde656d134d2ec5c
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 82da8bc9ab534a39457932a9cd319211c81b7885
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit e8ef7fd0cd8770eb30e5be6b6e6d4d91f2818693
+	number of .c files: 42
+Commit 18979c420f956397d3d2b9c381cd16881a2d7db8
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit cce4dd3fb564765b6029337ab95c8fcfbd71bf27
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 80fe9787c616b723be869f25e713ae01746a2384
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit a756464c4ae7d6f5b2bf112eb0f4deb61a8b94ad
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 28ec77dfaaa7d044aab26ec909a4f285879236fb
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit c0e6bf17116c25e7c3602da084cdae7d9005c9d7
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 7041a5223c45a1907520285a0d12d814c1168d3a
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit fbf524a346ba54a212c10097aec856b0ebba5c26
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 7291fd89fdf244f750543503b40c0954db13a410
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 48fcff75f439acf333d330b0ba349e48fe8a7a5c
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit bc08c45aed2e50d33877c3a9648f6d2cf96a2353
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 2fe88e0391ab580aea8868e77bd362f1900ab213
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 69406462005d93e38965a1fdc03ccc016ca80f3e
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 3a0f8b73929317a88c77ad58ba48a78c397b5e20
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 1570ae33dacb5e3a8d1e846773f14b1132a44a64
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 9f9bd491080f486e52bc40e93bf97fe6a1b2f385
+	number of .c files: 42
+Commit 11584a854694a8c0a025fcde5f226c94c60c56c4
+	number of .c files: 42
+Commit 1d8ea36309d7244582e367c4d673e38646e5eb9c
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit e113d8a816f79398db55b7dbd5df5a9bffdb71ec
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit e1673bd81cb576a71d7e450f680ad8ced26f7581
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit c69f951ecd6a9fe5c087f8836f7c2de6a7159896
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit d2b03fc9e10620baf85774154452864f880c0e1d
+	number of .c files: 42
+Commit 90e9de12fa4eb8c7b66355c274dc1689a1f8a184
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit fe732f041ed36756679e3cf28f5407fb53c5453c
+	number of .c files: 42
+Commit 873ac71f22434f1b3e428e3e7ac76a3f649cfa1b
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit e3a1fb76acec9c7b9f7280e64a68ba17ab52a3fa
+	number of .c files: 44
+Commit c2495a2d7cd6637a99ad53bb71b4bf7996f3cd61
+	number of .c files: 42
+Commit 4af73e1ee918aa6899281d27dfe6c3ec4e580dca
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 61a5c34733f46c468d8e339a138c97b054251508
+	number of .c files: 42
+Commit a7af39fef0ddf6e358da464a5a3110030d7a30b0
+	number of .c files: 44
+Commit c972e671d07b6b9203966fc52a3c9ad907759272
+	number of .c files: 42
+Commit aef5f35d2c314273e926983498a6d76667d81f54
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 001bf3c93d734606753eacd515f0eb73fe7da3c8
+	number of .c files: 44
+Commit 32ea6b097d4b6ffcb68aa2bf8b26ec7e562be7b8
+	number of .c files: 42
+Commit 2624a8ff40394694c5f5c53c2a24cf93a617ceff
+	number of .c files: 44
+Commit f0db645c75a2c063526685b791a4afd7b2884d1d
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit b453d43ac0dc7097bb8afb74db70ccf5cde3a914
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 0894db791d776bea006b56c199d01fa3878c4ee2
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 5a304c27079968d05e2e11bd2ead77a6aae16c7c
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 47e0499c195229468bfde5f862773bc36b4267a3
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit c1306945a005996b4a48d40088d8d273bdb599d3
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit f5b1a3a5fb613d02fce2ef47fce49bb2c879de7c
+	number of .c files: 44
+Commit 1c49fcaa79e503227b5a08107586a6bf11c69d27
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 08526533e128f152698642fe29d26c484dd0b89d
+	number of .c files: 42
+Commit e5d351036c331c137b3cce445321d2b4e01d0dc6
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit b44a83b495a74c8d5e93750549577b012fb4fe67
+	number of .c files: 44
+Commit 853b3c0800593f82978c8a8614a0cc11f02dd357
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 807abb1481a50980cfadb0fb72c0e8f0288efcb9
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 1aea3c4d7a7e2d250113a1dffa0d4657d44cde53
+	number of .c files: 42
+Commit ea271e1c481407ac7d70e69a995594acf837e1cb
+	number of .c files: 44
+Commit 47b3948c6b3233089fff3fde220438b6c859dd61
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 3a867038221fdea0f0999d186abc81b8f5c46937
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 192b6d1b6167be03d69b56117b24b9528822491d
+	number of .c files: 42
+Commit 6230ddb70b0f8164440ed790c8f2a7d462415fbc
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 8c3039d676d71564e98d50f1ca8ba029d1efa46c
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit 0ad91d0a2d2cf44c6d6238b9bfbf58e65c6cc947
+	number of .c files: 44
+Commit 2734eb4652df64f20ff5adba10ddff5b6acf8bb9
+	number of .c files: 42
+Commit 92e2fab6cfb1964d3a7706337a868287822c4493
+	number of .c files: 44
+Commit a760f7e3200ac3ac44240ec5783c97c530f3676e
+	number of .c files: 42
+Commit 282f7edda2ebef0354efcad27906d2fffc09d425
+	number of .c files: 44
+Commit a8e6d73c99592dfbb964da88c97b4efa4bddb22a
+	number of .c files: 42
+Commit a8e73e8e617942cf2c25a6301415488c74b5662d
+	number of .c files: 42
+Commit 81efc783f40064040121d8d8cfdff0db1fbdbca5
+	number of .c files: 44
+Commit 3e6d8e258f4505f25b9f4126382fddc9346b0d36
+	number of .c files: 42
+Commit 9c65f793440fb7df2ca19ee7a3016db762b7476c
+	number of .c files: 42
+Commit 8bdf1239e0a2dee041e2c6ad150fa698547d0625
+	number of .c files: 44
+Commit 90c2e296117e6f1f854366fa368cd05687a0660d
+	number of .c files: 42
+Commit 5f7cf366b26fdfff98b0fab7b4af4ec4c460e8f3
+	number of .c files: 42
+	ASTs: 32/42 76.190475%
+Commit fa4e9a6412855998cee17fb31cf7dc2d4eaf1832
+	number of .c files: 44
+Commit 2ec589ec1968001fcdf0cee66ae69e8b09c1e9ba
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 512ead128699ccc960c3d6b218e81c688de628f0
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 0d940af4209cbd6db423b71339a5529686c37dc1
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 7c9fd3c5c3fce5579988d6ad0ffa81786096e330
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit b55be7ece08f92ce4b47949db4ed046a798df884
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 2e0b674ea9e4d23e85f8f85e3f8757aeca1e4830
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit ebae5f7182b30d358eeb915f4edface74fb945ce
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit cad4bcb314a86134f14a0d2e1d44141f50a20e61
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit ff13256a94285d41db8b9370ff29a6c211b6bf99
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit ebe6df536d7517516579b7408795f22b03de0857
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 0b59bc01e53be04bc49efbfff36cfc8d2b48515f
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 0a2fffabda163f9a7daa0351e53b4e7aa4f18dbd
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit f98dda02f7e5d80bc91cefc1867440249e396c83
+	number of .c files: 46
+Commit 2b43c8baebfe504f38381b28e45ef9c2f760313c
+	number of .c files: 46
+Commit 0122de72e2a04b3e373fd5fa44cb5fe9f882968f
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit efa0e36daf1b9585f8dfbe9353bbec2dc1d60233
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit ec410b4bd821b5a03fc543faaa297a0aabae1a87
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 8c86aa2d604b97847e442ef0af52896fad695b11
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 332bb5f00814ea358b8f61b6358e82d0acd4f620
+	number of .c files: 44
+Commit 01b82fb6a8c11f880520ae8f4970cf8a91cc81bd
+	number of .c files: 44
+Commit d13bbc5812c5322ae64d3b135ac2c6b6e4d3f60e
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 0a2be77fe96ce196be83bf426c73e6a1137399c4
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 44f3e8681cda85cde93e0b8e9f75e1175bbd8ef8
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit c6799eaf1f3ccef069cc4bcac4d0e93f823200f2
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 378a15aa85a0f80ecc4a2868e5f298d34e9d9dc8
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit ab81449ac4b25db17edfa111183a7bb713e3af2f
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 5dae03bd122764707429035745bf83643c628323
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 0c87fee945cb886a9df9de40b900a789ea821473
+	number of .c files: 46
+Commit 3f80df1e8df3ed305e63b602ceeae64eddd38fca
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit d5fcee3c1f941d59b1c2e4ec33978e9c5f324425
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit e0318a9d9a1d177bd771bc094894f041e0cefc0a
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit efe4f4b83589d6513d97194ac215d1a87ffe5a9b
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit da63d7d3f5a40d9aa068a9ca6747c4d1095630fb
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit adba0503b6b7fba08f0077b48ee3e38f3ef9d9d4
+	number of .c files: 46
+Commit b88ccf873f9e27ac37f56bf05729ed7a16f4a50c
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 0e1c72810f00ab5b2d988d164b17f5e6c8594621
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit fd6390b127dd61e224566be7c06132ffd3eedb25
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit c66e7a62f977ee8dad18061cbb166d5bf0e87f5a
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 1050034f7a4da79bac4ff3b6fa9fbdeb5e36a1aa
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 469267b2be49d6acdca5058e3e744a508ce3da5d
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit c5c683346ba30b2535bb93f917c9b4e36737417e
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit e959f98288ac7aea2c163b20f71be009bba4c66c
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit f080f3cc68146bacdad1ce7cb446de5fd529f5e1
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 3631bf634fc6106681cd9c5099f6a275760ca48d
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 789fb91dfd61c235152f478461ed9cdc1c6159ac
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 8611023b7a90c1a802e2c8cbcfe83df2c9bb4414
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit b7830887ea34488b339c18ad89b49af085f4635a
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 8e1b069308515630546311630283ef7ff5885bd1
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 6f60433b8d82281b66319b816fc2ce82ea495bb0
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 7a58c8b038a6cba4c99a815ea48d6b8aa92a1e6e
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit a1b49e2ba405e63bf0975e4d5c0439bd5592081c
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit bb0050c3a15621fbe959d7d52640d5ddb1e10586
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 518332ec26d24c254cba80f33f624a7fa2e6762a
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 0cedd316661973ce1c9f0b10f264584c5912b864
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 8bed93c4b1bf81f05007b71212743afe724a6b09
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 91ca4ef45f0805e195b4bdacd51516496fcc5fcd
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit d2a298e996e4daa1684ecc7833683360d3097734
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 37ade14d5c0de578e51a66d3808f6e8897f8f9c6
+	number of .c files: 44
+Commit 35ec4c9011b622fa24148caffb3e5fc6ae21aac5
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 91a2954eb47b4a106e2be6cf611917b895108e35
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 52459f7b669c1971d0aa365ba2f8d54f2923cb10
+	number of .c files: 46
+	ASTs: 32/46 69.565216%
+Commit 39fb5fef33b831c79954ae34710ad11160e718a1
+	number of .c files: 46
+	ASTs: 32/46 69.565216%
+Commit 477f7b938ba889a334faabd17572b3dc13d4c68e
+	number of .c files: 46
+Commit 9fb0c7219c912891b1fd1355410c965e609251c9
+	number of .c files: 46
+Commit cadd1e1793d744a2964f3a39decd05172435e834
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit a36847b655b449836faf6122f6d2603a510f3227
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 849766f72f593878ab8bdcba1a15be40a8a3beb9
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 8ff7cbecc6d30c690dd0857a7ce2ee6d498c6ca0
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 165fa068c8ba496d5173feb0b98148564580d8aa
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit ff068ce709f70e6cff8439c861f6c55c0ba55a33
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 2104af9774aa568030f3eaac57d88459486d0740
+	number of .c files: 46
+	ASTs: 33/46 71.73913%
+Commit 8025a674ba519c21cf0b1ac327992720eebf8d57
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 4052e2ac93a448ad36c006c295504aedf928f292
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 72206bb1dfd34a03d78c1a95990ea7718f38bd68
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 37ca1a0cf161ad30356e08d5886eaf4b8bc43882
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 757ffb19cb69f88db48f732eb8d3fc8eeb333e17
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit a1c723288bcaa0bd402cc5ed517a10cdac703575
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 42f9f75b5f51dc2937de73be1155df0b175408f4
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 8252a80d0e91940c64821b781494d00feb26831a
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 1012fe9332b93d47c8b3aea4fd739b66697bd1af
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 7a44e564e63f14fb8fe5edb25f76eaceb344c3fd
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit a6dcb754ffa1bd125b8f07223900999ad3b4955c
+	number of .c files: 48
+	ASTs: 34/48 70.83333%
+Commit 2fb75b847a7fcb15d7602324de9474809d1e8884
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 557e02701794a3d8c23450c07280d93295be658d
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 83f5a1e3b4a20c7a2a2d8bce907958ac3f3d9662
+	number of .c files: 42
+Commit cce69f0d67d8e3e1d4bc61fe717feba3b53d4ed5
+	number of .c files: 44
+Commit 206b0c182b8fbe1e115039507c4356ee1316a7fa
+	number of .c files: 44
+	ASTs: 35/44 79.545456%
+Commit 84222f12a4277705b8cb8bd38e50834a103ee98c
+	number of .c files: 44
+Commit 590ec997979f5c6785480ff53b8382f637d27bcd
+	number of .c files: 44
+	ASTs: 35/44 79.545456%
+Commit dbff5cea53347852949a86c00cea745b51bbb7d1
+	number of .c files: 44
+	ASTs: 35/44 79.545456%
+Commit 49b12826276ca8d978cebb752a1cda8b61d9ac19
+	number of .c files: 44
+	ASTs: 35/44 79.545456%
+Commit 25ae81432e30e205d123e443dd92e1206b89850c
+	number of .c files: 44
+Commit e764489d87d66cf2f55c96d0de5c6614ebc2a2e0
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 2758e22f8d24007061bd612d30b2a1156a9a2ca2
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit c5704812b8de2f2f518b0389af533b519c56799b
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 806b511643ec830f50d6d6975b2ecfd1876a6f17
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 8e005b067d8c2423e24ee14ffdee8343f650f1e8
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 914550d743e651229c7d731917a08b5c2f570755
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit eea3814771de89ef4dda9f2f94b28e666d5243de
+	number of .c files: 42
+Commit ef79929d4dbc596bfa2786ccc5efe429bab106ee
+	number of .c files: 42
+Commit bcbad0992488c1ad0e0211141f6588b3c17c77c0
+	number of .c files: 44
+Commit f99c2f364a8fc43d9efe9de80735fbd1e077594e
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 3a6b48bb6c108d73e89fdb4cba6b81a3ffff9b42
+	number of .c files: 42
+Commit 7d4fc9e8e2d278e882149efb45486677983c7dff
+	number of .c files: 44
+Commit 143ee0557483638b7bbe0963df757d4a03ed7d82
+	number of .c files: 42
+Commit 7818f97c1ce23a52a5de4da6bfdea1721bbcbfe3
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 7ae9041eba9a5a849aa8be84bb8355805dc70faf
+	number of .c files: 48
+Commit 7efcc459f2baf320efe90f941c91aad73d554a79
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit b33c7a620f5ac0b69f782e565ea9f807eed5b40e
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 8c018f6315044e6d9e4c992e2b3e7be0ebb81d96
+	number of .c files: 48
+Commit 15275c83dcb66f89de70a80fd1e437975f8ec7be
+	number of .c files: 42
+Commit 3595be06de93cb8c4255171be8a647af4e5d460d
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit c2d33fe861f49329fcedeca691bbc63b04794c43
+	number of .c files: 42
+Commit c68eb939afe9526bd7d5aa7cb74f48e619ac805e
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 1bb275a22bf9cbfe3d18db6eb86a1bc8524810f8
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 6802a3f6ca005138969a8badfa91abae2184de9f
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 8328b3b93525cb4091054bd2162cc3ddc970ef3d
+	number of .c files: 42
+Commit 896fcc96b81852ca2e4ec511d20a44195543e820
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 222ce68f156941d19f064878bda406c8704247cb
+	number of .c files: 44
+Commit aab78af38c0d21356c887c1ec3bb3699e4052e81
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit ac3b048c652c24c6e4d55cacfdfeaacb41b35450
+	number of .c files: 42
+Commit 41d9f24c7b7fad7f2c5c4c805d80516446bd3ffa
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit d329e0af9016e3828d98b369357dbb4a6d35725f
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit cb09292bbf3e85116b2cb3dba90ed0e699d51f84
+	number of .c files: 42
+Commit 0e89a4565147f77d930fcff06a39d4804c73e7ec
+	number of .c files: 44
+Commit 01f0b62840259006f4bf1213568eaa6809ce29e2
+	number of .c files: 44
+	ASTs: 35/44 79.545456%
+Commit 90779f7dceea3e84e01c8908383a97ac1a7f8b45
+	number of .c files: 44
+	ASTs: 35/44 79.545456%
+Commit e9e8f5b2099092bb746a7ac0d635120bfb7cac86
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 49f381877dcc09bce8b199b6aa818a0786b3c841
+	number of .c files: 48
+Commit 7633687271ed821461e799a6d41822179bf431f1
+	number of .c files: 42
+Commit 5cdd7980895683613026967ac190c4a5bea196f3
+	number of .c files: 44
+Commit e98dd744385b7ec45895005a8765552e7c3cd1fa
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit e74b07331ecc57ee9be68a5f09cdb6447215e56c
+	number of .c files: 42
+Commit 4520fd7cb0bb01eea00b6fd57f40c174a0c4e6be
+	number of .c files: 42
+Commit 8ba68e7e3bb4ea2761a9a84e5a99ad95ddbff31e
+	number of .c files: 48
+Commit 96313ab0957dbf24c6e9dc6e4da59584eb16b30e
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 6ca4e1f75d155907cd6bbdcda8a2bd278794a9be
+	number of .c files: 48
+Commit 99396f88741d1fce58411acdd92d0a4e53816d2f
+	number of .c files: 48
+Commit 0593625c3308e6bf2f30030684dd68b820c87551
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 534e723f0d90a0b0a64ad268d398a91561520b78
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 62d3eed8dee76a4b271f3c607ef5801b99b31717
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 5efb007aeaee8974802cc99b8f8a6bf88f5f7a81
+	number of .c files: 44
+	ASTs: 32/44 72.72727%
+Commit 4870af9422e00b272ad129df72166d4f3ba4268b
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit c1790b700ba82a4dbb5061af8e23df31930da0ed
+	number of .c files: 48
+Commit 235c19b2b39a36c6d6947c4eeeb3981e5d527d3c
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 69d87f2d5c0ea5d3730e4fa82015eb804eee7cb0
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 7c5a69e521b3aa10a5569ca22b3c88e7ab0adf2a
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 4bb419c8703b4ec7629e1f2d05720b42aa353066
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit ead34c2ce4bbfc58727bbfca8d5af27963d69619
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 35afbf9592278861527f379a07d50a7d7f229e99
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 59490598dbf2c7e060d17e090e4954dd2c5f7beb
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 074a75bbe13fdb7faafc4f38a236385e00fe2f05
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 5e76bdd30c116933eaeefeee480ae91210a9147f
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 19ba51796ce95cd75743f90b79a5ecc22e61fc10
+	number of .c files: 42
+Commit e67097f5d29ac1feecbcbad09776c42d5ee13b46
+	number of .c files: 48
+Commit 99cef446d1f6491ff0ff7abc6ccb4a11d2c73447
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 4f15fa6b606733adb25f6512cce681533d908780
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 95961190651b185e4bfcd44dc69f587be2cdfc26
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit ed6b1f466688d22ab8c7db54b8bf245912c6b934
+	number of .c files: 48
+Commit 16fb022d65f431b2dbd0d1b04481d0725da25aaf
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 9bc737a0f78f2704372c6e26805b74b035fb7923
+	number of .c files: 48
+Commit d38383a3c05936b2ffbaf9da4157f805667fe240
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 7be0950b7d14046d05fa308980f37e7fdb7f527e
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 882ccf9844db244e5cc8daa2d0b562a73f7c5b92
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 16552d47de909017557b2f1e18cde4b97f0ad9f6
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 34645904f761d20ed62d427f35b89b741b7db090
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 05ce57efb88253ca59035ab8adc580bb88b0ef9e
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 701f13192eea80ad8ff8aab783b181ecddcc47c3
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 27f9106fd147db16bc1562360d0d483ba31022a3
+	number of .c files: 48
+Commit 47c02cd278ada8effd5224adc87684a45876629e
+	number of .c files: 42
+Commit 554a368a506365e05be0a9c1f7d09bf7e5ebd745
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 27f2ba9a15c16b226f5223dd81c28ea766f8f9ca
+	number of .c files: 48
+Commit 453030e01ca35ce084c775fc67610550f93d8b53
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 1285bfd33a716c04231e4a5c8b4e6bb61586f8b1
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit d24b26cb1c3e6d5bf895729ea8fab35f762acad4
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 8d9e955ba99a627e4fd8c270c0c86df7efa5a723
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 4ae856e16bca42dfb7e69b865b82fe357a04b92a
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 51f79b9de8cea1fc34b40da2294874e48355af93
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 97a0ebcc3fc9fc3d5ca866e3c9ec1e935d872b76
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit f94c0800342fc7495db5b692069c1464174e0b5e
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 752b2ffed0b2892d4fce25a9f1fb5511862d2e94
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 2df269a3121889ebcdfa5d98dfb4d675f690e039
+	number of .c files: 42
+Commit a5f8e78c61867fe64881323018bbeca83a43f6a1
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 6595cf871eafaec254d1c8a61d5b926d2a822a50
+	number of .c files: 48
+Commit 61a5a29376bad38a82b8e888f873b6772c1e02ee
+	number of .c files: 48
+Commit 7ab8a9c9258fc28ab0bc4d890d50ad8793a84624
+	number of .c files: 42
+Commit 03cae62b65614a7f989d6c588765125ea625960d
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit a363cf917680c4a6c078f835a826c88ff50b8781
+	number of .c files: 42
+Commit dd6fd877b0950337af26a0037c418967c47c8d12
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 5dac6c933e9b141286711486ed6a26d31b3231b6
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit e00625f761609056b8de52125bcd16e8f933d033
+	number of .c files: 48
+Commit 06be1c4cc33bf2def9c6e64483b397128f57dbe3
+	number of .c files: 42
+Commit 1fe48c9cdf06848c4385529a8955551ad7e6ed90
+	number of .c files: 48
+Commit e11912151cadc8d77edd8071c23c4366cc007bfb
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 79c048c00e44013da82b4b2973f31d087b072651
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 84063e90c704b9d03adef99fe62769fb743c1c0c
+	number of .c files: 48
+Commit a213940718c0b9538d0bfe009111de93771a2bd6
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 409e020d2636a81947820d50c79d52fbede2c53c
+	number of .c files: 42
+Commit 0da6ddc169f1edfcfb1c37d8aa45c4257cf6c5c5
+	number of .c files: 48
+Commit 15d9f39d92c31b81f528a2fe5efc152c678f342e
+	number of .c files: 48
+Commit 5f5f72722899eee4542b836e87a207e9da72ff67
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit fc49942a6a10314ccfa4b121717ee2e65b9e5fae
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 649f568c0aa92264eaf400f205e452f06c358de3
+	number of .c files: 48
+Commit 050e6a7c18027686cb7b893c1b54e81c311ad193
+	number of .c files: 48
+Commit b97ef53d9c2d6c727ed25236c56eebf0339dcb89
+	number of .c files: 48
+Commit ee3cacec9ec0d573679dad55bb0cd0c01030b072
+	number of .c files: 48
+Commit 81714b62b50563055faf301f5e4faec6652a426b
+	number of .c files: 48
+Commit 3849150ff14167261adea6b1a802497a7728c134
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 98f692f8a97f513d512ab5033d7018e71b1878eb
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit d1ee65dacdaad06e6266a1c3d9417cef7d52d3f5
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit a03cb5a3562d5d771f3279b9ed1b0e722f2aa652
+	number of .c files: 48
+Commit dc75e5407da9ced13fec383873cc0e55ddef8030
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 498d8492b009ade8d5d2f1a350a06356bb5e657c
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 5a5b5b75daea3beb7b21a78100adf76176317f65
+	number of .c files: 48
+Commit 0010ba1ac6071a5585b8a59df896855b1d711974
+	number of .c files: 42
+Commit 02f9e065390ee7505be1d35af9c6dab10a23e492
+	number of .c files: 48
+Commit 4e52581ddfbe80ccc7148dd6278c944aeae37fd0
+	number of .c files: 42
+Commit c45a09babeddcab3360d98e997634571ac434726
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 6059c7e39798b25f4747a90e21b7f9ca97f57592
+	number of .c files: 42
+Commit 88cc91f980d5979b24830d94192c234f06df3568
+	number of .c files: 48
+Commit 568ca99324970bba4a498a32ef14b535f596a118
+	number of .c files: 48
+Commit be23d25d8ca8ebf1fad1254349d02d11db603aa7
+	number of .c files: 42
+Commit 15f9ced6a9fd24327871084e2b990199947fe732
+	number of .c files: 48
+Commit 12934eceb31a3562d3c89187870dddd6c981e6cd
+	number of .c files: 48
+Commit c252fecea27bace53e3000f6642bfe217cc40ef8
+	number of .c files: 48
+Commit 91bc2911fa5b6cf170a3c376b09ad04888d983c1
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 986d47a59109f6f64a4ada6529554bc5d1ee88a5
+	number of .c files: 48
+Commit 61dec8c3a06b113a3f02e661206c36e3acb12c14
+	number of .c files: 48
+Commit e6e5f47571b2e3aa13511e021012afe1b9a06df3
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 1aff1e1425e55585715b423fef79571c8d598523
+	number of .c files: 42
+Commit ff2193c8cd5685f5a458b876727d7009d4f15d2a
+	number of .c files: 48
+Commit 481ddaf4175f80aa70a29f80c80be9721dab0fc9
+	number of .c files: 48
+Commit 629a95286b22e8405e68385cc714160657c2c01f
+	number of .c files: 48
+Commit 38eba0efe1c71a86240f7334d1f7f036d493a9d9
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit a46c996deeea228bba5c52405ad0b98875da1076
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 6cca82a5bacfeee5952062388e33a1d5997d04a3
+	number of .c files: 48
+Commit 9dcea1d184ceb10021b9d78e7cf3dd3487f978d5
+	number of .c files: 48
+Commit 90bf3da8cd49c54fbe8be89ee701177d17cadd35
+	number of .c files: 48
+Commit c148a726e8e4aee84b255eee8ba5a6c5ed0e9e92
+	number of .c files: 48
+Commit 800f8ed2edca0554613244e40f8187d0b6da77c1
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 4c488642e307f0b459b4d4b6bb03f6290112e5f7
+	number of .c files: 48
+Commit cd408e28e62c08011686f18ca41951f551d67873
+	number of .c files: 42
+Commit 177d231489bf4d5e7f483c82e91838df2f8af8f9
+	number of .c files: 48
+Commit fb701ce7c56b1cd67699635d7b5b88ffae64559f
+	number of .c files: 48
+Commit 18ec215da7f512fd1523a8dba28f11344bd6c9c4
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 3f0569b34a609cc5c6507e4e37bd3c14aa28037d
+	number of .c files: 48
+Commit 0a47c21af196dba9e566183cfdb82900272ba2fd
+	number of .c files: 48
+Commit 1ea5033e2d0d8a53d16ba694cd8d5324e27dac2a
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 7fb3c33355d8126a70539509b76b6e53dd54109e
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit e5cf6b3c002b7f96539758fad8d95c24ef9605b8
+	number of .c files: 48
+Commit 8acf4cb302460cd1b2d2f74fa59ae26ed8e29a8d
+	number of .c files: 48
+Commit 19c344bb1c43d1d1f77ef5c48db03f4dcb23cc64
+	number of .c files: 48
+Commit 8ff1dac5174f37a557815443ffc64944d3ca45b1
+	number of .c files: 48
+Commit 333535a8b424d328d3f4e6a759f1b65655b4e5a3
+	number of .c files: 48
+Commit f037f354525ab3d3306106275ac52f967dcd01b4
+	number of .c files: 48
+Commit 626dbfe23641abdbff42946fd3b4b931c909ac6c
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit bd95cfa62c0753e076f74fa812a17b9b03ec9ea0
+	number of .c files: 42
+Commit 6b6a109779033ffbb8ddab7cca6574f24c2e4bfb
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 83943e2522f8ea261c616adcc901620af80abb06
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 17791e1e460aec9c0efc1edbd031e975b81c1855
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit f34c3157602aa63cbeef6fdf31cd5c85364b9020
+	number of .c files: 48
+Commit 326bcbfda8709db5ad6c21ff6b0e62f0441d27d9
+	number of .c files: 42
+Commit 69ca307b524dd900452e516fd937d4ad4f1fc42b
+	number of .c files: 48
+Commit 77ca752dfc111a95adfafc58afc938840ae4a077
+	number of .c files: 42
+Commit 64b85f3e3966e3224e512c9b7c97d955fc9349a8
+	number of .c files: 48
+Commit 8f3e06cf26f41d69e3741234e340ceb23fa3ce9a
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 8d2365544240f53733cccc1fc8bd142d6de8844f
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit ff5ab4709aaa97980641593640792ccba3040e58
+	number of .c files: 42
+Commit f4c0499f2ff5585a0e1d8edf91f240471e25acf4
+	number of .c files: 48
+Commit d2cc4a7f9657ffd28006bcaa317dbdbcb9a855ce
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 95a74eff9d0a533d86cbb73ee54d89fc98c6a7e3
+	number of .c files: 48
+Commit 290a8b44f8ed1c117fd54000d58f05912066c63c
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit b291647878eb3eaa331cb34cab361788231de074
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit b10b91e1eefc22e368880c1b6297c0348d4d6c79
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 671cd24cef48c613dc5cb9b601812e329b7e0fd2
+	number of .c files: 48
+Commit 0ab5da04bbb087ef126bd99561847b8ec3ba4358
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 273fea080ac1d55137965c9cfc73adc5b86780dd
+	number of .c files: 48
+Commit 823a70f6390a1c504cd96c1837f882f275a28633
+	number of .c files: 48
+Commit b99295d4417362112cc432c6efcf07b04bc8b0ae
+	number of .c files: 48
+Commit 2932582d6210cc99619f09cd92f96f2f1644975d
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit fd7d9b8d9aaaaacfa0eafe668bff4404b8efa5e9
+	number of .c files: 42
+Commit b5d63f81c1a83fd4c50b769a96a04f581b7db70c
+	number of .c files: 42
+Commit 9e82474e3fc97ddb14812d434d3cb5710719e510
+	number of .c files: 48
+Commit 5a9322c56ed0cd16255966e99077843aae57ab3e
+	number of .c files: 42
+Commit 43d9550fcd2f9a2840a90788205627233e752995
+	number of .c files: 48
+Commit a11f5688748ecb49f590b3f4bc0e9b3458f9a56f
+	number of .c files: 42
+Commit d1b22192974a95207cba6d4e91843fab251c7a2e
+	number of .c files: 48
+Commit dab32431e6135801a542f5be158e002dc6cce56d
+	number of .c files: 48
+Commit d182f8c28358e15ccaabad046749c0665a19f80b
+	number of .c files: 42
+Commit d3eef28469d49f514a0b6e32888c85840a2b8d8f
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit a9dc850d06ecb6aa3b15c4afaadc4cc0300d794a
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 12e2badf739244dc97cad84a6fb1905ec3c4a76d
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit c600ffff330d9d44bf45e642e326d056c0dada78
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 6e623ec9d902f0b55f9d0d575751099415026833
+	number of .c files: 48
+Commit 2f1d5cc80ea2cf5f276f333f719b1442f08b24ed
+	number of .c files: 48
+Commit ad40a1d647bbb503ed06e7da540abf7725b8d859
+	number of .c files: 48
+Commit cea77ffd4c15040e2e677677f20347ea77d82407
+	number of .c files: 48
+Commit 6ca852cfaf08f35e018555762aff71db3c95c151
+	number of .c files: 42
+Commit eb7a950fc171f6b1022b3fb524cbeb9b6ab431a7
+	number of .c files: 48
+Commit cbd715bcc2b111875ea1a222401410dec27acf36
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 51533b59fb71332134e8a245790b2f891bb2a889
+	number of .c files: 42
+Commit 84909ead760abc92003c188a2aeec10c57d317f1
+	number of .c files: 48
+Commit 31eda0672dbe97ac48aacd517a4be2555755bd42
+	number of .c files: 48
+Commit c9f60ad112ad8e254880d78cd1e5d16da5c98c53
+	number of .c files: 48
+Commit 983b69e77ec83aa6214ad465bf6e9a1bb9c05dad
+	number of .c files: 48
+Commit b08fc595b03676b0da807498e034588e08030a99
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit dc2a53afb44cb083b64d3e6ef46a42d5ebabe4e0
+	number of .c files: 42
+Commit 90ab944e3adc2cc864c8d2986c60eb7261963f18
+	number of .c files: 42
+Commit 708d9110a103bd49437be7bff1e82697fff68d0b
+	number of .c files: 42
+Commit c0b40b8b634ff966a097598447317a9f7754a53a
+	number of .c files: 48
+Commit 25984fa1bdb72428c118524871cd9bd232c2785d
+	number of .c files: 42
+Commit fb2869fae2fa24ac36e54a33a4a7629d7dde91f3
+	number of .c files: 48
+Commit 4084a75441e44611aa457cc47b2435c78b2d3fc7
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit f3eb6e0ea59307fad49cb3450aa9806562004d21
+	number of .c files: 42
+Commit aa8c8091216f0349a756d0ab8eaec14bb49c5a2f
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit e08d1e797d9b72d6b60acfef5d5928178601a181
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 4936026c7da9d9b5626e5fefb7d7122888cf5f5e
+	number of .c files: 48
+Commit 8639345ae64a97a893bd19adc32138205dd4f2d9
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit d5ee5828d963e259185dac7c730a04d08ae59bb5
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 701bcd63d27ab7faa9edaedd8efc20c44e4d9552
+	number of .c files: 42
+Commit 591ac52e64b48f4959fd3c502590e6df7649f465
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 20b782fb194a23341f835bac6870f5d815c5e43b
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 44e4acb8b89a3d56d97bf4d6715dd2882bb414a7
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 3b69dd690a66bbbb5702e97d475924092fae80d6
+	number of .c files: 48
+Commit 4ccbb71ccf6b079fea6bc3bd1b99953d4b530241
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit f0654ce8bdc82092bf6fd8817f4419abf7d0703a
+	number of .c files: 42
+Commit 209a2a3810abcc345e44a9540937855415c69021
+	number of .c files: 48
+Commit c5533d6012c560f1f448c811fbd6f80252d3501b
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 18a645451194becb832bd1ff4fee1c1e9f3d0dc5
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 3f27086fab0d38bd838a8380a6df276d5702f313
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit fa6de61e031594f9276b6cb15fbef4a0b4d2c5a6
+	number of .c files: 42
+Commit 22a3299a200bcb660abb9d92ace6b88fcea43495
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit e79d7d09946ac0d28e978976cd6b399466f87308
+	number of .c files: 48
+Commit c358aa34c9d2789a561b5e2e0dbbdf804a82647c
+	number of .c files: 42
+Commit 26056aebf0acad6f2703cbf74f5efb1e2ac44831
+	number of .c files: 42
+Commit c8ab71ba63225f57d33b064d7fefb268ffc5ef0b
+	number of .c files: 48
+Commit 1c42ecb965be21f65a786833db4ea69dfb80875d
+	number of .c files: 48
+Commit d875edef19d0ab157b2f6408330bb1392fd38f60
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 66dcb4decb8ecfc7b0d2b1ea3a6d7abf9d223a5d
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 7351b625a696e3055ca68ad4cc89828d828043b7
+	number of .c files: 42
+Commit 969726d109c7e070218d7130869ddbc5ecbc49ce
+	number of .c files: 48
+Commit a148f6bffaaf58f02dacbc1a9d72e7cb424006b5
+	number of .c files: 42
+Commit e6c29b81fb7b8494cdb61f2ca2e1eec5ac78bfd4
+	number of .c files: 48
+Commit 77f5636d2afb23f6f04ffd02099bf55799bd05b2
+	number of .c files: 48
+Commit 494e8df1d8fc905837f7c99fba591a25175d1d9b
+	number of .c files: 42
+Commit a081d8200311e795c0793183dd3f4853d24626b2
+	number of .c files: 42
+Commit d9720c3062793ed95b998166f2040aea6cb1147c
+	number of .c files: 48
+Commit 1df910958f8e75126d273f06285a52493ebb331f
+	number of .c files: 42
+Commit 73e215a71e31fc65533cacb118e4e03edd9a2719
+	number of .c files: 48
+Commit 0c5724af62f6f0edece88d4c83bb02b54149e26a
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit c6bd92b56f792f4bd7e2df839f75d1f1fc4e4e94
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit a07f46a3b0f7e452d50690b831bb4c99fbc6650f
+	number of .c files: 42
+Commit 7c6209c69c7ad19e9025a63f3651544d9b122ef2
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit f49770a4b142e82a3cf1f5e1da158f69e0447972
+	number of .c files: 48
+Commit fc61ca9a9232f26ee3f714d4b8738d916f6948ff
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit c5552d3f757b00212e35eeafd033e1343f46b5ce
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 5b8a6e4ff8ce630cfd9357715413fd7b7fad7023
+	number of .c files: 48
+Commit 47f5e8c77d3138beb1087fccb0f76ab76273e4cb
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 136d76854c93a36491a0906e835490ad6927cf47
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit c2e6cf12b8b84d4b356ddcfa38e6c90fdd778ae2
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 6a0e2315b525f5e8ddee7174b58f3cf6233bba86
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit fdfc9a085752b4fc0c86e092df61e3b2b528252b
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit dcda782988eee6fccdd5f62b34d15113fe4a3aa0
+	number of .c files: 48
+Commit b766d4a73d1041f3206194d8caba91a90cb2a3b2
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 9c4102163228295b0263eec7f41518fd750d6f3c
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit bd93cb5ea735dc1c64e3b9e8fab6b202c71c19ad
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit d7f24614b0c2b2242fc77d5cde60207067757914
+	number of .c files: 48
+Commit 380d473fe97634320de1808c560b35fc7010f629
+	number of .c files: 48
+Commit 4ad86e70203403bd1c2afa5374bd31476952cad8
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit ed51f2b56ec81b924bbc172715458bbce682e863
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit d4683d51095c26071a0bc1518cd7512a1e6f6a82
+	number of .c files: 42
+Commit f599c01b5dbd50d07cd02e0b66601fe6009f3745
+	number of .c files: 48
+Commit 5c5ead0337f0d90be8fe58b09a63ef6527fd316c
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit a393dcdfe5a86e47fc324c6cb5977370e74df78c
+	number of .c files: 48
+Commit 16bb86ce1e1e6c36cc3082037220dfce9fdbcc92
+	number of .c files: 42
+Commit b9bed1e1c59dfae6c7c056f29dad0b4a04df418b
+	number of .c files: 48
+Commit d2786183f35efe33c2230c68c70b1a911e89f89e
+	number of .c files: 42
+Commit 7fc362a8a1a7be23492fca739bf11b61fb5899bb
+	number of .c files: 48
+Commit 971a78da13c6f9f458e627d9550bc81f95102182
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 1f18f0f44c25fb86b3a7e6166420a3453bb6d6b5
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 67ed2854ea61dbc5455971e96cb34668ac54c98b
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 50ede96f411448eb86f07ad61dac8f542bb60b0c
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 55cfbf2bbf4bff7ad77c514ba30c7c0a3a90bab3
+	number of .c files: 48
+Commit 6318b2d49b6ef8fe1c3c6ffec95af2c8fec3242a
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 728deee07cc2a68f5cf8c588ab7d1da66d1855c6
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 93e45837ebf5305c0d3abbe205c06123c21905d6
+	number of .c files: 48
+Commit 8411ed8b2f8edfb36999ba4a8bbc280d9f92c175
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit c00db59d64d0d6b92b80766bdf28c9d6f6081768
+	number of .c files: 48
+Commit 350f0fe5f9e631209d41fd80e7f2260b7d937c31
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 2f8422af65c44526e3d54d961be1134a5c225aac
+	number of .c files: 42
+Commit 2d2427b43afee15578810079d46b1ec417ca9a05
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit 6b060798705512b175e1a966c7b74c3cce3ecd10
+	number of .c files: 42
+Commit 27f8ded6264a451b987973a8e58a3a1cb8457a75
+	number of .c files: 42
+Commit 7f89aa92da768434429fa012c3f89dffd71b4f50
+	number of .c files: 48
+Commit 4530b05d69ffec46c8922e8f4baa3fed116ba6a4
+	number of .c files: 42
+Commit aae910bd6508544dbe8ac68e553fdfa506b9c6b8
+	number of .c files: 48
+Commit 220cec6ceb828ef0a20ee0e1e64b0e8b46ec33ad
+	number of .c files: 48
+Commit 38301c0dad27523f59d874759595944558ba022d
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 8955f497f3e91a935a100dc62a8eb92914546035
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 4f8931b4c7ea6aa7e453279857ee1425631510d2
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 2290424b31af8503c016657ce97cab00364d6205
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 4a7d8c455e5d756d3904032322d6e839217f111f
+	number of .c files: 48
+Commit 76997f0dc6744fd5dd145b89b9eb522f2697d0d5
+	number of .c files: 48
+Commit a945ee1cce7520f5b61ec8171d24fae389200b12
+	number of .c files: 48
+Commit 7493e7c978eeed560f14def57de148c5570ee206
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit de701185bf2928d70ce732ab03f04a4a031caaa9
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 7019a54c4e14232598cc5ee644c387ab8496a154
+	number of .c files: 48
+Commit 655b9bb897deba20b97441e73dd4306891262223
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit b08463cc4e7f47d3e9ca0f1da31883c6e8d4c460
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit a8c9c69eded0626379cb8a5ada76600225c88e6c
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 8deb0011b98ad8e61fe8047566608174190ae58a
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit db30e63c88aaacc55563381c70bb5ebb590d7919
+	number of .c files: 48
+Commit 2f7bb60591c4f34f3838bccad869cdb0539791df
+	number of .c files: 48
+Commit 1032c0bb24c89bc7d7591fa39aafbce778c433f9
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 18f64938e2977748db233e89352a27de420e973c
+	number of .c files: 48
+Commit 02d3f078bd2495b8db2264ae0b2c692b4c5ba1bd
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 30686d9a3e161cb2ed7f3ddf387888dafaabe148
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 548d95a5f95e2c39f898463f71e14295d0a919be
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 8bbdf3446fe34015f613024dc73d522899e20a0b
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 3c0ebfe07e24579a1dde7bb1fe7ac1adfbe19ae1
+	number of .c files: 48
+Commit 8a7c754a045485b322f435e6b39dd60a1cced2de
+	number of .c files: 48
+Commit 74f43813b1642b174b4fdc90f5b2b446617350b0
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 7366fc30990f4d9124c933c73f7a71ad19d06bc8
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 449a42de6c9a885b22220573f57d3ccdd64074f5
+	number of .c files: 48
+Commit a4bc22b22641a762f3dadd25dc92c20833414a60
+	number of .c files: 48
+Commit 035a4f25eb4d2a857c8c839ad6f67f7b75135322
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit a46807bfd2417b7788f6d3c2033f407abb3f7d62
+	number of .c files: 48
+Commit 10c116e37b6c2b4bd3a53f90119005750f33ca92
+	number of .c files: 48
+Commit 41238379813b77dd953f81e0727aeb9bf351c867
+	number of .c files: 48
+Commit f9fd1025f031c62f027f9311f6cec1f775729185
+	number of .c files: 48
+Commit 0220de9c8ebfb18caae2ac1aa163d060e98ceade
+	number of .c files: 48
+Commit 370e4bb92944ed0053b066bba1e4a073d8c0f723
+	number of .c files: 48
+Commit 94085e8a219c0015acc27fff99df16ee8ebe60c3
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 26b042a84c59299c5359b5552fd6801127aa1665
+	number of .c files: 48
+Commit 35b5c0fbae74189c18c80477bd074bb5c6e8071c
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 182c04e98c7528b6ddba7bc9451300654b1861ad
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit dbd4d67178926f05341211816d4fbb2dbe98023c
+	number of .c files: 48
+Commit 80f6ab9160507c88476adbddd05e893729a7bc0a
+	number of .c files: 48
+Commit 0184e4cce018c823d9afde72ad2c6282263e0b20
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 5a8f0e304eb34f5bdaa9286eca2c19637b4b9ea0
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 1e83d84469464c0d2ff36b69c6ecf48cd5b036af
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 5bbbd0e4ac6eecca8b152ac9b6f0410e714891f4
+	number of .c files: 48
+Commit b5294d87a7306f77c0e9ddf0f904d224ca99a752
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 14ea3b69801213eee7aaa0a64f7d0144d23f58a1
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 7859fbed83b6dabea633f10ea710b605fd03289f
+	number of .c files: 48
+Commit 93e330cabf1289d034d69989df1d2ee7eecadffe
+	number of .c files: 48
+Commit b2d6d53d7cbb303573ccce79ddfe74acad08c03f
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 711ffee721d5ac13c5aaa20e58b2dec4ddf43856
+	number of .c files: 48
+Commit e0e58bf30e46a7cb43299d50aecba6e758cbc372
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 4ba7308e959e63247f551feddd7b3152db4d9be0
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 9ef346e621589faec0fd11a020f184938f74d353
+	number of .c files: 48
+Commit 6c692f07c890f3aecb6242224c3b8dc8bc0d5a17
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit f37d14e9a7ff548d608f61e22a1f6de111681a23
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 58f9abf656936c96b46f227581d398e85dec52ff
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 4cad46e8ee0053144bb00919f0dadd20c1f87013
+	number of .c files: 48
+Commit b9b030311ca25eae1ffba98d0f28879e1326bebb
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit f74c76107933046309861680b741adc67ac2a34e
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 1d075b25ca367c020465504565488380b4de5402
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 4fdb9580fedac9669508bef0837f46f1e9310e24
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 737c96fabeab9d66407758b848468aa49190c946
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit a458a8e5e94859615376265548bf4c93d1f246c9
+	number of .c files: 48
+Commit f32a14a1e8cc8bf73a2d08f769bd8df303d591cf
+	number of .c files: 48
+Commit 25da80c2935646f22461d37fb1a768e742467ce3
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 631632852a0c6bdfe77ef04bd8d675f0295c035f
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 3f2c71bde90f8b2130a9834335523ec59e885759
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 08824da740278bb89b3ccad01b671219e746fec7
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit e8b42dce3bb621652d2e80f72d899e44af726240
+	number of .c files: 48
+Commit 1eef4547400f2ba0c49db4a47e0413612b81cc43
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 60dda13ad18533ea8da0b832e9d6c4a8f04dfc1c
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit f8ea6df7f1027ecb422f2719f26ff52422207a64
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 482c5c240893b4b212a729e1129f758ab6e7772f
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit d465b6fab0ccfacf3c73780e42984a3d47b46359
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 5a8efdfedb038f8b0b081ac652b88c45abc6ea22
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 9daa0bac8744e82b2a57098aa815f3351a7a709e
+	number of .c files: 48
+Commit 096d33b857115f7dbf40eff50bbe14cc85f4a6d2
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 2254797f1c5cfb83c4272da7b138f7f47218eb7d
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 38670b4a11703b10bfa743c490cd5a004507f41e
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 801822485f3f7e0282c7ff4756c1370c7139a184
+	number of .c files: 48
+Commit 71e4954a7ae8f5be75f0c925d6f1fe7543581d0f
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit c1104e2fe74472b514235fa523c67e767b2a5c0f
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 5d8ba5552951dc0d889f7bbf068b54cb797bb2fc
+	number of .c files: 48
+Commit 48b353ba8513750e9ebb09659ffa0453bbf5af6c
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 7fcc18aac5751bb881926b64ae2304490a2f3049
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit b76d92e57756b9b6903964b497d91c4f4e83d812
+	number of .c files: 48
+Commit 5b98f00bac45d2bbed1c1830a447c4cfc12c2fd9
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 9485354a5542f901dbca9f96930d036bdbdaaf8b
+	number of .c files: 48
+Commit 3cd290992a1ef8517455da1dd84b0558668b9be0
+	number of .c files: 48
+Commit 66cba4acb9156c43f958af956aa1dd221f61b480
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 5bca61de7c0e36da930da877c22de8db7faa3bd7
+	number of .c files: 48
+Commit ef98f60b40b5ac10af7b1d020c1d524f1be643be
+	number of .c files: 48
+Commit 07a529dfeb452cf6bb77b5a317539eeda54b40fd
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit f93d2399ce319e60ff4bb9aa1b7ae4244fb506ef
+	number of .c files: 48
+Commit 9601eb581b0e4ec014d122dd13acdad352aa270b
+	number of .c files: 48
+Commit a0db899220bd9aa80c36602988306da5688f0637
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 219783844c63d37c26f771c1471f3fe2943f9a88
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 2150b1521c2c4cea6b207c57ff2ea13edc71c0c9
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit e49066d1a1d4db3132a5274fe719cf967ef7d747
+	number of .c files: 48
+Commit 1a4d49086b27821c7357db5a86ff9a4f88d99edd
+	number of .c files: 48
+Commit 89aa39f394e0fa4935e6cadd7184e372a37f9506
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 3a9df36b9a63b8580089cbf03ec32587891fad3d
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit b05fe448c8c99b91fd23b7fe9f6fe46ac76b36e0
+	number of .c files: 48
+Commit db7182e1cc482a7f046032bf949416fb3cb0e24b
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit b0f4e626137c78a60498fd3236bca89f02545157
+	number of .c files: 48
+Commit 316cdda7572501e4fcef09155de82f6e9ddf6786
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit c6f75bfb6d19d54b5be62bc0c3875cc5f0f37e92
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit fdf11ff37f364a05e3d399959412c19f653854b8
+	number of .c files: 48
+Commit a61d0f24292f94a51e0f271cc184416e3d4a979b
+	number of .c files: 48
+Commit ba39741ab39d1733776700b78c2e522009baca18
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 8ef5d30ab82a8287aab1ff216cfc94118cbec896
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit a7ab503f07e31ebeaaec34fbaa30e264308a299d
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 0fb55c564f1e03424c6352374388d93686683d64
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 3fbd20042187f29cf19282f3afb46c56db4155a3
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit c91de3ebd803e30f1bb6c3d29b7ff9875e8dfc22
+	number of .c files: 48
+Commit dbbe87e57edfb7c977c4074d238327ff6bad327d
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 9a19d4b7db72f9644fb46f072f0361fd21a149fd
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 5459b15a58ed88f20c18562c557ea6febc9e7cf8
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 089512a0ae688182b95672dfdae44045ee06ffb3
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 5bd71dd04d0d5e98405a8dca05262824bef4bf6e
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 396df7efdf26a60084d2dbc2082be5dbdd7370d0
+	number of .c files: 48
+Commit 661d5a1d2ed5f7919072bf84eee8098f7349a34e
+	number of .c files: 48
+Commit 4b40229931a4e3f302f0f1114f0e7ecba8c43d99
+	number of .c files: 48
+Commit a66babf261e6aeacb3e3eb332d879f5f4f6bcfe1
+	number of .c files: 48
+Commit 5dc1bd5f5d49950911223bce4b8192ea1042cf19
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 18ce49909a1d5785514d3e7336ae2c397da3ca96
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit b86784902d28defd5e475c8922de594787df4541
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 9612954e19099c7e741ee56f2cb5f763b26601e0
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 3049c10b13eb9389d799ef161a47dcd9bd24f34b
+	number of .c files: 48
+Commit 020045d73ccf9b16656837027efab409d9de435d
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 4ee9c904a45fbf08ab5a144e6948b6af690d18de
+	number of .c files: 48
+Commit c2ade51e84fb2eca97be900f1b81624ffe650233
+	number of .c files: 48
+Commit 1b94fdac0e5d9301124ba03f7300ccab212803b7
+	number of .c files: 48
+Commit b4d227af6e6e5e2dc14bc6765f328da5d5b97ded
+	number of .c files: 48
+Commit 241d50ccf1fc9f63f17a15c38265bfa7686fac24
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 6ffb6773648b420a949964f49795e627fdc597eb
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit bcabf3e0334327319361daa794e53c476ae1dc4f
+	number of .c files: 48
+Commit bdcfd5ebf79f4be22ea11ee8edea4756d74b6687
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit f2f65c6a585e5aebf825181826309588201638e2
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 361d9ad46d3276148f5b64654bb775205b728318
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 3a37417ff33eb75534414124cc9432f9a9ab2ef1
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 477cafffe8884cd0d33cb9170071e937456042a9
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit e65cd9ccf4aa6ca1dd4750baffef1bfa956f22e1
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 1fffcd04441a598683e45d649756a7105c9a2bbc
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 5e31247ebe30b4a74053e0dfda834689e42abf91
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit bc10a51bdb6596bde91980caa7fa2a9b62f7513b
+	number of .c files: 48
+Commit d2c6751b27c808a878ab7a7ec6c9acb00b437e8c
+	number of .c files: 48
+Commit ec41946803b604706e1371c65b15be372373da7e
+	number of .c files: 48
+Commit 597a256957a13fc68e2c43a834e5f0733f641389
+	number of .c files: 48
+Commit a21da6fff6e7f796c42b1a6f784d42945395025b
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit c33cd219f85449078034ff75b54fd499549cf4e4
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit acc96bc62bf19d8ae827b59307b922de40d11550
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 268efb4a4b1cc564814d59ca837ebeb4685ae47c
+	number of .c files: 48
+Commit fac58f64f51bffb20da809ecda80ccd12f9597ed
+	number of .c files: 48
+Commit 6fa07483c5d11a35d49de26b724b7528073ab95e
+	number of .c files: 48
+Commit d4f3ac7acd43d1440a3f3c4925c193f0fe91facd
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 6c3861e50d03123d563561dd517c4e25db695c81
+	number of .c files: 48
+Commit c39051e6a4f6cc39d48f06b30fc98be709d25a51
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 4e082d8e8c518ef25286ef508e53e542e6907831
+	number of .c files: 48
+Commit 7c1ecbe916b0b41fac808b2287401d6ecddc9192
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit b91cc44e35775c2a1a69b61f5890245eb6586986
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 5755f6a4b8bd479d2b8723c2f3e43db585429641
+	number of .c files: 48
+Commit 47e62da0604e737fc77db60f3355a7be08f2c73a
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 93653699ab3481494c0bd306f6a81515e4689d9e
+	number of .c files: 48
+Commit 60178b7a8eb8d03b364afb2fb8bd6753924cd9b7
+	number of .c files: 48
+Commit ce9c3023796eea89d5d386c2ae22a33ae7db0a90
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit a9306d2d2d0b3820b196d9de9187176f17510b9f
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 1cfdf735de66a67b6eb62b47545b0e9427bd0b35
+	number of .c files: 48
+Commit f6dfd815f7eae4e12c83ee4a9159333425782fe1
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 65ceb6de966d29352c48cfb6073f96ed4c7b7c11
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 23a462b67a69be3c0cd6260c76723a2f2d09b188
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit c7e028904b1963cbfebe9f9a42955d4fafa8c7a5
+	number of .c files: 48
+Commit 608ac701fd19155343850c58c3d97efa5983e0cf
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 6f695c8e1bde5a5c9106044f54c713f132b0fdca
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 424d3ae1fb73444c6c38bf189f8fc048f66d6499
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 4b409f9c0def9110098462243cea546335ff3e00
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 9bfc21b24ef4e5657c9e1b94854ac0d77f0039f1
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 8c8d5810d57f52f3a5e7ab7815e30ce2384654f7
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 58d67cbd7dbd80daadb7082749f52c468322bc1f
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 5af36c155aabff81e49d7050afec8e8c60f413e0
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 0a3534db3e337e53c551648edce4543709db541f
+	number of .c files: 48
+Commit b4afe01320f850117d6c8d437b7195b579e0a816
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 21e2652c62762e5c9a017ea1523f6cfb3f1bcf7d
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 49c9f13e6f825460218d6c54f3878215c0e54e4d
+	number of .c files: 42
+Commit 34077dfef28442942d8eb7c474c6e69153a229e7
+	number of .c files: 42
+	ASTs: 35/42 83.33333%
+Commit c6d37e017f614880714b0caa8f431b644a1bf9a7
+	number of .c files: 48
+Commit 5dadfc9352fd80006a81d648ab504f128e365d8d
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit c76999152f57f8fe250abefe94acf7a9589cb1cd
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 4a8b98b4462c613442a5debf6c6f6b38365a149a
+	number of .c files: 48
+Commit a21800173c6d981a3b2d40c57934335a0b08f69f
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 01e65c63d2d41a84f6e3df3acdf61725e18bd2f6
+	number of .c files: 48
+Commit 203d5e5c488a5dbda344d399de19f3c76dd95177
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit ad2f6c0f2b6ef1ef4361df0a81c5ceb670d72ce6
+	number of .c files: 48
+Commit ab197641d99422b3bd544115008904c74fa21db8
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 9cf8a05f4e4daf73562344ec7d145cc7cd9059e2
+	number of .c files: 48
+Commit d741c4cdba9708cabf8531c6321dc993a8443f8a
+	number of .c files: 42
+Commit 51158c7cef0fb9ac55e49cf084c6a07c00bc106d
+	number of .c files: 42
+Commit 84954f7feea8a1daf31a48e2abc70ce359fb8ae1
+	number of .c files: 42
+Commit 32b3dcfdf3d8e67c14070f53d1fd46ffdbeb575e
+	number of .c files: 42
+Commit d1217dd70c847f95cef67e8b29e2bd7787ba8ace
+	number of .c files: 48
+Commit 238430fb35f2f8ab1eeea9c6d4c3b211da49ca19
+	number of .c files: 48
+Commit d49225ce1bab129c3bbe29d80d7033bb79118439
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit b704f6e8be6761f455149b2a9a26192287953266
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 22d2fda3afcbddd91675c5d3abc390685d8102de
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 2d006aeb72e62e5ccb78cd0a2c7be77748c8546e
+	number of .c files: 48
+Commit 5d33f1512798dfc2feb5c7f89f56d471ced70c48
+	number of .c files: 48
+Commit 1f5a9697b124120eaebaef8c7543c7a870c8cb9d
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 43c35e8bb05e6b4f42ad821515b32e3b402e472b
+	number of .c files: 48
+Commit 92a3ad68f1109bd6c97f27b4b85209e7c58b7e6f
+	number of .c files: 48
+Commit e76ba34175546c1f4bb512233df7110ba2d241f8
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 7899edd41c7d4943604ef56c0bcecfa81e10abb1
+	number of .c files: 48
+Commit 9c65c408580c78b9e1020f61fb465eb454f35304
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 221d05c96af7d39c2cc1906701f233103ad11881
+	number of .c files: 48
+Commit cdfc2ed9f971dbbf37002a5bf9f510a2dcffa047
+	number of .c files: 48
+Commit 41179c0d171eaa5735d86557fe8598680e101b35
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 97caf7d45865c9dad32932af89d7826bf42764c2
+	number of .c files: 48
+Commit d65d770d5905ad92668f61f43729ef0bc274212e
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 8f16e8d3283b2d0becdaa655b20dfa18234c04f7
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 5fdb77458a0d34a4d24e2ca82138197bcd083685
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 0769ea3630efd6315303f7325fc16d73a0ef1a4d
+	number of .c files: 48
+Commit e204e0f3002d6b93890f45d2bb639c45c26099b2
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit ec78b38c3733c6565ae0d96ee7add01e3c49d602
+	number of .c files: 48
+Commit 5908e656ef2a6493b42159acff4b1f490016d055
+	number of .c files: 48
+Commit c63068624e59a2c3bb03aca90d5a4233cff0631c
+	number of .c files: 48
+Commit 7d2751123e34481ac83f8020dc783b60cef0d948
+	number of .c files: 48
+Commit b9524d1958db93f253b9dc58a59d638869c016a9
+	number of .c files: 48
+Commit fc5406bf2ef214a0a629567e40c20589f3d6bb12
+	number of .c files: 48
+Commit 421aafde2c0dddd303fdd79a56ad02bb4e6e9b92
+	number of .c files: 48
+Commit 9f27c98f438e5801c8cc8d99743ab78d1a8c4b86
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 5fcf3aa6c30d147d36376ad190c243653538671f
+	number of .c files: 48
+Commit 09fb1846147cc23b42f412aeaeb5480e0671c943
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit d8969a9c59a36f156379a703d0a44cf579bdfaa4
+	number of .c files: 48
+Commit 8de25855ed88fe8cde9a689bd2872eda3d7303e0
+	number of .c files: 48
+Commit c0875cf2dae56f66076ee01e0ca6e723ba999199
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit 05ffa3d1b9f532d79f922facf8b2e107ecd7c45c
+	number of .c files: 48
+Commit 1c88c7627b612c88d8d78d1b14ed747ca70ed059
+	number of .c files: 48
+	ASTs: 35/48 72.91667%
+Commit d0bc9d278daadce2c63018d60d29f1fc2a25803c
+	number of .c files: 48
+Commit 9052c3450ce5903ffc9fe3218fad27451416d3dc
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 3c6eee543e8bbd2a567485c9b25e2801103488ea
+	number of .c files: 48
+Commit e527cccb63339aa955c99eed3b8cc55c464ed993
+	number of .c files: 48
+Commit 48e33b2e4116888aa539132182081df7dc8e81b8
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit b81df8bfa5fb55a495333e146272dc4053b2a30d
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit bbce74418d5bd74cca9e6c7eec4132ccdddd32d6
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit e45c58268de6140b9af4d1af53f7a96c286aeed0
+	number of .c files: 48
+Commit 1be74015e3970d4679beab8b8beb808bde6ff4c6
+	number of .c files: 48
+Commit 3998afd0651c9440a8b203c24d26a7d4bcb0d77f
+	number of .c files: 48
+Commit ddf5ca4d59f2e0ccbc85b53b3692d9a0f34b5f6b
+	number of .c files: 48
+Commit 49e4ab3f4c530def91d1ff7d032002ffba4e92fc
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit b065c326dcc85c22b941fea489ffbb814ebd9ad6
+	number of .c files: 48
+Commit d16cb58c65e56754189d2ee15b9aa51056b0dca8
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 3f41319d8e457010106b2f87b123fe3beb302183
+	number of .c files: 48
+Commit d2cf8765aaef9271693e68ecbf26b2ddb2c24d7c
+	number of .c files: 48
+Commit 98ceb081f08a7e43b484a73eb8b41666571adcb5
+	number of .c files: 48
+Commit 5f8c40df07a2bb8169b4b43a6a301dc1047e4003
+	number of .c files: 48
+Commit c37535285327fb0357e08a6ba9c39c4861ee8dea
+	number of .c files: 48
+Commit 74f7121e8e37ec601e79cf25f3142db8fb7e3fa0
+	number of .c files: 48
+Commit 520f84223f0321caea38e97a1167636158d6654c
+	number of .c files: 48
+Commit 0311910ed537e8d751a1dea5132f89e790372cdf
+	number of .c files: 48
+Commit 50388373dcb4d4fdc0329cb706baace73eb4dca4
+	number of .c files: 48
+Commit 5afd456829563fe7e8bf48df3e659f7c7d535a8e
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit eb3148ca25cb90ef74570c8503d91dc1fe30904d
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 6d9cb3dfdd91cd046a029a2fb01b6155934f0bee
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit d1f65fdc805c7e4154f004718756df7500ada821
+	number of .c files: 48
+Commit 86c8b0558953e8b7175ca63740d6895e8076f298
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit b065a5e61b76f2cec0d623af6661cf0d43f63ef5
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 00ef3fe0c1cb472037a29a3c9129e2eb13dd5cf2
+	number of .c files: 48
+Commit a8ca6ad32c338cf145826e8091c5e3aeeb7f538a
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 0e5ad447c074366d78a5dc6137c63d91a030510d
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit a4946e771ea20790bbb97d4292700eccc1804f91
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 05f638945942bd03a3de30bdafefecb9988d575e
+	number of .c files: 48
+Commit f731bd4a9f528cb3b260bb47297386a1f184b2ea
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit d68445735d40cb887132ab4dbe57ce54f233891c
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 16eb261cde99571dc9a9fc28f53a2c2380716ba2
+	number of .c files: 48
+Commit 9e6f272d5305f43268a2582459562e50bc45a184
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 35d65fe3a2f4f22bceec8d6baf0d718729eface6
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 87e5aa1257dc572b7154a9f7f642b57b85205f38
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 5aee4b90dc0e5210724bd2bb6d1cabdef6d62393
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 2a2cf41be8a1a5ac0220536722ae523acd110e99
+	number of .c files: 48
+Commit b5e89195bfabb1e3ffcdb65dfc2e86426990b7cc
+	number of .c files: 48
+Commit c43fb3a20ded5630f9be430ee6157fdde5570af2
+	number of .c files: 48
+Commit 5da046aadf4250c86d9c5b63321c51ddb7cf433a
+	number of .c files: 48
+Commit a845892cea5bfcf0c4a2d29116394643db826134
+	number of .c files: 48
+Commit 5a25c489fb5bb00ae94899af7434e1637fb87381
+	number of .c files: 48
+Commit 026ba6b9fdbeb3ab57d9eb424025a0a0850baae6
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit de911861b060faa990f3005baf70afe5eb9662a1
+	number of .c files: 48
+Commit ec7329d3d01f9bfe6aeb9c19562685f96ba0c763
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 697edc22a691d8d40c2fd0d3ad35f024ea4d0d64
+	number of .c files: 48
+Commit 3df783673c60714dba52a8517e9a125b6e27cfb3
+	number of .c files: 48
+Commit 98d4e17737337af503b34417a56a16d0ab7d3c19
+	number of .c files: 48
+Commit 31c67cbc734f784c0d3704adf591a66e6e35ab14
+	number of .c files: 48
+Commit 7988efc06a8cefdec02913f7b75e6e199df9cee4
+	number of .c files: 48
+Commit fe42d6f7b739e8d42811bf46bcccfafa728847a2
+	number of .c files: 48
+Commit 2d58a3fc9bc3a447d2efbf9c86cb7e6b25e445c0
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 4f8e4c99ac95332712af9e14803e400689a05fce
+	number of .c files: 48
+Commit 00758023f961bb9a1650e08a34a182f814dae3d0
+	number of .c files: 48
+Commit 9cffdc692054fd0b3434d851aaefacf7e207efc5
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 128eb7f51d3ca7aa5e95f70b560f234d3f674d4d
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 3ba2ca78f9bad5b432b3ebe7095bd8bffbdf8a30
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit ad8f790052c0ae97c6f5fd669fad7a0a0594b7b7
+	number of .c files: 48
+Commit e07daecbd4eab1c74726202e4bd0405f60fe354d
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 3b6f1d327385660804bcda09c438d1c14f757706
+	number of .c files: 48
+Commit 0b71f686852963f7c9a9e01c6eeb20ab413d9002
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 1fbfa027d4488d13c5c781e1f8a93647fa83c9e0
+	number of .c files: 48
+Commit a0d666a9e1de7497331a4027c80e9b1fb40fafcf
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 8fcc95af21c0c6dacaa032d89c862e86504063ad
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit e77359b432e1971ec7ad393e21a7f8d55eedb3f5
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit f253566db9d327bd51dfa648b7a3c5a4c88eac60
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 66b96f6328f96408fdc5fa6c2a08430246df8e8c
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 40f8eeec1c50020473b53b63ff3a2a934f48fb80
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit c2b4409fd8a7569485d030dcbfe13ae7cdc199d4
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 999f0edb9acb7f24994933a0362c6a451262df8f
+	number of .c files: 48
+Commit 767f89f180464b56da442eac5b22258ae2dc2935
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 8008f8658255aaea2eedacd3d93738548a99c29a
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 820da31cb3720a3f61a335feb42e39d5f9b7fafc
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 0d29ddf3a5db2edc9dbe2018b912e27ef850eae3
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit ee69e824d7783e7671ec75db0217debfa7a840b9
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit b6d7cf55028c4e23778fb02595e7d1ee6596a5a8
+	number of .c files: 48
+Commit fb005e8f90d66402741c337d9c5c9c5a1c48fc76
+	number of .c files: 48
+Commit 55353dfd7f088e9f7d4c4029d18de6ca68ef9aad
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 25b706994e3b84533f8eebb21cebe8dbbe88a76a
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 0a212624b4cf18e26a3d3b7a973ece8f76b0c171
+	number of .c files: 48
+Commit 01bca2c299b61ea741936e00711771c1e28d0ad0
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 984f4e183d72bba7dddadcc84f5f3287ce65aa5f
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit d21e1d2877757cf8224f8d476bacb2cf7442ee93
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit bcf3e546a495d4e47695900ec5477c0957eeb42a
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit a0ae82e757853a2e775396d263fad181460503e3
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit a5fbb0fbafaa6f4a6cc19aec5e0947edceca9596
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 7cad4ac5b8630c070f6e9a4909a5ee455807c94d
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 836fd687de8907ed03fa60dfb1dc9d3cf77fb608
+	number of .c files: 48
+Commit 0b18af47f602757e27c08297eb88d4ed63b9e30e
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit ab6aff3c35ba624747bbbb997d07edcc2544673c
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit ee6248635a6398b4c78047cf5f4df4570c2d50d3
+	number of .c files: 48
+Commit 068fcc06ad1ebb26d4044d6a1ca5a2c5fb8531ab
+	number of .c files: 48
+Commit 03a296baf6834c8934addc92691cd86cf8655381
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit f1ac8e7dd2f818a6d29d5f38e944cac93288ee80
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 62128c135427193ba09f84508bce039231d88c67
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit c4f2568607d77b753102e340dba6a3b4eb899046
+	number of .c files: 48
+Commit 8bc52278588631c443ffe93c3903dc62aaaf3a9c
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 19ea3b5657c27fc05a4756ee3f095ee6020256de
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 06b49fcd1de3fef7e9f75055f0d85b517bf01e5f
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 7711f3b632bda43b73d83c6f97b7ff806c8cba20
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit c8bd6e7eab18ed961ab02ab96bcd84edad7203e1
+	number of .c files: 48
+Commit 9231aa6fb29b9ccef0ec9fb307e21a3ed1070389
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 8b796bdb33d62b2d987c5ba5e8cd15700661dcdd
+	number of .c files: 48
+Commit 9483b7331c7f1121f56025139e44e3dce846cbbc
+	number of .c files: 48
+Commit e3b285f981c18bde0a077c3f36d74fbe3dfdfc7e
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit b8aeb9826fcbf4627df8c0d9a9b110c4523ea0f1
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit d6f506433bb7d4556fe0cf76b93e1501e5cd724d
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 432d1ca6a6aa51f708124172169073c399fb68d2
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 970fe32156ecd62d2c9f1f717ae1ef34b0ffa950
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 5f6b6ffd754aabfe08db37ef74e78ee759150ba8
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 9a3053a8ee8beaba78c288320365ab0a8b23aa40
+	number of .c files: 48
+Commit aa16483c4792a030646b36ce3edd5c5dd935c919
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 0ffb141fdc904f3005156cc8e71dd48eeab7c970
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 13341d006f4c8086d7d01cce96d48c8202d0c0aa
+	number of .c files: 48
+Commit de0cdafa904e6a61eff7eabc9a1adef60405634e
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit b77a760d4aefc582e6c54c3624ba9d86e85cf97d
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 1ba818649ad64ce35dc6f0c66c63323914d875a9
+	number of .c files: 48
+Commit d67c7e638a9a9ce141c221f14bea3e983ceedf24
+	number of .c files: 48
+Commit c5effc8a5c33b1c6769f5def538489a4a0fe1a5b
+	number of .c files: 48
+Commit 855c9760a477f6490e08370a01462a824997865d
+	number of .c files: 48
+Commit ec1f03092db27088b80fac05021a09cabde82394
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit dda30935576fd868b9b45119face6a05b3327c2d
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 81d295156d2412875e8dc0a62f47bb972ed5973f
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit cf4c4bc053740aa4d9526b1efef65245f9852ed2
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit c85a64283f8c2ebbe6e01f608fafdd28d833f776
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit e4e87aa7ef0c1a7ccbdb47041acf49cefa08d216
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit a8718432f7d81a92a2be6a5df0720f6a24438908
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit c4d1062eb23234fcacc07b75404f0ebf244f5173
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit b313a68664474579e702ab6392ea96ee66d2226f
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 4aabc104ee3d8d67448081123f9000425a1756dc
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit ae15b5da01bcd34a6faa98e9a6015e31038a4e3a
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 7ebe5fe95905c6ea8642a78a164063fa23f7ab74
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit ef05b88a3b9b549788fa86f56ab5b75925eb2fb7
+	number of .c files: 48
+Commit 10dcf86d757b1af7338f87b6a48363339780aef5
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit d7712b3d22ac5f6e76784bbfe8e6c08d281c7bcd
+	number of .c files: 48
+Commit 3c551395b307e63cd663099c8cf0eef8137efbf2
+	number of .c files: 48
+Commit 689b39baab610d4cd0c7108a7905e760e4f046f9
+	number of .c files: 48
+Commit 04c6075580d2c42f5a6b83687c25a40d66cb5963
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit c12dd9228c852ba95c20df834fe6013a71c0acaf
+	number of .c files: 48
+Commit e53191d60e6d6bf90fac4753152b10ef4386938d
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 833af90905e63d1166f364ac5feebf3b75d8777e
+	number of .c files: 48
+Commit d27d74d4702a2c5f466daf86e34f659879559645
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 8b11d855bed15e496763a1bd8e9b6b50e1ce9c1e
+	number of .c files: 48
+Commit 7784c4228726a55cca043800ce45266d3301584d
+	number of .c files: 48
+Commit ab7407f765371ad3188d517d035d12c986ae0347
+	number of .c files: 48
+Commit f5c4b9428cd67594d0d85729aaa5f760ff02752c
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 4eabd959d20254cd1548a0f53660251d55c6db43
+	number of .c files: 48
+Commit 2991037bf6163fa086628f3e06c13f4cded93fc2
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 3c448a4566db97676b2de1f7a270d3f8daad013b
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 3f96ae31e61e2cee64fba2bf58a424f4a51abafe
+	number of .c files: 48
+Commit da4fa01e97938fd969fbe0cf616fdaeccd87d6f3
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit e7899cec59193c9d7fc7c1d96d250433d130eaf6
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 6ef0357e066bbe05e76a10164ae268fffbabeb94
+	number of .c files: 48
+Commit f2e50e0448bf8c9a38b2d8e81dfe9375def20668
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit fac1597a7abbac7046926bc75dadcfa275aec01a
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit c9d9966c7dedfb00ac139170c6d1cce7d198ca31
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 97e642a4d61d645a78cd72463b0e1aa9d72278ee
+	number of .c files: 48
+Commit 33ff1e535b05215b595b543f0d5736a979b8d1f9
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 8c41d61a93ff5b8f8302471c67ab89b1c482ae4e
+	number of .c files: 48
+Commit 464ba863e7d6489a06951d899cef46acae82867b
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit d03c016505934a0b51bf0d3041b3e3f7c05e90ca
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 8ec5a575ba2251248b1d4aab3de9cc25450efa13
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 14f77b6bf2feec6b70087c5abecc6890434ee5a8
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 657aea7ba16d592df2ff56c1aa0154693c944f46
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 1e622b74e1e16c3139aa602b68a2b94d313b3dd2
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 51d169e48df1dc6a9407c18eb7b23650065a4f5e
+	number of .c files: 48
+Commit 2f9ee0cf5efbb5674ebd000acb3e9f2e7d8e750d
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 2ca735dbfbc335e3e7ef97137560929bac1f9cb0
+	number of .c files: 48
+Commit 9f766b417b84560ac18504df51ac94564dc8ac31
+	number of .c files: 48
+Commit 21fde06e0840ec0c1b3270731ac0c9a896b7a92b
+	number of .c files: 48
+Commit 2b045cbccd40b78c8a7db0be05e21f4db77cebe6
+	number of .c files: 48
+Commit 958c4c26fb2ae3e318a4c850f82ef7035e970fe8
+	number of .c files: 48
+Commit 26ca6f7e1e2f0a7dab7f057b55947458ab67d846
+	number of .c files: 48
+Commit a1cd6b0042ee83c71fc2b3403804fdf4e36af135
+	number of .c files: 48
+Commit 01b3e339e120ddddf6c6e1f4f135209005f0215b
+	number of .c files: 48
+Commit 5a69b04af36dcc035b9434885681bae15bacdc8e
+	number of .c files: 48
+Commit c910f83b8201e5d57f58ee8e1b07a955517fc858
+	number of .c files: 48
+Commit 398ca01ce8a8cd720cdc9554b7178535e26d9fce
+	number of .c files: 48
+Commit c6b894921f79d4197148edfab55cdc98f30a3409
+	number of .c files: 48
+Commit 410f41332e1c232de74b816b078da9812a2e3024
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 7a67b2a9b20a3934b0248026fb4d78bc3815be33
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 313e6f4c7b28ddff49bfaa406d8aa5ab55737bc6
+	number of .c files: 48
+Commit 00bceb3661a405f62925daf81a8d15099acab650
+	number of .c files: 48
+Commit 992f06b81a103d9e798efd620588322138816395
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit b3adfad868b5ae8b6197fec16f3daeee8cc192b0
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit ec5c5c93213e837256ef8537a1fcbb651ca4578a
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 13db1e5d366bbad2939745a15bfc663badeea4a1
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 01e51695e34e0a8ba1d34b08980cc0c0a63362f1
+	number of .c files: 48
+Commit 1fbb9be608dab1771eb7cd9bd62393b7cc87f45a
+	number of .c files: 48
+Commit e7906f4682f4a56e1cfca7581845a7e0b5b7ce65
+	number of .c files: 48
+Commit 267a881067bebe8dbc718dc72554c55e4a348c68
+	number of .c files: 48
+Commit 8759215697ddec778b272b4d033484f591bd2f9f
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit f58741b57ddd6024c765f5d7ef1eb62f3e8030a3
+	number of .c files: 48
+Commit 148bdc7a4f8b3ec6fbb6c1871652f41df569f0e7
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 79f26d973573cd9ee344afa38c4c860b11bda79b
+	number of .c files: 48
+Commit efc76367d1b67ada014e753b4b107e9c977222f7
+	number of .c files: 48
+Commit 1cde23924b132b95f8ee7ba9328f5e2b21acaa5f
+	number of .c files: 48
+Commit c76dbff81d670c851f41b8e71d448e9757adfd34
+	number of .c files: 48
+Commit 76a9959f3d3e17acd9f344e416ed6929d303083f
+	number of .c files: 48
+Commit 338bfc6e91722b01f691bea584e73f6b70234c96
+	number of .c files: 48
+Commit 53cee1a5b991044b24b5740b3de7eec547a72a50
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 09542b00044ede785a5ebe847d2a19ad99f964ab
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 316b966bd0eb15f41201d05cc1dc5a3d03389bb4
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 9c051cc60a13a70e0ddbd278662cd2ad37a18184
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 6c2a7802580cb523aa2f8e20455964aaa24982fd
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit e93212ca5e5abb883ef3561864e39e61d7805337
+	number of .c files: 48
+Commit 3c9c62fdca65c2e93014b3637dc73fa2b08a0e3f
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 4ac5c1892361894dd879b763453a9e7dc31858d3
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit ddb73c654c97cfdce4d947f650edb8f85a7e8479
+	number of .c files: 48
+Commit 67fdd3b53c19476d33a9f74acdf02046293437ab
+	number of .c files: 48
+Commit a5b2c09dc01aff31ca64a81f3615ceaf7d2c159a
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 3ad3924dd88d522682aec8204e323c061c307148
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 4aa357782e48626c4c604c680d4bd83324d1ea41
+	number of .c files: 48
+Commit 1701be7b951b697252ee2c55aeb8da908ed8ae1e
+	number of .c files: 48
+Commit b60c0340250d34f9aacb0dfef48947e154e7df13
+	number of .c files: 48
+Commit c40d823e57464b4472da87897fa47060a6344292
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 25c0a5fa638cf577916df04afc2a9c32acc8761d
+	number of .c files: 48
+Commit 5abab09d43a50bea8d5644fbc2fac0ddd3d100ea
+	number of .c files: 48
+Commit aa7ef67ba0d073fe440beacdbb0c48feafb33ade
+	number of .c files: 48
+Commit d653cfae233a79cd29b9f231cced0d95f5692fab
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit a2280c55ce5575bce48b3699b075f0c6b074bb6a
+	number of .c files: 48
+Commit 822a991bccf9153123f8488978f9783fe2d51626
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 418c419c6bcd6e43eeed2eae5b861441192ebc9e
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit cba1ea3f8c1517fa61a23837678e2b9d8befb34d
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 7fd3a3ac9250d993e5dffef44d4f01d691e4e343
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 3b4f2cc8efac86bbb43bba541a441ff8a6cd6416
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 27cac6ff668d8a38ad08bd9e29320f2240024902
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 8f0b477baa0e0db965798d86ea7f1c66658fb385
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 018c74e3f598abbbc4787dd45e30c2d1b2ddac35
+	number of .c files: 48
+Commit 552840bdba18411e9b2d680627c7335f932bf1ca
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit fbbcd9470867da65b8e7acca88199467c859de78
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit f351b2a03c5e979f49126e22b9e5fa7a58a4a34b
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 79d87b6a97b6350266e1370f75bd4730c7a8aa98
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 7c73f2a20ed1d9fcea65521fd38d31b3b5f9c02e
+	number of .c files: 48
+Commit 9f440b6cc0382a3358a27793d80996ebe5244268
+	number of .c files: 48
+Commit 82010e0eb9cb629f61ea516542daf05a53010716
+	number of .c files: 48
+Commit c440a94997b55f49844ef8cde9e0866eb9ad415b
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 38e91e2acc8bd3eb0d1b6c6c0bad84b9204bb64e
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 058771c571d0ca76e47b58824413ed59216d6f0f
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 7429e2d42afabcfc9c86df957a6612abfb8aedc4
+	number of .c files: 48
+Commit 7f4548df26824b13a5c6a4e67fb4117c0b6688ed
+	number of .c files: 48
+Commit 2868e5b20dfaf8f041b905cdb82f1cd9ab9aaffe
+	number of .c files: 48
+Commit 3222af2de35213115c4aea91d066b0c06a502b2d
+	number of .c files: 48
+Commit a4a159a53d510ff417ea3cda5f6b1badd334e3a8
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit da229e04fb175c568ed245f6874fe58a38d39fa7
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 878027f7332d266ed7ccca48c3b269e415e4ff75
+	number of .c files: 48
+Commit dfddac1030db943cac9257e339b1489191f9180f
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 3575a9a2877005995be1076eccec390be65b78d6
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 4fc191a554330079621f0c53c6d2023f1babd552
+	number of .c files: 48
+Commit 48e11567c56c07e48a7366c4696573033e1102c2
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 490546481712fa03e5e64540417e86954e63adfb
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 1ff85521ed9982f1e97dc96e6a1bd73eaea26167
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit dd7ffd3f1e927118518e8b6e02682934df95374c
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit b1f509c3b2d492b182d3b892b67dae48c6c9d8b5
+	number of .c files: 48
+Commit 5dc502eb11fee23a2c87e4e1dac0af72780bdf70
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 331d2e0334fcc294fbd6ecccdc7fbd0479909eec
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 9a71ae4d8a20b44c0588d1b5d83109653930f28e
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit cf517591008206020d39e13ec45667ddf6bdae92
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 564aafed9dec81c9bc3b4430fc0097b5def67abf
+	number of .c files: 48
+Commit a21a136cce57095b18d6d827615d3761e0b57fb2
+	number of .c files: 48
+Commit a00e1cf4fb247f6832982be99cd37823ff83991f
+	number of .c files: 48
+Commit 8bd2e892a6f443cbf6f002809db09ce586cbb751
+	number of .c files: 48
+Commit 04339312647d9767f86cbeb14f2d0f2ecc8d221b
+	number of .c files: 48
+Commit f9ae0b6f1cd1093619fc232c3a396e2efd11f7b7
+	number of .c files: 48
+Commit cd3d88d08055157135c41b9b491c862aa0007849
+	number of .c files: 48
+Commit 390035abfa4e174ac0b1528435e2d001d39654a8
+	number of .c files: 48
+Commit 047d387da9d4dfe8a4e5af6b47859e7e8c15be6f
+	number of .c files: 48
+Commit 359a4078a8adad86bf028cd4d48210379eea0f7b
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 7951573c28eaf259735ef0e02892512a189af12c
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 7ea35e06fd54736fd9307ff2d419c54e0f4a525f
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit b8a2492964563a014f1fe3e29e1e236061c8a79f
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 5779e97652ec8b87a0629b7127ad5cc398a35ba3
+	number of .c files: 48
+Commit b94a70af6771bb2f263e34fb9c7a977429d961f8
+	number of .c files: 48
+Commit 8d6e8783457f59acadf1eebcbca52351f4163b7d
+	number of .c files: 48
+Commit 2f160d60c87e75183cbedcfb5cffb5650dea366b
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 37a54631e4b3cf1596c52201554d7d52c3bd7acf
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit a630d2e1d06aabee4841eb1c4169584447e26623
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit c8590d9016445549405fc95995a9d89c9bd0f94b
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit c90c1efbc8e14be832bb99221d4d4dad97d05c4c
+	number of .c files: 48
+Commit 13377bb1d28a7199a9a39d9fb8c7b0d002c55e1e
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 30868c931b91685a641c489b5a6144dc87b567a8
+	number of .c files: 48
+Commit e34368197b3d2acf44adc7ab2c9aa95b4d1e4206
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit fab038e6ff8997a5025e80c6f5eaa98e69be6dcb
+	number of .c files: 48
+Commit 4e8c0c53d15a68b622aa6e0169e6d9496d9141f1
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit d257047384018f1e66ec233583fe1aa06b86123b
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 74eab812894ca6086970caa76395fde47ea0788a
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit f60a1d9a8f91289a85585a2bbae67226252369c4
+	number of .c files: 48
+Commit a4f5f282a3ca686a5344896ca5b9cdcdfac152f1
+	number of .c files: 48
+Commit 4f5df70eeaf02cc9ddeab0ed2a233b4bc6912bdb
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit a59166b5a9815e18d83756fa957cd441667d992f
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit a5840dad77f7e468a1f28f2a69a82fa9de7f10d0
+	number of .c files: 48
+Commit dc252d9e401b78cd08c26a8ddd8a9077ad47fc6d
+	number of .c files: 48
+Commit 737bb19415504c51293d8f18781e1851749195bc
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 284e3a0c66193639171ff2a6ec4ff00a4a90dea9
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit e4d8dc6534b99bdbc5103133a659325cbf4508af
+	number of .c files: 48
+Commit 85fe19e5e2e4b3942ab989d2e9f0f14066656e38
+	number of .c files: 48
+Commit 30340ba3934f69ca78c7c225b529f693afcf8194
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 9fe3f2a3fa09b722e58bd87b9a2c15896635ce1d
+	number of .c files: 48
+Commit 3b3a8282a5714bcb55907afe3d8f1a71e3300bad
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 265cefe07900a40f1ba15ba82e69e1bd1678a5a9
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 7b07f00d5e9be2da587cb1297a79f117906d9616
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit c5cdf144aea3d6f11617b7ea475ff34c4c55de30
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 92f8b27d4e8fbeb618dfe23652cf868430617f4b
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit db3f3a9db39f4980b228735c3db5b561df3b3a01
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit cf0d3a80bcf9f2515f9456ae34a9f2760bee62ad
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit bff692a150907dae702c8bb9c50627f3dc49203a
+	number of .c files: 48
+Commit 7c8597121bee2e885e7cd740a18aeecd73504bb0
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit c82159810394bea01e504f2be0588afa04be4774
+	number of .c files: 48
+Commit 57b0c186e04106b044e96eb112323a67a13f6854
+	number of .c files: 48
+Commit 42f125eb5215d3bcc2b0833a2e681670abcbf714
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 14fcb7a13db88b14d237473e6b9cd6ca7a59f2c1
+	number of .c files: 48
+Commit 90203a0f53c34bdf9c277fdf19a92ea0b31fc39f
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit ebea06d8c4c5f157a10d60f8be459722c1a1d265
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit dde3543c6a556909c8c2092e6fbfcc14d9f5f5ac
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 105f611f9378d14b6e4f690b011bb1c0a6b6d039
+	number of .c files: 48
+Commit 6bf4382fefc32ee0c213a2e1671ea3fc6311c70a
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 6f165666746cff8a8feb833a9686c45c9f8fc055
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit ec228389e6e0efeefafcd04edbad14cee2eb61c1
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit b0d0b9ff6750f3467a3e083de8a0ff8da627da2d
+	number of .c files: 48
+Commit 661e654ce90c609b8b4e6ce9a671425cfd3fd5ae
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 8d352b0a64457a55a61b05306b34ff11826705a4
+	number of .c files: 48
+	ASTs: 36/48 75.0%
+Commit 672fb5b11a324213bf394a1793955cc8dfbfd764
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit a8f1d858dbb89c2292756662dab65cc981113b89
+	number of .c files: 48
+Commit 81efbe109be5a112d06f80a3e5e52caf8993f639
+	number of .c files: 48
+Commit 1861bb0261762a6e96d4bb47429a348e024512d6
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit 181298b9eb32c4e31d207c7bedeaa58c29bbfe4a
+	number of .c files: 48
+Commit e01e22b2fd2b0577e87c479f3257c85a18cd2a18
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit 5922ffcfa75a18e78c4ae75bb447b34a0d91d12b
+	number of .c files: 48
+Commit 79a85ebb17ceddef5b5f093549681506abf524c2
+	number of .c files: 48
+Commit a9e8810f90862bc14d268169011bfad37a6d7c90
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit 395eb7955a4ceed9078c8bbb590fa0f982d8a15c
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit 2ca3ca0ebad9ceaf6810fcf0d3ed5de8f9d7d04d
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit d9e693062c564ffaf38521a1f0a2735e9957e5d5
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit 063c3718d8ccb6b4007ec46329b425db30a40b39
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit c46da15589b971981435e11be31f9f2ccae1bb77
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit 46a9248fedd29299ae089da12ae1b4b0d67fc71a
+	number of .c files: 48
+Commit fc89a7a86d56c21208414280ebf78008687d1ab6
+	number of .c files: 48
+Commit 731f26bf51765f86f12cbac8e27f11fccc9a2096
+	number of .c files: 48
+Commit f7085d623fbffaee39002a47d1721ac894733b80
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit da4a536f230ef8250167ec74fb7893be584e069a
+	number of .c files: 48
+Commit 554195a802cd4bdcc8d7698b0bbaccbf84f33939
+	number of .c files: 48
+Commit b3a76d795f7be07974bb4ec4f9d20be29a552556
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit 7c5d9aec6de2d5c78230682b91d9804fdbf05ffe
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit e3dbefeb2e675f014f29fdc94da34e56454c56c7
+	number of .c files: 48
+Commit f1d381568f7743598c465612811eba96e09c3747
+	number of .c files: 48
+Commit e1592525285e4f68a3d59480c5eb2622f8648646
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit b618a53a8dd1a2def9ca0198d591b93e8cea0b9b
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit 5764aa205267042a103edb46608b3caeaf985008
+	number of .c files: 48
+Commit f6596633320634b5b053a8fb1db390de9af4b3c8
+	number of .c files: 48
+Commit 5d8e9896c088d2e5889404f9131dbdbe0ec5b1db
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit e6df2df6c8a6fbc979ed219c8e5dc67e13a7d4d3
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit 3896b68fc8cf2ae378dae19b6257b26e6bd9ad57
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit b693475eb96963f9fc6de5d2a4d6a4fabc553779
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit c319c5666d3670876c23cd56fd50b0a8b2bc8ab6
+	number of .c files: 48
+Commit 4c1a92a0d8be2d86a5a9e0c4dbe5a84718d57b3a
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit b4cf32a58813ee330958641d74aa2088e5cc36fe
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit b72a04dc51bb7d34ad04e9f75a07b0f92e96a262
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit a0bb3133f51d1cb6a6fe03a2948aebac185554e6
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit 86feae3fa74924e13a5b9218d958ea79cb36f496
+	number of .c files: 48
+Commit 59145179a793820f25c55b286d70d1d278f275d5
+	number of .c files: 48
+Commit de022dbf7573797f04ca48b2780adef122c1eda1
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit 94c0b893e899c8621e31120e45f87b7c74e011f7
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit e741c05433ae76eed53bafcce5e43fb2795ab796
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit e67eb20f518a9bf85938ab9cbd36a7f321104014
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit f2513e05ada459f8617398ce3434f254ae3678ca
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit 662160edd24644c1db332cdfdfdd7f05becd59a8
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit faa4bcf3ce51352458080e664dc68eb408dbf87f
+	number of .c files: 48
+Commit 27495ded89fc5f872850feef7750b07ae3aaf987
+	number of .c files: 48
+Commit 08cfb0efb187af58146a0dc432f49fab29da9c24
+	number of .c files: 48
+Commit 9aee2de100ca21aaed1e0c4780da54d1266e2116
+	number of .c files: 48
+Commit 3bdb9aa8fa3d1f8a7b074f7e10c94beea441b20c
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit 011d8538088194288558ee70350ec91c91b903c0
+	number of .c files: 48
+Commit a7b2aa40e5e88ab30603062db8d5d1a5ed1db2c4
+	number of .c files: 48
+Commit 71607e194e3482014b9d14fe90b1c2cb830974d4
+	number of .c files: 48
+Commit cbbd015b70dd36c139f3f9fc8e93e1d4337c39a6
+	number of .c files: 48
+Commit fb0fec276962b5d455b1cff6dc1ab5d022b5990a
+	number of .c files: 48
+Commit 7433c30f886f649adb1e663b3009f586ed7c1a4d
+	number of .c files: 48
+Commit 7e11471f674fb812e30cec1ad3afa9568b88ae10
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit a0f7c10567b041079eef7aab8055091c79b4049b
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit 32679910d82e07ad8ab7a294ddb15239ebb98458
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit af0b5dbdf3db39eb301979618a9b21d05c90f69b
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit 4a05ba3530d4f662b66e415345cfcaf87347436f
+	number of .c files: 48
+Commit 21ded3ae71eb2848e381d18424216149e00f9068
+	number of .c files: 48
+Commit aecfe7caadc7d7ed622e703b44f454bec98dd2c1
+	number of .c files: 48
+Commit 48b34a49469a11abae79ce24ebe1c12b5711fbe0
+	number of .c files: 48
+Commit 35d4294fac61a320cdb8aba72e4a80a14ec79cb0
+	number of .c files: 48
+	ASTs: 43/48 89.58333%
+Commit b66524426ae5d1e2a25266587e941b7482cf0aa4
+	number of .c files: 48
+Commit 3f710b0af49a68fd00f3ea7460bad1e4cf982613
+	number of .c files: 48
+Commit c24670586a316dd5a431b25f0687aec0275a876f
+	number of .c files: 49
+	ASTs: 44/49 89.79591%
+Commit 7295e5d0a2fcd0328f00f80ac044b75b9df80326
+	number of .c files: 49
+	ASTs: 44/49 89.79591%
+Commit dc5dce04cb4d0d31f755763a010abb5631226c35
+	number of .c files: 49
+	ASTs: 44/49 89.79591%
+Commit 919af39ccaca059949c898436c662c8cc6bb5bab
+	number of .c files: 49
+	ASTs: 44/49 89.79591%
+Commit 20d6f698f2a5ec8f6eb8c77469e0503969f6ab38
+	number of .c files: 49
+	ASTs: 44/49 89.79591%
+Commit c729368f2a4c48f43863215cee62dc0a3c1e5e68
+	number of .c files: 49
+Commit b2d89df03f3d855b7f723efcc12340fdf67fd778
+	number of .c files: 49
+Commit df9c44ecbe7c9ec10f7c3908134b74d4c47b42a0
+	number of .c files: 49
+Commit df982d2cf2dd71449317795a13cf38b3461a3ae1
+	number of .c files: 49
+	ASTs: 44/49 89.79591%
+Commit 50719ef3a71d8afc669f2192271e7e0cceffe045
+	number of .c files: 49
+Commit ab5c8304d4619bf204b75906a14f9bbc1df2a994
+	number of .c files: 49
+Commit ea9abd8bb3d70a761a362756aaea17108faa7a4a
+	number of .c files: 49
+Commit 1dfa6e8533cabe4ea729be604b1834148b5f69c6
+	number of .c files: 49
+Commit a68ccd960a685d6082ecc6963d2de311b02632d9
+	number of .c files: 49
+	ASTs: 44/49 89.79591%
+Commit 2e010b4fdbee058c9d9648e95cb3ce913b557e6f
+	number of .c files: 49
+	ASTs: 44/49 89.79591%
+Commit 942a4a5a00c0297a2ab9880a34fa40f6f2fed9f9
+	number of .c files: 49
+Commit 981230ee154b8e3761bd3f36fead1bb4ea7cd0b0
+	number of .c files: 49
+Commit e2c13ab9d331b8000b6af86f7f087f837a6cb907
+	number of .c files: 49
+Commit 6e1916c71f45c844af645743fadeed426e82eaed
+	number of .c files: 49
+	ASTs: 44/49 89.79591%
+Commit 8081d5ec78cf947e75d7c22d6182739d3ed49136
+	number of .c files: 49
+	ASTs: 44/49 89.79591%
+Commit d5e0b7e2f8acf2a494baebb52c1cdf8db4323277
+	number of .c files: 49
+Commit 066f6f26402d5f40ac0149df9a59b5fed0eb2033
+	number of .c files: 49

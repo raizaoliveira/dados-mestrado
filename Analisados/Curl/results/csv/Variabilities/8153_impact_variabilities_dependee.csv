@@ -1,0 +1,12 @@
+!def(USE_SSLEAY),URL,additon,Variable,3
+True,unlock,parameter,Function,3
+True,curl_multi_cleanup,additon,Function,3
+True,curl_multi_remove_handle,additon,Function,3
+True,perform,additon,Function,3
+def(USE_SSLEAY),newurl,additon,Variable,3
+True,curl_multi_fdset,additon,Function,3
+True,init,additon,Function,3
+def(USE_SSLEAY),URL,additon,Variable,3
+True,curl_multi_info_read,additon,Function,3
+True,lock,parameter,Function,3
+True,curl_multi_add_handle,additon,Function,3

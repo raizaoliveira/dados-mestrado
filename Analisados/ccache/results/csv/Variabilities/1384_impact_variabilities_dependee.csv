@@ -1,0 +1,3 @@
+!def(HAVE_MKSTEMP),mkstemp,additon,Function,3
+def(_WIN32),lockfile_acquire,additon,Function,3
+True,lockfile_acquire,exclusion,Function,3

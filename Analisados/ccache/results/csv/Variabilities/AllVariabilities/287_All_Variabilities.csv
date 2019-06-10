@@ -1,0 +1,7 @@
+!def(HAVE_UTIMES),
+!def(ENABLE_ZLIB),
+def(TEST_MDFOUR),
+True,
+!def(HAVE_MKSTEMP),
+def(HAVE_UTIMES),
+def(HAVE_GETPWUID),

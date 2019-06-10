@@ -1,0 +1,10 @@
+def(USE_SSLEAY),True
+def(DPRINTF_DEBUG2),True
+def(_NETRC_DEBUG),True
+(def(HAVE_TERMIOS_H)&def(WIN32)&(!def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))&(def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))),((def(HAVE_TERMIO_H)|(def(HAVE_TERMIOS_H)&def(WIN32)))&(!def(HAVE_TERMIOS_H)|!def(WIN32)|(def(HAVE_TERMIO_H)&(!def(HAVE_TERMIOS_H)|!def(WIN32)))))
+!def(HAVE_STRDUP),True
+def(DPRINTF_DEBUG),True
+True,!def(HAVE_STRDUP)
+True,def(DPRINTF_DEBUG2)
+True,def(_NETRC_DEBUG)
+def(_FORM_DEBUG),True

@@ -1,0 +1,7 @@
+!def(CURL_DISABLE_HTTP),conn,additon,Variable,5
+!def(USE_SSLEAY),http_auth_headers,exclusion,Function,5
+True,Curl_output_basic_proxy,additon,Function,5
+def(WIN32),check_wsock2,parameter,Function,5
+True,Curl_output_basic,exclusion,Function,5
+True,Curl_http,additon,Function,5
+!def(CURL_DISABLE_HTTP),Curl_input_digest,exclusion,Function,5

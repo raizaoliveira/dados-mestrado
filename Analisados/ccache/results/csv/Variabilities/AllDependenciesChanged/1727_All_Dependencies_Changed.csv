@@ -1,0 +1,8 @@
+def(SIGHUP),True
+def(TEST_LOCKFILE),True
+def(TEST_LOCKFILE),def(_WIN32)
+!def(_WIN32),True
+def(SIGQUIT),True
+!def(_WIN32),def(_WIN32)
+True,def(_WIN32)
+def(_WIN32),True

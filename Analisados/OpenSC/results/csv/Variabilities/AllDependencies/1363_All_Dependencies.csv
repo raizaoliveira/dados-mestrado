@@ -1,0 +1,15 @@
+True,def(HAVE_DLFCN_H)
+True,def(notused)
+True,!def(HAVE_DLFCN_H)
+def(USE_PKCS15_INIT),True
+!def(HAVE_OPENSSL),True
+!def(HAVE_DLFCN_H),True
+def(HAVE_OPENSSL),True
+True,!def(HAVE_OPENSSL)
+def(HAVE_DLFCN_H),True
+True,def(HAVE_SETUTENT)
+def(ATR_SUPPORT),True
+True,def(USE_PKCS15_INIT)
+def(notused),True
+True,def(HAVE_OPENSSL)
+def(RANDOM_POOL),True

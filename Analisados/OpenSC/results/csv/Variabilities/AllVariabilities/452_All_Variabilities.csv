@@ -1,0 +1,8 @@
+True,
+def(VERSION),
+def(notdef),
+def(DEBUG),
+!def(VERSION),
+def(RANDOM_POOL),
+def(HAVE_READLINE),
+def(ATR_SUPPORT),

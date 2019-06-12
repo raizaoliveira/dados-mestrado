@@ -1,0 +1,8 @@
+!def(VERSION),
+True,
+!def(__GNUC__),
+!def(TEST),
+!def(DEBUG),
+def(DEBUG),
+def(VERSION),
+def(TEST),

@@ -1,0 +1,11 @@
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,5
+def(ENABLE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,5
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,5
+True,card,additon,Variable,5
+True,create_cert_obj,exclusion,Function,5
+True,handle,parameter,Function,5
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,5
+True,__pkcs15_create_cert_object,additon,Function,5
+True,set_pin,additon,Function,5
+True,scconf_parse,additon,Function,5
+True,scconf_parse_string,exclusion,Function,5

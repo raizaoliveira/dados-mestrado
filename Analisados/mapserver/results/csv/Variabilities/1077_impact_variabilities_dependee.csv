@@ -1,0 +1,9 @@
+True,msDBFReadStringAttribute,parameter,Function,6
+True,msLookupHashTable,additon,Function,6
+True,scalefactor,additon,Variable,6
+def(TEST),cacheFetch,parameter,Function,6
+def(TEST),cacheRelease,parameter,Function,6
+def(NEED_STRCASECMP),strcasecmp,additon,Function,6
+True,image,additon,Variable,6
+True,msGetOutputFormatOption,parameter,Function,6
+def(TEST),cacheTest,parameter,Function,6

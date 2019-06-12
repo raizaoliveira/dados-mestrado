@@ -1,0 +1,8 @@
+def(ON_LINUX),
+def(HAVE_NET_IF_H),
+def(FSA_TRACE),
+True,
+def(HAVE_GETOPT_H),
+!def(ON_LINUX),
+!def(HAVE_GNUTLS_GNUTLS_H),
+def(HAVE_GNUTLS_GNUTLS_H),

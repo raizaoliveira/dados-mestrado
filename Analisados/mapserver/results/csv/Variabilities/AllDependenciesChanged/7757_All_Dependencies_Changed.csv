@@ -1,0 +1,6 @@
+!def(USE_FASTCGI),True
+True,!def(USE_GEOS)
+def(USE_FASTCGI),True
+True,def(USE_WMS_LYR)
+True,def(USE_GEOS)
+True,def(TEST)

@@ -1,0 +1,2 @@
+def(HAVE_USBTOKEN),True
+True,def(HAVE_OPENSSL)

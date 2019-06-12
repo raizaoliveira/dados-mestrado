@@ -1,0 +1,5 @@
+True,DBFReadStringAttribute,parameter,Function,4
+def(TEST),cacheTest,parameter,Function,4
+def(TEST),cacheRelease,parameter,Function,4
+def(TEST),cacheFetch,parameter,Function,4
+def(USE_PROJ),msWhichShapesProj,parameter,Function,4

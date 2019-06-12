@@ -1,0 +1,2 @@
+def(OPENSC_CONFIG_STRING),True
+True,def(ENABLE_OPENSSL)

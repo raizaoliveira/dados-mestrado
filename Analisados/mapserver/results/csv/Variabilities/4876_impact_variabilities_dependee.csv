@@ -1,0 +1,14 @@
+True,split,parameter,Function,5
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,5
+True,img,additon,Variable,5
+True,msImageLoadGDCtx,exclusion,Function,5
+def(notdef),imagePolyline,additon,Function,5
+def(notdef),p,exclusion,Variable,5
+def(notdef),img,exclusion,Variable,5
+True,p,additon,Variable,5
+True,msGetOutputFormatOption,parameter,Function,5
+True,imagePolyline,exclusion,Function,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+True,msDBFReadStringAttribute,parameter,Function,5
+True,ctx,additon,Variable,5
+True,msImageLoadGD,additon,Function,5

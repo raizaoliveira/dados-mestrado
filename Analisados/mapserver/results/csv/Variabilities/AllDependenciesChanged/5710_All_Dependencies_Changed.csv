@@ -1,0 +1,5 @@
+def(NEED_STRDUP),True
+def(USE_OGR),True
+True,def(USE_WMS_LYR)
+True,def(__cplusplus)
+def(NEED_STRCASECMP),True

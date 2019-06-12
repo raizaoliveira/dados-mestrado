@@ -1,0 +1,9 @@
+True,def(USE_PROJ)
+def(NEED_STRCASECMP),True
+True,!def(USE_GD_TTF)
+True,def(TEST)
+def(USE_MING_FLASH),True
+True,def(USE_WMS_LYR)
+True,def(NEED_STRDUP)
+def(NEED_STRDUP),True
+True,def(USE_WMS_SVR)

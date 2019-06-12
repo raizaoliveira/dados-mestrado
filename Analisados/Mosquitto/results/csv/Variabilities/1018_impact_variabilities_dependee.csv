@@ -1,0 +1,6 @@
+True,mosquitto_connect_srv,exclusion,Function,2
+True,mosq,additon,Variable,2
+True,mosquitto_connect_bind,exclusion,Function,2
+def(WITH_SOCKS),mosquitto__reconnect,parameter,Function,2
+True,cfg,additon,Variable,2
+True,mosquitto_connect,additon,Function,2

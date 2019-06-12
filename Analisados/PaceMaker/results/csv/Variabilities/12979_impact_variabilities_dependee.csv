@@ -1,0 +1,14 @@
+True,t,exclusion,Variable,3
+True,cib_create_op,exclusion,Function,3
+True,create_op,additon,Function,3
+True,operation_finished,exclusion,Function,3
+True,throttle_timer,exclusion,Variable,3
+True,pid,exclusion,Variable,3
+True,crmd_child_exit,exclusion,Function,3
+True,test_shutdown,exclusion,Function,3
+True,child_death_dispatch,exclusion,Function,3
+True,crm_enable_blackbox,exclusion,Function,3
+True,cib,additon,Variable,3
+True,client,additon,Variable,3
+True,crm_callbacks,additon,Variable,3
+True,crm_trigger_blackbox,exclusion,Function,3

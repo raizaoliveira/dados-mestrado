@@ -1,0 +1,5 @@
+def(ENABLE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,2
+True,pgp_pin_name,exclusion,Variable,2
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,2
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,2

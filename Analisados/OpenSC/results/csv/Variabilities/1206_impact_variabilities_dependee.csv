@@ -1,0 +1,5 @@
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,2
+True,pkcs15_prkey_ops,exclusion,Variable,2
+True,fw_data,exclusion,Variable,2
+True,pkcs15_cert_ops,exclusion,Variable,2
+True,pkcs15_pubkey_ops,exclusion,Variable,2

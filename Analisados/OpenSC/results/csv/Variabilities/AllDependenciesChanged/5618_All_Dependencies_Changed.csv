@@ -1,0 +1,5 @@
+True,def(ENABLE_SM)
+!def(ENABLE_SM),True
+!def(HAVE_STRLCPY),True
+True,def(ENABLE_OPENSSL)
+def(ENABLE_SM),True

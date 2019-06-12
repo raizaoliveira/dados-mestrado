@@ -1,0 +1,3 @@
+def(USE_WMS),True
+True,def(TEST)
+def(NEED_STRDUP),True

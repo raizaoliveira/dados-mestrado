@@ -1,0 +1,3 @@
+!def(DMALLOC),True
+def(MANAGEMENT_DEF_AUTH),True
+True,def(ENABLE_DEBUG)

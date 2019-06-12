@@ -1,0 +1,10 @@
+True,fw_data,exclusion,Variable,6
+!def(HAVE_STRLCPY),strlcpy,additon,Function,6
+True,__pkcs15_create_secret_key_object,additon,Function,6
+True,__pkcs15_create_data_object,additon,Function,6
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,6
+True,card,additon,Variable,6
+def(USE_PKCS15_INIT),pkcs15_create_data,exclusion,Function,6
+True,encode_file_structure,exclusion,Function,6
+True,handle,parameter,Function,6
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,6

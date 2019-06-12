@@ -1,0 +1,11 @@
+!def(ENABLE_OPENSSL),True
+def(ENABLE_OPENSSL),True
+True,!def(HAVE_STRLCPY)
+True,def(ENABLE_OPENSSL)
+def(DEBUG_PROFILE),True
+True,def(DEBUG_PROFILE)
+True,!def(ENABLE_OPENSSL)
+True,def(USE_PKCS15_INIT)
+!def(WIN32),True
+def(USE_PKCS15_INIT),True
+True,def(ENABLE_SM)

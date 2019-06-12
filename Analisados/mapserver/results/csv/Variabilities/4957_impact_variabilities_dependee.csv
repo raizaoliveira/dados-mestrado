@@ -1,0 +1,10 @@
+True,src,additon,Variable,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+True,msCopyClass,additon,Function,5
+True,dst,additon,Variable,5
+True,msGetOutputFormatOption,parameter,Function,5
+True,msObj,additon,Variable,5
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,5
+True,msDBFReadStringAttribute,parameter,Function,5
+True,split,parameter,Function,5
+True,setExtentFromShapes,exclusion,Function,5

@@ -1,0 +1,15 @@
+def(USE_PROJ),msWhichShapesProj,parameter,Function,7
+True,DBFReadStringAttribute,parameter,Function,7
+True,msSetError,additon,Function,7
+def(NEED_STRCASECMP),strcasecmp,additon,Function,7
+True,img,additon,Variable,7
+def(USE_TTF),msGetMarkerSize,parameter,Function,7
+def(TEST),cacheRelease,parameter,Function,7
+def(USE_TTF),msDrawMarkerSymbol,parameter,Function,7
+def(TEST),cacheFetch,parameter,Function,7
+def(NEED_STRDUP),strdup,additon,Function,7
+True,class,additon,Variable,7
+def(USE_TTF),msLoadFontSet,additon,Function,7
+True,p,additon,Variable,7
+def(TEST),cacheTest,parameter,Function,7
+True,map,exclusion,Variable,7

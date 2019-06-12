@@ -1,0 +1,8 @@
+True,prkey,additon,Variable,2
+True,inlen,additon,Variable,2
+True,p15card,additon,Variable,2
+True,out,additon,Variable,2
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,2
+True,opt_crypt_flags,additon,Variable,2
+True,outlen,additon,Variable,2
+True,decipher,additon,Function,2

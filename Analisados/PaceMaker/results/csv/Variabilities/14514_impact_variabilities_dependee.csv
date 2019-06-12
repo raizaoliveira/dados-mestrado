@@ -1,0 +1,8 @@
+def(HAVE_SYS_TIMEB_H),timeout_left,additon,Variable,2
+def(HAVE_SYS_TIMEB_H),action_complete,additon,Function,2
+def(HAVE_SYS_TIMEB_H),delay,additon,Variable,2
+True,client,exclusion,Variable,2
+True,id,exclusion,Variable,2
+def(HAVE_SYS_TIMEB_H),send_cmd_complete_notify,additon,Function,2
+def(HAVE_SYS_TIMEB_H),time_diff_ms,exclusion,Function,2
+True,request,exclusion,Variable,2

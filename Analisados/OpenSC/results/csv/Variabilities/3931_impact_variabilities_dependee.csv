@@ -1,0 +1,5 @@
+True,sc_profile_find_file,additon,Function,4
+def(_WIN32),temp_path,additon,Variable,4
+True,sc_append_file_id,exclusion,Function,4
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,4
+True,append_file,additon,Function,4

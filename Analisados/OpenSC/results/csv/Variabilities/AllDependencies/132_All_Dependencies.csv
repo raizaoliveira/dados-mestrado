@@ -1,0 +1,6 @@
+!def(TEST),!def(__GNUC__)
+def(TEST),True
+!def(TEST),True
+True,!def(__GNUC__)
+!def(__GNUC__),True
+def(TEST),!def(__GNUC__)

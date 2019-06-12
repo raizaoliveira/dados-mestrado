@@ -1,0 +1,12 @@
+True,sc_do_log,additon,Function,2
+def(ENABLE_OPENSSL),pin_cmd,additon,Variable,2
+True,infocamere_1400_set_sec_env,additon,Function,2
+def(ENABLE_OPENSSL),tries_left,additon,Variable,2
+def(ENABLE_OPENSSL),authentic_known_atrs,additon,Variable,2
+True,sc_strerror,additon,Function,2
+True,verify_pin,additon,Function,2
+True,select_file,exclusion,Function,2
+True,p15card,additon,Variable,2
+True,set_sec_env,exclusion,Function,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+True,card,additon,Variable,2

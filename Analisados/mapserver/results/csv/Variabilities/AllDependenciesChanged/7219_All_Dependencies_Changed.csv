@@ -1,0 +1,4 @@
+def(USE_FASTCGI),True
+True,def(USE_WMS_SVR)
+True,def(USE_WMS_LYR)
+!def(USE_FASTCGI),True

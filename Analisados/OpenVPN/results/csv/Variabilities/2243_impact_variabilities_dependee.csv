@@ -1,0 +1,7 @@
+def(ENABLE_DEBUG),wait_status_string,parameter,Function,5
+True,array_mult_safe,parameter,Function,5
+def(ENABLE_DEBUG),drop_accept,parameter,Function,5
+def(ENABLE_PLUGIN),plugin_type_name,qualifier,Function,5
+def(LIST_TEST),word_compare_function,specifier,Function,5
+def(ENABLE_PF),mroute_extract_addr_arp,parameter,Function,5
+def(ENABLE_DEBUG),pct_name,qualifier,Function,5

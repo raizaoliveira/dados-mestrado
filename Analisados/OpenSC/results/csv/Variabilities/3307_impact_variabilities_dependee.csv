@@ -1,0 +1,6 @@
+True,attr,additon,Variable,1
+True,create_cert_obj,additon,Function,1
+True,session,additon,Variable,1
+True,cert,additon,Variable,1
+True,__pkcs15_create_cert_object,exclusion,Function,1
+True,p11card,exclusion,Variable,1

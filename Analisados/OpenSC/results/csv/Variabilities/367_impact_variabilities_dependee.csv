@@ -1,0 +1,4 @@
+!def(__GNUC__),error,additon,Function,2
+True,context,additon,Variable,2
+!def(__GNUC__),debug,additon,Function,2
+True,sc_destroy_context,exclusion,Function,2

@@ -1,0 +1,16 @@
+True,def(__cplusplus)
+!def(USE_AGG),True
+def(USE_WMS_SVR),def(USE_OGR)
+True,def(NEED_STRCASECMP)
+def(USE_WMS_SVR),True
+def(USE_WMS_SVR),!def(USE_WMS_SVR)
+def(USE_WMS_SVR),(def(USE_GD_WBMP)&def(USE_WMS_SVR))
+def(USE_WMS_SVR),def(NEED_STRCASECMP)
+def(NEED_STRCASECMP),True
+def(USE_AGG),True
+def(USE_SOS_SVR),True
+True,def(USE_WMS_LYR)
+def(USE_WMS_SVR),def(NEED_STRDUP)
+def(USE_OGR),True
+def(NEED_STRDUP),True
+True,def(USE_WMS_SVR)

@@ -1,0 +1,11 @@
+True,scalefactor,additon,Variable,4
+True,split,parameter,Function,4
+True,msyytext,additon,Variable,4
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,4
+True,msDBFReadStringAttribute,parameter,Function,4
+True,style,additon,Variable,4
+True,symbolset,additon,Variable,4
+True,msGetOutputFormatOption,parameter,Function,4
+True,p,additon,Variable,4
+True,r,additon,Variable,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4

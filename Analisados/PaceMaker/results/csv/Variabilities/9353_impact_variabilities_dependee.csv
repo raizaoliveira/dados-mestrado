@@ -1,0 +1,13 @@
+True,prop_set,additon,Variable,2
+True,data_set,additon,Variable,2
+True,prop_name,additon,Variable,2
+True,construct_op,exclusion,Function,2
+True,rsc_id,additon,Variable,2
+True,delete_rsc_entry,exclusion,Function,2
+def(HAVE_LRM_OP_T_RSC_DELETED),update_history_cache,additon,Function,2
+True,cib_conn,additon,Variable,2
+True,prop_id,additon,Variable,2
+True,delete_rsc_status,additon,Function,2
+def(HAVE_LRM_OP_T_RSC_DELETED),delete_resource,additon,Function,2
+def(HAVE_LRM_OP_T_RSC_DELETED),copy_ha_msg_input,exclusion,Function,2
+True,copy_ha_msg_input,additon,Function,2

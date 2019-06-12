@@ -1,0 +1,3 @@
+True,!def(DMALLOC)
+def(ENABLE_DEBUG),True
+True,def(ENABLE_DEBUG)

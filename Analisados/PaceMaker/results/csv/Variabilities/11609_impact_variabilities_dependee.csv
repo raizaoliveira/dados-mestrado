@@ -1,0 +1,4 @@
+True,sys_to,additon,Variable,1
+True,strerror,additon,Function,1
+True,msg,additon,Variable,1
+True,pcmk_strerror,exclusion,Function,1

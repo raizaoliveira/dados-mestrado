@@ -1,0 +1,15 @@
+True,card_detect,additon,Function,5
+def(ENABLE_OPENSSL),object,exclusion,Variable,5
+True,reverse,exclusion,Function,5
+True,sc_file_free,additon,Function,5
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,5
+True,generate_key,additon,Function,5
+True,buf,additon,Variable,5
+True,sc_mem_reverse,additon,Function,5
+def(ENABLE_ZLIB),sc_pkcs15emu_actalis_init,exclusion,Function,5
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,5
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,5
+True,p15card,additon,Variable,5
+True,usage,exclusion,Function,5
+True,sc_pkcs15emu_dnie_init,additon,Function,5
+True,card_detect_all,exclusion,Function,5

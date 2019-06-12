@@ -1,0 +1,10 @@
+DO_RESET,1,variable
+set_xml_property_copy,1,function
+copy_in_properties,1,function
+the_cib,1,variable
+src,1,variable
+crmd_operation,1,variable
+dump_array,1,function
+this_msg_reference,1,variable
+target,1,variable
+cib_recv_remote_msg,1,function

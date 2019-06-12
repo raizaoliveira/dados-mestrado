@@ -1,0 +1,13 @@
+True,array_mult_safe,parameter,Function,2
+True,argv_printf,additon,Function,2
+True,daemonize,additon,Function,2
+def(ENABLE_DEBUG),drop_accept,qualifier,Function,2
+True,argv_printf_cat,exclusion,Function,2
+def(ENABLE_DEBUG),wait_status_string,parameter,Function,2
+True,query_user_exec_builtin,exclusion,Function,2
+True,np,additon,Function,2
+def(ENABLE_DEBUG),pf_cn_test,additon,Function,2
+def(ENABLE_DEBUG),tls_common_name,additon,Function,2
+True,tls_common_name,exclusion,Function,2
+True,get_console_input,exclusion,Function,2
+def(ENABLE_DEBUG),pct_name,qualifier,Function,2

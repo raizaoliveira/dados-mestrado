@@ -1,0 +1,6 @@
+True,!def(HAVE_GNUTLS_GNUTLS_H)
+!def(HAVE_GNUTLS_GNUTLS_H),True
+def(HAVE_GETOPT_H),True
+True,def(ON_LINUX)
+def(ON_LINUX),True
+def(ON_LINUX),!def(ON_LINUX)

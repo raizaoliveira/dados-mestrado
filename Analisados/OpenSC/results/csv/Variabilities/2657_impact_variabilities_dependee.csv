@@ -1,0 +1,10 @@
+True,sc_pkcs11_find_mechanism,exclusion,Function,4
+True,type,additon,Variable,4
+True,gen_key,exclusion,Function,4
+True,usage,exclusion,Function,4
+True,gen_keypair,additon,Function,4
+True,set_pin,parameter,Function,4
+!def(__GNUC__),sc_debug,exclusion,Function,4
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,4
+def(HAVE_OPENSSL),write_object,additon,Function,4
+True,find_mechanism,additon,Function,4

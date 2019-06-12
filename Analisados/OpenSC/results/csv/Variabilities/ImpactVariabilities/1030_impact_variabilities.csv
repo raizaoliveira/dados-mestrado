@@ -1,0 +1,5 @@
+def(ATR_SUPPORT),
+def(HAVE_OPENSSL),
+True,
+def(_WIN32),
+def(USE_PKCS15_INIT),

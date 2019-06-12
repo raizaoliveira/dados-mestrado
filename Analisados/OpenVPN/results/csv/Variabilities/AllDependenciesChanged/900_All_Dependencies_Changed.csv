@@ -1,0 +1,2 @@
+!def(DMALLOC),True
+def(HAVE_SIGNAL_H),True

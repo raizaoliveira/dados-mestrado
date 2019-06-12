@@ -1,0 +1,5 @@
+True,
+def(HAVE_ZLIB_H),
+def(HAVE_USBTOKEN),
+def(HAVE_OPENSSL),
+def(USE_PKCS15_INIT),

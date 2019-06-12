@@ -1,0 +1,2 @@
+def(USE_FASTCGI),True
+!def(USE_FASTCGI),True

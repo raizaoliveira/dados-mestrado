@@ -1,0 +1,3 @@
+True,
+!def(HAVE_FMEMOPEN),
+!def(HAVE_GETLINE),

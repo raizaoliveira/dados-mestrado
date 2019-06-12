@@ -1,0 +1,5 @@
+True,sc_do_log,additon,Function,3
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,3
+True,sc_profile_get_file,additon,Function,3
+True,sc_print_path,additon,Function,3
+True,sc_profile_get_file_by_path,exclusion,Function,3

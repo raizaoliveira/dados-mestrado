@@ -1,0 +1,11 @@
+True,sc_profile_get_file,additon,Function,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,2
+True,generate_key,additon,Function,2
+True,sc_pkcs15_decode_pubkey,additon,Function,2
+True,sc_pkcs15init_update_file,additon,Function,2
+def(ENABLE_OPENSSL),sc_profile_get_file_by_path,exclusion,Function,2
+def(ENABLE_OPENSSL),sc_pkcs15init_update_file,exclusion,Function,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,2
+True,sc_path_print,additon,Function,2
+def(ENABLE_OPENSSL),sc_path_print,exclusion,Function,2
+def(ENABLE_OPENSSL),sc_pkcs15_decode_pubkey,exclusion,Function,2

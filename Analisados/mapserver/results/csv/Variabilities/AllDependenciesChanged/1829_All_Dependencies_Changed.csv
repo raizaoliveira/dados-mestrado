@@ -1,0 +1,7 @@
+True,def(TEST)
+def(NEED_STRCASECMP),True
+True,def(USE_WMS_SVR)
+def(USE_WFS_LYR),!def(USE_WFS_LYR)
+def(NEED_STRDUP),True
+True,def(USE_WMS_LYR)
+def(USE_WFS_LYR),True

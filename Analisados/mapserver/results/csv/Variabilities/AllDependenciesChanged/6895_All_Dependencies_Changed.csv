@@ -1,0 +1,3 @@
+def(GD_HAS_FTEX_XSHOW),True
+True,def(USE_WMS_LYR)
+True,def(GD_HAS_FTEX_XSHOW)

@@ -1,0 +1,9 @@
+True,def(USE_WMS_SVR)
+True,def(TEST)
+!def(USE_GD_GIF),True
+!def(USE_FASTCGI),True
+def(USE_GD_JPEG),True
+!def(USE_GD_PNG),True
+!def(USE_GD_JPEG),True
+True,def(USE_WMS_LYR)
+def(USE_FASTCGI),True

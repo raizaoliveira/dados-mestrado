@@ -1,0 +1,2 @@
+def(WCOREDUMP),True
+True,!def(HAVE_G_LOG_SET_DEFAULT_HANDLER)

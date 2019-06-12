@@ -1,0 +1,4 @@
+def(NEED_STRNCASECMP),
+def(TEST),
+def(NEED_STRCASECMP),
+True,

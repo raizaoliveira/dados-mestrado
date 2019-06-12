@@ -1,0 +1,3 @@
+True,msGettimeofday,additon,Function,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4
+True,mapserv,exclusion,Variable,4

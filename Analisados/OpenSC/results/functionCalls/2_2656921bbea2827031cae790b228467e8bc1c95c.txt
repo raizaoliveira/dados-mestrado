@@ -1,0 +1,16 @@
+SCardEstablishContext;True; @ main;
+fprintf;True;True;True;True;True;True; @ main;main;main;main;main;main;
+SCardListReaders;True;True; @ main;main;
+malloc;True; @ main;
+strdup;True; @ main;
+printf;True;True;True;True; @ main;main;main;main;
+SCardGetStatusChange;True; @ main;
+fflush;True; @ main;
+SCardConnect;True; @ main;
+SCardReleaseContext;True;True;True;True; @ main;main;main;main;
+strlen;True; @ main;
+SCardStatus;True; @ main;
+SCardDisconnect;True;True;True; @ main;main;main;
+sc_pkcs15_init;True; @ main;
+sc_pkcs15_read_certificate;True; @ main;
+sc_pkcs15_read_pin_object;True; @ main;

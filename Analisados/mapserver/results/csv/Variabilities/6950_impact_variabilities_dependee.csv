@@ -1,0 +1,12 @@
+True,height,additon,Variable,4
+True,lp,additon,Variable,4
+True,dstY,additon,Variable,4
+True,image,additon,Variable,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4
+True,dstX,additon,Variable,4
+True,msCalculateScale,additon,Function,4
+True,msDrawLegend,additon,Function,4
+True,msCreateLegendIcon,additon,Function,4
+True,msDrawLegendIcon,exclusion,Function,4
+True,map,additon,Variable,4
+True,width,additon,Variable,4

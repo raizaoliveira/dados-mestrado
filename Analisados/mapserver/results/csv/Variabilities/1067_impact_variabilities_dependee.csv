@@ -1,0 +1,5 @@
+True,msGetOutputFormatOption,parameter,Function,2
+def(TEST),cacheRelease,parameter,Function,2
+True,msDBFReadStringAttribute,parameter,Function,2
+def(TEST),cacheTest,parameter,Function,2
+def(TEST),cacheFetch,parameter,Function,2

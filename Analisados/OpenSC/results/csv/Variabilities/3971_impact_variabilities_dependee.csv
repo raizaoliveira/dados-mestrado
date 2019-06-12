@@ -1,0 +1,5 @@
+True,__pkcs15_create_data_object,additon,Function,3
+True,fw_data,exclusion,Variable,3
+def(USE_PKCS15_INIT),pkcs15_create_data,exclusion,Function,3
+True,usage,additon,Function,3
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,3

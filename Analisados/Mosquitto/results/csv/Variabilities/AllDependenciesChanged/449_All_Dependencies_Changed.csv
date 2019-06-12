@@ -1,0 +1,2 @@
+def(WITH_SRV),True
+def(WITH_WEBSOCKETS),True

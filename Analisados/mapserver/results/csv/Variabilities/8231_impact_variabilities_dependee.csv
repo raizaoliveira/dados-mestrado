@@ -1,0 +1,5 @@
+True,msInitializeVirtualTable,additon,Function,3
+True,img,exclusion,Variable,3
+True,msCopyLayer,additon,Function,3
+True,label,exclusion,Variable,3
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,3

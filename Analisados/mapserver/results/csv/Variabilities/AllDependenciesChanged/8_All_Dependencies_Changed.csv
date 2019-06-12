@@ -1,0 +1,8 @@
+True,def(NEED_STRCASECMP)
+def(NEED_STRDUP),True
+True,def(NEED_STRDUP)
+def(USE_TTF),True
+!def(USE_TTF),True
+True,def(USE_TTF)
+True,def(USE_PROJ)
+True,def(TEST)

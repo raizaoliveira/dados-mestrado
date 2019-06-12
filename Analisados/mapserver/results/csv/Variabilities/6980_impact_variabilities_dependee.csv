@@ -1,0 +1,15 @@
+True,dstX,exclusion,Variable,6
+True,dstY,exclusion,Variable,6
+True,lp,exclusion,Variable,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,msCalculateScale,additon,Function,6
+True,image,exclusion,Variable,6
+True,width,exclusion,Variable,6
+True,map,exclusion,Variable,6
+True,height,exclusion,Variable,6
+True,msDrawLegend,exclusion,Function,6
+True,mapserv,exclusion,Variable,6
+def(USE_WCS_SVR),msOWSDispatch,additon,Function,6
+True,msFreeCharArray,exclusion,Function,6
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6
+True,msOWSLookupMetadata,exclusion,Function,6

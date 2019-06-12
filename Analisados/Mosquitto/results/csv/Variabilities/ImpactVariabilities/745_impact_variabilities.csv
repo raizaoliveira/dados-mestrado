@@ -1,0 +1,6 @@
+def(WITH_SOCKS),
+def(WITH_BROKER),
+def(WITH_BRIDGE),
+True,
+def(WITH_WEBSOCKETS),
+!def(WITH_BROKER),

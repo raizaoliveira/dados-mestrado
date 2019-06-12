@@ -1,0 +1,4 @@
+True,!def(HAVE_STRLCPY)
+def(USE_PKCS15_INIT),True
+True,def(ENABLE_OPENSSL)
+def(ENABLE_OPENSSL),True

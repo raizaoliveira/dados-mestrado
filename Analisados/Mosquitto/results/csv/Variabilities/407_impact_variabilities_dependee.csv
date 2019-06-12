@@ -1,0 +1,9 @@
+True,mid,additon,Variable,2
+True,_mosquitto_log_printf,additon,Function,2
+True,mosquitto_log_printf,exclusion,Function,2
+True,context,additon,Variable,2
+True,retain,additon,Variable,2
+True,stored,additon,Variable,2
+True,db,additon,Variable,2
+True,qos,additon,Variable,2
+def(WITH_BROKER),handle__pubrec,additon,Function,2

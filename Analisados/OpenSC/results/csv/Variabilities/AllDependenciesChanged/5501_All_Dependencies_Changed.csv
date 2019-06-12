@@ -1,0 +1,5 @@
+True,def(ENABLE_OPENSSL)
+def(HAVE_OPENSSL),True
+def(ENABLE_OPENSSL),True
+True,!def(ENABLE_OPENSSL)
+True,def(ENABLE_SM)

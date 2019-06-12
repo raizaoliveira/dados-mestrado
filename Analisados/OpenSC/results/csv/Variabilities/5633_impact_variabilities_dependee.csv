@@ -1,0 +1,11 @@
+True,p11card,additon,Variable,4
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,4
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,4
+True,card,additon,Variable,4
+True,datalen,additon,Variable,4
+True,__pkcs15_create_secret_key_object,additon,Function,4
+True,out,additon,Variable,4
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,4
+True,fw_data,exclusion,Variable,4
+True,p15card,exclusion,Variable,4
+True,outlen,additon,Variable,4

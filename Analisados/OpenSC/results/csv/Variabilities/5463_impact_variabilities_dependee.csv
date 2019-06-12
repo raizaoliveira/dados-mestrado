@@ -1,0 +1,7 @@
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,3
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,3
+True,p11card,exclusion,Variable,3
+True,attr_find_ptr,exclusion,Function,3
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,3
+True,fw_data,exclusion,Variable,3
+True,__pkcs15_create_secret_key_object,additon,Function,3

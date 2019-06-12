@@ -1,0 +1,12 @@
+!def(USE_GD_GIF),True
+def(USE_WMS_SVR),True
+!def(USE_GD_FT),True
+def(USE_GD_FT),True
+!def(USE_GEOS),True
+True,def(USE_GD_FT)
+True,def(__cplusplus)
+!def(USE_GD_PNG),True
+def(USE_GD_PNG),True
+def(USE_GEOS),True
+True,def(USE_WMS_SVR)
+def(USE_GD_GIF),True

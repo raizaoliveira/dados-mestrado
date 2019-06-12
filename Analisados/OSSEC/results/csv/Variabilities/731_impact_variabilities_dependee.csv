@@ -1,0 +1,6 @@
+True,LogCollectorStart,additon,Function,3
+!def(WIN32),SendMSG,exclusion,Function,3
+True,ReadKeys,additon,Function,3
+!def(WIN32),StartMQ,exclusion,Function,3
+def(WIN32),SendMSG,additon,Function,3
+def(WIN32),StartMQ,additon,Function,3

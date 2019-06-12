@@ -1,0 +1,3 @@
+def(DEBUG),True
+True,def(HAVE_ZLIB_H)
+True,def(HAVE_OPENSSL)

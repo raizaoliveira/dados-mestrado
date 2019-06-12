@@ -1,0 +1,4 @@
+!def(WITH_BROKER),net__socket_close,additon,Function,2
+!def(WITH_BROKER),mosq,exclusion,Variable,2
+def(WITH_BROKER),mosq,additon,Variable,2
+def(WITH_BROKER),net__socket_close,exclusion,Function,2

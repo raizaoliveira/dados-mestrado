@@ -1,0 +1,15 @@
+def(TEST),cacheFetch,parameter,Function,3
+True,draw_text,additon,Function,3
+True,buffer,additon,Variable,3
+True,length,additon,Function,3
+True,msGetLabelSize,additon,Function,3
+def(TEST),cacheTest,parameter,Function,3
+True,mode,additon,Variable,3
+True,msInitShape,additon,Function,3
+True,map,additon,Variable,3
+def(USE_TTF),msGetLabelSize,exclusion,Function,3
+True,DBFReadStringAttribute,parameter,Function,3
+True,results,additon,Variable,3
+def(USE_TTF),draw_text,exclusion,Function,3
+def(TEST),cacheRelease,parameter,Function,3
+True,s,additon,Variable,3

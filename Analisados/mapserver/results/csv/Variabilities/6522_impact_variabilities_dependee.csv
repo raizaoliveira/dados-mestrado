@@ -1,0 +1,6 @@
+True,font,exclusion,Variable,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4
+True,rect,exclusion,Variable,4
+True,msyytext,additon,Variable,4
+True,size,exclusion,Variable,4
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,4

@@ -1,0 +1,5 @@
+def(HAVE_ZLIB_H),sc_strerror,type,Function,2
+True,append_file,exclusion,Function,2
+True,sc_append_file_id,additon,Function,2
+True,sc_strerror,parameter,Function,2
+True,version,parameter,Function,2

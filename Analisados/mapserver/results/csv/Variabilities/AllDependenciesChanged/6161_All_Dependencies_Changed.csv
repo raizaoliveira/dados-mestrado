@@ -1,0 +1,6 @@
+!def(USE_AGG),True
+def(notdef),True
+True,def(notdef)
+True,def(USE_WMS_LYR)
+def(USE_GD_FT),True
+True,!def(USE_GD_FT)

@@ -1,0 +1,17 @@
+True,def(USE_WMS_LYR)
+def(NEED_STRDUP),True
+def(USE_GD_GIF),True
+!def(USE_PROJ),True
+def(USE_SOS_SVR),True
+!def(USE_GD_TTF),True
+def(USE_GD_PNG),True
+def(USE_GD_JPEG),True
+True,def(USE_GD_JPEG)
+def(USE_OGR),True
+!def(USE_OGR),True
+def(USE_WCS_SVR),True
+def(USE_GD_TTF),True
+def(USE_WMS_SVR),True
+def(NEED_STRCASECMP),True
+True,def(USE_GD_TTF)
+True,def(__cplusplus)

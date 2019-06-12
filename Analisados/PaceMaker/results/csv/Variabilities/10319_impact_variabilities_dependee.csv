@@ -1,0 +1,5 @@
+True,msg,exclusion,Variable,1
+True,op,exclusion,Variable,1
+True,create_op,exclusion,Function,1
+True,crm_ipcs_send,additon,Function,1
+True,cib_create_op,additon,Function,1

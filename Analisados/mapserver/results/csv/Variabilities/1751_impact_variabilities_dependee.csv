@@ -1,0 +1,12 @@
+True,extent,additon,Variable,6
+def(TEST),cacheTest,parameter,Function,6
+def(TEST),cacheFetch,parameter,Function,6
+def(TEST),cacheRelease,parameter,Function,6
+True,length,exclusion,Function,6
+True,msTransformShapeToPixel,exclusion,Function,6
+True,shape,additon,Variable,6
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6
+True,cellsize,additon,Variable,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,msDBFReadStringAttribute,parameter,Function,6
+True,msGetOutputFormatOption,parameter,Function,6

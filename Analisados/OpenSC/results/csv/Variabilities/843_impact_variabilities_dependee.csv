@@ -1,0 +1,4 @@
+True,sc_pkcs15init_bind,additon,Function,1
+True,card,exclusion,Variable,1
+True,opt_profile,exclusion,Variable,1
+True,profile,exclusion,Variable,1

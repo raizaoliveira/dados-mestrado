@@ -1,0 +1,15 @@
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6
+True,image,exclusion,Variable,6
+True,msDrawLegendIcon,additon,Function,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,size,additon,Variable,6
+def(notdef),style,exclusion,Variable,6
+def(notdef),size,exclusion,Variable,6
+True,returnCoordinate,exclusion,Function,6
+True,mapserv,additon,Variable,6
+True,map,exclusion,Variable,6
+def(notdef),searchImageCache,additon,Function,6
+True,msImageLoadGDCtx,exclusion,Function,6
+True,style,additon,Variable,6
+True,layer,exclusion,Variable,6
+True,msImageCreateGD,parameter,Function,6

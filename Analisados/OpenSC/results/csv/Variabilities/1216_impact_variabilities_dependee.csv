@@ -1,0 +1,11 @@
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,2
+True,fw_data,additon,Variable,2
+True,sc_to_cryptoki_error,additon,Function,2
+True,attr,additon,Variable,2
+True,pkcs15_cert_ops,additon,Variable,2
+True,session,additon,Variable,2
+True,pkcs15_pubkey_ops,additon,Variable,2
+True,pkcs15_prkey_ops,additon,Variable,2
+True,sc_pkcs15init_set_pin_data,additon,Function,2
+True,sc_pkcs15init_change_attrib,additon,Function,2
+True,sc_pkcs15init_bind,additon,Function,2

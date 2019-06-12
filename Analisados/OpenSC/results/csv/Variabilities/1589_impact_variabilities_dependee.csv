@@ -1,0 +1,10 @@
+True,sc_print_path,parameter,Function,3
+True,p15card,exclusion,Variable,3
+True,sc_strerror,additon,Function,3
+def(HAVE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,3
+True,attr_find2,exclusion,Function,3
+True,error,exclusion,Function,3
+True,outlen,exclusion,Variable,3
+True,out,exclusion,Variable,3
+def(HAVE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3
+def(HAVE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,3

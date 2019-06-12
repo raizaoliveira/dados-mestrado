@@ -1,0 +1,2 @@
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,3
+True,_geocache_cache_disk_blank_tile_key,specifier,Function,3

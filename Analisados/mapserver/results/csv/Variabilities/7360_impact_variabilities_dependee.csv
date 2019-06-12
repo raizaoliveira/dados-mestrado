@@ -1,0 +1,13 @@
+def(TEST),cacheTest,parameter,Function,6
+True,processExtentTag,additon,Function,6
+True,msGEOSBuffer,additon,Function,6
+True,msFreeShape,additon,Function,6
+True,mapserv,additon,Variable,6
+def(TEST),cacheFetch,parameter,Function,6
+True,msFreeMapServObj,exclusion,Function,6
+True,msCopyShape,additon,Function,6
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6
+True,msObj,exclusion,Variable,6
+True,msFreeMap,additon,Function,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+def(TEST),cacheRelease,parameter,Function,6

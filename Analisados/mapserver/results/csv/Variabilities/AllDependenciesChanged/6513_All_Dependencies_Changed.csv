@@ -1,0 +1,16 @@
+def(USE_POINT_Z_M),True
+True,!def(USE_AGG)
+True,def(USE_GD_JPEG)
+True,def(USE_POINT_Z_M)
+def(USE_FASTCGI),True
+!def(USE_FASTCGI),True
+def(USE_WCS_SVR),True
+def(notdef),True
+True,def(USE_GD_PNG)
+True,def(notdef)
+def(USE_MING_FLASH),True
+!def(USE_AGG),True
+def(USE_GD_FT),True
+def(USE_AGG),True
+def(USE_WMS_SVR),!def(USE_WMS_SVR)
+True,def(USE_WMS_LYR)

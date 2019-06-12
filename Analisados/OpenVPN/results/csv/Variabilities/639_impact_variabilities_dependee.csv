@@ -1,0 +1,3 @@
+!def(DMALLOC),gc_malloc,additon,Function,3
+True,np,exclusion,Function,3
+True,signal_description,additon,Function,3

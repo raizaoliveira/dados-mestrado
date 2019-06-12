@@ -1,0 +1,14 @@
+def(notdef),True
+def(USE_OGR),True
+def(USE_GD_JPEG),True
+True,def(notdef)
+def(USE_GD_PNG),True
+True,def(USE_GD_PNG)
+def(NEED_STRCASECMP),True
+True,def(TEST)
+True,def(USE_GD_JPEG)
+True,def(USE_WMS_LYR)
+True,def(USE_WMS_SVR)
+def(USE_GD_GIF),True
+!def(USE_GD_FT),True
+def(NEED_STRDUP),True

@@ -1,0 +1,5 @@
+True,loadParams,parameter,Function,2
+def(USE_WMS_SVR),msOWSDispatch,exclusion,Function,2
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,2
+True,msOWSDispatch,additon,Function,2
+True,mapserv,exclusion,Variable,2

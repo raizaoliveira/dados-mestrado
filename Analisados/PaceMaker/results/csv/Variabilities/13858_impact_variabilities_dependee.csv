@@ -1,0 +1,9 @@
+True,pcmk_strerror,exclusion,Function,3
+True,msg,exclusion,Variable,3
+True,cmd,exclusion,Variable,3
+True,request,additon,Variable,3
+True,strerror,additon,Function,3
+True,client,additon,Variable,3
+True,crm_priority2int,additon,Function,3
+True,rc,exclusion,Variable,3
+True,id,additon,Variable,3

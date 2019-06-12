@@ -1,0 +1,4 @@
+def(_WIN32),get_reg_config,qualifier,Function,3
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,3
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,3
+!def(OPENSC_NO_DEPRECATED),sc_pkcs15emu_add_pin,additon,Function,3

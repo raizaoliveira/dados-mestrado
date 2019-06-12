@@ -1,0 +1,6 @@
+True,def(ENABLE_OPENSSL)
+True,def(ENABLE_SM)
+def(ENABLE_OPENSSL),True
+!def(ENABLE_OPENSSL),True
+def(USE_PKCS15_INIT),True
+True,!def(ENABLE_OPENSSL)

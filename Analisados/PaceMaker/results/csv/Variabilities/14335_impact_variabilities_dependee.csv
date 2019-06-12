@@ -1,0 +1,5 @@
+True,cib,exclusion,Variable,3
+True,crm_strdup_printf,exclusion,Function,3
+True,options,exclusion,Variable,3
+True,argc,exclusion,Variable,3
+True,argv,exclusion,Variable,3

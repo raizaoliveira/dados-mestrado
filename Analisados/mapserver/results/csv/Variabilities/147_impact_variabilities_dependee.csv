@@ -1,0 +1,13 @@
+def(TEST),cacheTest,parameter,Function,4
+def(USE_PROJ),i,additon,Variable,4
+def(TEST),cacheFetch,parameter,Function,4
+def(USE_PROJ),msQueryUsingShape,additon,Function,4
+True,DBFReadStringAttribute,parameter,Function,4
+def(NEED_STRCASECMP),strcasecmp,additon,Function,4
+def(USE_PROJ),msQueryUsingFeatures,additon,Function,4
+True,SHPReadBounds,type,Function,4
+def(USE_PROJ),shape,additon,Variable,4
+True,msWhichShapes,exclusion,Function,4
+def(TEST),cacheRelease,parameter,Function,4
+def(USE_PROJ),j,additon,Variable,4
+True,SHPReadShape,additon,Function,4

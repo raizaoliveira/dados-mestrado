@@ -1,0 +1,5 @@
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+True,loadParams,parameter,Function,5
+True,mapserv,additon,Variable,5
+def(USE_WCS_SVR),msOWSDispatch,additon,Function,5

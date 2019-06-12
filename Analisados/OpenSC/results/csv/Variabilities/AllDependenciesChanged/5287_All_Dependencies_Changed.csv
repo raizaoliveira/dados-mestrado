@@ -1,0 +1,5 @@
+def(ENABLE_SM),True
+True,def(ENABLE_SM)
+True,def(ENABLE_OPENSSL)
+True,def(ENABLE_PCSC)
+def(ENABLE_PCSC),True

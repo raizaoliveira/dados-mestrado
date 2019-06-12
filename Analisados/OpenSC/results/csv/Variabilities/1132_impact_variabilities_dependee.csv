@@ -1,0 +1,3 @@
+True,profile,additon,Variable,3
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,3
+True,sc_pkcs15init_unbind,exclusion,Function,3

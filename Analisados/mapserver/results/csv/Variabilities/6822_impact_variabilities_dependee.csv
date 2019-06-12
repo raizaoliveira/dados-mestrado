@@ -1,0 +1,6 @@
+True,map,additon,Variable,3
+def(USE_OGR),msSLDApplySLD,additon,Function,3
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,3
+True,src,additon,Variable,3
+True,iLayer,additon,Variable,3
+True,dst,additon,Variable,3

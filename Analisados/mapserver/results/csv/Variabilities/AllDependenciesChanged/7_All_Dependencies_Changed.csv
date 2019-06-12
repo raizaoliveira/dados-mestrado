@@ -1,0 +1,10 @@
+True,def(TEST)
+def(USE_TTF),True
+True,def(NEED_STRDUP)
+True,!def(USE_PROJ)
+def(NEED_STRDUP),True
+True,def(USE_TTF)
+True,def(NEED_STRCASECMP)
+True,def(USE_PROJ)
+!def(USE_TTF),True
+def(_WIN32),True

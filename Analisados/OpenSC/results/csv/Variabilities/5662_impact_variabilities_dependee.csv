@@ -1,0 +1,7 @@
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,5
+True,card,exclusion,Variable,5
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,5
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,5
+def(ENABLE_ZLIB),sc_strerror,exclusion,Function,5
+True,sc_strerror,exclusion,Function,5
+True,sc_do_log,exclusion,Function,5

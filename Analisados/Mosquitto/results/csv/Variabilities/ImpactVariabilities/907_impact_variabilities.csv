@@ -1,0 +1,7 @@
+True,
+def(WITH_BROKER),
+def(WITH_SOCKS),
+!def(WITH_BROKER),
+def(WIN32),
+!def(WIN32),
+def(WITH_WEBSOCKETS),

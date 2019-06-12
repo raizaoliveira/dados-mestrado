@@ -1,0 +1,9 @@
+True,error,additon,Function,1
+True,sc_pkcs15_free_pubkey,exclusion,Function,1
+True,sc_pkcs15_free_prkey,exclusion,Function,1
+True,sc_pkcs15_read_prkey,exclusion,Function,1
+True,getpass,exclusion,Function,1
+True,sc_pkcs15_read_pubkey,exclusion,Function,1
+True,sc_pkcs15_find_pubkey_by_id,exclusion,Function,1
+True,sign,exclusion,Function,1
+True,decipher,exclusion,Function,1

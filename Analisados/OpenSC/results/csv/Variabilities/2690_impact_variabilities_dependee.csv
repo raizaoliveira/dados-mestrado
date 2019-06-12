@@ -1,0 +1,5 @@
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,3
+True,sc_pkcs15_print_id,qualifier,Function,3
+True,sc_pkcs15init_unbind,additon,Function,3
+def(USE_PKCS15_INIT),pkcs15init_unbind,exclusion,Function,3
+True,profile,exclusion,Variable,3

@@ -1,0 +1,7 @@
+True,getString,additon,Function,3
+True,DBFReadStringAttribute,parameter,Function,3
+def(TEST),cacheRelease,parameter,Function,3
+True,filename,exclusion,Variable,3
+def(TEST),cacheFetch,parameter,Function,3
+def(TEST),cacheTest,parameter,Function,3
+True,msFreeHashTable,additon,Function,3

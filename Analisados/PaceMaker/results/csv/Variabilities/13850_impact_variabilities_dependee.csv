@@ -1,0 +1,4 @@
+True,strerror,exclusion,Function,3
+True,msg,additon,Variable,3
+True,pcmk_strerror,additon,Function,3
+True,crm_priority2int,additon,Function,3

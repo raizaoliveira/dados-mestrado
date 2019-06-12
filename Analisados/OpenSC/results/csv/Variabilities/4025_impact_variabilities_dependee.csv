@@ -1,0 +1,8 @@
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,2
+True,sc_pkcs15init_store_data_object,additon,Function,2
+True,sc_pkcs15init_create_file,exclusion,Function,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,2
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,2
+True,create_file,additon,Function,2
+True,sc_pkcs15init_store_data,exclusion,Function,2

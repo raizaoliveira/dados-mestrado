@@ -1,0 +1,3 @@
+def(HAVE_ZLIB_H),sc_strerror,type,Function,2
+def(HAVE_OPENSSL),sign_ext,parameter,Function,2
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,2

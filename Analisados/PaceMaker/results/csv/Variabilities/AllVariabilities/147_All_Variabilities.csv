@@ -1,0 +1,5 @@
+True,
+def(FSA_TRACE),
+def(MSG_LOG),
+def(XML_TRACE),
+!def(USE_BUGGY_LIBXML),

@@ -1,0 +1,5 @@
+True,sc_apdu_log_out,exclusion,Function,2
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,2
+True,sc_apdu_log,additon,Function,2
+True,sc_apdu_log_in,exclusion,Function,2
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,2

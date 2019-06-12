@@ -1,0 +1,10 @@
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,5
+True,extent,exclusion,Variable,5
+def(TEST),cacheFetch,parameter,Function,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+True,msGetOutputFormatOption,parameter,Function,5
+True,shape,exclusion,Variable,5
+def(TEST),cacheRelease,parameter,Function,5
+True,msDBFReadStringAttribute,parameter,Function,5
+True,cellsize,exclusion,Variable,5
+def(TEST),cacheTest,parameter,Function,5

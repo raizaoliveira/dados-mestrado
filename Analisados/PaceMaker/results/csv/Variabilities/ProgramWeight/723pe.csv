@@ -1,0 +1,8 @@
+dump_array,1,function
+copy_in_properties,1,function
+create_xml_node,1,function
+src,1,variable
+add_node_copy,1,function
+set_xml_property_copy,1,function
+action,1,variable
+get_the_CIB,1,function

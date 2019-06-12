@@ -1,0 +1,10 @@
+True,r,exclusion,Variable,3
+True,scalefactor,exclusion,Variable,3
+True,style,exclusion,Variable,3
+def(TEST),cacheRelease,parameter,Function,3
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,3
+True,p,exclusion,Variable,3
+True,loadParams,parameter,Function,3
+def(TEST),cacheFetch,parameter,Function,3
+True,symbolset,exclusion,Variable,3
+def(TEST),cacheTest,parameter,Function,3

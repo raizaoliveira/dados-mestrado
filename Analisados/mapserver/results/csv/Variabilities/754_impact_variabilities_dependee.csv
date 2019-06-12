@@ -1,0 +1,6 @@
+True,msDBFReadStringAttribute,parameter,Function,2
+True,layer,additon,Variable,2
+def(TEST),cacheTest,parameter,Function,2
+def(TEST),cacheRelease,parameter,Function,2
+True,rect,additon,Variable,2
+def(TEST),cacheFetch,parameter,Function,2

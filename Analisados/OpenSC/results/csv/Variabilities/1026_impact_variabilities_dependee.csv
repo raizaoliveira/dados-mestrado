@@ -1,0 +1,6 @@
+True,pkcs15_cert_ops,exclusion,Variable,3
+True,fw_data,exclusion,Variable,3
+True,pkcs15_prkey_ops,exclusion,Variable,3
+def(USE_PKCS15_INIT),pkcs15_create_object,exclusion,Function,3
+True,pkcs15_pubkey_ops,exclusion,Variable,3
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,3

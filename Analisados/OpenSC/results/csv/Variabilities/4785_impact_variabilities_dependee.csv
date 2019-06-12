@@ -1,0 +1,9 @@
+True,p15card,exclusion,Variable,2
+def(ENABLE_OPENSSL),sdo,additon,Variable,2
+def(ENABLE_OPENSSL),object,additon,Variable,2
+True,usage,additon,Function,2
+True,create_file,exclusion,Function,2
+True,do_get_data,exclusion,Function,2
+True,sc_pkcs15init_create_file,additon,Function,2
+True,do_get,additon,Function,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2

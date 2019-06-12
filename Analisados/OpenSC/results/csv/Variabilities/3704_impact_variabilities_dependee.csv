@@ -1,0 +1,4 @@
+True,scconf_parse,exclusion,Function,2
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,2
+def(ENABLE_OPENSSL),decipher_ext,parameter,Function,2
+True,scconf_parse_string,additon,Function,2

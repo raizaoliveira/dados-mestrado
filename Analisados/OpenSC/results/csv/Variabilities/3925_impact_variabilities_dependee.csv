@@ -1,0 +1,9 @@
+True,sc_pkcs15init_store_public_key,exclusion,Function,3
+True,sc_pkcs15_erase_prkey,exclusion,Function,3
+True,__pkcs15_create_data_object,additon,Function,3
+True,fw_data,exclusion,Variable,3
+True,sc_pkcs15init_store_private_key,exclusion,Function,3
+True,gen_key,exclusion,Function,3
+True,sc_pkcs15_erase_pubkey,exclusion,Function,3
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,3
+def(USE_PKCS15_INIT),pkcs15_create_data,exclusion,Function,3

@@ -1,0 +1,3 @@
+def(WITH_SRV),True
+True,def(WITH_SOCKS)
+!def(WITH_SRV),True

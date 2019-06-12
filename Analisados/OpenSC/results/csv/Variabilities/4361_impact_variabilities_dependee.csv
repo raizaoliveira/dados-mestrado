@@ -1,0 +1,2 @@
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+def(ENABLE_ZLIB),sc_pkcs15emu_actalis_init,exclusion,Function,2

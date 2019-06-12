@@ -1,0 +1,4 @@
+True,def(WITH_BROKER)
+def(WITH_BRIDGE),True
+True,!def(WITH_BROKER)
+def(WITH_WEBSOCKETS),True

@@ -1,0 +1,8 @@
+def(USE_WMS_SVR),
+True,
+def(TEST),
+def(USE_WCS_SVR),
+def(USE_OGR),
+def(USE_THREAD),
+def(TEST_MAPCRYPTO),
+def(USE_WMS_LYR),

@@ -1,0 +1,13 @@
+True,sc_card_ctl,exclusion,Function,4
+def(ENABLE_OPENSSL),register_mechanisms,exclusion,Function,4
+def(USE_PKCS15_INIT),pkcs15init_callbacks,additon,Variable,4
+True,sc_pkcs15init_add_app,additon,Function,4
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,4
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,4
+True,sc_unlock,additon,Function,4
+True,sc_pkcs15init_erase_card,additon,Function,4
+True,sc_lock,additon,Function,4
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,4
+True,scconf_get_bool,additon,Function,4
+True,sc_pkcs15init_set_callbacks,additon,Function,4
+True,sc_do_log,additon,Function,4

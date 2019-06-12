@@ -1,0 +1,9 @@
+def(USE_AGG),True
+True,def(notdef)
+def(USE_FASTCGI),True
+True,def(USE_WMS_LYR)
+!def(USE_AGG),True
+True,!def(USE_AGG)
+!def(USE_FASTCGI),True
+def(notdef),True
+def(USE_GD_FT),True

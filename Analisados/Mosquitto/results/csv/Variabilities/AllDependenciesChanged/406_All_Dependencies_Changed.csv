@@ -1,0 +1,9 @@
+True,def(WITH_BROKER)
+def(WITH_BROKER),True
+def(WITH_WEBSOCKETS),True
+def(WITH_TLS),True
+!def(WITH_BROKER),def(WITH_BROKER)
+def(WITH_WRAP),True
+!def(WITH_BROKER),True
+def(WITH_BRIDGE),True
+True,!def(WITH_BROKER)

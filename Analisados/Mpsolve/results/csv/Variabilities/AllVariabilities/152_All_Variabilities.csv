@@ -1,0 +1,8 @@
+!def(mpz_tstbit),
+True,
+!def(mpf_swap),
+!def(NOMPTEMP),
+!def(mpf_pow_ui),
+!def(mpq_out_str),
+!def(mpq_swap),
+!def(mpz_swap),

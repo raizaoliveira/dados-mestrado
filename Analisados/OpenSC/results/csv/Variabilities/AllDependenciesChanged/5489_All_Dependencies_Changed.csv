@@ -1,0 +1,7 @@
+True,def(ENABLE_ZLIB)
+def(ENABLE_ZLIB),True
+True,def(ENABLE_OPENSSL)
+!def(ENABLE_OPENSSL),True
+def(asepcos_USE_PIN_PATH),True
+True,def(ENABLE_SM)
+True,!def(ENABLE_OPENSSL)

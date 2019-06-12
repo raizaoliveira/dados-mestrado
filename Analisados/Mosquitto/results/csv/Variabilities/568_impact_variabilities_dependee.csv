@@ -1,0 +1,2 @@
+def(WITH_WEBSOCKETS),db__message_insert,parameter,Function,2
+def(WITH_BROKER),handle__pubrec,additon,Function,2

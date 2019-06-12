@@ -1,0 +1,14 @@
+def(ENABLE_OPENSSL),pgp_gen_key,parameter,Function,3
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,3
+def(ENABLE_OPENSSL),iasecc_sdo_encode_update_field,additon,Function,3
+def(ENABLE_OPENSSL),pgp_store_key,parameter,Function,3
+True,card,exclusion,Variable,3
+True,ctx,additon,Variable,3
+def(ENABLE_OPENSSL),profile,additon,Variable,3
+True,sc_profile_get_file,additon,Function,3
+def(ENABLE_OPENSSL),file,additon,Variable,3
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,3
+True,new_file,additon,Function,3
+True,sc_profile_get_file_by_path,exclusion,Function,3
+True,p15card,exclusion,Variable,3
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,3

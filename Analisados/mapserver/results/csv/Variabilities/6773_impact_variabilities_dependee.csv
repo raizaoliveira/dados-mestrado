@@ -1,0 +1,14 @@
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,mapserv,additon,Variable,6
+True,msInitShape,additon,Function,6
+True,qlayer,exclusion,Variable,6
+def(USE_GEOS),msQueryByOperator,additon,Function,6
+True,msExecuteQuery,additon,Function,6
+True,msCopyShape,additon,Function,6
+def(USE_GEOS),msFreeShape,additon,Function,6
+True,map,additon,Variable,6
+True,msQueryByShape,exclusion,Function,6
+True,msQueryByRect,exclusion,Function,6
+True,msQueryByIndex,exclusion,Function,6
+True,msQueryByAttributes,exclusion,Function,6
+True,msQueryByPoint,parameter,Function,6

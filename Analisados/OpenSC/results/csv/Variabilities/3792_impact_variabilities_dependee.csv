@@ -1,0 +1,12 @@
+True,pkcs15_cert_ops,additon,Variable,3
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,3
+def(USE_PKCS15_INIT),pkcs15_create_object,additon,Function,3
+True,set_cka_label,additon,Function,3
+True,cert,additon,Variable,3
+True,pkcs15_prkey_ops,additon,Variable,3
+True,fw_data,additon,Variable,3
+True,pkcs15_pubkey_ops,additon,Variable,3
+True,create_cert_obj,additon,Function,3
+True,pkcs15_dobj_ops,additon,Variable,3
+True,__pkcs15_create_cert_object,exclusion,Function,3
+True,sc_do_log,exclusion,Function,3

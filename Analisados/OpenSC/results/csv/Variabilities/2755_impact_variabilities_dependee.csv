@@ -1,0 +1,14 @@
+def(USE_PKCS15_INIT),pkcs15_create_object,exclusion,Function,4
+True,pkcs15_pubkey_ops,exclusion,Variable,4
+True,__pkcs15_create_cert_object,additon,Function,4
+True,create_cert_obj,exclusion,Function,4
+True,p11card,exclusion,Variable,4
+True,sc_strerror,parameter,Function,4
+True,fw_data,exclusion,Variable,4
+True,pkcs15_cert_ops,exclusion,Variable,4
+True,pkcs15_prkey_ops,exclusion,Variable,4
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,4
+!def(__GNUC__),sc_debug,exclusion,Function,4
+True,sc_do_log,additon,Function,4
+True,usage,additon,Function,4
+True,pkcs15_dobj_ops,exclusion,Variable,4

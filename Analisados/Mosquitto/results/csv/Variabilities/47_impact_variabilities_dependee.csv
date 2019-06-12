@@ -1,0 +1,4 @@
+True,_mosquitto_log_printf,additon,Function,2
+True,db,additon,Variable,2
+True,listensock,additon,Variable,2
+True,mqtt3_context_cleanup,additon,Function,2

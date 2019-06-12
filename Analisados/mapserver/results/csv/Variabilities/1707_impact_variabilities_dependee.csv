@@ -1,0 +1,10 @@
+True,msGetOutputFormatOption,parameter,Function,7
+True,extent,additon,Variable,7
+True,msDBFReadStringAttribute,parameter,Function,7
+True,msTransformShapeToPixel,exclusion,Function,7
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,7
+True,cellsize,additon,Variable,7
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,7
+def(TEST),cacheRelease,parameter,Function,7
+def(TEST),cacheTest,parameter,Function,7
+def(TEST),cacheFetch,parameter,Function,7

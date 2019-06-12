@@ -1,0 +1,5 @@
+True,sc_detect_card_presence,additon,Function,2
+True,pcsc_stringify_error,exclusion,Function,2
+!def(__GNUC__),error,additon,Function,2
+!def(__GNUC__),debug,exclusion,Function,2
+True,sc_release_context,additon,Function,2

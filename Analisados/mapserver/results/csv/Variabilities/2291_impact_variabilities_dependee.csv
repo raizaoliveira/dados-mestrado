@@ -1,0 +1,7 @@
+def(TEST),cacheRelease,parameter,Function,4
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,4
+def(TEST),cacheFetch,parameter,Function,4
+True,msGetOutputFormatOption,parameter,Function,4
+True,msDBFReadStringAttribute,parameter,Function,4
+def(TEST),cacheTest,parameter,Function,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4

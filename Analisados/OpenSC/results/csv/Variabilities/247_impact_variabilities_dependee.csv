@@ -1,0 +1,7 @@
+True,sc_pkcs15_bind,exclusion,Function,2
+True,sc_pkcs15_enum_certificates,exclusion,Function,2
+True,p15card,exclusion,Variable,2
+True,verify_pin,additon,Function,2
+True,sc_pkcs15_verify_pin,exclusion,Function,2
+!def(__GNUC__),debug,exclusion,Function,2
+True,pkcs15_bind,additon,Function,2

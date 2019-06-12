@@ -1,0 +1,14 @@
+crm_add_logfile,1,function
+send_cmd_complete_notify,1,function
+strerror,1,function
+op,1,variable
+crm_trigger_blackbox,1,function
+ipc_proxy_forward_client,1,function
+read_output,1,function
+process_lrmd_signon,1,function
+daemon_option,1,function
+cib_create_op,1,function
+crm_is_callsite_active,1,function
+time_diff_ms,1,function
+crm_enable_blackbox,1,function
+ipc_proxy_add_provider,1,function

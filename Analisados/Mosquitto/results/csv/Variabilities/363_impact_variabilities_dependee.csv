@@ -1,0 +1,3 @@
+True,_mosquitto_socket_get_address,parameter,Function,1
+True,db,exclusion,Variable,1
+True,listensock,exclusion,Variable,1

@@ -1,0 +1,3 @@
+True,LogCollectorStart,exclusion,Function,2
+!def(WIN32),LogCollectorStart,additon,Function,2
+!def(WIN32),OS_GetHost,parameter,Function,2

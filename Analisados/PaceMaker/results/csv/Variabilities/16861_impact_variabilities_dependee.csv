@@ -1,0 +1,10 @@
+True,id,additon,Variable,2
+True,valid_version_format,exclusion,Function,2
+True,cmd,additon,Variable,2
+True,client,additon,Variable,2
+True,metadata,exclusion,Variable,2
+True,rc,additon,Variable,2
+True,request,additon,Variable,2
+True,crm_is_callsite_active,exclusion,Function,2
+True,rsc,exclusion,Variable,2
+True,get_xpath_object,exclusion,Function,2

@@ -1,0 +1,8 @@
+True,!def(ENABLE_OPENSSL)
+def(ENABLE_OPENSSL),True
+def(ENABLE_PCSC),True
+True,def(ENABLE_SM)
+def(USE_PKCS15_INIT),True
+!def(WIN32),True
+True,def(ENABLE_OPENSSL)
+!def(ENABLE_OPENSSL),True

@@ -1,0 +1,5 @@
+True,pkcs11_get_rsa_method,additon,Function,2
+def(HAVE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+def(HAVE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,2
+def(HAVE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,2
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,2

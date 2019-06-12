@@ -1,0 +1,2 @@
+def(HAVE_OPENSSL),True
+True,def(ENABLE_OPENSSL)

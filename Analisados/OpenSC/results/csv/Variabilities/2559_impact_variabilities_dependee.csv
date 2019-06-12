@@ -1,0 +1,7 @@
+True,do_sign,additon,Function,3
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,3
+True,i,additon,Variable,3
+True,sign,exclusion,Function,3
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,3
+def(HAVE_ZLIB_H),i,exclusion,Variable,3
+True,p15card,additon,Variable,3

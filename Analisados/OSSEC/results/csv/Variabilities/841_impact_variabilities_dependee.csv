@@ -1,0 +1,2 @@
+!def(WIN32),OS_GetHost,parameter,Function,2
+True,m_queue,exclusion,Variable,2

@@ -1,0 +1,7 @@
+def(TEST),
+def(USE_WFS_SVR),
+def(USE_WMS_LYR),
+def(NEED_STRNCASECMP),
+True,
+def(notdef),
+def(NEED_STRCASECMP),

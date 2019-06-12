@@ -1,0 +1,14 @@
+!def(USE_AGG),True
+True,def(USE_GD_FT)
+!def(USE_GD_GIF),True
+!def(USE_GD_WBMP),True
+def(USE_GD_PNG),True
+def(USE_GD_JPEG),True
+!def(USE_GD_PNG),True
+True,def(USE_GD_JPEG)
+def(USE_GD_FT),True
+True,def(notdef)
+True,def(USE_WMS_LYR)
+def(notdef),True
+True,def(USE_GD_PNG)
+!def(USE_GD_JPEG),True

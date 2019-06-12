@@ -1,0 +1,3 @@
+!def(DMALLOC),True
+def(PLUGIN_PF),True
+True,def(ENABLE_DEBUG)

@@ -1,0 +1,12 @@
+True,p11card,exclusion,Variable,3
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,3
+True,sc_pkcs15_add_object,exclusion,Function,3
+True,pkcs15_add_object,additon,Function,3
+def(USE_PKCS15_INIT),pkcs15init_bind,exclusion,Function,3
+True,opt_profile,exclusion,Variable,3
+True,card,exclusion,Variable,3
+True,sc_pkcs15init_bind,additon,Function,3
+True,pin,exclusion,Variable,3
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,3
+True,profile,exclusion,Variable,3
+True,opt_card_profile,exclusion,Variable,3

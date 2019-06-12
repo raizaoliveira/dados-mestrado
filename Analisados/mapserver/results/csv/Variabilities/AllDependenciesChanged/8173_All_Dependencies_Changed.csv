@@ -1,0 +1,4 @@
+def(USE_WMS_SVR),True
+True,def(USE_POINT_Z_M)
+def(USE_FASTCGI),True
+!def(USE_FASTCGI),True

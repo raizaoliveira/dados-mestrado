@@ -1,0 +1,12 @@
+True,usage,exclusion,Function,3
+def(USE_PKCS15_INIT),pkcs15_create_data,additon,Function,3
+True,pkcs15_pubkey_ops,exclusion,Variable,3
+True,p11card,additon,Variable,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3
+True,pkcs15_cert_ops,exclusion,Variable,3
+True,fw_data,additon,Variable,3
+True,pkcs15_prkey_ops,exclusion,Variable,3
+def(USE_PKCS15_INIT),pkcs15_create_object,exclusion,Function,3
+True,pkcs15_dobj_ops,exclusion,Variable,3
+True,__pkcs15_create_data_object,exclusion,Function,3
+True,cert,exclusion,Variable,3

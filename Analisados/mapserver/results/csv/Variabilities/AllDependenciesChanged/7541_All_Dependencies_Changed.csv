@@ -1,0 +1,9 @@
+True,!def(USE_GEOS)
+def(USE_GEOS),True
+True,def(TEST)
+True,def(USE_WMS_LYR)
+def(USE_POINT_Z_M),True
+!def(USE_FASTCGI),True
+def(USE_FASTCGI),True
+True,def(USE_GEOS)
+def(USE_MING_FLASH),True

@@ -1,0 +1,13 @@
+True,msDrawLegendIcon,additon,Function,3
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,3
+True,mapserv,exclusion,Variable,3
+True,class,exclusion,Variable,3
+True,msDrawLegend,exclusion,Function,3
+True,width,additon,Variable,3
+True,height,additon,Variable,3
+True,dstX,exclusion,Variable,3
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,3
+True,dstY,exclusion,Variable,3
+True,img,exclusion,Variable,3
+True,map,additon,Variable,3
+True,lp,exclusion,Variable,3

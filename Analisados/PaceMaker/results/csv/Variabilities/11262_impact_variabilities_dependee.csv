@@ -1,0 +1,5 @@
+True,strerror,exclusion,Function,1
+True,sys_to,additon,Variable,1
+True,pcmk_strerror,additon,Function,1
+True,daemon_option,specifier,Function,1
+True,msg,additon,Variable,1

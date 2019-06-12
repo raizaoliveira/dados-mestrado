@@ -1,0 +1,8 @@
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6
+True,slayer,additon,Variable,6
+True,msGetOutputFormatOption,parameter,Function,6
+True,map,additon,Variable,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,msObj,additon,Variable,6
+True,split,parameter,Function,6
+True,msDBFReadStringAttribute,parameter,Function,6

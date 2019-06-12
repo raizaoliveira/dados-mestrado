@@ -1,0 +1,5 @@
+True,
+def(WITH_SYS_TREE),
+def(WITH_TLS),
+def(WITH_BRIDGE),
+!def(WIN32),

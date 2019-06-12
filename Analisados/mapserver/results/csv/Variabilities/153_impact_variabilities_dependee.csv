@@ -1,0 +1,13 @@
+def(USE_PROJ),j,additon,Variable,3
+True,SHPReadShape,additon,Function,3
+True,DBFReadStringAttribute,parameter,Function,3
+True,mode,additon,Variable,3
+True,map,exclusion,Variable,3
+True,rect,exclusion,Variable,3
+def(TEST),cacheTest,parameter,Function,3
+def(USE_PROJ),msWhichShapesProj,parameter,Function,3
+True,buffer,additon,Variable,3
+def(USE_PROJ),shape,additon,Variable,3
+def(USE_PROJ),i,additon,Variable,3
+def(TEST),cacheFetch,parameter,Function,3
+def(TEST),cacheRelease,parameter,Function,3

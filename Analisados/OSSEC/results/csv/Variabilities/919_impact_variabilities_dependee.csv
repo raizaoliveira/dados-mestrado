@@ -1,0 +1,14 @@
+True,help,additon,Function,2
+True,start_daemon,additon,Function,2
+True,create_db,additon,Function,2
+True,verbose,additon,Function,2
+True,nowDebug,additon,Function,2
+True,merror,additon,Function,2
+True,OS_SetName,additon,Function,2
+True,CreatePID,additon,Function,2
+True,ErrorExit,additon,Function,2
+!def(WIN32),OS_GetHost,parameter,Function,2
+True,nowDaemon,additon,Function,2
+True,Read_Syscheck_Config,additon,Function,2
+True,File_DateofChange,additon,Function,2
+True,run_check,additon,Function,2

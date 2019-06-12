@@ -1,0 +1,3 @@
+def(ON_LINUX),
+def(SUPPORT_CMAN),
+True,

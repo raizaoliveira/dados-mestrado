@@ -1,0 +1,14 @@
+True,DBFReadStringAttribute,parameter,Function,3
+def(TEST),cacheTest,parameter,Function,3
+def(USE_PROJ),msQueryUsingShape,exclusion,Function,3
+def(USE_PROJ),shape,exclusion,Variable,3
+True,rect,additon,Variable,3
+def(USE_PROJ),i,exclusion,Variable,3
+def(USE_PROJ),j,exclusion,Variable,3
+True,msOpenSHPFile,parameter,Function,3
+def(TEST),cacheFetch,parameter,Function,3
+def(USE_PROJ),msQueryUsingFeatures,exclusion,Function,3
+def(USE_PROJ),msWhichShapesProj,parameter,Function,3
+True,map,additon,Variable,3
+def(TEST),cacheRelease,parameter,Function,3
+True,SHPReadShape,exclusion,Function,3

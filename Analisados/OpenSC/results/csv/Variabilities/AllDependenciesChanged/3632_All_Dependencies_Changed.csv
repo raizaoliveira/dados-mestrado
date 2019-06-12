@@ -1,0 +1,4 @@
+True,def(ENABLE_OPENSSL)
+def(ENABLE_OPENSSL),True
+True,def(DEBUG_PROFILE)
+def(DEBUG_PROFILE),True

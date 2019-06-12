@@ -1,0 +1,13 @@
+True,p15card,additon,Variable,2
+True,new_file,additon,Function,2
+True,usage,exclusion,Function,2
+True,sc_file_add_acl_entry,exclusion,Function,2
+def(ENABLE_OPENSSL),object,exclusion,Variable,2
+True,card,exclusion,Variable,2
+True,sc_pkcs15_allocate_object_content,parameter,Function,2
+True,add_acl_entry,additon,Function,2
+True,reverse,additon,Function,2
+True,sc_pkcs15_free_object_content,exclusion,Function,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+True,sc_mem_reverse,exclusion,Function,2
+True,sc_pkcs15_free_object,additon,Function,2

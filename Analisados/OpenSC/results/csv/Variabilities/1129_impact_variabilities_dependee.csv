@@ -1,0 +1,5 @@
+True,sc_connect_card,additon,Function,2
+True,error,exclusion,Function,2
+True,connect_card,exclusion,Function,2
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,2
+True,sc_to_cryptoki_error,additon,Function,2

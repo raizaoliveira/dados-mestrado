@@ -1,0 +1,4 @@
+True,msCopyLayer,exclusion,Function,2
+True,loadParams,parameter,Function,2
+True,msInitializeVirtualTable,exclusion,Function,2
+True,msOWSRequestLayersEnabled,exclusion,Function,2

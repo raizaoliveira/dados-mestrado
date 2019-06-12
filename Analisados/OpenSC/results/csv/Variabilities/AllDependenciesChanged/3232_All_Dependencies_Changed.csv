@@ -1,0 +1,3 @@
+!def(__GNUC__),True
+True,def(HAVE_ZLIB_H)
+def(USE_PKCS15_INIT),True

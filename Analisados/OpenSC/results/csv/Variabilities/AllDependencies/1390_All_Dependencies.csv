@@ -1,0 +1,15 @@
+def(HAVE_USBTOKEN),True
+True,def(USE_PKCS15_INIT)
+def(ATR_SUPPORT),True
+True,!def(__GNUC__)
+True,def(HAVE_SETUTENT)
+def(HAVE_OPENSSL),True
+True,def(HAVE_OPENSSL)
+def(HAVE_USBTOKEN),!def(__GNUC__)
+def(USE_PKCS15_INIT),True
+!def(HAVE_OPENSSL),True
+!def(__GNUC__),True
+def(RANDOM_POOL),True
+True,!def(HAVE_OPENSSL)
+True,def(notused)
+def(notused),True

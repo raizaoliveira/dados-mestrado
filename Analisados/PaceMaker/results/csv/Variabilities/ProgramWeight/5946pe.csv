@@ -1,0 +1,6 @@
+setenv,1,function
+DO_RESET,1,variable
+crmd_operation,1,variable
+cib_create_op,1,function
+this_msg_reference,1,variable
+cib_error2string,1,function

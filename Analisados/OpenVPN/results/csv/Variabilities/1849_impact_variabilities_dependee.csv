@@ -1,0 +1,11 @@
+def(ENABLE_DEBUG),up,additon,Variable,4
+def(ENABLE_PERFORMANCE_METRICS),metric_names,additon,Variable,4
+!def(DMALLOC),string_alloc,additon,Function,4
+True,array_mult_safe,parameter,Function,4
+def(ENABLE_PERFORMANCE_METRICS),tv_string,additon,Function,4
+True,assert_failed,additon,Function,4
+def(ENABLE_DEBUG),pct_name,additon,Function,4
+def(ENABLE_DEBUG),tls_common_name,additon,Function,4
+def(ENABLE_DEBUG),drop_accept,additon,Function,4
+def(ENABLE_DEBUG),wait_status_string,additon,Function,4
+True,x_msg,additon,Function,4

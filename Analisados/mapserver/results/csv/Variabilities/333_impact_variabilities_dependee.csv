@@ -1,0 +1,6 @@
+def(TEST),cacheFetch,parameter,Function,4
+def(TEST),cacheRelease,parameter,Function,4
+def(TEST),cacheTest,parameter,Function,4
+True,map,additon,Variable,4
+True,msDBFReadStringAttribute,parameter,Function,4
+True,value,additon,Variable,4

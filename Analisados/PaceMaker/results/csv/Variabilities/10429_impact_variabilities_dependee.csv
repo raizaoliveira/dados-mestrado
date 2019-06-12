@@ -1,0 +1,3 @@
+True,rsc,exclusion,Variable,3
+True,op,exclusion,Variable,3
+def(ON_LINUX),process_icmp6_error,additon,Function,3

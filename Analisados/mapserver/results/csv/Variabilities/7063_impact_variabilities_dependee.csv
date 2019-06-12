@@ -1,0 +1,11 @@
+True,shape,exclusion,Variable,5
+True,mapserv,exclusion,Variable,5
+True,j,exclusion,Variable,5
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,5
+True,final_j,exclusion,Variable,5
+True,msFreeMap,exclusion,Function,5
+True,msIsDegenerateShape,additon,Function,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+True,msAddLine,additon,Function,5
+True,msAddLineDirectly,exclusion,Function,5
+True,msFreeMapServObj,additon,Function,5

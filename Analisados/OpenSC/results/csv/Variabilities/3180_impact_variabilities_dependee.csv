@@ -1,0 +1,7 @@
+True,error,exclusion,Function,3
+True,util_fatal,additon,Function,3
+True,sc_strerror,parameter,Function,3
+def(HAVE_ZLIB_H),sc_strerror,type,Function,3
+True,sc_to_cryptoki_error,additon,Function,3
+True,rv,additon,Variable,3
+True,version,parameter,Function,3

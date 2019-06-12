@@ -1,0 +1,7 @@
+True,!def(ON_LINUX)
+!def(HAVE_MSGFROMIPC_TIMEOUT),True
+!def(ON_LINUX),def(ON_LINUX)
+def(ON_LINUX),True
+!def(HAVE_GNUTLS_GNUTLS_H),True
+True,!def(HAVE_GNUTLS_GNUTLS_H)
+True,def(ON_LINUX)

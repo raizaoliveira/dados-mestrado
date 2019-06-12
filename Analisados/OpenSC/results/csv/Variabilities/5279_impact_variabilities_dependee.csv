@@ -1,0 +1,8 @@
+True,ext_info_ok,exclusion,Variable,4
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,4
+True,ctx_out,exclusion,Variable,4
+True,rdata,exclusion,Variable,4
+True,p15card,exclusion,Variable,4
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,4
+True,ctx,exclusion,Variable,4
+True,card,exclusion,Variable,4

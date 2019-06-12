@@ -1,0 +1,15 @@
+True,gen_keypair,additon,Function,5
+True,sc_do_log,additon,Function,5
+True,rv,additon,Variable,5
+True,iso7816_errors,exclusion,Function,5
+!def(__GNUC__),sc_debug,exclusion,Function,5
+True,p15card,additon,Variable,5
+True,gen_key,exclusion,Function,5
+def(COSM_EXTENDED),profile,exclusion,Variable,5
+def(HAVE_ZLIB_H),sc_strerror,type,Function,5
+True,version,parameter,Function,5
+!def(__GNUC__),sc_error,exclusion,Function,5
+True,sc_strerror,parameter,Function,5
+True,pool_find,additon,Function,5
+def(COSM_EXTENDED),object,exclusion,Variable,5
+True,delete_object,exclusion,Function,5

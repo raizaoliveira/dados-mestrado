@@ -1,0 +1,16 @@
+def(ENABLE_OPENSSL),rsa,exclusion,Variable,3
+True,priv_key,exclusion,Variable,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3
+!def(ENABLE_OPENSSL),p11_perror,exclusion,Function,3
+True,rv,exclusion,Variable,3
+True,key_len,exclusion,Variable,3
+True,cert,exclusion,Variable,3
+True,sc_pkcs11_find_mechanism,additon,Function,3
+True,p11_mechanism_to_name,exclusion,Function,3
+True,CKR2Str,exclusion,Function,3
+True,pub_key,exclusion,Variable,3
+True,util_fatal,exclusion,Function,3
+!def(ENABLE_OPENSSL),CKR2Str,exclusion,Function,3
+True,find_mechanism,exclusion,Function,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,3
+True,slot,exclusion,Variable,3

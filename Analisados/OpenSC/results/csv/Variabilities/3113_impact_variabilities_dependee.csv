@@ -1,0 +1,2 @@
+True,sc_strerror,parameter,Function,2
+def(HAVE_ZLIB_H),sc_strerror,type,Function,2

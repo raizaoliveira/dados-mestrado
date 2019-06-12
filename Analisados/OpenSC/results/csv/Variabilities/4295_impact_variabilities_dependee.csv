@@ -1,0 +1,5 @@
+def(HAVE_OPENSSL),rsa_der,additon,Variable,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3
+def(HAVE_OPENSSL),rsa_der_len,additon,Variable,3
+True,sc_pkcs15_decode_pubkey_rsa,additon,Function,3
+True,sc_pkcs15_decode_pubkey,exclusion,Function,3

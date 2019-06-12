@@ -1,0 +1,7 @@
+def(ENABLE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,2
+True,opts,additon,Variable,2
+True,ctx,additon,Variable,2
+True,sc_do_log,exclusion,Function,2
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,2
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,2

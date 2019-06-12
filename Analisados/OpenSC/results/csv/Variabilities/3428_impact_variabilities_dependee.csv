@@ -1,0 +1,15 @@
+True,ctx,additon,Variable,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3
+def(ENABLE_OPENSSL),pubkey,exclusion,Variable,3
+True,attr,additon,Variable,3
+def(HAVE_OPENSSL),rsa_der_len,additon,Variable,3
+True,session,additon,Variable,3
+def(HAVE_OPENSSL),rsa_der,additon,Variable,3
+True,sc_pkcs15_decode_pubkey_rsa,additon,Function,3
+True,sc_pkcs15init_store_data,additon,Function,3
+True,cert,additon,Variable,3
+True,sc_pkcs15init_generate_key,additon,Function,3
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,3
+True,generate_key,exclusion,Function,3
+True,sc_pkcs15init_store_data_object,exclusion,Function,3
+True,sc_pkcs15_decode_pubkey,exclusion,Function,3

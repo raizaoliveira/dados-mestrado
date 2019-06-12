@@ -1,0 +1,7 @@
+True,def(HAVE_OPENSSL)
+def(HAVE_OPENSSL),True
+True,!def(__GNUC__)
+!def(HAVE_OPENSSL),True
+def(COSM_EXTENDED),True
+True,def(HAVE_ZLIB_H)
+def(USE_PKCS15_INIT),True

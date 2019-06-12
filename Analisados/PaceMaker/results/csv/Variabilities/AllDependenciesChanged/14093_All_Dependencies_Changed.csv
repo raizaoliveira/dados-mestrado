@@ -1,0 +1,2 @@
+True,def(HAVE_SYS_TIMEB_H)
+!def(HAVE_GNUTLS_GNUTLS_H),True

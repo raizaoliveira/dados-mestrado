@@ -1,0 +1,3 @@
+True,mapserv,exclusion,Variable,5
+def(USE_WMS_SVR),msOWSDispatch,additon,Function,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5

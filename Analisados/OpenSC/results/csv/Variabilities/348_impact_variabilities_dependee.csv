@@ -1,0 +1,12 @@
+True,ctx,additon,Variable,2
+True,do_log,exclusion,Function,2
+True,do_log2,additon,Function,2
+True,pcsc_stringify_error,additon,Function,2
+True,rc,additon,Variable,2
+True,connect,additon,Function,2
+True,sc_connect_card,exclusion,Function,2
+True,reader,additon,Variable,2
+True,p15card,additon,Variable,2
+True,card,additon,Variable,2
+True,sc_strerror,additon,Function,2
+True,rv,additon,Variable,2

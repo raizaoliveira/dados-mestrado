@@ -1,0 +1,6 @@
+def(ENABLE_OPENSSL),True
+True,def(ENABLE_OPENSSL)
+True,def(ENABLE_PCSC)
+def(ENABLE_PCSC),True
+True,def(_WIN32)
+!def(ENABLE_SM),True

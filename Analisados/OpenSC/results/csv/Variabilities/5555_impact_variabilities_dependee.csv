@@ -1,0 +1,9 @@
+def(ENABLE_OPENSSL),tries_left,exclusion,Variable,3
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,3
+True,verify_pin,parameter,Function,3
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,3
+True,sc_do_log,additon,Function,3
+def(ENABLE_OPENSSL),lookup_enum,additon,Function,3
+True,change_pin,exclusion,Function,3
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,3
+True,_sc_log,exclusion,Function,3

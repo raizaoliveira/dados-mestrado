@@ -1,0 +1,12 @@
+True,sc_strerror,parameter,Function,5
+True,create_cert_obj,additon,Function,5
+True,fw_data,exclusion,Variable,5
+True,__pkcs15_create_data_object,additon,Function,5
+def(HAVE_ZLIB_H),sc_strerror,type,Function,5
+True,context,additon,Variable,5
+True,__pkcs15_create_cert_object,exclusion,Function,5
+def(USE_PKCS15_INIT),pkcs15_create_data,exclusion,Function,5
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,5
+True,sc_do_log,exclusion,Function,5
+!def(__GNUC__),sc_debug,additon,Function,5
+True,p11card,exclusion,Variable,5

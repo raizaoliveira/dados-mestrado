@@ -1,0 +1,4 @@
+def(ENABLE_DEBUG),tls_common_name,exclusion,Function,2
+True,array_mult_safe,parameter,Function,2
+True,pf_init,exclusion,Function,2
+def(ENABLE_DEBUG),pf_cn_test,exclusion,Function,2

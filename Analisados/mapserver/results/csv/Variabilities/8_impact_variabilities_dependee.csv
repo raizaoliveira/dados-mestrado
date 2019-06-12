@@ -1,0 +1,17 @@
+True,font,additon,Variable,6
+True,rect,additon,Variable,6
+True,class,additon,Variable,6
+def(TEST),cacheRelease,parameter,Function,6
+def(NEED_STRDUP),strdup,exclusion,Function,6
+def(TEST),cacheFetch,parameter,Function,6
+True,string,additon,Variable,6
+def(USE_PROJ),msWhichShapesProj,parameter,Function,6
+True,getString,additon,Function,6
+True,p,additon,Variable,6
+True,DBFReadStringAttribute,parameter,Function,6
+True,getCharacter,exclusion,Function,6
+def(TEST),cacheTest,parameter,Function,6
+True,img,additon,Variable,6
+True,label,additon,Variable,6
+True,labelPnt,additon,Variable,6
+def(NEED_STRCASECMP),strcasecmp,exclusion,Function,6

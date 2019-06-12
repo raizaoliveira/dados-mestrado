@@ -1,0 +1,5 @@
+def(USE_WMS),
+def(TEST),
+def(NEED_STRCASECMP),
+def(NEED_STRNCASECMP),
+True,

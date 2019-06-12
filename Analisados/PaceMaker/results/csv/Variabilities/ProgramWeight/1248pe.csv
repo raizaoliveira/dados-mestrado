@@ -1,0 +1,5 @@
+src,1,variable
+dump_array,1,function
+send_abort,1,function
+set_xml_property_copy,1,function
+extract_event,1,function

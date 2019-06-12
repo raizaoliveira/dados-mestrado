@@ -1,0 +1,11 @@
+def(TEST),cacheRelease,parameter,Function,6
+True,split,parameter,Function,6
+True,msDBFReadStringAttribute,parameter,Function,6
+True,msSOSDispatch,additon,Function,6
+def(USE_WMS_SVR),msWMSDispatch,exclusion,Function,6
+True,msResetErrorList,exclusion,Function,6
+True,msGetOutputFormatOption,parameter,Function,6
+True,msOWSDispatch,exclusion,Function,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+def(TEST),cacheTest,parameter,Function,6
+def(TEST),cacheFetch,parameter,Function,6

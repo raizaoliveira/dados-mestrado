@@ -1,0 +1,3 @@
+True,!def(USE_GD_TTF)
+True,def(USE_WMS_LYR)
+!def(USE_AGG),True

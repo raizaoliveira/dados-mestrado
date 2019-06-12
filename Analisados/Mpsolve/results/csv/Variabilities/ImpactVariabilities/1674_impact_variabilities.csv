@@ -1,0 +1,3 @@
+True,
+def(MPS_USE_BUILTIN_COMPLEX),
+!def(HAVE_STRNDUP),

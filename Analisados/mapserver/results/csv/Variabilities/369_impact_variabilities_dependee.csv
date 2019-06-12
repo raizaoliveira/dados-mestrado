@@ -1,0 +1,8 @@
+True,p,exclusion,Variable,3
+True,draw_text,additon,Function,3
+def(TEST),cacheTest,parameter,Function,3
+def(TEST),cacheRelease,parameter,Function,3
+True,value,additon,Variable,3
+True,msDBFReadStringAttribute,parameter,Function,3
+True,msGetLabelSize,additon,Function,3
+def(TEST),cacheFetch,parameter,Function,3

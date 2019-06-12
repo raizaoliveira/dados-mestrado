@@ -1,0 +1,11 @@
+def(ENABLE_OPENSSL),pin_cmd,exclusion,Variable,2
+True,change_pin,exclusion,Function,2
+True,set_pin,exclusion,Function,2
+True,select_file,exclusion,Function,2
+True,verify_pin,exclusion,Function,2
+True,card,additon,Variable,2
+True,sc_strerror,exclusion,Function,2
+True,sc_do_log,exclusion,Function,2
+def(ENABLE_OPENSSL),tries_left,exclusion,Variable,2
+def(ENABLE_OPENSSL),authentic_known_atrs,exclusion,Variable,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2

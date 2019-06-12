@@ -1,0 +1,11 @@
+True,userdata,additon,Variable,2
+True,throttle_timer,additon,Variable,2
+True,crm_callbacks,exclusion,Variable,2
+True,stderr_callbacks,additon,Variable,2
+True,t,additon,Variable,2
+True,priority,additon,Variable,2
+True,fd,additon,Variable,2
+True,crm_ipc_default_buffer_size,additon,Function,2
+True,crm_ipc_prepare,exclusion,Function,2
+True,stdout_callbacks,additon,Variable,2
+True,cfg_handle,additon,Variable,2

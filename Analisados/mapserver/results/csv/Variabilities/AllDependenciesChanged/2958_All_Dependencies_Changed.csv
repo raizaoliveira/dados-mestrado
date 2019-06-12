@@ -1,0 +1,16 @@
+def(__cplusplus),True
+def(USE_WMS_SVR),def(NEED_STRDUP)
+True,def(USE_WMS_LYR)
+!def(USE_GD_FT),True
+def(USE_MING_FLASH),True
+def(USE_OGR),True
+def(USE_WMS_SVR),True
+def(IGNORE_MISSING_DATA),True
+True,def(USE_GD_FT)
+True,def(USE_WMS_SVR)
+def(USE_GD_FT),True
+True,def(TEST)
+!def(__cplusplus),True
+def(USE_PROJ),True
+def(NEED_STRDUP),True
+def(NEED_STRCASECMP),True

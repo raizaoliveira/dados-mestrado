@@ -1,0 +1,16 @@
+True,source,additon,Variable,2
+def(WIN32),el_getEventDLL,additon,Function,2
+def(WIN32),el_sstring,additon,Variable,2
+True,help,exclusion,Function,2
+True,merror,additon,Function,2
+def(WIN32),startEL,additon,Function,2
+def(WIN32),source,additon,Variable,2
+True,_log,additon,Function,2
+True,evt_log,additon,Function,2
+True,el_getMessage,additon,Function,2
+def(WIN32),el_getCategory,additon,Function,2
+True,name,additon,Variable,2
+True,el,additon,Variable,2
+True,event,additon,Variable,2
+True,ErrorExit,additon,Function,2
+True,readel,additon,Function,2

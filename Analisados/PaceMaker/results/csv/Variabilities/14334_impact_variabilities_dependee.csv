@@ -1,0 +1,4 @@
+True,crm_strdup_printf,additon,Function,3
+True,msg,exclusion,Variable,3
+True,pcmk_strerror,exclusion,Function,3
+True,strerror,additon,Function,3

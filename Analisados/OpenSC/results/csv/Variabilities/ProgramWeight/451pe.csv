@@ -1,0 +1,9 @@
+sc_establish_context,1,function
+sc_detect_card_presence,1,function
+fatal,1,function
+dump_template,1,function
+sc_pkcs11_any_cmp_attribute,1,function
+sc_release_context,1,function
+sc_disconnect_card,1,function
+scam_frameworks,1,variable
+sc_connect_card,1,function

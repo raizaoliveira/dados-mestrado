@@ -1,0 +1,3 @@
+True,open_ports_str,additon,Variable,1
+True,open_ports_size,additon,Variable,1
+True,try_to_access_ports,additon,Function,1

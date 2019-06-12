@@ -1,0 +1,4 @@
+!def(__GNUC__),debug,additon,Function,2
+True,sc_pkcs15_verify_pin,additon,Function,2
+!def(__GNUC__),error,additon,Function,2
+True,verify_pin,exclusion,Function,2

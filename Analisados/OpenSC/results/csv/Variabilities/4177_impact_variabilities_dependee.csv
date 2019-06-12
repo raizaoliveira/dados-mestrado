@@ -1,0 +1,6 @@
+def(HAVE_OPENSSL),rsa_der_len,additon,Variable,2
+True,sc_pkcs15_decode_pubkey_rsa,exclusion,Function,2
+True,sc_pkcs15_encode_pubkey_rsa,additon,Function,2
+True,sc_pkcs15_decode_pubkey,additon,Function,2
+def(HAVE_OPENSSL),rsa_der,additon,Variable,2
+True,sc_pkcs15_encode_pubkey,exclusion,Function,2

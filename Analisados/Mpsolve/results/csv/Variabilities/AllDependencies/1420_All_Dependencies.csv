@@ -1,0 +1,7 @@
+True,!def(HAVE_GETLINE)
+!def(HAVE_FMEMOPEN),True
+True,!def(DISABLE_DEBUG)
+True,!def(mpf_pow_ui)
+True,!def(HAVE_FMEMOPEN)
+def(NICE_DEBUG),True
+!def(DISABLE_DEBUG),True

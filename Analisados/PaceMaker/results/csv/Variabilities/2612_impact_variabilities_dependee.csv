@@ -1,0 +1,4 @@
+def(TESTING),te_fence_node,exclusion,Function,2
+True,cib_action_update,exclusion,Function,2
+True,process_trigger,exclusion,Function,2
+True,action,additon,Variable,2

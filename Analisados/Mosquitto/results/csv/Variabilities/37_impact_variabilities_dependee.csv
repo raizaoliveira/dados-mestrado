@@ -1,0 +1,4 @@
+True,mosquitto_unpwd_check,additon,Function,3
+True,mid,additon,Variable,3
+True,mosq,additon,Variable,3
+True,db,exclusion,Variable,3

@@ -1,0 +1,6 @@
+extract_event,1,function
+dump_array,1,function
+set_xml_property_copy,1,function
+src,1,variable
+crm_element_value,1,function
+crm_element_name,1,function

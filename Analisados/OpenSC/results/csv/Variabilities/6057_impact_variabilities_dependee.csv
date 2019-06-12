@@ -1,0 +1,6 @@
+True,sc_pkcs15_free_object,additon,Function,3
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3
+True,handle,parameter,Function,3
+True,p15card,exclusion,Variable,3
+True,sc_pkcs15_free_object_content,exclusion,Function,3

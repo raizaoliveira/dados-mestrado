@@ -1,0 +1,7 @@
+True,_sc_log,additon,Function,3
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,3
+True,p11card,exclusion,Variable,3
+!def(HAVE_STRLCPY),strlcpy,exclusion,Function,3
+True,sc_do_log,exclusion,Function,3
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,3
+def(ENABLE_OPENSSL),register_mechanisms,exclusion,Function,3

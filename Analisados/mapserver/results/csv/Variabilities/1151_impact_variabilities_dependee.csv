@@ -1,0 +1,16 @@
+True,msLoadMap,exclusion,Function,4
+def(TEST),cacheTest,parameter,Function,4
+def(TEST),cacheFetch,parameter,Function,4
+True,msAllocOutputFormat,additon,Function,4
+True,layer,exclusion,Variable,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4
+True,msDBFReadStringAttribute,parameter,Function,4
+True,msGetOutputFormatOption,parameter,Function,4
+True,msTransformShapeToPixel,additon,Function,4
+True,msFreeCharArray,exclusion,Function,4
+True,split,exclusion,Function,4
+True,shape,exclusion,Variable,4
+def(TEST),cacheRelease,parameter,Function,4
+True,msGetVersion,exclusion,Function,4
+True,msWriteError,exclusion,Function,4
+True,msFreeMap,exclusion,Function,4

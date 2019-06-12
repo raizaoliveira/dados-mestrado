@@ -1,0 +1,9 @@
+True,stored,additon,Variable,2
+True,_message_remove,additon,Function,2
+True,mid,additon,Variable,2
+True,context,additon,Variable,2
+True,db,additon,Variable,2
+True,retain,additon,Variable,2
+True,qos,additon,Variable,2
+True,mosquitto__message_remove,exclusion,Function,2
+def(WITH_SOCKS),client_opts_set,additon,Function,2

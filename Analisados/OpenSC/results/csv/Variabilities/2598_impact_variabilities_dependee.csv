@@ -1,0 +1,4 @@
+True,gen_key,additon,Function,2
+True,gen_keypair,exclusion,Function,2
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,2
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,2

@@ -1,0 +1,11 @@
+True,def(USE_GD_PNG)
+def(notdef),True
+!def(USE_GD_FT),True
+True,def(USE_WMS_LYR)
+True,def(USE_WMS_SVR)
+True,def(USE_GD_JPEG)
+def(USE_GD_JPEG),True
+def(USE_GD_PNG),True
+def(USE_GD_FT),True
+True,def(notdef)
+def(USE_GD_GIF),True

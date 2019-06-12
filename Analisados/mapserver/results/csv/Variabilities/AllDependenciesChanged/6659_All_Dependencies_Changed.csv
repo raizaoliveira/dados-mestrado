@@ -1,0 +1,4 @@
+True,def(USE_WMS_LYR)
+def(USE_GEOS),True
+True,def(USE_WMS_SVR)
+def(USE_POINT_Z_M),True

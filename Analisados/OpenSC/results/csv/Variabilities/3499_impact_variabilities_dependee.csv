@@ -1,0 +1,15 @@
+True,sc_pkcs15_print_id,additon,Function,3
+True,sc_pkcs15init_store_data_object,exclusion,Function,3
+True,card,additon,Variable,3
+True,sc_pkcs15init_store_data,additon,Function,3
+def(USE_PKCS15_INIT),pkcs15init_bind,additon,Function,3
+True,opt_card_profile,additon,Variable,3
+True,sc_pkcs15init_requires_restrictive_usage,exclusion,Function,3
+True,generate_key,exclusion,Function,3
+def(ENABLE_OPENSSL),sc_pkcs15_print_id,additon,Function,3
+True,sc_do_log,additon,Function,3
+True,profile,additon,Variable,3
+True,opt_profile,additon,Variable,3
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,3
+True,sc_pkcs15init_bind,exclusion,Function,3
+True,sc_pkcs15init_generate_key,additon,Function,3

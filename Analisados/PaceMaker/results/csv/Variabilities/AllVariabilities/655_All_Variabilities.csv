@@ -1,0 +1,6 @@
+!def(TESTING),
+def(XML_TRACE),
+def(USE_FAKE_LRM),
+def(TESTING),
+True,
+!def(USE_BUGGY_LIBXML),

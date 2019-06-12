@@ -1,0 +1,7 @@
+True,db,additon,Variable,2
+True,context,exclusion,Variable,2
+True,qos,exclusion,Variable,2
+True,mid,exclusion,Variable,2
+def(WITH_BROKER),handle__pubrec,exclusion,Function,2
+True,retain,exclusion,Variable,2
+True,stored,exclusion,Variable,2

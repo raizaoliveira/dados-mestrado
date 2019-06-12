@@ -1,0 +1,8 @@
+True,split,parameter,Function,5
+True,msDBFReadStringAttribute,parameter,Function,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+def(NEED_STRCASECMP),strcasecmp,additon,Function,5
+True,map,exclusion,Variable,5
+True,msGetOutputFormatOption,parameter,Function,5
+True,layer,exclusion,Variable,5
+True,image,exclusion,Variable,5

@@ -1,0 +1,4 @@
+!def(HAVE_STRNDUP),
+True,
+def(MPS_USE_BUILTIN_COMPLEX),
+!def(mpq_out_str),

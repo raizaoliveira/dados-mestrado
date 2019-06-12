@@ -1,0 +1,2 @@
+def(HAVE_ATOMIC_ATTRD),True
+True,def(HAVE_SYS_TIMEB_H)

@@ -1,0 +1,4 @@
+def(HAVE_USBTOKEN),True
+True,def(HAVE_OPENSSL)
+True,!def(__GNUC__)
+!def(__GNUC__),True

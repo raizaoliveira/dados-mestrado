@@ -1,0 +1,8 @@
+True,mid,additon,Variable,1
+True,retain,additon,Variable,1
+True,_message_remove,exclusion,Function,1
+True,db,additon,Variable,1
+True,_mosquitto_message_remove,additon,Function,1
+True,stored,additon,Variable,1
+True,qos,additon,Variable,1
+True,context,additon,Variable,1

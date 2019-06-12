@@ -1,0 +1,8 @@
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,3
+True,sc_do_log,additon,Function,3
+True,sc_strerror,additon,Function,3
+True,piv_objects,exclusion,Variable,3
+True,gen_key,additon,Function,3
+!def(__GNUC__),sc_debug,exclusion,Function,3
+True,gen_keypair,exclusion,Function,3
+True,add_cache_item,additon,Function,3

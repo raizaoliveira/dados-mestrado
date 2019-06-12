@@ -1,0 +1,7 @@
+True,crm_ipcs_send,parameter,Function,2
+True,msg,additon,Variable,2
+True,op,exclusion,Variable,2
+True,crm_write_blackbox,exclusion,Function,2
+True,pcmk_strerror,additon,Function,2
+True,crm_is_callsite_active,parameter,Function,2
+True,strerror,exclusion,Function,2

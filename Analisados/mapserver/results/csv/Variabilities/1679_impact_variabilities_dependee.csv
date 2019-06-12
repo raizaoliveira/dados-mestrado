@@ -1,0 +1,9 @@
+True,msDBFReadStringAttribute,parameter,Function,8
+def(TEST),cacheTest,parameter,Function,8
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,8
+def(NEED_STRCASECMP),strcasecmp,additon,Function,8
+def(TEST),cacheRelease,parameter,Function,8
+True,msGetOutputFormatOption,parameter,Function,8
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,8
+def(NEED_STRDUP),strdup,additon,Function,8
+def(TEST),cacheFetch,parameter,Function,8

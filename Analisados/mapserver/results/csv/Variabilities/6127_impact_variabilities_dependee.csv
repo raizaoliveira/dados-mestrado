@@ -1,0 +1,5 @@
+True,msDrawLegendIcon,additon,Function,2
+True,src,exclusion,Variable,2
+True,msDrawLegend,exclusion,Function,2
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,2
+True,dst,exclusion,Variable,2

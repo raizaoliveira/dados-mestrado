@@ -1,0 +1,16 @@
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,3
+def(USE_PKCS15_INIT),pkcs15init_unbind,additon,Function,3
+True,generate_key,exclusion,Function,3
+True,opt_profile,exclusion,Variable,3
+True,sc_pkcs15init_bind,additon,Function,3
+def(USE_PKCS15_INIT),pkcs15init_bind,exclusion,Function,3
+True,card,exclusion,Variable,3
+True,profile,additon,Variable,3
+True,create_file,additon,Function,3
+True,cert,additon,Variable,3
+True,opt_card_profile,exclusion,Variable,3
+True,sc_pkcs15init_store_data,additon,Function,3
+True,sc_pkcs15init_unbind,exclusion,Function,3
+True,attr,additon,Variable,3
+True,session,additon,Variable,3
+True,sc_pkcs15init_store_data_object,exclusion,Function,3

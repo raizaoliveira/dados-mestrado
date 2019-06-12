@@ -1,0 +1,6 @@
+True,sc_pkcs15init_store_certificate,additon,Function,1
+True,error,additon,Function,1
+True,attr_find,additon,Function,1
+True,pkcs15_add_cert_object,additon,Function,1
+True,sc_to_cryptoki_error,exclusion,Function,1
+True,attr_extract,additon,Function,1

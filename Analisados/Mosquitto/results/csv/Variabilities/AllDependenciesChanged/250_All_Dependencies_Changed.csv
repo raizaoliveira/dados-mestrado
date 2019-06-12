@@ -1,0 +1,2 @@
+(!def(WITH_SYS_TREE)&def(WITH_BRIDGE)),True
+def(WITH_BRIDGE),True

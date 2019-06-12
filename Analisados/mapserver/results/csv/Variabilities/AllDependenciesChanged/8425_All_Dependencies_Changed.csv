@@ -1,0 +1,2 @@
+def(USE_CAIRO),True
+True,def(USE_WMS_SVR)

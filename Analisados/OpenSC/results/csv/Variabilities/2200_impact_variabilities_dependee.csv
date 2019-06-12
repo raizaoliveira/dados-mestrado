@@ -1,0 +1,15 @@
+True,sc_pkcs15_hex_string_to_id,additon,Function,2
+True,sc_pkcs15_find_cert_by_id,additon,Function,2
+True,read_certificate,additon,Function,2
+True,opt_pubkey,additon,Variable,2
+True,authenticate,additon,Function,2
+def(HAVE_OPENSSL),read_ssh_key,additon,Function,2
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,2
+def(HAVE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,2
+True,sc_pkcs15_find_pubkey_by_id,additon,Function,2
+def(HAVE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,2
+True,sc_pkcs15_free_certificate,additon,Function,2
+def(HAVE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+True,sc_strerror,additon,Function,2
+True,sc_pkcs15_free_pubkey,additon,Function,2
+True,sc_pkcs15_read_pubkey,additon,Function,2

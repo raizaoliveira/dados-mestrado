@@ -1,0 +1,12 @@
+def(USE_WMS_SVR),msOWSDispatch,exclusion,Function,5
+True,width,exclusion,Variable,5
+True,msDrawLegendIcon,additon,Function,5
+True,mapserv,exclusion,Variable,5
+True,msCalculateScale,additon,Function,5
+True,msFreeCharArray,exclusion,Function,5
+True,map,exclusion,Variable,5
+True,height,exclusion,Variable,5
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,5
+True,msOWSLookupMetadata,exclusion,Function,5
+def(USE_WCS_SVR),msOWSDispatch,additon,Function,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5

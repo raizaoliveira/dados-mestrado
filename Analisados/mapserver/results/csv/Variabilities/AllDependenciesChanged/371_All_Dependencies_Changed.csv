@@ -1,0 +1,8 @@
+True,def(USE_PROJ)
+!def(USE_PROJ),True
+def(NEED_STRDUP),True
+def(USE_PROJ),True
+def(USE_GD_TTF),!def(USE_GD_TTF)
+True,def(TEST)
+True,def(USE_GD_TTF)
+def(USE_GD_TTF),True

@@ -1,0 +1,11 @@
+def(ENABLE_PLUGIN),True
+def(LIST_TEST),True
+def(ENABLE_DEBUG),True
+True,def(ENABLE_DEBUG)
+True,def(ENABLE_PLUGIN)
+True,def(LIST_TEST)
+!def(DMALLOC),True
+def(PLUGIN_PF),True
+True,def(ENABLE_PF)
+def(SCHEDULE_TEST),True
+def(MANAGEMENT_PF),True

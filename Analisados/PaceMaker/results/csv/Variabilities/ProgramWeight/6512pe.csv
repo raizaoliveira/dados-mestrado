@@ -1,0 +1,12 @@
+crmd_operation,1,variable
+cib_recv_plaintext,1,function
+process_icmp_error,1,function
+cib_create_op,1,function
+cib_error2string,1,function
+setenv,1,function
+strerror,1,function
+ping_open,1,function
+DO_RESET,1,variable
+ping_desc,1,function
+this_msg_reference,1,variable
+node,1,variable

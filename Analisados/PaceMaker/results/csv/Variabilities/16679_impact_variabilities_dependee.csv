@@ -1,0 +1,5 @@
+def(ENABLE_VERSIONED_ATTRS),rsc,exclusion,Variable,3
+True,_get_version,exclusion,Function,3
+def(ENABLE_VERSIONED_ATTRS),meta_hash,exclusion,Variable,3
+def(ENABLE_VERSIONED_ATTRS),data_set,exclusion,Variable,3
+def(ENABLE_VERSIONED_ATTRS),node,exclusion,Variable,3

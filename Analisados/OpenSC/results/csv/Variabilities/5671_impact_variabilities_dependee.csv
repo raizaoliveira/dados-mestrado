@@ -1,0 +1,5 @@
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,3
+True,sign,specifier,Function,3
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,3
+True,do_sign,additon,Function,3
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,3

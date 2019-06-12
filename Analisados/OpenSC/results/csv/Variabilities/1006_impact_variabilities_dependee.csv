@@ -1,0 +1,5 @@
+True,fw_data,additon,Variable,2
+True,pkcs15_pubkey_ops,additon,Variable,2
+True,pkcs15_cert_ops,additon,Variable,2
+True,pkcs15_prkey_ops,additon,Variable,2
+def(USE_PKCS15_INIT),pkcs15_create_object,additon,Function,2

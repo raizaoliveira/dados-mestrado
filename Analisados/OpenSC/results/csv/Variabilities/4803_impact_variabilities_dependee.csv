@@ -1,0 +1,4 @@
+True,cert,exclusion,Variable,2
+True,session,exclusion,Variable,2
+True,attr,exclusion,Variable,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2

@@ -1,0 +1,12 @@
+True,sc_strerror,additon,Function,3
+def(ENABLE_OPENSSL),pgp_gen_key,exclusion,Function,3
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,3
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,3
+def(ENABLE_OPENSSL),pgp_store_key,exclusion,Function,3
+True,card,exclusion,Variable,3
+True,bebytes2ushort,exclusion,Function,3
+True,sc_do_log,exclusion,Function,3
+True,pgp_put_data,exclusion,Function,3
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,3
+True,ctx,exclusion,Variable,3
+True,pgp_find_blob,exclusion,Function,3

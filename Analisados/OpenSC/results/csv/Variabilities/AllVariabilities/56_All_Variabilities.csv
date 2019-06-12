@@ -1,0 +1,3 @@
+def(OPENSC_VERSION),
+!def(OPENSC_VERSION),
+True,

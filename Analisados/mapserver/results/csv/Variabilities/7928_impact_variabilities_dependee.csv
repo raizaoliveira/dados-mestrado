@@ -1,0 +1,11 @@
+def(TEST),cacheTest,parameter,Function,4
+def(TEST),cacheRelease,parameter,Function,4
+def(TEST),cacheFetch,parameter,Function,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,4
+True,p,additon,Variable,4
+True,loadParams,parameter,Function,4
+True,symbolset,additon,Variable,4
+True,scalefactor,additon,Variable,4
+True,style,additon,Variable,4
+True,r,additon,Variable,4

@@ -1,0 +1,5 @@
+def(TEST),
+def(notdef),
+True,
+def(NEED_STRNCASECMP),
+def(NEED_STRCASECMP),

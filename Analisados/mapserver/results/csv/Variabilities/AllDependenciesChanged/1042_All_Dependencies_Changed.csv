@@ -1,0 +1,5 @@
+def(NEED_STRDUP),True
+True,def(TEST)
+True,def(NEED_STRCASECMP)
+def(NEED_STRCASECMP),True
+def(USE_GDAL),True

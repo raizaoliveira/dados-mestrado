@@ -1,0 +1,4 @@
+!def(HAVE_FMEMOPEN),
+!def(mpq_out_str),
+!def(HAVE_GETLINE),
+True,

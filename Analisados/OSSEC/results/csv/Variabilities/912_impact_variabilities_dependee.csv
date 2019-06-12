@@ -1,0 +1,5 @@
+True,merror,additon,Function,3
+True,Read_Rootcheck_Config,additon,Function,3
+!def(WIN32),OS_GetHost,parameter,Function,3
+True,OS_GetOneContentforElement,additon,Function,3
+True,OS_StrIsNum,additon,Function,3

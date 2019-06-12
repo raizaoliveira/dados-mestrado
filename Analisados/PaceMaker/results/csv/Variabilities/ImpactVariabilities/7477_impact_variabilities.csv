@@ -1,0 +1,3 @@
+True,
+def(HAVE_GETOPT_H),
+def(ON_LINUX),

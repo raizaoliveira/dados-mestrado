@@ -1,0 +1,17 @@
+def(USE_PROJ),True
+def(USE_GD_FT),True
+def(notdef),True
+True,def(USE_SOS_SVR)
+!def(USE_AGG),True
+True,def(USE_GD_PNG)
+!def(USE_FASTCGI),True
+True,def(notdef)
+def(USE_POINT_Z_M),True
+def(USE_GD_GIF),True
+True,def(USE_WMS_LYR)
+True,def(USE_WMS_SVR)
+def(USE_FASTCGI),True
+True,def(USE_GD_JPEG)
+def(USE_GD_PNG),True
+def(USE_GD_JPEG),True
+def(USE_WMS_SVR),!def(USE_WMS_SVR)

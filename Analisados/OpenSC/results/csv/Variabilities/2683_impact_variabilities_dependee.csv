@@ -1,0 +1,3 @@
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,2
+True,attr_find2,exclusion,Function,2
+True,sc_pkcs15_print_id,qualifier,Function,2

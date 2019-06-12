@@ -1,0 +1,3 @@
+True,strerror,additon,Function,1
+True,argc,exclusion,Variable,1
+True,argv,exclusion,Variable,1

@@ -1,0 +1,8 @@
+True,mid,exclusion,Variable,2
+True,mosq,additon,Variable,2
+!def(WITH_BROKER),handle__pubrel,additon,Function,2
+!def(WITH_BROKER),send__pubcomp,exclusion,Function,2
+True,db,additon,Variable,2
+!def(WITH_BROKER),send__pubrel,exclusion,Function,2
+!def(WITH_BROKER),send__pubrec,exclusion,Function,2
+!def(WITH_BROKER),send__puback,exclusion,Function,2

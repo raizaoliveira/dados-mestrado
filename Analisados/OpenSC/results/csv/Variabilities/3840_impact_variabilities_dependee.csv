@@ -1,0 +1,3 @@
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,2
+True,select_file,exclusion,Function,2
+True,sc_select_file,additon,Function,2

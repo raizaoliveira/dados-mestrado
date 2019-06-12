@@ -1,0 +1,5 @@
+True,msg,exclusion,Variable,3
+True,argv,exclusion,Variable,3
+True,argc,exclusion,Variable,3
+True,options,exclusion,Variable,3
+True,sys_to,exclusion,Variable,3

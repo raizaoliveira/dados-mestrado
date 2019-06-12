@@ -1,0 +1,7 @@
+def(TEST),cacheFetch,parameter,Function,4
+True,DBFReadStringAttribute,parameter,Function,4
+def(TEST),cacheRelease,parameter,Function,4
+def(USE_TTF),msGetLabelSize,exclusion,Function,4
+def(USE_TTF),draw_text,exclusion,Function,4
+def(TEST),cacheTest,parameter,Function,4
+def(USE_PROJ),msWhichShapesProj,parameter,Function,4

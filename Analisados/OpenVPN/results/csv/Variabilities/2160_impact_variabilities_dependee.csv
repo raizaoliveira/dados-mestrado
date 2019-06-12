@@ -1,0 +1,12 @@
+def(ENABLE_DEBUG),pct_name,qualifier,Function,4
+True,mh,additon,Variable,4
+def(ENABLE_DEBUG),drop_accept,qualifier,Function,4
+True,mroute_addr_print_ex,additon,Function,4
+def(ENABLE_PLUGIN),plugin_type_name,qualifier,Function,4
+True,array_mult_safe,parameter,Function,4
+!def(DMALLOC),alloc_buf,additon,Function,4
+def(ENABLE_DEBUG),mroute_addr_print_ex,additon,Function,4
+def(ENABLE_DEBUG),mroute_helper_regenerate,additon,Function,4
+def(ENABLE_DEBUG),wait_status_string,parameter,Function,4
+True,x_msg,additon,Function,4
+True,buf_printf,additon,Function,4

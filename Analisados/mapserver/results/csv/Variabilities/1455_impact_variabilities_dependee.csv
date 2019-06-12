@@ -1,0 +1,12 @@
+True,msDBFReadStringAttribute,parameter,Function,7
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,7
+def(NEED_STRDUP),strdup,additon,Function,7
+True,map,exclusion,Variable,7
+def(USE_PROJ),msQueryByFeatures,additon,Function,7
+def(TEST),cacheRelease,parameter,Function,7
+True,msGetOutputFormatOption,parameter,Function,7
+True,image,exclusion,Variable,7
+def(TEST),cacheTest,parameter,Function,7
+def(TEST),cacheFetch,parameter,Function,7
+True,layer,exclusion,Variable,7
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,7

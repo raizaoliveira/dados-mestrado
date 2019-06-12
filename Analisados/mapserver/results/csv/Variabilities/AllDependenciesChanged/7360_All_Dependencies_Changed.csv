@@ -1,0 +1,10 @@
+def(USE_GEOS),True
+True,def(USE_WMS_SVR)
+True,def(USE_WMS_LYR)
+True,def(USE_PROJ)
+def(USE_PROJ),True
+True,def(TEST)
+!def(USE_FASTCGI),True
+def(USE_WMS_SVR),True
+def(USE_FASTCGI),True
+True,def(USE_GD_TTF)

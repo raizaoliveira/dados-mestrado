@@ -1,0 +1,3 @@
+True,mqtt3_context_cleanup,exclusion,Function,1
+True,net__socket_get_address,additon,Function,1
+True,_mosquitto_log_printf,exclusion,Function,1

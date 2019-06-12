@@ -1,0 +1,17 @@
+def(TEST),cacheFetch,parameter,Function,8
+def(USE_GD_FT),msGetMarkerSize,additon,Function,8
+True,msImageFilledPolygon,exclusion,Function,8
+True,getSymbol,additon,Function,8
+def(TEST),cacheRelease,parameter,Function,8
+True,msSetError,additon,Function,8
+def(USE_GD_FT),msDrawShadeSymbolGD,exclusion,Function,8
+True,getCharacter,exclusion,Function,8
+def(USE_GD_TTF),msGetMarkerSize,exclusion,Function,8
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,8
+True,msLookupHashTable,exclusion,Function,8
+def(NEED_STRDUP),strdup,additon,Function,8
+True,msGetOutputFormatOption,parameter,Function,8
+True,msDBFReadStringAttribute,parameter,Function,8
+def(USE_GD_FT),msDrawMarkerSymbolGD,exclusion,Function,8
+def(TEST),cacheTest,parameter,Function,8
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,8

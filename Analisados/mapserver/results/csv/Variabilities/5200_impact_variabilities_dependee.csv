@@ -1,0 +1,8 @@
+True,img,additon,Variable,4
+True,msGetOutputFormatOption,parameter,Function,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4
+True,ctx,exclusion,Variable,4
+True,msDBFReadStringAttribute,parameter,Function,4
+True,split,parameter,Function,4
+True,msyytext,additon,Variable,4
+True,format,additon,Variable,4

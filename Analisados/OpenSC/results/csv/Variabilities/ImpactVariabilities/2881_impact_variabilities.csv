@@ -1,0 +1,6 @@
+def(COSM_EXTENDED),
+def(HAVE_USBTOKEN),
+def(USE_PKCS15_INIT),
+True,
+def(HAVE_ZLIB_H),
+def(HAVE_OPENSSL),

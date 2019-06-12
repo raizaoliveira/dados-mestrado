@@ -1,0 +1,7 @@
+def(FSA_TRACE),
+!def(USE_BUGGY_LIBXML),
+True,
+def(XML_TRACE),
+def(HAVE_NET_IF_H),
+def(HAVE_GNUTLS_GNUTLS_H),
+def(HAVE_GETOPT_H),

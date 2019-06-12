@@ -1,0 +1,14 @@
+True,size,additon,Variable,5
+True,msyytext,additon,Variable,5
+True,r,additon,Variable,5
+True,imagePolyline,exclusion,Function,5
+True,scalefactor,additon,Variable,5
+True,p,additon,Variable,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+True,style,additon,Variable,5
+True,symbolset,additon,Variable,5
+True,offsety,additon,Variable,5
+True,color,additon,Variable,5
+True,img,additon,Variable,5
+True,offsetx,additon,Variable,5
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,5

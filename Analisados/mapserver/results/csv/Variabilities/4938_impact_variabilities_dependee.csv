@@ -1,0 +1,5 @@
+True,split,parameter,Function,5
+True,msGetOutputFormatOption,parameter,Function,5
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,5
+True,msDBFReadStringAttribute,parameter,Function,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5

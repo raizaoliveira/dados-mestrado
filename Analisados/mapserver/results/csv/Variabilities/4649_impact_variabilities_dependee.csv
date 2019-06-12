@@ -1,0 +1,15 @@
+def(NEED_STRCASECMP),strcasecmp,exclusion,Function,6
+True,msResetErrorList,exclusion,Function,6
+True,msGetOutputFormatOption,parameter,Function,6
+True,split,parameter,Function,6
+True,msSetError,exclusion,Function,6
+def(TEST),cacheFetch,parameter,Function,6
+True,msDBFReadStringAttribute,parameter,Function,6
+def(TEST),cacheRelease,parameter,Function,6
+True,dst,additon,Variable,6
+True,msFreeMap,exclusion,Function,6
+def(TEST),cacheTest,parameter,Function,6
+True,src,additon,Variable,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,msFreeMapServObj,additon,Function,6
+True,setExtentFromShapes,additon,Function,6

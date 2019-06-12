@@ -1,0 +1,6 @@
+True,!def(__GNUC__)
+def(DEBUG),True
+def(TEST),True
+!def(__GNUC__),True
+!def(TEST),True
+True,def(DEBUG)

@@ -1,0 +1,7 @@
+True,!def(BUF_INIT_TRACKING)
+True,!def(DMALLOC)
+def(HAVE_SIGNAL_H),True
+def(DMALLOC),!def(DMALLOC)
+def(ENABLE_SOCKS),True
+def(PLUGIN_PF),True
+!def(DMALLOC),def(DMALLOC)

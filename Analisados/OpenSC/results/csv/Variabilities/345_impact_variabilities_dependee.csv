@@ -1,0 +1,5 @@
+True,session,exclusion,Variable,2
+True,attr,exclusion,Variable,2
+True,object,exclusion,Variable,2
+True,context,exclusion,Variable,2
+!def(__GNUC__),debug,exclusion,Function,2

@@ -1,0 +1,5 @@
+True,send_request,exclusion,Function,1
+True,process_cib_request,exclusion,Function,1
+True,free_xml,exclusion,Function,1
+True,find_xml_node,exclusion,Function,1
+True,is_set,exclusion,Function,1

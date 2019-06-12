@@ -1,0 +1,14 @@
+True,height,additon,Variable,4
+True,symbolset,exclusion,Variable,4
+True,map,additon,Variable,4
+def(notdef),p,additon,Variable,4
+True,width,additon,Variable,4
+True,style,exclusion,Variable,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4
+True,imagePolyline,additon,Function,4
+True,scalefactor,exclusion,Variable,4
+def(notdef),img,additon,Variable,4
+True,r,exclusion,Variable,4
+True,img,exclusion,Variable,4
+True,p,exclusion,Variable,4
+def(notdef),imagePolyline,exclusion,Function,4

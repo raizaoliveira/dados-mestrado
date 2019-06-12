@@ -1,0 +1,4 @@
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+True,sc_do_log,exclusion,Function,2
+def(ENABLE_OPENSSL),lookup_enum,additon,Function,2
+True,_sc_debug,additon,Function,2

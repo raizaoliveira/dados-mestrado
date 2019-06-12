@@ -1,0 +1,2 @@
+def(WITH_SOCKS),mosquitto__reconnect,exclusion,Function,2
+True,mosq,additon,Variable,2

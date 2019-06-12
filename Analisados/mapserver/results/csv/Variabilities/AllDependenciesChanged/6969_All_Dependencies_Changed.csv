@@ -1,0 +1,6 @@
+True,def(USE_SOS_SVR)
+def(USE_WCS_SVR),True
+True,def(USE_WMS_SVR)
+def(USE_SOS_SVR),True
+True,def(USE_WMS_LYR)
+True,def(USE_WCS_SVR)

@@ -1,0 +1,15 @@
+True,size,exclusion,Variable,9
+True,rect,exclusion,Variable,9
+True,draw_text,exclusion,Function,9
+True,p,exclusion,Variable,9
+True,msGetLabelSize,exclusion,Function,9
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,9
+True,iLayer,exclusion,Variable,9
+def(USE_WMS_SVR),msOWSDispatch,exclusion,Function,9
+True,msOWSDispatch,additon,Function,9
+True,returnCoordinate,exclusion,Function,9
+True,mapserv,exclusion,Variable,9
+True,value,exclusion,Variable,9
+True,font,exclusion,Variable,9
+True,map,exclusion,Variable,9
+def(USE_OGR),msSLDApplySLD,exclusion,Function,9

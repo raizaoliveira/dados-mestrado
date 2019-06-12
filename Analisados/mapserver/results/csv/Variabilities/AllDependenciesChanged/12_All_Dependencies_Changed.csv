@@ -1,0 +1,4 @@
+True,def(TEST)
+def(NEED_STRDUP),True
+def(USE_SDE),True
+True,def(USE_PROJ)

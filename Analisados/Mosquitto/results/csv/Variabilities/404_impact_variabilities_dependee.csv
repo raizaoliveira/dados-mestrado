@@ -1,0 +1,9 @@
+!def(WITH_BROKER),mosquitto__handle_pubrec,additon,Function,3
+!def(WITH_BROKER),mosquitto__handle_pubackcomp,exclusion,Function,3
+True,message__remove,additon,Function,3
+True,message__delete,additon,Function,3
+def(WITH_BROKER),db,exclusion,Variable,3
+True,message__out_update,additon,Function,3
+!def(WITH_BROKER),message__out_update,additon,Function,3
+True,message__cleanup,additon,Function,3
+def(WITH_BROKER),mosquitto__handle_pubackcomp,additon,Function,3

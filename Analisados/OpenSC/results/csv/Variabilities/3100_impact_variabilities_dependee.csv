@@ -1,0 +1,12 @@
+True,fw_data,exclusion,Variable,4
+!def(__GNUC__),sc_error,exclusion,Function,4
+True,usage,exclusion,Function,4
+True,create_cert_obj,exclusion,Function,4
+True,p11card,additon,Variable,4
+True,__pkcs15_create_cert_object,additon,Function,4
+!def(__GNUC__),sc_debug,exclusion,Function,4
+True,sc_strerror,parameter,Function,4
+def(HAVE_ZLIB_H),sc_strerror,type,Function,4
+True,__pkcs15_create_data_object,additon,Function,4
+True,print_generic,additon,Function,4
+def(USE_PKCS15_INIT),pkcs15_create_data,exclusion,Function,4

@@ -1,0 +1,12 @@
+def(TEST),cacheTest,parameter,Function,4
+True,labelPnt,exclusion,Variable,4
+True,msyytext,additon,Variable,4
+True,value,additon,Variable,4
+def(TEST),cacheRelease,parameter,Function,4
+True,string,exclusion,Variable,4
+True,yytext,exclusion,Variable,4
+True,DBFReadStringAttribute,parameter,Function,4
+True,label,exclusion,Variable,4
+def(TEST),cacheFetch,parameter,Function,4
+True,img,exclusion,Variable,4
+def(USE_PROJ),msQueryUsingPoint,additon,Function,4

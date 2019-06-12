@@ -1,0 +1,7 @@
+def(NEED_STRCASECMP),True
+def(NEED_STRDUP),True
+True,def(GD_HAS_FTEX_XSHOW)
+def(GD_HAS_FTEX_XSHOW),True
+True,def(USE_WMS_LYR)
+def(USE_OGR),True
+True,def(__cplusplus)

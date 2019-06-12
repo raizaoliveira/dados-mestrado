@@ -1,0 +1,4 @@
+True,sc_strerror,parameter,Function,2
+!def(__GNUC__),error,additon,Function,2
+True,rv,exclusion,Variable,2
+!def(__GNUC__),debug,exclusion,Function,2

@@ -1,0 +1,4 @@
+True,crm_ipcs_send,additon,Function,3
+True,op,additon,Variable,3
+def(HAVE_LRM_OP_T_RSC_DELETED),delete_resource,additon,Function,3
+True,rsc,additon,Variable,3

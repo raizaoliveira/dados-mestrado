@@ -1,0 +1,11 @@
+def(NEED_STRCASECMP),True
+def(NEED_STRDUP),True
+True,def(USE_WMS_SVR)
+True,!def(USE_FASTCGI)
+True,def(USE_WMS_LYR)
+!def(USE_FASTCGI),def(USE_FASTCGI)
+def(USE_OGR),True
+!def(USE_FASTCGI),True
+def(USE_FASTCGI),!def(USE_FASTCGI)
+True,def(USE_FASTCGI)
+def(USE_FASTCGI),True

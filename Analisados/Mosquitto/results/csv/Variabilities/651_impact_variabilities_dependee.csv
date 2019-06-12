@@ -1,0 +1,16 @@
+True,qos,additon,Variable,3
+def(WITH_BROKER),mosq,additon,Variable,3
+!def(WITH_BROKER),send__unsubscribe,exclusion,Function,3
+def(WITH_BROKER),handle__pubackcomp,additon,Function,3
+True,packet__read_uint16,exclusion,Function,3
+def(WITH_BROKER),packet__read,additon,Function,3
+True,mosq,additon,Variable,3
+def(WITH_BROKER),net__socket_close,exclusion,Function,3
+True,byte,additon,Variable,3
+!def(WITH_BROKER),send__subscribe,exclusion,Function,3
+True,topic,additon,Variable,3
+!def(WITH_BROKER),mosq,additon,Variable,3
+def(WITH_BROKER),db,exclusion,Variable,3
+!def(WITH_BROKER),handle__pubackcomp,exclusion,Function,3
+!def(WITH_BROKER),packet__read,exclusion,Function,3
+True,packet,additon,Variable,3

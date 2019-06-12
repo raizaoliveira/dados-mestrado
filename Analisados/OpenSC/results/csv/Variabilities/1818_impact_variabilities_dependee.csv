@@ -1,0 +1,13 @@
+True,sc_print_path,parameter,Function,3
+def(HAVE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,3
+def(HAVE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3
+True,sc_strerror,additon,Function,3
+True,iso7816_errors,additon,Function,3
+def(HAVE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,3
+True,sc_do_log,additon,Function,3
+True,sc_do_log_va,exclusion,Function,3
+True,etoken_errors,additon,Function,3
+True,ctx,additon,Variable,3
+True,error,additon,Function,3
+True,p15card,additon,Variable,3
+True,card,additon,Variable,3

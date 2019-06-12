@@ -1,0 +1,12 @@
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,7
+True,msDBFReadStringAttribute,parameter,Function,7
+True,map,exclusion,Variable,7
+True,height,exclusion,Variable,7
+True,class,exclusion,Variable,7
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,7
+True,split,parameter,Function,7
+True,width,exclusion,Variable,7
+True,dstX,exclusion,Variable,7
+True,lp,exclusion,Variable,7
+True,dstY,exclusion,Variable,7
+True,msGetOutputFormatOption,parameter,Function,7

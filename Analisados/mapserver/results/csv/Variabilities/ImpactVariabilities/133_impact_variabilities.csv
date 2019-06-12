@@ -1,0 +1,7 @@
+!def(USE_GD_1_8),
+def(USE_GD_1_8),
+def(NEED_STRNCASECMP),
+def(TEST),
+def(NEED_STRCASECMP),
+def(USE_PROJ),
+True,

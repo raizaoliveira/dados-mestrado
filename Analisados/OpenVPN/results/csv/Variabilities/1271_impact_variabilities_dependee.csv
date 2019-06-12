@@ -1,0 +1,4 @@
+True,array_mult_safe,parameter,Function,3
+def(ENABLE_DEBUG),tun_stat,exclusion,Function,3
+!def(DMALLOC),alloc_buf,exclusion,Function,3
+True,tun_stat,exclusion,Function,3

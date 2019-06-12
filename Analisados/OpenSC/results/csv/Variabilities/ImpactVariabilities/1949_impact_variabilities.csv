@@ -1,0 +1,5 @@
+def(HAVE_OPENSSL),
+def(HAVE_USBTOKEN),
+def(MP_CCID_PINPAD),
+True,
+def(USE_PKCS15_INIT),

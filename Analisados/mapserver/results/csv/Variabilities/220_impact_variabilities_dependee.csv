@@ -1,0 +1,9 @@
+def(TEST),cacheFetch,parameter,Function,2
+True,results,exclusion,Variable,2
+def(TEST),cacheTest,parameter,Function,2
+True,rect,exclusion,Variable,2
+True,map,exclusion,Variable,2
+True,mode,exclusion,Variable,2
+True,DBFReadStringAttribute,parameter,Function,2
+def(TEST),cacheRelease,parameter,Function,2
+True,buffer,exclusion,Variable,2

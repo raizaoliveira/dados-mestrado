@@ -1,0 +1,5 @@
+True,rsc,additon,Variable,3
+True,valid_version_format,additon,Function,3
+True,metadata,additon,Variable,3
+def(ENABLE_VERSIONED_ATTRS),get_ra_version,additon,Function,3
+def(ENABLE_VERSIONED_ATTRS),crm_versioned_param_summary,exclusion,Function,3

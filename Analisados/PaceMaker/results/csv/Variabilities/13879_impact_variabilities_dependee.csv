@@ -1,0 +1,6 @@
+True,id,exclusion,Variable,2
+True,cmd,additon,Variable,2
+True,rc,additon,Variable,2
+True,cmd_reset,additon,Function,2
+True,request,exclusion,Variable,2
+True,client,exclusion,Variable,2

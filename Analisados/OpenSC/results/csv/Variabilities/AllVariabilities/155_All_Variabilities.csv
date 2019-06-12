@@ -1,0 +1,6 @@
+True,
+def(TEST),
+!def(__GNUC__),
+!def(TEST),
+!def(VERSION),
+def(VERSION),

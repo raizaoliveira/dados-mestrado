@@ -1,0 +1,3 @@
+True,!def(DISABLE_DEBUG)
+!def(DISABLE_DEBUG),True
+True,!def(mpf_pow_ui)

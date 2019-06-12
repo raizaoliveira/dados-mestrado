@@ -1,0 +1,3 @@
+def(USE_PKCS15_INIT),True
+True,def(notused)
+True,def(HAVE_OPENSSL)

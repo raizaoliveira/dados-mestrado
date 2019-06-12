@@ -1,0 +1,16 @@
+def(ENABLE_OPENSSL),decipher_ext,exclusion,Function,3
+True,sc_pkcs15_free_prkey,exclusion,Function,3
+def(ENABLE_OPENSSL),len,exclusion,Variable,3
+True,card,exclusion,Variable,3
+True,getpass,exclusion,Function,3
+def(ENABLE_OPENSSL),sign_ext,exclusion,Function,3
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,3
+True,sc_pkcs15_find_pubkey_by_id,exclusion,Function,3
+True,sc_strerror,additon,Function,3
+def(ENABLE_OPENSSL),extract_key,exclusion,Function,3
+def(ENABLE_OPENSSL),out,exclusion,Variable,3
+True,sign,exclusion,Function,3
+True,sc_pkcs15_free_pubkey,exclusion,Function,3
+True,sc_pkcs15_read_prkey,exclusion,Function,3
+True,sc_pkcs15_read_pubkey,exclusion,Function,3
+def(ENABLE_OPENSSL),obj,exclusion,Variable,3

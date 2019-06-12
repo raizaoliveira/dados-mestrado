@@ -1,0 +1,8 @@
+True,setExtentFromShapes,exclusion,Function,6
+True,msDBFReadStringAttribute,parameter,Function,6
+True,msGetOutputFormatOption,parameter,Function,6
+True,returnCoordinate,additon,Function,6
+True,msObj,exclusion,Variable,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,split,parameter,Function,6
+True,msLookupHashTable,additon,Function,6

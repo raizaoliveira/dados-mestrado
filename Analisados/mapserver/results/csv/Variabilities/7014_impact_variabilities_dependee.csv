@@ -1,0 +1,4 @@
+True,msFreeMap,additon,Function,6
+True,msFreeMapServObj,exclusion,Function,6
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6

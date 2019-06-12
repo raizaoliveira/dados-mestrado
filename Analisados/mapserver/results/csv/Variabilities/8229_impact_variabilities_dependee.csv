@@ -1,0 +1,5 @@
+True,msInitializeVirtualTable,additon,Function,5
+True,msCopyLayer,additon,Function,5
+True,msObj,additon,Variable,5
+def(USE_WCS_SVR),msOWSDispatch,exclusion,Function,5
+def(USE_WMS_SVR),msOWSDispatch,additon,Function,5

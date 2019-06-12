@@ -1,0 +1,8 @@
+def(WIN32),source,exclusion,Variable,3
+!def(WIN32),OS_GetHost,parameter,Function,3
+True,el,additon,Variable,3
+True,source,additon,Variable,3
+def(WIN32),el_getMessage,additon,Function,3
+def(WIN32),el_sstring,exclusion,Variable,3
+True,el_sstring,additon,Variable,3
+True,el_getMessage,exclusion,Function,3

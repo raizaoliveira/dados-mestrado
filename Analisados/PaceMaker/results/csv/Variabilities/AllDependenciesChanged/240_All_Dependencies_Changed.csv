@@ -1,0 +1,2 @@
+True,!def(USE_BUGGY_LIBXML)
+def(MSG_LOG),True

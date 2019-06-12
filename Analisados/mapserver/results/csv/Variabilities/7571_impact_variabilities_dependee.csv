@@ -1,0 +1,10 @@
+def(TEST),cacheTest,parameter,Function,7
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,7
+True,mapserv,additon,Variable,7
+True,loadParams,parameter,Function,7
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,7
+def(TEST),cacheRelease,parameter,Function,7
+True,final_j,exclusion,Variable,7
+True,msTransformShapeToPixelRound,exclusion,Function,7
+True,msyytext_esc,additon,Variable,7
+def(TEST),cacheFetch,parameter,Function,7

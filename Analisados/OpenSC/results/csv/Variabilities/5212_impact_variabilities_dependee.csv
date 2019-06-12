@@ -1,0 +1,5 @@
+True,initialize,exclusion,Function,2
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,2
+True,card,additon,Variable,2
+True,se_num,additon,Variable,2
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,2

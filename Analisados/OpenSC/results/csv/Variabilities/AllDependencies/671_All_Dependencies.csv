@@ -1,0 +1,8 @@
+True,def(DEBUG)
+def(RANDOM_POOL),True
+def(USE_PKCS15_INIT),True
+True,!def(HAVE_OPENSSL)
+True,def(HAVE_SETUTENT)
+!def(HAVE_OPENSSL),True
+def(ATR_SUPPORT),True
+def(DEBUG),True

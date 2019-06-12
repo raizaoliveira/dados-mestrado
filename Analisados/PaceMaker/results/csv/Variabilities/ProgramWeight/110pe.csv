@@ -1,0 +1,4 @@
+copy_in_properties,1,function
+get_the_CIB,1,function
+src,1,variable
+set_xml_property_copy,1,function

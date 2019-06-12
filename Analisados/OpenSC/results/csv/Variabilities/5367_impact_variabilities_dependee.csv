@@ -1,0 +1,8 @@
+True,p15card,additon,Variable,3
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,3
+True,card,additon,Variable,3
+def(ENABLE_OPENSSL),profile,exclusion,Variable,3
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,3
+True,new_file,exclusion,Function,3
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,3
+def(ENABLE_OPENSSL),file,exclusion,Variable,3

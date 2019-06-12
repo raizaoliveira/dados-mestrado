@@ -1,0 +1,4 @@
+def(ENABLE_EUREPHIA),True
+True,def(ENABLE_DEBUG)
+!def(DMALLOC),True
+def(MANAGEMENT_DEF_AUTH),True

@@ -1,0 +1,7 @@
+True,msSHPOpenFile,additon,Function,4
+def(TEST),cacheFetch,parameter,Function,4
+def(TEST),cacheRelease,parameter,Function,4
+True,msSHPOpen,exclusion,Function,4
+True,msSetError,additon,Function,4
+def(TEST),cacheTest,parameter,Function,4
+True,msDBFReadStringAttribute,parameter,Function,4

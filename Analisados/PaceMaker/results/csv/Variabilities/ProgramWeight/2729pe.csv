@@ -1,0 +1,15 @@
+get_object_root,1,function
+te_fence_node,1,function
+this_msg_reference,1,variable
+extract_event,1,function
+copy_in_properties,1,function
+DO_RESET,1,variable
+child,1,variable
+process_trigger,1,function
+crmd_operation,1,variable
+cib_action_update,1,function
+src,1,variable
+crm_element_name,1,function
+dump_array,1,function
+set_xml_property_copy,1,function
+find_xml_node,1,function

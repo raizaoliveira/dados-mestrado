@@ -1,0 +1,5 @@
+!def(DMALLOC),alloc_buf_gc,exclusion,Function,4
+True,signal_description,exclusion,Function,4
+True,openvpn_snprintf,additon,Function,4
+!def(DMALLOC),alloc_buf,additon,Function,4
+!def(DMALLOC),gc_malloc,exclusion,Function,4

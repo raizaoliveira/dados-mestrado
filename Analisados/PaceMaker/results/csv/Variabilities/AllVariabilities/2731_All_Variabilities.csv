@@ -1,0 +1,8 @@
+def(XML_PARANOIA_CHECKS),
+def(HAVE_NET_IF_H),
+def(HAVE_GETOPT_H),
+def(XML_TRACE),
+True,
+def(TESTING),
+!def(TESTING),
+!def(USE_BUGGY_LIBXML),

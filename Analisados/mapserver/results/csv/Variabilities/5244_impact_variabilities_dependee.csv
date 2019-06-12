@@ -1,0 +1,4 @@
+True,split,parameter,Function,2
+True,msDBFReadStringAttribute,parameter,Function,2
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,2
+True,msGetOutputFormatOption,parameter,Function,2

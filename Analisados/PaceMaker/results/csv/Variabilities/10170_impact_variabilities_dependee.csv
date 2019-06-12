@@ -1,0 +1,11 @@
+True,call_options,exclusion,Variable,1
+True,prop_id,additon,Variable,1
+True,output_data,exclusion,Variable,1
+True,prop_set,additon,Variable,1
+True,data_set,additon,Variable,1
+True,host,exclusion,Variable,1
+True,rsc_id,additon,Variable,1
+True,cib,exclusion,Variable,1
+True,prop_name,additon,Variable,1
+True,cib_conn,additon,Variable,1
+True,data,exclusion,Variable,1

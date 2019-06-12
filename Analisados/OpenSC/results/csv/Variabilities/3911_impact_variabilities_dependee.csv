@@ -1,0 +1,2 @@
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,2
+True,sc_do_log,exclusion,Function,2

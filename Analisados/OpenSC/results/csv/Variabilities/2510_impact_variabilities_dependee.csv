@@ -1,0 +1,5 @@
+True,usage,type,Function,2
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,2
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,2
+True,apdu,exclusion,Variable,2
+True,card,exclusion,Variable,2

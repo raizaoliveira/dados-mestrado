@@ -1,0 +1,11 @@
+True,slot,additon,Variable,3
+True,priv_key,additon,Variable,3
+True,sc_pkcs11_unlock,additon,Function,3
+True,key_len,additon,Variable,3
+True,p11card,additon,Variable,3
+def(HAVE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,3
+True,pool_find,additon,Function,3
+def(HAVE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3
+def(HAVE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,3
+True,pub_key,additon,Variable,3
+True,sc_pkcs11_lock,additon,Function,3

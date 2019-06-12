@@ -1,0 +1,11 @@
+True,DBFReadStringAttribute,parameter,Function,5
+True,map,additon,Variable,5
+True,filename,additon,Variable,5
+True,msFreeHashTable,exclusion,Function,5
+def(TEST),cacheTest,parameter,Function,5
+def(TEST),cacheRelease,parameter,Function,5
+True,getString,exclusion,Function,5
+True,value,exclusion,Variable,5
+def(TEST),cacheFetch,parameter,Function,5
+def(USE_PROJ),loadProjectionString,additon,Function,5
+True,p,additon,Variable,5

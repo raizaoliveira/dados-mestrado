@@ -1,0 +1,13 @@
+True,sc_pkcs15_find_cert_by_id,exclusion,Function,3
+True,sc_pkcs15_free_pubkey,exclusion,Function,3
+True,sc_strerror,exclusion,Function,3
+True,sc_pkcs15_free_certificate,exclusion,Function,3
+True,sc_pkcs15_read_pubkey,exclusion,Function,3
+True,read_certificate,exclusion,Function,3
+True,get_pin,type,Function,3
+True,opt_pubkey,exclusion,Variable,3
+def(HAVE_OPENSSL),read_ssh_key,exclusion,Function,3
+True,sc_pkcs15_hex_string_to_id,exclusion,Function,3
+True,sc_pkcs15_find_pubkey_by_id,exclusion,Function,3
+True,authenticate,exclusion,Function,3
+def(HAVE_ZLIB_H),sc_strerror,type,Function,3

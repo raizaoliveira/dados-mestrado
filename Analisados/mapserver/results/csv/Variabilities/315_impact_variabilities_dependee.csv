@@ -1,0 +1,12 @@
+True,fontset,exclusion,Variable,5
+True,msDBFReadStringAttribute,parameter,Function,5
+True,labelPnt,exclusion,Variable,5
+def(TEST),cacheFetch,parameter,Function,5
+True,img,exclusion,Variable,5
+True,label,exclusion,Variable,5
+True,rect,exclusion,Variable,5
+True,value,exclusion,Variable,5
+def(TEST),cacheTest,parameter,Function,5
+True,p,exclusion,Variable,5
+True,string,exclusion,Variable,5
+def(TEST),cacheRelease,parameter,Function,5

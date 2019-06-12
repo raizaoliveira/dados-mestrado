@@ -1,0 +1,10 @@
+True,scalefactor,exclusion,Variable,4
+True,msDBFReadStringAttribute,parameter,Function,4
+True,symbolset,exclusion,Variable,4
+True,split,parameter,Function,4
+True,p,exclusion,Variable,4
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,4
+True,r,exclusion,Variable,4
+True,style,exclusion,Variable,4
+True,msGetOutputFormatOption,parameter,Function,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4

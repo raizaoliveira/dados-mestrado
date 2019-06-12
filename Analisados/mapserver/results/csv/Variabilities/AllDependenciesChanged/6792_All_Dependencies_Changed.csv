@@ -1,0 +1,6 @@
+True,def(USE_WMS_LYR)
+def(notdef),True
+True,def(USE_GD_FT)
+def(USE_GD_FT),True
+True,def(notdef)
+True,def(USE_GD_PNG)

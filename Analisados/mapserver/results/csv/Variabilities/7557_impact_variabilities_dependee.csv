@@ -1,0 +1,17 @@
+True,msOWSParseVersionString,additon,Function,6
+True,msOWSLookupMetadata,exclusion,Function,6
+def(TEST),cacheFetch,parameter,Function,6
+True,loadParams,parameter,Function,6
+def(USE_WCS_SVR),msWCSDispatch,exclusion,Function,6
+True,msWriteError,exclusion,Function,6
+True,Encode,exclusion,Function,6
+def(USE_WCS_SVR),msWCSConvertRangeSetToString,additon,Function,6
+def(TEST),cacheRelease,parameter,Function,6
+True,msSelectOutputFormat,additon,Function,6
+def(USE_WCS_SVR),msWCSValidateRangeSetParam,additon,Function,6
+True,msWCSDispatch,exclusion,Function,6
+def(USE_WCS_SVR),msSelectOutputFormat,additon,Function,6
+def(TEST),cacheTest,parameter,Function,6
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,msOWSGetVersionString,additon,Function,6

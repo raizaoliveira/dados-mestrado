@@ -1,0 +1,4 @@
+True,sc_profile_find_file,exclusion,Function,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3
+True,sc_append_file_id,additon,Function,3
+True,append_file,exclusion,Function,3

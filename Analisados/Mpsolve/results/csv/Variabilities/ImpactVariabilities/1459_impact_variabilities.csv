@@ -1,0 +1,4 @@
+!def(HAVE_FMEMOPEN),
+True,
+!def(HAVE_GETLINE),
+def(MPS_USE_BUILTIN_COMPLEX),

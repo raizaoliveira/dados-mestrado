@@ -1,0 +1,5 @@
+True,mosquitto_unpwd_check,parameter,Function,5
+True,username,additon,Variable,5
+True,password,additon,Variable,5
+def(WITH_BROKER),packet__read,additon,Function,5
+True,send__connack,additon,Function,5

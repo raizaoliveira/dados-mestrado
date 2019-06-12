@@ -1,0 +1,17 @@
+True,msImageLoadGDCtx,exclusion,Function,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,imagePolyline,exclusion,Function,6
+def(notdef),img,exclusion,Variable,6
+True,p,additon,Variable,6
+True,format,additon,Variable,6
+True,string,additon,Variable,6
+True,fontset,additon,Variable,6
+True,scalefactor,additon,Variable,6
+def(notdef),imagePolyline,additon,Function,6
+True,label,additon,Variable,6
+True,msyytext,exclusion,Variable,6
+True,labelPnt,additon,Variable,6
+def(notdef),p,exclusion,Variable,6
+True,img,additon,Variable,6
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6
+True,ctx,additon,Variable,6

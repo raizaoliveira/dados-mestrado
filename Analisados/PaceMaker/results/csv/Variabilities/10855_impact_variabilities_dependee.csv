@@ -1,0 +1,6 @@
+True,options,exclusion,Variable,2
+True,msg,exclusion,Variable,2
+True,pcmk_strerror,additon,Function,2
+True,strerror,exclusion,Function,2
+True,argc,exclusion,Variable,2
+True,argv,exclusion,Variable,2

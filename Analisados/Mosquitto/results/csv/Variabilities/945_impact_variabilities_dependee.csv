@@ -1,0 +1,8 @@
+True,mosquitto_connect,additon,Function,3
+True,cfg,exclusion,Variable,3
+True,mosquitto_tls_set,additon,Function,3
+True,mosq,additon,Variable,3
+!def(WITH_BROKER),net__socket_close,additon,Function,3
+True,mosquitto_tls_insecure_set,additon,Function,3
+True,mosquitto_tls_opts_set,additon,Function,3
+True,mosquitto_connect_bind,additon,Function,3

@@ -1,0 +1,2 @@
+!def(OPENSC_NO_DEPRECATED),True
+True,def(HAVE_OPENSSL)

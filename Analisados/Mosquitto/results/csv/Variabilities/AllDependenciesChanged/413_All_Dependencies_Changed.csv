@@ -1,0 +1,12 @@
+True,def(WITH_WEBSOCKETS)
+def(WITH_WEBSOCKETS),True
+True,def(WITH_SOCKS)
+def(WITH_SOCKS),True
+True,def(WITH_BROKER)
+!def(WITH_BROKER),def(WITH_BROKER)
+def(WITH_TLS),True
+True,!def(WITH_BROKER)
+True,!def(WITH_WEBSOCKETS)
+!def(WITH_BROKER),True
+def(WITH_BROKER),True
+def(WITH_BRIDGE),True

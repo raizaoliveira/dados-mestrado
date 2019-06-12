@@ -1,0 +1,15 @@
+True,msFreeMap,exclusion,Function,5
+def(USE_WMS_SVR),msOWSDispatch,additon,Function,5
+True,split,parameter,Function,5
+def(USE_WMS_SVR),msWMSDispatch,exclusion,Function,5
+True,msOWSDispatch,exclusion,Function,5
+True,msDBFReadStringAttribute,parameter,Function,5
+True,msFreeMapServObj,additon,Function,5
+True,map,exclusion,Variable,5
+True,msResetErrorList,exclusion,Function,5
+def(TEST),cacheTest,parameter,Function,5
+def(TEST),cacheRelease,parameter,Function,5
+True,msSOSDispatch,additon,Function,5
+True,msGetOutputFormatOption,parameter,Function,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+def(TEST),cacheFetch,parameter,Function,5

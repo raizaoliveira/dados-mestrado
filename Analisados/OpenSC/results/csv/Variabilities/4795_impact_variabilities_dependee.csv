@@ -1,0 +1,13 @@
+True,pkcs15_pubkey_ops,additon,Variable,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3
+True,cert,additon,Variable,3
+True,session,additon,Variable,3
+True,__pkcs15_create_data_object,additon,Function,3
+True,attr,additon,Variable,3
+def(USE_PKCS15_INIT),pkcs15_create_object,additon,Function,3
+True,pkcs15_prkey_ops,additon,Variable,3
+def(USE_PKCS15_INIT),pkcs15_create_data,exclusion,Function,3
+True,fw_data,additon,Variable,3
+True,usage,type,Function,3
+True,pkcs15_cert_ops,additon,Variable,3
+True,pkcs15_dobj_ops,additon,Variable,3

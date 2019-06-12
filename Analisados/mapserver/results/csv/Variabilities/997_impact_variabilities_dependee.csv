@@ -1,0 +1,8 @@
+def(NEED_STRCASECMP),strcasecmp,additon,Function,6
+def(NEED_STRNCASECMP),strncasecmp,additon,Function,6
+def(NEED_STRDUP),strdup,additon,Function,6
+True,msDBFReadStringAttribute,parameter,Function,6
+def(TEST),cacheRelease,parameter,Function,6
+def(TEST),cacheFetch,parameter,Function,6
+True,msGetOutputFormatOption,additon,Function,6
+def(TEST),cacheTest,parameter,Function,6

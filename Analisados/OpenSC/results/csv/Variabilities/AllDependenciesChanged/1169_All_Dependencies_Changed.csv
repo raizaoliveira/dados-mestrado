@@ -1,0 +1,3 @@
+def(notused),True
+True,def(HAVE_OPENSSL)
+True,def(notused)

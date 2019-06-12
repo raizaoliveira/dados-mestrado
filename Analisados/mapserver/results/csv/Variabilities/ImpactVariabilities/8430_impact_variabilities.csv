@@ -1,0 +1,8 @@
+def(USE_THREAD),
+def(TEST_MAPCRYPTO),
+def(USE_CAIRO),
+def(EZXML_TEST),
+def(notdef),
+def(USE_WMS_SVR),
+True,
+def(USE_WCS_SVR),

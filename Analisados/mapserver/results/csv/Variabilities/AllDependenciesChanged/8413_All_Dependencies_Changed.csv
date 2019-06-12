@@ -1,0 +1,3 @@
+def(HAVE_SYMLINK),True
+True,def(USE_WMS_SVR)
+True,def(HAVE_SYMLINK)

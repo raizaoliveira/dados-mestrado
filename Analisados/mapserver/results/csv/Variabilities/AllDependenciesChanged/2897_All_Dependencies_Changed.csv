@@ -1,0 +1,11 @@
+def(ENABLE_STDERR_DEBUG),True
+def(USE_OGR),True
+True,def(USE_WMS_LYR)
+def(IGNORE_MISSING_DATA),True
+def(USE_MING_FLASH),True
+True,def(NEED_STRDUP)
+def(NEED_STRCASECMP),True
+True,def(USE_WMS_SVR)
+!def(_WIN32),True
+True,def(TEST)
+def(NEED_STRDUP),True

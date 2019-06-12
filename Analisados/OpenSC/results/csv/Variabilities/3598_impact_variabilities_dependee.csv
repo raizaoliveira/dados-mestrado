@@ -1,0 +1,9 @@
+True,create_cert_obj,exclusion,Function,3
+True,p11card,exclusion,Variable,3
+True,add_pins_to_keycache,exclusion,Function,3
+def(USE_PKCS15_INIT),pkcs15_create_data,exclusion,Function,3
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,3
+def(ENABLE_OPENSSL),register_mechanisms,additon,Function,3
+True,__pkcs15_create_data_object,additon,Function,3
+True,__pkcs15_create_cert_object,additon,Function,3
+True,fw_data,exclusion,Variable,3

@@ -1,0 +1,4 @@
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+True,sc_format_apdu,additon,Function,2
+True,sc_check_sw,additon,Function,2
+True,sc_transmit_apdu,additon,Function,2

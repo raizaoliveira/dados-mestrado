@@ -1,0 +1,8 @@
+def(HAVE_OPENSSL),rsa_der_len,additon,Variable,3
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,3
+True,sc_pkcs15_decode_pubkey,additon,Function,3
+True,sc_pkcs15_encode_pubkey,exclusion,Function,3
+True,sc_pkcs15_decode_pubkey_rsa,exclusion,Function,3
+def(HAVE_OPENSSL),rsa_der,additon,Variable,3
+True,sc_pkcs15_encode_pubkey_rsa,additon,Function,3
+def(HAVE_ZLIB_H),sc_strerror,type,Function,3

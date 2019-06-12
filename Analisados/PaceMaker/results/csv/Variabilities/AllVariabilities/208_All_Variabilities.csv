@@ -1,0 +1,8 @@
+def(FSA_TRACE),
+def(MSG_LOG),
+def(XML_TRACE),
+True,
+!def(USE_BUGGY_LIBXML),
+def(DOT_FSA_ACTIONS),
+!def(DOT_ALL_FSA_INPUTS),
+def(DOT_ALL_FSA_INPUTS),

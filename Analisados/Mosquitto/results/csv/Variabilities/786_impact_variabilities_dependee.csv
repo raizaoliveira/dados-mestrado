@@ -1,0 +1,7 @@
+!def(WITH_BROKER),mosq,exclusion,Variable,3
+True,packet__write,additon,Function,3
+def(WITH_BROKER),db,additon,Variable,3
+!def(WITH_BROKER),_mosquitto_socket_close,additon,Function,3
+def(WITH_BROKER),net__socket_close,exclusion,Function,3
+!def(WITH_BROKER),packet__write,exclusion,Function,3
+True,packet,exclusion,Variable,3

@@ -1,0 +1,5 @@
+True,
+def(XML_TRACE),
+def(HAVE_NET_IF_H),
+def(HAVE_GETOPT_H),
+!def(USE_BUGGY_LIBXML),

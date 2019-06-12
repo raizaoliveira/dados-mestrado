@@ -1,0 +1,12 @@
+def(_WIN32),True
+True,def(HAVE_OPENSSL)
+True,def(COSM_EXTENDED)
+def(USE_PKCS15_INIT),True
+True,def(HAVE_ZLIB_H)
+True,!def(__GNUC__)
+def(HAVE_OPENSSL),True
+!def(HAVE_OPENSSL),True
+True,!def(HAVE_OPENSSL)
+!def(__GNUC__),True
+True,def(USE_PKCS15_INIT)
+def(COSM_EXTENDED),True

@@ -1,0 +1,10 @@
+True,ctx,additon,Variable,4
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,4
+def(USE_PKCS15_INIT),pkcs15init_unbind,exclusion,Function,4
+True,profile,exclusion,Variable,4
+True,type,additon,Variable,4
+True,generate_key,exclusion,Function,4
+True,fileId,additon,Variable,4
+True,card,additon,Variable,4
+True,sc_pkcs15init_unbind,additon,Function,4
+True,sc_pkcs15init_generate_key,additon,Function,4

@@ -1,0 +1,13 @@
+True,msDrawLegend,additon,Function,6
+True,map,additon,Variable,6
+True,img,additon,Variable,6
+True,msObj,additon,Variable,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,msImageLoadGDCtx,additon,Function,6
+True,class,additon,Variable,6
+True,width,additon,Variable,6
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6
+True,dstX,additon,Variable,6
+True,lp,additon,Variable,6
+True,height,additon,Variable,6
+True,dstY,additon,Variable,6

@@ -1,0 +1,13 @@
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,8
+True,split,parameter,Function,8
+True,map,additon,Variable,8
+True,width,additon,Variable,8
+True,font,additon,Variable,8
+True,msImageInitGD,additon,Function,8
+True,rect,additon,Variable,8
+True,msGetOutputFormatOption,parameter,Function,8
+True,height,additon,Variable,8
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,8
+True,msDBFReadStringAttribute,parameter,Function,8
+True,msCreateLegendIcon,exclusion,Function,8
+True,size,additon,Variable,8

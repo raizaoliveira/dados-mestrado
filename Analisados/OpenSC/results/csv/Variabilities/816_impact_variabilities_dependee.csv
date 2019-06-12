@@ -1,0 +1,5 @@
+True,p15card,exclusion,Variable,1
+True,out,exclusion,Variable,1
+True,opt_crypt_flags,exclusion,Variable,1
+True,prkey,exclusion,Variable,1
+True,decipher,exclusion,Function,1

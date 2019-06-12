@@ -1,0 +1,2 @@
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,2

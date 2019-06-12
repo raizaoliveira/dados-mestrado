@@ -1,0 +1,8 @@
+True,img,exclusion,Variable,4
+True,value,additon,Variable,4
+def(USE_PROJ),loadProjectionString,exclusion,Function,4
+True,DBFReadStringAttribute,parameter,Function,4
+def(USE_PROJ),loadProjection,additon,Function,4
+def(TEST),cacheFetch,parameter,Function,4
+def(TEST),cacheRelease,parameter,Function,4
+def(TEST),cacheTest,parameter,Function,4

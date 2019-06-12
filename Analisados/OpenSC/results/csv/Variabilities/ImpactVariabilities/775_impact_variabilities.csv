@@ -1,0 +1,4 @@
+def(USE_PKCS15_INIT),
+True,
+def(_WIN32),
+def(ATR_SUPPORT),

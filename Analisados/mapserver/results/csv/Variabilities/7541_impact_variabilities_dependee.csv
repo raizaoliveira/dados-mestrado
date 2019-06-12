@@ -1,0 +1,11 @@
+True,msyytext_esc,additon,Variable,5
+def(TEST),cacheTest,parameter,Function,5
+True,loadParams,parameter,Function,5
+def(TEST),cacheRelease,parameter,Function,5
+True,i,additon,Variable,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+True,map,exclusion,Variable,5
+def(TEST),cacheFetch,parameter,Function,5
+True,image,exclusion,Variable,5
+True,layer,exclusion,Variable,5
+True,shape,additon,Variable,5

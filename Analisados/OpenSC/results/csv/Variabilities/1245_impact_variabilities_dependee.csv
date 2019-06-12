@@ -1,0 +1,4 @@
+True,out,additon,Variable,2
+True,outlen,additon,Variable,2
+True,p15card,additon,Variable,2
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,2

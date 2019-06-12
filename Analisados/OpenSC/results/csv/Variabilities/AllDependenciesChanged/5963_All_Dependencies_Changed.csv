@@ -1,0 +1,4 @@
+!def(WIN32),True
+True,def(ENABLE_SM)
+True,def(ENABLE_OPENSSL)
+def(OPENSC_CONFIG_STRING),True

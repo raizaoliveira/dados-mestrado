@@ -1,0 +1,2 @@
+True,mapserv,additon,Variable,3
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,3

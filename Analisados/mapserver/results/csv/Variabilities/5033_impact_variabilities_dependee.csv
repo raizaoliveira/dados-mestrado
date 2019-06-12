@@ -1,0 +1,11 @@
+True,msDBFReadStringAttribute,parameter,Function,5
+True,split,parameter,Function,5
+True,labelPnt,exclusion,Variable,5
+True,img,exclusion,Variable,5
+True,label,exclusion,Variable,5
+True,fontset,exclusion,Variable,5
+True,scalefactor,exclusion,Variable,5
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,5
+True,string,exclusion,Variable,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+True,msGetOutputFormatOption,parameter,Function,5

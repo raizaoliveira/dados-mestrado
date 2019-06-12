@@ -1,0 +1,6 @@
+!def(DMALLOC),gc_malloc,exclusion,Function,4
+True,post_init_signal_catch,exclusion,Function,4
+True,pf_init,exclusion,Function,4
+True,np,exclusion,Function,4
+True,signal_description,additon,Function,4
+True,pos,additon,Function,4

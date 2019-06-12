@@ -1,0 +1,7 @@
+def(HAVE_SIGNAL_H),(def(HAVE_SIGNAL_H)&!def(_WIN32))
+def(HAVE_SIGNAL_H),True
+!def(DMALLOC),True
+True,def(ENABLE_PF)
+True,def(ENABLE_DEBUG)
+True,def(ENABLE_PLUGIN)
+True,def(LIST_TEST)

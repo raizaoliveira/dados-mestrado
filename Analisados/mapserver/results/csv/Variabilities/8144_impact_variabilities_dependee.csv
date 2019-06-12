@@ -1,0 +1,7 @@
+True,msOWSDispatch,exclusion,Function,3
+True,mapserv,additon,Variable,3
+def(USE_WMS_SVR),msOWSDispatch,additon,Function,3
+True,msInitializeVirtualTable,exclusion,Function,3
+True,msOWSRequestLayersEnabled,exclusion,Function,3
+True,loadParams,parameter,Function,3
+True,msCopyLayer,exclusion,Function,3

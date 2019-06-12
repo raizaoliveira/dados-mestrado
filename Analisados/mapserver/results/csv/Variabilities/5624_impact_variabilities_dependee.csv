@@ -1,0 +1,14 @@
+True,labelPnt,exclusion,Variable,7
+True,msGetOutputFormatOption,parameter,Function,7
+True,msyytext,additon,Variable,7
+def(USE_WMS_SVR),msOWSDispatch,exclusion,Function,7
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,7
+True,img,exclusion,Variable,7
+True,fontset,exclusion,Variable,7
+True,split,parameter,Function,7
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,7
+True,string,exclusion,Variable,7
+True,map,exclusion,Variable,7
+True,label,exclusion,Variable,7
+True,iLayer,exclusion,Variable,7
+True,msDBFReadStringAttribute,parameter,Function,7

@@ -1,0 +1,3 @@
+True,loadParams,parameter,Function,3
+True,msOWSDispatch,additon,Function,3
+def(USE_WMS_SVR),msOWSDispatch,exclusion,Function,3

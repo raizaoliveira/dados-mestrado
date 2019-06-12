@@ -1,0 +1,14 @@
+True,def(__cplusplus)
+def(USE_TILE_API),True
+True,def(USE_GD_JPEG)
+True,def(USE_WMS_SVR)
+True,def(USE_GD_TTF)
+def(__cplusplus),True
+!def(USE_TILE_API),True
+!def(USE_FASTCGI),True
+True,def(TEST)
+True,def(USE_WMS_LYR)
+def(USE_FASTCGI),True
+def(USE_SOS_SVR),True
+!def(USE_GD_TTF),True
+True,def(USE_GD_PNG)

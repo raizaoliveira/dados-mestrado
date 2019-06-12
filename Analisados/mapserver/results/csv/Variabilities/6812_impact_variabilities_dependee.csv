@@ -1,0 +1,8 @@
+True,string,additon,Variable,4
+True,label,additon,Variable,4
+True,fontset,additon,Variable,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4
+True,img,additon,Variable,4
+True,rect,additon,Variable,4
+True,labelPnt,additon,Variable,4
+True,msDrawScalebar,exclusion,Function,4

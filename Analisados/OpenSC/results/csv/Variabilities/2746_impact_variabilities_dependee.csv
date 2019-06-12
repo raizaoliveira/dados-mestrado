@@ -1,0 +1,2 @@
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,3
+True,sc_strerror,parameter,Function,3

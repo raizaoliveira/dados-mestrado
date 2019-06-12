@@ -1,0 +1,10 @@
+True,sc_pkcs15_free_certificate,additon,Function,3
+True,itacns_data_files,additon,Variable,3
+True,p15card,additon,Variable,3
+!def(HAVE_STRLCPY),strlcpy,additon,Function,3
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,3
+True,sc_pkcs15_read_certificate,additon,Function,3
+True,sc_strerror,additon,Function,3
+True,ext_info_ok,additon,Variable,3
+True,sc_do_log,additon,Function,3
+def(ENABLE_OPENSSL),sc_pkcs15_read_certificate,additon,Function,3

@@ -1,0 +1,9 @@
+def(HAVE_OPENSSL),write_object,exclusion,Function,4
+True,slot,additon,Variable,4
+True,ck_mech,additon,Variable,4
+True,modLenBytes,additon,Variable,4
+!def(__GNUC__),sc_debug,exclusion,Function,4
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,4
+True,opt_slot,additon,Variable,4
+True,session,additon,Variable,4
+True,privKeyObject,additon,Variable,4

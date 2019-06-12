@@ -1,0 +1,8 @@
+True,msGettimeofday,additon,Function,5
+True,setExtentFromShapes,additon,Function,5
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,5
+def(TEST),cacheTest,parameter,Function,5
+def(TEST),cacheRelease,parameter,Function,5
+True,loadParams,parameter,Function,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+def(TEST),cacheFetch,parameter,Function,5

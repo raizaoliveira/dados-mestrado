@@ -1,0 +1,3 @@
+True,sc_detect_card,exclusion,Function,1
+True,sc_strerror,parameter,Function,1
+True,get_certificate,parameter,Function,1

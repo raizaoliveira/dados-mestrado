@@ -1,0 +1,2 @@
+!def(TESTING),True
+def(USE_FAKE_LRM),True

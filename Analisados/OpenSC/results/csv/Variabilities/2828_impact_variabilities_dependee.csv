@@ -1,0 +1,3 @@
+!def(__GNUC__),sc_debug,additon,Function,3
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,3
+True,piv_objects,additon,Variable,3

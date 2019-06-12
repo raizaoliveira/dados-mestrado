@@ -1,0 +1,5 @@
+True,ctx,exclusion,Variable,3
+!def(ENABLE_OPENSSL),sc_pkcs15_wrap_data,exclusion,Function,3
+!def(ENABLE_OPENSSL),version4,exclusion,Function,3
+!def(ENABLE_OPENSSL),version2,exclusion,Function,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3

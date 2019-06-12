@@ -1,0 +1,17 @@
+True,def(OSSECHIDS)
+def(DEBUG),True
+True,!def(BF_DEFAULT_OPTIONS)
+True,!def(SOLARIS)
+True,def(AIX)
+!def(BF_DEFAULT_OPTIONS),True
+def(OSSECHIDS),True
+def(BF_PTR2),!def(BF_PTR2)
+!def(LOCAL),True
+def(__OpenBSD__),True
+True,(!def(ASM_MD5)&!def(HIGHFIRST))
+!def(BF_PTR2),def(BF_PTR2)
+def(SOLARIS),def(OSSECHIDS)
+!def(OSSECHIDS),True
+True,!def(OSSECHIDS)
+!def(SOLARIS),def(OSSECHIDS)
+!def(OSSECHIDS),def(OSSECHIDS)

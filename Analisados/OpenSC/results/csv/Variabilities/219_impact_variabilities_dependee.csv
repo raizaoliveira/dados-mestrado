@@ -1,0 +1,8 @@
+True,sc_disconnect_card,parameter,Function,2
+True,card,exclusion,Variable,2
+!def(__GNUC__),error,exclusion,Function,2
+True,pkcs15_unbind,additon,Function,2
+True,sc_strerror,parameter,Function,2
+!def(__GNUC__),debug,exclusion,Function,2
+True,sc_connect_card,parameter,Function,2
+True,sc_pkcs15_unbind,exclusion,Function,2

@@ -1,0 +1,4 @@
+True,main,exclusion,Function,1
+True,array_mult_safe,parameter,Function,1
+True,argc,additon,Variable,1
+True,argv,additon,Variable,1

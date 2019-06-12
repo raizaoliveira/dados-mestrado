@@ -1,0 +1,9 @@
+def(TEST),cacheRelease,parameter,Function,2
+True,rect,additon,Variable,2
+def(TEST),cacheTest,parameter,Function,2
+True,msDBFReadStringAttribute,parameter,Function,2
+True,msSHPOpen,exclusion,Function,2
+True,layer,additon,Variable,2
+True,msSHPOpenFile,additon,Function,2
+True,shapepath,additon,Variable,2
+def(TEST),cacheFetch,parameter,Function,2

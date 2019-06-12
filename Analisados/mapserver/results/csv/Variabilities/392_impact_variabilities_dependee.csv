@@ -1,0 +1,11 @@
+True,fontset,exclusion,Variable,4
+def(TEST),cacheFetch,parameter,Function,4
+True,msDBFReadStringAttribute,parameter,Function,4
+def(TEST),cacheTest,parameter,Function,4
+True,string,exclusion,Variable,4
+def(NEED_STRCASECMP),strcasecmp,additon,Function,4
+True,p,exclusion,Variable,4
+True,label,exclusion,Variable,4
+def(TEST),cacheRelease,parameter,Function,4
+True,img,exclusion,Variable,4
+True,labelPnt,exclusion,Variable,4

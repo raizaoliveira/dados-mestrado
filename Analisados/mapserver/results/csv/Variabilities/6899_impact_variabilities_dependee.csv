@@ -1,0 +1,5 @@
+True,shape,additon,Variable,4
+True,mapserv,additon,Variable,4
+True,msFreeShape,exclusion,Function,4
+True,final_j,additon,Variable,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4

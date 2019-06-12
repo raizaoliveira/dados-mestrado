@@ -1,0 +1,7 @@
+!def(__GNUC__),
+def(HAVE_USBTOKEN),
+True,
+def(USE_PKCS15_INIT),
+def(_WIN32),
+def(HAVE_OPENSSL),
+def(HAVE_ZLIB_H),

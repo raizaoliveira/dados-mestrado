@@ -1,0 +1,16 @@
+def(ENABLE_PF),mroute_extract_addr_arp,parameter,Function,6
+def(ENABLE_DEBUG),drop_accept,parameter,Function,6
+def(ENABLE_DEBUG),wait_status_string,parameter,Function,6
+True,show,additon,Function,6
+def(ENABLE_DEBUG),next,additon,Variable,6
+True,setenv_str,additon,Function,6
+def(ENABLE_DEBUG),pct_name,qualifier,Function,6
+True,array_mult_safe,parameter,Function,6
+!def(DMALLOC),string_alloc,additon,Function,6
+!def(DMALLOC),alloc_buf,additon,Function,6
+!def(DMALLOC),gc_malloc,additon,Function,6
+def(ENABLE_PLUGIN),plugin_type_name,qualifier,Function,6
+def(ENABLE_PLUGIN),msglevel,additon,Variable,6
+def(LIST_TEST),word_compare_function,specifier,Function,6
+def(ENABLE_DEBUG),up,additon,Variable,6
+True,setenv_del,additon,Function,6

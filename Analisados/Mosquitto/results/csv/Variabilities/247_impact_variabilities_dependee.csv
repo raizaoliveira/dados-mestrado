@@ -1,0 +1,5 @@
+def(WITH_SOCKS),client_opts_set,additon,Function,2
+True,cfg,additon,Variable,2
+def(WITH_SOCKS),mosquitto_socks5_set,additon,Function,2
+True,mosquitto_socks5_set,additon,Function,2
+True,mosq,additon,Variable,2

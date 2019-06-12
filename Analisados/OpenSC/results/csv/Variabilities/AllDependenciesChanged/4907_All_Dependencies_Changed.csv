@@ -1,0 +1,6 @@
+def(USE_PKCS15_INIT),True
+True,def(ENABLE_OPENSSL)
+def(OPENSC_CONFIG_STRING),True
+def(_WIN32),True
+def(HAVE_LTDL_H),True
+def(ENABLE_OPENSSL),True

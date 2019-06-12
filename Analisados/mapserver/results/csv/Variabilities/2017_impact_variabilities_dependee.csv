@@ -1,0 +1,17 @@
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+def(TEST),cacheFetch,parameter,Function,5
+True,msDBFReadStringAttribute,parameter,Function,5
+def(TEST),cacheTest,parameter,Function,5
+True,map,additon,Variable,5
+True,layer,exclusion,Variable,5
+True,msObj,additon,Variable,5
+True,symbolset,exclusion,Variable,5
+True,scalefactor,exclusion,Variable,5
+True,msGetOutputFormatOption,parameter,Function,5
+True,p,exclusion,Variable,5
+True,msTransformShapeToPixel,additon,Function,5
+True,image,exclusion,Variable,5
+True,r,exclusion,Variable,5
+True,style,exclusion,Variable,5
+def(TEST),cacheRelease,parameter,Function,5
+True,slayer,additon,Variable,5

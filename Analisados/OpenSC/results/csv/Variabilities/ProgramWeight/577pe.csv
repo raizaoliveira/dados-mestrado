@@ -1,0 +1,15 @@
+curr_user,1,variable
+scam_frameworks,1,variable
+dump_template,1,function
+sc_strerror,1,function
+session,1,variable
+connect,1,function
+fatal,1,function
+sc_pkcs15_wrap_data,1,function
+sc_pkcs11_any_cmp_attribute,1,function
+sc_establish_context,1,function
+ctx,1,variable
+sc_detect_card_presence,1,function
+sc_release_context,1,function
+object,1,variable
+attr,1,variable

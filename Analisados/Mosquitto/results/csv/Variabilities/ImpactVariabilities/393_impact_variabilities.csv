@@ -1,0 +1,8 @@
+def(WITH_BRIDGE),
+def(WITH_TLS),
+def(WITH_BROKER),
+def(WIN32),
+!def(WITH_BROKER),
+!def(WITH_TLS),
+def(WITH_SOCKS),
+True,

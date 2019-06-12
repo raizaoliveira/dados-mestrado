@@ -1,0 +1,2 @@
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,2
+def(HAVE_OPENSSL),auth_senv_t,additon,Variable,2

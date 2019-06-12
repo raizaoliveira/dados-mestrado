@@ -1,0 +1,4 @@
+def(ENABLE_OPENSSL),True
+def(OPENSC_CONFIG_STRING),True
+def(HAVE_LTDL_H),True
+True,def(ENABLE_OPENSSL)

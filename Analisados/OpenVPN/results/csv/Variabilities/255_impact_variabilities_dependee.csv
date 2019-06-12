@@ -1,0 +1,3 @@
+!def(DMALLOC),gc_malloc,additon,Function,2
+!def(DMALLOC),alloc_buf_gc,additon,Function,2
+!def(DMALLOC),alloc_buf,exclusion,Function,2

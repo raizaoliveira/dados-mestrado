@@ -1,0 +1,4 @@
+True,sc_pkcs11_lock,exclusion,Function,2
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,2
+True,pool_find,exclusion,Function,2
+True,sc_pkcs11_unlock,exclusion,Function,2

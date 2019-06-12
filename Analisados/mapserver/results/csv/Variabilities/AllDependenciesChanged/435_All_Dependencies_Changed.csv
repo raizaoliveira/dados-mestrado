@@ -1,0 +1,4 @@
+def(USE_WMS),def(NEED_STRCASECMP)
+def(NEED_STRDUP),True
+def(USE_WMS),True
+True,def(TEST)

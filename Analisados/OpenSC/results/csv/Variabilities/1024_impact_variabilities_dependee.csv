@@ -1,0 +1,11 @@
+True,p15card,exclusion,Variable,1
+True,sc_pkcs15_read_prkey,additon,Function,1
+True,sc_pkcs15_read_pubkey,additon,Function,1
+True,sign,additon,Function,1
+True,getpass,additon,Function,1
+True,sc_pkcs15_free_prkey,additon,Function,1
+True,error,exclusion,Function,1
+True,sc_pkcs15_find_pubkey_by_id,additon,Function,1
+True,sc_pkcs15_free_pubkey,additon,Function,1
+True,args,exclusion,Variable,1
+True,profile,exclusion,Variable,1

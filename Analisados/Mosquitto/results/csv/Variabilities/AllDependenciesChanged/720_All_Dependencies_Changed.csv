@@ -1,0 +1,7 @@
+True,def(WITH_TLS)
+def(WITH_BROKER),!def(WITH_BROKER)
+True,def(WITH_BROKER)
+!def(WITH_BROKER),True
+!def(WITH_BROKER),def(WITH_BROKER)
+def(WITH_BRIDGE),True
+def(WITH_TLS),True

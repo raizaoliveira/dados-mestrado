@@ -1,0 +1,17 @@
+True,p,additon,Variable,8
+True,rect,exclusion,Variable,8
+True,msDBFReadStringAttribute,parameter,Function,8
+def(TEST),cacheRelease,parameter,Function,8
+True,string,exclusion,Variable,8
+True,msFreeMapServObj,additon,Function,8
+True,labelPnt,exclusion,Variable,8
+def(TEST),cacheFetch,parameter,Function,8
+True,msGetOutputFormatOption,parameter,Function,8
+True,img,additon,Variable,8
+True,label,exclusion,Variable,8
+def(TEST),cacheTest,parameter,Function,8
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,8
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,8
+True,fontset,exclusion,Variable,8
+True,value,additon,Variable,8
+True,msFreeMap,exclusion,Function,8

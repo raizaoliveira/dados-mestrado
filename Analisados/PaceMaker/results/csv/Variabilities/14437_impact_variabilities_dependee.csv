@@ -1,0 +1,8 @@
+def(HAVE_SYS_TIMEB_H),time_diff_ms,exclusion,Function,2
+True,timeout_left,exclusion,Variable,2
+def(HAVE_SYS_TIMEB_H),time_sum,exclusion,Variable,2
+def(HAVE_SYS_TIMEB_H),action_complete,exclusion,Function,2
+def(HAVE_SYS_TIMEB_H),timeout_left,additon,Variable,2
+True,rc,exclusion,Variable,2
+True,cmd,exclusion,Variable,2
+def(HAVE_SYS_TIMEB_H),send_cmd_complete_notify,exclusion,Function,2

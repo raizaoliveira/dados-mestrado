@@ -1,0 +1,4 @@
+def(HAVE_OPENSSL),
+True,
+def(ATR_SUPPORT),
+def(USE_PKCS15_INIT),

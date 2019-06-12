@@ -1,0 +1,8 @@
+def(USE_PROJ),sgrid,additon,Variable,3
+True,gridlink,additon,Variable,3
+def(USE_PROJ),extent,additon,Variable,3
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,3
+True,grid,additon,Variable,3
+True,req_map,exclusion,Variable,3
+True,geocache_tileset_tile_bbox,exclusion,Function,3
+True,ctx,exclusion,Variable,3

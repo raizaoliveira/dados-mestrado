@@ -1,0 +1,4 @@
+def(WITH_SOCKS),
+def(WITH_BRIDGE),
+def(WIN32),
+True,

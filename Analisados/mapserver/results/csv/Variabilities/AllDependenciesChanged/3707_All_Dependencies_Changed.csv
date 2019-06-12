@@ -1,0 +1,7 @@
+def(USE_OGR),True
+True,def(NEED_STRDUP)
+True,def(USE_WMS_LYR)
+True,def(USE_GD_FT)
+def(NEED_STRDUP),True
+def(NEED_STRCASECMP),True
+True,def(TEST)

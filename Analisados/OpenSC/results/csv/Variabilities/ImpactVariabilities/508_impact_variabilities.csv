@@ -1,0 +1,3 @@
+def(HAVE_OPENSSL),
+True,
+def(ATR_SUPPORT),

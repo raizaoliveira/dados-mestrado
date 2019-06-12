@@ -1,0 +1,4 @@
+True,generate_key,additon,Function,2
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,2
+True,sc_pkcs15init_generate_key,exclusion,Function,2
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,2

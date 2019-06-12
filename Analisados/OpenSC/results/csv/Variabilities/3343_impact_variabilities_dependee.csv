@@ -1,0 +1,16 @@
+True,usage,exclusion,Function,5
+True,card,exclusion,Variable,5
+def(USE_PKCS15_INIT),pkcs15_create_data,additon,Function,5
+True,attr,additon,Variable,5
+def(ENABLE_OPENSSL),write_object,additon,Function,5
+True,__pkcs15_create_data_object,exclusion,Function,5
+True,cert,additon,Variable,5
+def(ENABLE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,5
+True,rv,additon,Variable,5
+True,fw_data,additon,Variable,5
+def(COSM_EXTENDED),object,additon,Variable,5
+True,delete_object,additon,Function,5
+True,session,additon,Variable,5
+True,init_pin,additon,Function,5
+def(COSM_EXTENDED),profile,additon,Variable,5
+True,p15card,exclusion,Variable,5

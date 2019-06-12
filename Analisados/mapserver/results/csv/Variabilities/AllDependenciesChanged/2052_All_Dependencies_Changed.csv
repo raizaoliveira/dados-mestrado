@@ -1,0 +1,10 @@
+True,def(USE_GDAL)
+!def(USE_GD_GIF),True
+True,def(USE_GD_FT)
+True,def(USE_WMS_LYR)
+def(NEED_STRCASECMP),True
+True,def(TEST)
+True,def(NEED_STRCASECMP)
+!def(USE_GD_PNG),True
+def(NEED_STRDUP),True
+!def(USE_GD_JPEG),True

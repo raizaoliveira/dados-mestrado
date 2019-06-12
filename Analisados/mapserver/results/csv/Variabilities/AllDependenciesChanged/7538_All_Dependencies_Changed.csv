@@ -1,0 +1,10 @@
+def(USE_FASTCGI),True
+True,def(USE_PROJ)
+True,def(TEST)
+True,def(USE_WMS_LYR)
+!def(USE_FASTCGI),True
+True,def(USE_MING_FLASH)
+True,def(GD_HAS_FTEX_XSHOW)
+def(GD_HAS_FTEX_XSHOW),True
+def(USE_MING_FLASH),True
+def(USE_GEOS),True

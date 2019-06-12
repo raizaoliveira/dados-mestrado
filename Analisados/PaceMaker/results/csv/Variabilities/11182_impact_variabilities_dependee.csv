@@ -1,0 +1,4 @@
+True,crm_is_callsite_active,parameter,Function,2
+True,crm_write_blackbox,parameter,Function,2
+True,crm_ipcs_send,parameter,Function,2
+True,op,additon,Variable,2

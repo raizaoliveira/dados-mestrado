@@ -1,0 +1,4 @@
+True,layer,exclusion,Variable,2
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,2
+True,map,exclusion,Variable,2
+True,image,exclusion,Variable,2

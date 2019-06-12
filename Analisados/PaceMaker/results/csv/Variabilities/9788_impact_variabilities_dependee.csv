@@ -1,0 +1,8 @@
+True,prop_set,additon,Variable,1
+True,msg,exclusion,Variable,1
+True,rsc,additon,Variable,1
+True,prop_name,additon,Variable,1
+True,cib_conn,additon,Variable,1
+True,prop_id,additon,Variable,1
+True,data_set,additon,Variable,1
+True,rsc_id,additon,Variable,1

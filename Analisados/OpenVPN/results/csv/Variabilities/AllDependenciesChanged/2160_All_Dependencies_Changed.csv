@@ -1,0 +1,6 @@
+True,def(ENABLE_PLUGIN)
+def(ENABLE_DEBUG),!def(DMALLOC)
+True,def(ENABLE_DEBUG)
+!def(DMALLOC),True
+True,!def(DMALLOC)
+def(ENABLE_DEBUG),True

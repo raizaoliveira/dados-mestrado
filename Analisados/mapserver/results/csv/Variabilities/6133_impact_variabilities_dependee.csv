@@ -1,0 +1,16 @@
+True,class,additon,Variable,2
+True,height,additon,Variable,2
+True,layer,additon,Variable,2
+True,msDrawLegend,additon,Function,2
+True,image,additon,Variable,2
+True,src,exclusion,Variable,2
+True,map,additon,Variable,2
+True,dstY,additon,Variable,2
+True,msDrawLegendIcon,exclusion,Function,2
+True,lp,additon,Variable,2
+True,img,additon,Variable,2
+True,mapserv,additon,Variable,2
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,2
+True,dst,exclusion,Variable,2
+True,width,additon,Variable,2
+True,dstX,additon,Variable,2

@@ -1,0 +1,4 @@
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,2
+True,attr_find,additon,Function,2
+True,attr_find2,exclusion,Function,2

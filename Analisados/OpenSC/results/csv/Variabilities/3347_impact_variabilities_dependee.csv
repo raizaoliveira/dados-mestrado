@@ -1,0 +1,3 @@
+def(ENABLE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,2
+True,sc_keycache_forget_key,additon,Function,2
+True,get_key,exclusion,Function,2

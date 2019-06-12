@@ -1,0 +1,6 @@
+def(ENABLE_DEBUG),wait_status_string,parameter,Function,3
+def(ENABLE_DEBUG),drop_accept,qualifier,Function,3
+True,get_console_input,additon,Function,3
+def(ENABLE_DEBUG),pct_name,qualifier,Function,3
+True,np,exclusion,Function,3
+True,array_mult_safe,parameter,Function,3

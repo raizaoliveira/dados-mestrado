@@ -1,0 +1,5 @@
+True,
+def(TEST),
+def(NEED_STRNCASECMP),
+def(NEED_STRCASECMP),
+def(USE_PROJ),

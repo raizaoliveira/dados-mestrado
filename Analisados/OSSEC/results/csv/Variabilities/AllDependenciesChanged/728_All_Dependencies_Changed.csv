@@ -1,0 +1,3 @@
+def(OSSECHIDS),True
+!def(LOCAL),True
+def(WIN32),True

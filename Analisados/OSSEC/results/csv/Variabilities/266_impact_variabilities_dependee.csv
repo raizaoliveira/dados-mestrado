@@ -1,0 +1,4 @@
+True,path,exclusion,Variable,1
+True,child_node,exclusion,Variable,1
+True,lf,exclusion,Variable,1
+True,OS_CheckIfRuleMatch,exclusion,Function,1

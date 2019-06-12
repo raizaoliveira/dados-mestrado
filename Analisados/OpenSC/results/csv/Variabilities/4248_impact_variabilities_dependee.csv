@@ -1,0 +1,8 @@
+True,get_pin,specifier,Function,2
+def(ENABLE_OPENSSL),extract_key,additon,Function,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+def(ENABLE_OPENSSL),obj,exclusion,Variable,2
+True,decipher,exclusion,Function,2
+def(ENABLE_OPENSSL),len,exclusion,Variable,2
+True,keyLocation,additon,Variable,2
+def(ENABLE_OPENSSL),out,exclusion,Variable,2

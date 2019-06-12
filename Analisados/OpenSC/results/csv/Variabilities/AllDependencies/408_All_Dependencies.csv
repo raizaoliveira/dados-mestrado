@@ -1,0 +1,6 @@
+True,!def(__GNUC__)
+def(RANDOM_POOL),True
+def(DEBUG),True
+def(ATR_SUPPORT),True
+True,def(DEBUG)
+!def(__GNUC__),True

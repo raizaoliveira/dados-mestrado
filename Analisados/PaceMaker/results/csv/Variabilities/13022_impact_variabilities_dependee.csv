@@ -1,0 +1,7 @@
+True,async_fence_helper,parameter,Function,2
+True,lrmd_rsc_dispatch,parameter,Function,2
+True,child_death_dispatch,parameter,Function,2
+True,election_timer_cb,parameter,Function,2
+True,test_shutdown,parameter,Function,2
+True,start_test,parameter,Function,2
+True,throttle_timer_cb,parameter,Function,2

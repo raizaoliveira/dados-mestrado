@@ -1,0 +1,5 @@
+def(ATR_SUPPORT),
+def(HAVE_OPENSSL),
+True,
+def(HAVE_DLFCN_H),
+def(USE_PKCS15_INIT),

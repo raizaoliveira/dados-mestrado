@@ -1,0 +1,12 @@
+def(USE_WMS_SVR),msOWSDispatch,additon,Function,7
+def(TEST),cacheRelease,parameter,Function,7
+True,msOWSParseVersionString,exclusion,Function,7
+True,mapserv,exclusion,Variable,7
+def(USE_WCS_SVR),msWCSGetCapabilities,exclusion,Function,7
+True,map,exclusion,Variable,7
+def(TEST),cacheTest,parameter,Function,7
+True,params,exclusion,Variable,7
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,7
+def(TEST),cacheFetch,parameter,Function,7
+True,msOWSRequestIsEnabled,additon,Function,7
+True,loadParams,parameter,Function,7

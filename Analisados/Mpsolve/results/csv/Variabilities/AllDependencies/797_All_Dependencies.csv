@@ -1,0 +1,5 @@
+!def(DISABLE_DEBUG),True
+True,!def(DISABLE_DEBUG)
+!def(__WINDOWS),True
+True,!def(mpf_pow_ui)
+True,!def(__WINDOWS)

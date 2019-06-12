@@ -1,0 +1,8 @@
+def(TEST),cacheTest,parameter,Function,5
+True,value,exclusion,Variable,5
+def(USE_PROJ),loadProjectionString,exclusion,Function,5
+def(TEST),cacheRelease,parameter,Function,5
+True,map,exclusion,Variable,5
+True,p,exclusion,Variable,5
+True,DBFReadStringAttribute,parameter,Function,5
+def(TEST),cacheFetch,parameter,Function,5

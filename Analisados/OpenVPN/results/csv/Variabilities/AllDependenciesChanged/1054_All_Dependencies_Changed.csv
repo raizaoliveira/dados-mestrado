@@ -1,0 +1,12 @@
+True,!def(BUF_INIT_TRACKING)
+def(ENABLE_EUREPHIA),True
+True,!def(DMALLOC)
+!def(BUF_INIT_TRACKING),True
+def(ENABLE_DEBUG),True
+!def(BUF_INIT_TRACKING),!def(DMALLOC)
+def(DMALLOC),True
+True,def(ENABLE_DEBUG)
+def(HAVE_SIGNAL_H),(def(HAVE_SIGNAL_H)&!def(WIN32))
+def(ENABLE_DEBUG),!def(DMALLOC)
+def(HAVE_SIGNAL_H),True
+!def(DMALLOC),True

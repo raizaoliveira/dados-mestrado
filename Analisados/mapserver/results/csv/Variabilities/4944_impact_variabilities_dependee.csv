@@ -1,0 +1,6 @@
+True,msGetOutputFormatOption,parameter,Function,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,setExtentFromShapes,additon,Function,6
+True,split,parameter,Function,6
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6
+True,msDBFReadStringAttribute,parameter,Function,6

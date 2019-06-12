@@ -1,0 +1,10 @@
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,msSetError,exclusion,Function,6
+True,split,parameter,Function,6
+True,dst,exclusion,Variable,6
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6
+True,msGetOutputFormatOption,parameter,Function,6
+True,src,exclusion,Variable,6
+True,msDBFReadStringAttribute,parameter,Function,6
+True,msCopyClass,exclusion,Function,6
+True,layer,additon,Variable,6

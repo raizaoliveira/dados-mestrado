@@ -1,0 +1,8 @@
+def(HAVE_READLINE),
+True,
+def(DEBUG),
+def(VERSION),
+!def(VERSION),
+def(notdef),
+!def(__GNUC__),
+def(ATR_SUPPORT),

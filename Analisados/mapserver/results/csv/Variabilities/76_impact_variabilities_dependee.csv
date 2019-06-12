@@ -1,0 +1,7 @@
+def(TEST),cacheTest,parameter,Function,5
+def(TEST),cacheFetch,parameter,Function,5
+def(TEST),cacheRelease,parameter,Function,5
+def(USE_PROJ),loadProjection,additon,Function,5
+True,DBFReadStringAttribute,parameter,Function,5
+True,value,additon,Variable,5
+True,getCharacter,additon,Function,5

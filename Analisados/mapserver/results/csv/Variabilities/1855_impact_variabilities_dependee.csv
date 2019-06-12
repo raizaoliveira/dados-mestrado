@@ -1,0 +1,14 @@
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,msInchesPerUnit,additon,Function,6
+def(TEST),cacheFetch,parameter,Function,6
+True,msWriteErrorImage,additon,Function,6
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6
+True,msFreeOutputFormat,exclusion,Function,6
+True,msGetOutputFormatOption,parameter,Function,6
+!def(USE_THREAD),msGetErrorObj,exclusion,Function,6
+True,inchesPerUnit,exclusion,Variable,6
+True,msDBFReadStringAttribute,parameter,Function,6
+def(TEST),cacheTest,parameter,Function,6
+True,msInsertHashTable,additon,Function,6
+def(TEST),cacheRelease,parameter,Function,6
+True,msSaveImageGD,exclusion,Function,6

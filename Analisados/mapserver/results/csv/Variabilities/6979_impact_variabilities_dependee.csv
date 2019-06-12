@@ -1,0 +1,17 @@
+True,height,additon,Variable,6
+True,dstY,additon,Variable,6
+True,msDrawLegendIcon,exclusion,Function,6
+True,width,additon,Variable,6
+True,msCalculateScale,exclusion,Function,6
+True,mapserv,additon,Variable,6
+True,msOWSLookupMetadata,additon,Function,6
+True,lp,additon,Variable,6
+True,map,additon,Variable,6
+True,image,additon,Variable,6
+def(USE_WCS_SVR),msOWSDispatch,exclusion,Function,6
+True,msFreeCharArray,additon,Function,6
+True,msCreateLegendIcon,additon,Function,6
+True,dstX,additon,Variable,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,msDrawLegend,additon,Function,6
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6

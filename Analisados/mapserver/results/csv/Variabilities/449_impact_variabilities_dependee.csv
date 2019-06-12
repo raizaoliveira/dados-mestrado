@@ -1,0 +1,7 @@
+True,msSetError,exclusion,Function,4
+def(TEST),cacheTest,parameter,Function,4
+def(TEST),cacheFetch,parameter,Function,4
+def(NEED_STRDUP),strdup,exclusion,Function,4
+True,msDBFReadStringAttribute,parameter,Function,4
+True,writeError,exclusion,Function,4
+def(TEST),cacheRelease,parameter,Function,4

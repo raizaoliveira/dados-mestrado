@@ -1,0 +1,7 @@
+True,ctx,additon,Variable,3
+True,sc_get_openct_driver,additon,Function,3
+True,sc_do_log,exclusion,Function,3
+True,ctx_out,exclusion,Variable,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3
+True,sc_get_ctapi_driver,additon,Function,3
+True,opts,additon,Variable,3

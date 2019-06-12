@@ -1,0 +1,7 @@
+True,ping_desc,additon,Function,3
+True,strerror,additon,Function,3
+def(ON_LINUX),node,additon,Variable,3
+!def(ON_LINUX),process_icmp6_error,additon,Function,3
+!def(ON_LINUX),process_icmp_error,exclusion,Function,3
+True,cmsglen,additon,Variable,3
+def(ON_LINUX),process_icmp4_error,additon,Function,3

@@ -1,0 +1,8 @@
+True,def(DEBUG)
+def(__OpenBSD__),True
+True,!def(BF_DEFAULT_OPTIONS)
+def(DEBUG),True
+True,(!def(ASM_MD5)&!def(HIGHFIRST))
+def(BF_PTR2),!def(BF_PTR2)
+!def(BF_DEFAULT_OPTIONS),True
+!def(BF_PTR2),def(BF_PTR2)

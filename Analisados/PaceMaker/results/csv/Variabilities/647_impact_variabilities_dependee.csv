@@ -1,0 +1,6 @@
+!def(TESTING),initiate_action,exclusion,Function,2
+True,free_xml,exclusion,Function,2
+True,create_xml_node,exclusion,Function,2
+True,send_ipc_request,exclusion,Function,2
+True,action,exclusion,Variable,2
+!def(TESTING),create_xml_node,additon,Function,2

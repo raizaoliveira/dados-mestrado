@@ -1,0 +1,10 @@
+True,argc,additon,Variable,2
+True,options,additon,Variable,2
+True,cib_create_op,additon,Function,2
+True,msg,exclusion,Variable,2
+True,daemon_option,specifier,Function,2
+True,strerror,additon,Function,2
+True,cib,exclusion,Variable,2
+True,create_op,exclusion,Function,2
+True,pcmk_strerror,exclusion,Function,2
+True,argv,additon,Variable,2

@@ -1,0 +1,12 @@
+True,def(COSM_EXTENDED)
+def(COSM_EXTENDED),True
+True,(def(ENABLE_OPENSSL)&def(COSM_EXTENDED))
+True,def(HAVE_ZLIB_H)
+def(asepcos_USE_PIN_PATH),True
+(def(ENABLE_OPENSSL)&def(COSM_EXTENDED)),True
+True,def(HAVE_OPENSSL)
+def(ENABLE_OPENSSL),True
+True,def(USE_PKCS15_INIT)
+def(HAVE_OPENSSL),True
+True,def(ENABLE_OPENSSL)
+def(USE_PKCS15_INIT),True

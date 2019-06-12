@@ -1,0 +1,5 @@
+True,!def(HAVE_OPENSSL)
+def(HAVE_OPENSSL),True
+True,def(HAVE_OPENSSL)
+!def(HAVE_OPENSSL),True
+!def(__GNUC__),True

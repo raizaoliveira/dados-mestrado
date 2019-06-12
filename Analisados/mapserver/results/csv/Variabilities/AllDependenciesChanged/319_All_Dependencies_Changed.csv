@@ -1,0 +1,8 @@
+True,!def(USE_GD_TTF)
+def(NEED_STRDUP),True
+def(USE_PROJ),True
+True,!def(USE_PROJ)
+!def(IGNORE_MISSING_DATA),True
+True,def(TEST)
+def(IGNORE_MISSING_DATA),True
+True,def(USE_PROJ)

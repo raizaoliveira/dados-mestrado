@@ -1,0 +1,10 @@
+True,sc_pkcs15_decode_pubkey,additon,Function,3
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,3
+True,sc_pkcs15_encode_pubkey,exclusion,Function,3
+def(HAVE_OPENSSL),rsa_der_len,additon,Variable,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,3
+def(HAVE_OPENSSL),rsa_der,additon,Variable,3
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,3
+True,sc_pkcs15_encode_pubkey_rsa,additon,Function,3
+True,sc_pkcs15_decode_pubkey_rsa,exclusion,Function,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,3

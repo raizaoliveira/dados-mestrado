@@ -1,0 +1,4 @@
+def(ENABLE_OPENSSL),decipher_ext,parameter,Function,2
+True,sc_pkcs15init_store_data_object,additon,Function,2
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,2
+True,sc_pkcs15init_store_data,exclusion,Function,2

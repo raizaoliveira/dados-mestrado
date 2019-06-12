@@ -1,0 +1,8 @@
+True,label,additon,Variable,3
+def(TEST),cacheTest,parameter,Function,3
+True,labelPnt,additon,Variable,3
+True,DBFReadStringAttribute,parameter,Function,3
+True,img,additon,Variable,3
+True,string,additon,Variable,3
+def(TEST),cacheFetch,parameter,Function,3
+def(TEST),cacheRelease,parameter,Function,3

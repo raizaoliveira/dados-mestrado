@@ -1,0 +1,3 @@
+True,generate_key,additon,Function,2
+def(ENABLE_OPENSSL),decipher_ext,parameter,Function,2
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,2

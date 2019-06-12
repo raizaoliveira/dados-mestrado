@@ -1,0 +1,6 @@
+def(PLUGIN_PF),True
+!def(DMALLOC),def(DMALLOC)
+def(HAVE_SIGNAL_H),True
+def(ENABLE_SOCKS),True
+def(DMALLOC),!def(DMALLOC)
+True,!def(DMALLOC)

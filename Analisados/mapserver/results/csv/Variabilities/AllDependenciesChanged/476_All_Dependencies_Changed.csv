@@ -1,0 +1,3 @@
+def(NEED_STRDUP),True
+True,def(NEED_STRCASECMP)
+True,def(TEST)

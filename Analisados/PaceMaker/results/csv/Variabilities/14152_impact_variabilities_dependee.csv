@@ -1,0 +1,11 @@
+True,strerror,exclusion,Function,3
+def(HAVE_SYS_TIMEB_H),action_complete,additon,Function,3
+True,request,exclusion,Variable,3
+True,msg,exclusion,Variable,3
+True,rc,additon,Variable,3
+True,cmd,additon,Variable,3
+True,id,exclusion,Variable,3
+True,pcmk_strerror,additon,Function,3
+True,crm_is_callsite_active,exclusion,Function,3
+def(HAVE_SYS_TIMEB_H),time_diff_ms,exclusion,Function,3
+True,client,exclusion,Variable,3

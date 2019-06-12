@@ -1,0 +1,6 @@
+True,mapserv,additon,Variable,4
+True,map,additon,Variable,4
+def(USE_WMS_SVR),msOWSDispatch,additon,Function,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4
+True,msDrawLegendIcon,additon,Function,4
+True,msCalculateScale,exclusion,Function,4

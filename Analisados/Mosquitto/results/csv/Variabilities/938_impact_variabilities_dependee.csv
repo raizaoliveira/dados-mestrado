@@ -1,0 +1,7 @@
+def(WITH_BROKER),_mosquitto_socket_close,exclusion,Function,2
+True,_mosquitto_packet_queue,exclusion,Function,2
+True,_mosquitto_packet_cleanup,exclusion,Function,2
+def(WITH_BROKER),mosq,additon,Variable,2
+True,topic,additon,Variable,2
+True,packet,additon,Variable,2
+True,mosq,additon,Variable,2

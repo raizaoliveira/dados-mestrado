@@ -1,0 +1,10 @@
+True,starcos_errors,additon,Function,5
+True,iso7816_errors,additon,Function,5
+True,sc_to_cryptoki_error,additon,Function,5
+True,sc_strerror,additon,Function,5
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,5
+True,ctx,additon,Variable,5
+def(HAVE_ZLIB_H),sc_strerror,type,Function,5
+True,error,additon,Function,5
+True,p15card,additon,Variable,5
+True,card,additon,Variable,5

@@ -1,0 +1,16 @@
+def(USE_PROJ),True
+!def(USE_OGR),True
+True,def(USE_OGR)
+def(USE_WMS_SVR),True
+def(USE_WMS_SVR),def(USE_OGR)
+True,def(TEST)
+def(USE_FASTCGI),True
+def(__cplusplus),True
+True,def(USE_WMS_LYR)
+def(USE_POINT_Z_M),True
+def(USE_OGR),True
+!def(USE_FASTCGI),True
+(def(USE_OGR)&def(USE_WMS_SVR)),def(USE_OGR)
+def(USE_GEOS),True
+True,def(USE_MING_FLASH)
+True,def(USE_GEOS)

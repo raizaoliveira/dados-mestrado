@@ -1,0 +1,9 @@
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,2
+True,sign,specifier,Function,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,2
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,2
+True,p15card,additon,Variable,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,2
+def(ENABLE_OPENSSL),profile,exclusion,Variable,2
+True,create_pin,exclusion,Function,2
+True,get_pin,specifier,Function,2

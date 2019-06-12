@@ -1,0 +1,6 @@
+def(USE_THREAD),
+def(USE_WMS_SVR),
+def(USE_WCS_SVR),
+True,
+def(TEST_MAPCRYPTO),
+def(notdef),

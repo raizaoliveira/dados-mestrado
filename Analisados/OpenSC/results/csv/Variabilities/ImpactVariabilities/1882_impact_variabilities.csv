@@ -1,0 +1,5 @@
+True,
+def(HAVE_OPENSSL),
+def(HAVE_USBTOKEN),
+!def(__GNUC__),
+def(USE_PKCS15_INIT),

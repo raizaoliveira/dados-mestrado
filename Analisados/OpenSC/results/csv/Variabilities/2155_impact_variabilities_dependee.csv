@@ -1,0 +1,5 @@
+def(HAVE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+def(HAVE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,2
+def(HAVE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,2
+!def(OPENSC_NO_DEPRECATED),sc_pkcs15emu_add_prkey,additon,Function,2
+!def(OPENSC_NO_DEPRECATED),sc_pkcs15emu_add_pin,additon,Function,2

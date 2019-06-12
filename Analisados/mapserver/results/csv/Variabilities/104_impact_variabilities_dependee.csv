@@ -1,0 +1,9 @@
+True,initFeature,exclusion,Function,3
+def(TEST),cacheFetch,parameter,Function,3
+True,p,additon,Variable,3
+True,DBFReadStringAttribute,parameter,Function,3
+True,value,additon,Variable,3
+True,map,additon,Variable,3
+True,img,additon,Variable,3
+def(TEST),cacheRelease,parameter,Function,3
+def(TEST),cacheTest,parameter,Function,3

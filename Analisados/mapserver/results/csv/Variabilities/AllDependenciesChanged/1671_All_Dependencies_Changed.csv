@@ -1,0 +1,10 @@
+def(NEED_STRCASECMP),True
+def(USE_MING_FLASH),def(NEED_STRCASECMP)
+True,def(TEST)
+True,def(USE_WMS_SVR)
+def(USE_PDF),def(NEED_STRCASECMP)
+def(NEED_STRDUP),True
+True,def(USE_PDF)
+def(USE_MING_FLASH),True
+True,def(USE_WMS_LYR)
+def(USE_PDF),True

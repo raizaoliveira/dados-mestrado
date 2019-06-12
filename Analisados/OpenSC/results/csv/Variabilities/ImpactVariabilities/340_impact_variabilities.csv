@@ -1,0 +1,4 @@
+def(TEST),
+!def(__GNUC__),
+!def(TEST),
+True,

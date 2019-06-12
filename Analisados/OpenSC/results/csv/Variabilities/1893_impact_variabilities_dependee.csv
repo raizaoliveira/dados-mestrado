@@ -1,0 +1,12 @@
+True,slot,additon,Variable,4
+True,sc_strerror,parameter,Function,4
+!def(__GNUC__),sc_debug,exclusion,Function,4
+True,sc_print_path,parameter,Function,4
+def(HAVE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,4
+True,p15card,exclusion,Variable,4
+def(HAVE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,4
+def(HAVE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,4
+True,p11card,exclusion,Variable,4
+True,__pkcs15_create_pubkey_object,additon,Function,4
+def(USE_PKCS15_INIT),pkcs15_set_attrib,additon,Function,4
+!def(__GNUC__),sc_error,exclusion,Function,4

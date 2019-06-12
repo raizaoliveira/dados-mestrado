@@ -1,0 +1,6 @@
+True,def(USE_WMS_LYR)
+def(USE_WMS_SVR),True
+def(GD_HAS_FTEX_XSHOW),True
+True,def(GD_HAS_FTEX_XSHOW)
+True,def(USE_GEOS)
+def(USE_GEOS),True

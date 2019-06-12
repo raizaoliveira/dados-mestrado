@@ -1,0 +1,14 @@
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,5
+True,sc_print_path,additon,Function,5
+True,opt_card_profile,exclusion,Variable,5
+True,profile,exclusion,Variable,5
+True,bind,additon,Function,5
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,5
+def(ENABLE_OPENSSL),pgp_gen_key,parameter,Function,5
+True,opt_profile,exclusion,Variable,5
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,5
+True,card,exclusion,Variable,5
+def(USE_PKCS15_INIT),pkcs15init_bind,exclusion,Function,5
+True,sc_file_new,additon,Function,5
+True,sc_pkcs15emu_dnie_init,additon,Function,5
+True,sc_strerror,additon,Function,5

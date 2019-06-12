@@ -1,0 +1,7 @@
+True,sign,additon,Function,3
+True,do_sign,exclusion,Function,3
+!def(OPENSC_NO_DEPRECATED),sc_pkcs15emu_add_pin,exclusion,Function,3
+True,sc_do_log,additon,Function,3
+True,p15card,additon,Variable,3
+True,sc_pkcs15emu_get_df,parameter,Function,3
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,3

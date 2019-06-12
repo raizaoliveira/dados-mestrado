@@ -1,0 +1,6 @@
+True,
+!def(WITH_BROKER),
+def(WITH_SOCKS),
+(!def(REAL_WITH_TLS_PSK)&!def(WITH_BROKER)),
+def(WITH_BROKER),
+def(WITH_BRIDGE),

@@ -1,0 +1,11 @@
+True,gc,additon,Variable,5
+True,buf_size_error,additon,Function,5
+True,buffer_list_push_data,exclusion,Function,5
+!def(DMALLOC),alloc_buf,additon,Function,5
+!def(DMALLOC),alloc_buf_gc,exclusion,Function,5
+True,pos,exclusion,Function,5
+True,array_mult_safe,parameter,Function,5
+def(ENABLE_DEBUG),up,additon,Variable,5
+True,tls_common_name,additon,Function,5
+!def(DMALLOC),gc_malloc,additon,Function,5
+True,format_hex_ex,exclusion,Function,5

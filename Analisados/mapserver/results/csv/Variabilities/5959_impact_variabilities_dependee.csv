@@ -1,0 +1,4 @@
+True,msFreeMapServObj,additon,Function,2
+True,setExtentFromShapes,exclusion,Function,2
+True,msFreeMap,exclusion,Function,2
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,2

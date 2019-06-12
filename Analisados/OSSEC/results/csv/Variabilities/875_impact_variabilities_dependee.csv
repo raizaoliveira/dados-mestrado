@@ -1,0 +1,3 @@
+!def(WIN32),path,additon,Variable,2
+!def(WIN32),OS_GetHost,parameter,Function,2
+True,main,exclusion,Function,2

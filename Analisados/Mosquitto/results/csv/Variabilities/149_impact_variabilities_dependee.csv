@@ -1,0 +1,5 @@
+True,mqtt3_context_init,additon,Function,1
+True,listensock,additon,Variable,1
+True,_mosquitto_log_printf,exclusion,Function,1
+True,mqtt3_context_cleanup,exclusion,Function,1
+True,db,additon,Variable,1

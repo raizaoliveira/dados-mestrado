@@ -1,0 +1,5 @@
+def(WITH_SOCKS),
+True,
+def(WITH_BRIDGE),
+def(WITH_BROKER),
+!def(WITH_BROKER),

@@ -1,0 +1,6 @@
+True,
+def(WITH_BROKER),
+def(WITH_WEBSOCKETS),
+def(WITH_TLS),
+def(WITH_SOCKS),
+!def(WITH_BROKER),

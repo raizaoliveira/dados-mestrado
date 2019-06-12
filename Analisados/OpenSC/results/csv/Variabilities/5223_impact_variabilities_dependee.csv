@@ -1,0 +1,13 @@
+True,change_pin,additon,Function,2
+def(ENABLE_OPENSSL),authentic_known_atrs,additon,Variable,2
+True,_sc_log,additon,Function,2
+def(ENABLE_OPENSSL),sc_print_path,additon,Function,2
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,2
+True,process_fci,exclusion,Function,2
+def(ENABLE_OPENSSL),sc_dump_hex,additon,Function,2
+True,card,additon,Variable,2
+True,select_file,additon,Function,2
+def(ENABLE_OPENSSL),file,exclusion,Variable,2
+True,sc_do_log,exclusion,Function,2
+def(ENABLE_OPENSSL),tries_left,additon,Variable,2
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,2

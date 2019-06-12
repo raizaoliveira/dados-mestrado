@@ -1,0 +1,3 @@
+def(ATR_SUPPORT),
+True,
+def(USE_PKCS15_INIT),

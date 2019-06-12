@@ -1,0 +1,4 @@
+def(_WIN32),True
+True,def(USE_PROJ)
+True,def(TEST)
+def(NEED_STRDUP),True

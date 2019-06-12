@@ -1,0 +1,4 @@
+True,!def(DISABLE_DEBUG)
+!def(NOMPTEMP),True
+True,!def(NOMPTEMP)
+True,!def(mpf_pow_ui)

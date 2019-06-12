@@ -1,0 +1,10 @@
+def(ON_LINUX),process_icmp4_error,additon,Function,4
+True,cib_conn,exclusion,Variable,4
+True,data_set,exclusion,Variable,4
+True,prop_name,exclusion,Variable,4
+def(ON_LINUX),process_icmp6_error,additon,Function,4
+True,gIter,exclusion,Variable,4
+True,rsc,exclusion,Variable,4
+True,prop_set,exclusion,Variable,4
+True,rsc_id,exclusion,Variable,4
+True,prop_id,exclusion,Variable,4

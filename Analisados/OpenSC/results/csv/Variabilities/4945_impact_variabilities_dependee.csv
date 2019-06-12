@@ -1,0 +1,10 @@
+def(ENABLE_OPENSSL),register_mechanisms,additon,Function,3
+def(USE_PKCS15_INIT),pkcs15_create_data,exclusion,Function,3
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,3
+True,fw_data,exclusion,Variable,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,3
+True,__pkcs15_create_data_object,additon,Function,3
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,3
+True,pkcs15_init_slot,parameter,Function,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,3
+True,sc_do_log,additon,Function,3

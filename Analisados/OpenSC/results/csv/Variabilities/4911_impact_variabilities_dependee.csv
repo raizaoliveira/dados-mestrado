@@ -1,0 +1,14 @@
+True,card,additon,Variable,3
+True,sc_pkcs15_free_object,exclusion,Function,3
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,3
+True,reverse,exclusion,Function,3
+True,do_get_data,exclusion,Function,3
+True,opts,exclusion,Variable,3
+True,sc_pkcs15_free_object_content,additon,Function,3
+True,p15card,exclusion,Variable,3
+True,ctx,exclusion,Variable,3
+def(ENABLE_OPENSSL),sdo,exclusion,Variable,3
+True,sc_pkcs15_allocate_object_content,parameter,Function,3
+True,sc_mem_reverse,additon,Function,3
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3

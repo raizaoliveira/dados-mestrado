@@ -1,0 +1,12 @@
+def(TEST),cacheTest,parameter,Function,4
+def(TEST),cacheFetch,parameter,Function,4
+True,map,exclusion,Variable,4
+True,img,additon,Variable,4
+def(USE_PROJ),loadProjectionString,additon,Function,4
+def(USE_PROJ),loadProjection,exclusion,Function,4
+def(TEST),cacheRelease,parameter,Function,4
+True,DBFReadStringAttribute,parameter,Function,4
+True,label,additon,Variable,4
+True,value,additon,Variable,4
+True,string,additon,Variable,4
+True,labelPnt,additon,Variable,4

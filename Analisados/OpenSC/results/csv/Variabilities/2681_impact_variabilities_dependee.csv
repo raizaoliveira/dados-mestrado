@@ -1,0 +1,13 @@
+True,fw_data,additon,Variable,4
+True,p15card,exclusion,Variable,4
+def(USE_PKCS15_INIT),pkcs15_create_object,additon,Function,4
+True,pkcs15_cert_ops,additon,Variable,4
+True,pkcs15_prkey_ops,additon,Variable,4
+!def(__GNUC__),sc_debug,exclusion,Function,4
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,4
+True,pkcs15_dobj_ops,additon,Variable,4
+True,context,exclusion,Variable,4
+True,p11card,additon,Variable,4
+True,sc_pkcs15_print_id,qualifier,Function,4
+True,sc_do_log,additon,Function,4
+True,pkcs15_pubkey_ops,additon,Variable,4

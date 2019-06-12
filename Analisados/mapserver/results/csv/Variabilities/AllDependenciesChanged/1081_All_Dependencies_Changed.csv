@@ -1,0 +1,6 @@
+def(USE_GD_TTF),True
+True,def(TEST)
+True,def(USE_GD_TTF)
+True,def(USE_WMS_LYR)
+def(NEED_STRDUP),True
+def(NEED_STRCASECMP),True

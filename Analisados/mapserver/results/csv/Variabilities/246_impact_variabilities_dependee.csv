@@ -1,0 +1,11 @@
+def(NEED_STRDUP),strdup,additon,Function,5
+True,encode_url,additon,Function,5
+True,gsub,additon,Function,5
+True,value,exclusion,Variable,5
+def(USE_PROJ),loadProjection,additon,Function,5
+True,msSHPOpenFile,exclusion,Function,5
+True,msSHPOpen,additon,Function,5
+def(TEST),cacheFetch,parameter,Function,5
+True,msDBFReadStringAttribute,parameter,Function,5
+def(TEST),cacheTest,parameter,Function,5
+def(TEST),cacheRelease,parameter,Function,5

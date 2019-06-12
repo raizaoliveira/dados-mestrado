@@ -1,0 +1,10 @@
+def(HAVE_LRM_OP_T_RSC_DELETED),True
+!def(HAVE_GNUTLS_GNUTLS_H),True
+!def(ON_LINUX),def(ON_LINUX)
+True,def(HAVE_LRM_OP_T_RSC_DELETED)
+!def(HAVE_MSGFROMIPC_TIMEOUT),True
+True,!def(ON_LINUX)
+True,!def(HAVE_GNUTLS_GNUTLS_H)
+def(ON_LINUX),True
+True,def(ON_LINUX)
+def(ON_LINUX),!def(ON_LINUX)

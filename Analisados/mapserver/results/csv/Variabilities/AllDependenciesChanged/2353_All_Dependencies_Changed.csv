@@ -1,0 +1,13 @@
+True,def(__cplusplus)
+True,def(USE_WMS_LYR)
+def(USE_GD_TTF),True
+True,def(USE_GD_TTF)
+def(NEED_STRDUP),True
+!def(USE_GD_FT),True
+True,def(USE_GD_JPEG)
+True,def(TEST)
+True,def(USE_WMS_SVR)
+def(USE_WMS_SVR),True
+True,def(USE_PROJ)
+!def(USE_GD_TTF),True
+def(NEED_STRCASECMP),True

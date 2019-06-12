@@ -1,0 +1,10 @@
+True,mqtt3_db_messages_delete,additon,Function,2
+True,mqtt3_db_message_write,additon,Function,2
+def(WITH_BROKER),db__message_update,exclusion,Function,2
+True,db__message_update,exclusion,Function,2
+True,db,exclusion,Variable,2
+True,db__message_write,exclusion,Function,2
+True,db__message_delete,exclusion,Function,2
+True,mqtt3_db_message_reconnect_reset,additon,Function,2
+True,db__message_release,exclusion,Function,2
+True,mqtt3_db_messages_easy_queue,additon,Function,2

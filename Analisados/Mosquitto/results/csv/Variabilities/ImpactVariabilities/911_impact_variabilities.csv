@@ -1,0 +1,6 @@
+!def(WITH_BROKER),
+(def(REAL_WITH_TLS_PSK)&def(WITH_TLS)),
+def(WITH_SOCKS),
+def(WITH_WEBSOCKETS),
+True,
+def(WITH_BROKER),

@@ -1,0 +1,16 @@
+True,sc_pkcs11_release_operation,additon,Function,3
+True,sc_pkcs11_new_operation,additon,Function,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,additon,Function,3
+def(ENABLE_OPENSSL),register_mechanisms,exclusion,Function,3
+True,find_mechanism,exclusion,Function,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_update,additon,Function,3
+True,session_get_operation,additon,Function,3
+True,session_start_operation,additon,Function,3
+def(HAVE_OPENSSL),sc_pkcs11_verify_update,exclusion,Function,3
+True,session_stop_operation,additon,Function,3
+True,sign,additon,Function,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_final,additon,Function,3
+def(HAVE_OPENSSL),sc_pkcs11_verify_final,exclusion,Function,3
+True,sc_pkcs11_find_mechanism,additon,Function,3
+True,pkcs11_verify,additon,Function,3
+def(HAVE_OPENSSL),sc_pkcs11_verify_init,exclusion,Function,3

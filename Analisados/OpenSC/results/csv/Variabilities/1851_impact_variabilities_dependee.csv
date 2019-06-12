@@ -1,0 +1,7 @@
+True,sc_print_path,parameter,Function,4
+def(HAVE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,4
+def(HAVE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,4
+!def(__GNUC__),sc_debug,additon,Function,4
+def(HAVE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,4
+!def(__GNUC__),sc_error,additon,Function,4
+True,sc_strerror,parameter,Function,4

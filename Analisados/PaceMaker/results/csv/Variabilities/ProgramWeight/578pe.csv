@@ -1,0 +1,12 @@
+set_xml_property_copy,1,function
+action,1,variable
+dump_array,1,function
+send_ipc_request,1,function
+free_xml,1,function
+initiate_action,1,function
+create_xml_node,1,function
+add_node_copy,1,function
+get_the_CIB,1,function
+src,1,variable
+copy_in_properties,1,function
+do_fake_lrm_op,1,function

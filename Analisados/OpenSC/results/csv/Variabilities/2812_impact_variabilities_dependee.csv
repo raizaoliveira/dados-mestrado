@@ -1,0 +1,4 @@
+True,sign,specifier,Function,2
+True,gen_keypair,additon,Function,2
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,2
+True,gen_key,exclusion,Function,2

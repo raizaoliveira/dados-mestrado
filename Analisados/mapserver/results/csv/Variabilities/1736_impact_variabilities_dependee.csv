@@ -1,0 +1,13 @@
+def(TEST),cacheRelease,parameter,Function,8
+True,img,additon,Variable,8
+True,string,additon,Variable,8
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,8
+True,labelPnt,additon,Variable,8
+True,fontset,additon,Variable,8
+True,label,additon,Variable,8
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,8
+def(TEST),cacheTest,parameter,Function,8
+def(TEST),cacheFetch,parameter,Function,8
+True,msDBFReadStringAttribute,parameter,Function,8
+True,p,additon,Variable,8
+True,msGetOutputFormatOption,parameter,Function,8

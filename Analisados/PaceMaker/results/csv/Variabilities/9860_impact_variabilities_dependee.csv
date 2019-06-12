@@ -1,0 +1,6 @@
+True,rsc_id,exclusion,Variable,2
+True,prop_set,exclusion,Variable,2
+True,cib_conn,exclusion,Variable,2
+True,prop_id,exclusion,Variable,2
+True,prop_name,exclusion,Variable,2
+True,data_set,exclusion,Variable,2

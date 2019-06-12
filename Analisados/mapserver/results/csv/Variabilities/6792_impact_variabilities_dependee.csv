@@ -1,0 +1,14 @@
+def(notdef),imageOffsetPolyline,additon,Function,5
+True,color,additon,Variable,5
+True,img,additon,Variable,5
+def(notdef),imagePolyline,exclusion,Function,5
+def(notdef),offsety,exclusion,Variable,5
+def(notdef),offsetx,exclusion,Variable,5
+True,p,additon,Variable,5
+def(notdef),p,additon,Variable,5
+def(notdef),img,additon,Variable,5
+True,offsetx,additon,Variable,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+def(notdef),color,exclusion,Variable,5
+True,offsety,additon,Variable,5
+True,imagePolyline,additon,Function,5

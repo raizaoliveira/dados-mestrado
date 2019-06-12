@@ -1,0 +1,8 @@
+def(WITH_TLS),
+def(WITH_BROKER),
+def(WITH_WEBSOCKETS),
+def(WITH_SOCKS),
+def(WIN32),
+!def(WITH_BROKER),
+!def(WITH_TLS),
+True,

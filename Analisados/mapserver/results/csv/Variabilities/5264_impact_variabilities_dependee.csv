@@ -1,0 +1,7 @@
+True,msWriteErrorXML,additon,Function,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4
+True,split,parameter,Function,4
+True,msWriteError,exclusion,Function,4
+True,msWriteErrorImage,additon,Function,4
+True,msDBFReadStringAttribute,parameter,Function,4
+True,msGetOutputFormatOption,parameter,Function,4

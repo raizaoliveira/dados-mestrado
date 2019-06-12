@@ -1,0 +1,6 @@
+!def(__GNUC__),sc_error,additon,Function,4
+True,version,additon,Function,4
+True,sc_strerror,parameter,Function,4
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,4
+def(HAVE_ZLIB_H),sc_strerror,type,Function,4
+!def(__GNUC__),sc_debug,additon,Function,4

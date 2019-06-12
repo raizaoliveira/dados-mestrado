@@ -1,0 +1,5 @@
+def(WITH_SOCKS),True
+def(WITH_WEBSOCKETS),True
+def(WITH_WRAP),True
+def(WITH_TLS),True
+True,def(WITH_SOCKS)

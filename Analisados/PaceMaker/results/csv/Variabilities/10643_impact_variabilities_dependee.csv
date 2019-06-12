@@ -1,0 +1,4 @@
+True,crm_is_callsite_active,additon,Function,1
+True,cib_create_op,additon,Function,1
+True,create_op,exclusion,Function,1
+True,cib_error2string,exclusion,Function,1

@@ -1,0 +1,2 @@
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,4

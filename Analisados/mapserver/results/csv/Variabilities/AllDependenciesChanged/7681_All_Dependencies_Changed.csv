@@ -1,0 +1,12 @@
+def(USE_WMS_SVR),def(USE_OGR)
+True,def(TEST)
+True,def(USE_WMS_SVR)
+True,def(USE_GEOS)
+!def(USE_FASTCGI),True
+(def(USE_OGR)&def(USE_WMS_SVR)),def(USE_OGR)
+def(USE_FASTCGI),True
+!def(USE_OGR),True
+def(USE_OGR),True
+True,def(USE_OGR)
+True,def(USE_WMS_LYR)
+def(__cplusplus),True

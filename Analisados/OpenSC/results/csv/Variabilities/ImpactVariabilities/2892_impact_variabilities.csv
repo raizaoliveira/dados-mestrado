@@ -1,0 +1,7 @@
+!def(HAVE_STRLCPY),
+def(HAVE_ZLIB_H),
+def(COSM_EXTENDED),
+True,
+def(USE_PKCS15_INIT),
+def(HAVE_OPENSSL),
+def(HAVE_USBTOKEN),

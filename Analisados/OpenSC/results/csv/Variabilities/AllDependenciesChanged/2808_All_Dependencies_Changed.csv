@@ -1,0 +1,6 @@
+def(USE_PKCS15_INIT),True
+True,def(USE_PKCS15_INIT)
+def(DEBUG),True
+True,def(HAVE_OPENSSL)
+!def(__GNUC__),True
+True,!def(__GNUC__)

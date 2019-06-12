@@ -1,0 +1,17 @@
+def(USE_GD_FT),True
+True,def(USE_WCS_SVR)
+True,def(__cplusplus)
+def(USE_WMS_SVR),True
+True,def(USE_WMS_SVR)
+True,def(notdef)
+def(notdef),True
+def(NEED_STRCASECMP),True
+def(NEED_STRDUP),True
+True,def(USE_GD_JPEG)
+True,def(USE_GD_PNG)
+True,def(USE_GD_FT)
+True,!def(USE_AGG)
+def(USE_OGR),True
+def(USE_AGG),True
+True,def(USE_WMS_LYR)
+!def(USE_AGG),True

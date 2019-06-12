@@ -1,0 +1,5 @@
+!def(TEST),
+def(TEST),
+def(VERSION),
+!def(VERSION),
+True,

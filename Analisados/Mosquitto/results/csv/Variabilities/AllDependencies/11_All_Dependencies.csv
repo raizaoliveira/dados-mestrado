@@ -1,0 +1,15 @@
+True,def(WITH_BROKER)
+(def(WITH_BRIDGE)&def(WITH_BROKER)&(!def(WITH_SYS_TREE)|!def(WITH_BROKER))),True
+True,!def(WITH_WRAP)
+def(WITH_WRAP),True
+!def(WITH_WRAP),True
+!def(WITH_BROKER),True
+True,!def(WITH_BROKER)
+(def(WITH_TLS)&!def(WITH_WRAP)),True
+(!def(WITH_SYS_TREE)&def(WITH_BRIDGE)),!def(WITH_BROKER)
+(!def(WITH_SYS_TREE)&def(WITH_BRIDGE)),True
+(def(WITH_TLS)&def(WITH_WRAP)),True
+def(WITH_BRIDGE),True
+def(WITH_SRV),True
+True,def(WITH_WRAP)
+def(WITH_BROKER),True

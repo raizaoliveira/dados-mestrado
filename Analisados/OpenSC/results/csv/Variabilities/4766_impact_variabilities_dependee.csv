@@ -1,0 +1,8 @@
+def(FORCE_VERIFY_RUTOKEN),sc_strerror,exclusion,Function,3
+def(ENABLE_OPENSSL),authentic_known_atrs,exclusion,Variable,3
+True,card,exclusion,Variable,3
+True,change_pin,exclusion,Function,3
+def(ENABLE_OPENSSL),tries_left,exclusion,Variable,3
+True,sc_do_log,exclusion,Function,3
+True,sc_strerror,exclusion,Function,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3

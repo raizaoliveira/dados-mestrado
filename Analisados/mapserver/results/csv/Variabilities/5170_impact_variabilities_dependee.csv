@@ -1,0 +1,7 @@
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,3
+True,map,exclusion,Variable,3
+True,msGetOutputFormatOption,parameter,Function,3
+True,msDBFReadStringAttribute,parameter,Function,3
+True,height,exclusion,Variable,3
+True,width,exclusion,Variable,3
+True,split,parameter,Function,3

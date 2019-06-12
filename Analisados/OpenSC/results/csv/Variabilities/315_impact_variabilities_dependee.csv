@@ -1,0 +1,4 @@
+True,pkcs15_unbind,additon,Function,2
+True,sc_pkcs15_unbind,exclusion,Function,2
+!def(__GNUC__),debug,exclusion,Function,2
+True,p15card,exclusion,Variable,2

@@ -1,0 +1,7 @@
+def(WITH_PERSISTENCE),
+def(WITH_SYS_TREE),
+def(WIN32),
+!def(WIN32),
+def(WITH_WEBSOCKETS),
+True,
+def(WITH_BRIDGE),

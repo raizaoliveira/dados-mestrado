@@ -1,0 +1,4 @@
+True,p15card,additon,Variable,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+True,do_sign,exclusion,Function,2
+True,sign,additon,Function,2

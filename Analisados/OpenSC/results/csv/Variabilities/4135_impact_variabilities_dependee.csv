@@ -1,0 +1,10 @@
+True,create_cert_obj,additon,Function,2
+True,pkcs15_dobj_ops,additon,Variable,2
+True,session,additon,Variable,2
+True,cert,additon,Variable,2
+True,fw_data,additon,Variable,2
+def(USE_PKCS15_INIT),pkcs15_create_object,additon,Function,2
+True,pkcs15_prkey_ops,additon,Variable,2
+True,pkcs15_pubkey_ops,additon,Variable,2
+True,__pkcs15_create_cert_object,exclusion,Function,2
+True,pkcs15_cert_ops,additon,Variable,2

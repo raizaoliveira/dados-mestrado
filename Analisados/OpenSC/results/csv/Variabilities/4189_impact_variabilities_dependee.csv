@@ -1,0 +1,9 @@
+True,sc_to_cryptoki_error,additon,Function,1
+True,__pkcs15_release_object,additon,Function,1
+True,set_cka_label,exclusion,Function,1
+True,sc_unlock,additon,Function,1
+True,sc_pkcs15init_bind,additon,Function,1
+True,sc_pkcs15init_unbind,additon,Function,1
+True,sc_lock,additon,Function,1
+True,sc_pkcs15init_delete_object,additon,Function,1
+True,p11card,exclusion,Variable,1

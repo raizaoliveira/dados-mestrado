@@ -1,0 +1,5 @@
+True,attr,additon,Variable,2
+True,object,additon,Variable,2
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,2
+True,session,additon,Variable,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2

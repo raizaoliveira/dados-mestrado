@@ -1,0 +1,6 @@
+True,def(TEST)
+True,def(USE_WMS_LYR)
+def(USE_SOS_SVR),True
+!def(USE_FASTCGI),True
+def(USE_FASTCGI),True
+def(USE_WCS_SVR),True

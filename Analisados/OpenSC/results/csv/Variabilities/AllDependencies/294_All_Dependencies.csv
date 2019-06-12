@@ -1,0 +1,5 @@
+def(TEST),True
+True,!def(__GNUC__)
+!def(TEST),True
+!def(__GNUC__),True
+True,def(notyet)

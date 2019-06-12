@@ -1,0 +1,3 @@
+def(FSA_TRACE),True
+True,def(XML_TRACE)
+def(XML_TRACE),True

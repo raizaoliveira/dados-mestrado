@@ -1,0 +1,10 @@
+True,def(USE_GD_FT)
+True,def(USE_MING_FLASH)
+True,def(USE_WMS_LYR)
+def(NEED_STRCASECMP),True
+def(NEED_STRDUP),True
+True,def(USE_WMS_SVR)
+def(USE_WMS_SVR),True
+def(USE_WMS_SVR),def(USE_MING_FLASH)
+True,def(TEST)
+def(USE_GD_JPEG),True

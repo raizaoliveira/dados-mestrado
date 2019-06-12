@@ -1,0 +1,5 @@
+True,msDrawReferenceMap,additon,Function,8
+True,msAddColor,additon,Function,8
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,8
+!def(USE_THREAD),msGetErrorObj,additon,Function,8
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,8

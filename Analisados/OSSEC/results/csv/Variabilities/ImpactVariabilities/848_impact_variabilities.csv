@@ -1,0 +1,5 @@
+!def(WIN32),
+def(WIN32),
+!def(BF_DEFAULT_OPTIONS),
+True,
+!def(OSSECHIDS),

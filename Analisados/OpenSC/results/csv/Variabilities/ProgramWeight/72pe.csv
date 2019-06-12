@@ -1,0 +1,10 @@
+do_log,1,function
+sc_strerror,1,function
+card,1,variable
+SC_LOG_ERROR,1,function
+pcsc_stringify_error,1,function
+SC_LOG_DEBUG,1,function
+SC_LOG_NORMAL,1,function
+error,1,function
+ctx,1,variable
+debug,1,function

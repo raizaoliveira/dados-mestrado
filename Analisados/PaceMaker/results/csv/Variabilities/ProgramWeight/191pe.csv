@@ -1,0 +1,13 @@
+src,1,variable
+dump_xml,1,function
+fsa_cause2string,1,function
+dot_strm,1,variable
+xml_message_debug,1,function
+msg_cib_strm,1,variable
+fsa_action2string,1,function
+fsa_input2string,1,function
+set_xml_property_copy,1,function
+fsa_state2string,1,function
+msg_in_strm,1,variable
+s_crmd_fsa,1,function
+copy_in_properties,1,function

@@ -1,0 +1,7 @@
+def(ENABLE_OPENSSL),True
+True,def(USE_PKCS15_INIT)
+!def(__GNUC__),True
+True,def(HAVE_ZLIB_H)
+def(USE_PKCS15_INIT),True
+True,!def(__GNUC__)
+def(HAVE_OPENSSL),True

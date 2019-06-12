@@ -1,0 +1,5 @@
+True,def(LIST_TEST)
+True,def(ENABLE_PF)
+True,def(ENABLE_PLUGIN)
+True,def(ENABLE_DEBUG)
+!def(DMALLOC),True

@@ -1,0 +1,2 @@
+def(DO_DAEMONIZE),True
+True,def(ENABLE_DEBUG)

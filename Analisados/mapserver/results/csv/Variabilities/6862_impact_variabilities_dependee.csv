@@ -1,0 +1,11 @@
+True,offsetx,exclusion,Variable,8
+True,msImageLoadGDCtx,additon,Function,8
+True,symbolset,exclusion,Variable,8
+True,img,exclusion,Variable,8
+True,msCreateLegendIcon,exclusion,Function,8
+True,color,exclusion,Variable,8
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,8
+True,p,exclusion,Variable,8
+True,offsety,exclusion,Variable,8
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,8
+True,map,exclusion,Variable,8

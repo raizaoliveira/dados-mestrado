@@ -1,0 +1,5 @@
+True,lookup_cn_rule,additon,Function,3
+True,cn_hash_function,additon,Function,3
+def(ENABLE_DEBUG),cn_hash_function,additon,Function,3
+!def(DMALLOC),string_alloc,additon,Function,3
+def(ENABLE_DEBUG),next,additon,Variable,3

@@ -1,0 +1,7 @@
+True,def(ENABLE_ZLIB)
+def(HAVE_OPENSSL),True
+def(USE_PKCS15_INIT),True
+def(ENABLE_ZLIB),True
+True,def(ENABLE_OPENSSL)
+True,def(USE_PKCS15_INIT)
+def(ENABLE_OPENSSL),True

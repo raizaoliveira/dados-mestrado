@@ -1,0 +1,3 @@
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,3
+True,handle,parameter,Function,3

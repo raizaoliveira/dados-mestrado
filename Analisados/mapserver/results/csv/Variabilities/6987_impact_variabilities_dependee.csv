@@ -1,0 +1,8 @@
+def(USE_WCS_SVR),msOWSDispatch,additon,Function,6
+True,msCreateLegendIcon,exclusion,Function,6
+True,msCalculateScale,additon,Function,6
+def(USE_WMS_SVR),msOWSDispatch,exclusion,Function,6
+True,msOWSLookupMetadata,exclusion,Function,6
+True,msFreeCharArray,exclusion,Function,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6

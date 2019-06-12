@@ -1,0 +1,3 @@
+def(DEBUG),True
+!def(LOCAL),True
+def(OSSECHIDS),True

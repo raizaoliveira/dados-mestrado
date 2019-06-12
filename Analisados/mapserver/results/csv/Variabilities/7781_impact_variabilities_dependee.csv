@@ -1,0 +1,7 @@
+True,loadParams,parameter,Function,3
+def(TEST),cacheTest,parameter,Function,3
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,3
+def(TEST),cacheFetch,parameter,Function,3
+True,msyystring_buffer,additon,Variable,3
+True,msyytext_esc,exclusion,Variable,3
+def(TEST),cacheRelease,parameter,Function,3

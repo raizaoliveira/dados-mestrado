@@ -1,0 +1,3 @@
+True,select_file,additon,Function,2
+def(ENABLE_ZLIB),sc_pkcs15emu_actalis_init,exclusion,Function,2
+True,sc_select_file,exclusion,Function,2

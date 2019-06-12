@@ -1,0 +1,9 @@
+True,def(USE_WMS_SVR)
+def(USE_OGR),True
+def(NEED_STRCASECMP),True
+def(NEED_STRDUP),True
+True,def(USE_WMS_LYR)
+True,def(USE_WCS_SVR)
+True,def(GD_HAS_FTEX_XSHOW)
+True,def(__cplusplus)
+def(GD_HAS_FTEX_XSHOW),True

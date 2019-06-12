@@ -1,0 +1,8 @@
+True,new_file,additon,Function,2
+True,sc_profile_get_file_by_path,exclusion,Function,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+True,sc_profile_get_file,additon,Function,2
+True,card,exclusion,Variable,2
+def(ENABLE_OPENSSL),file,additon,Variable,2
+def(ENABLE_OPENSSL),profile,additon,Variable,2
+True,p15card,exclusion,Variable,2

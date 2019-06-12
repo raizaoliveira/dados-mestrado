@@ -1,0 +1,12 @@
+k,1,variable
+s,1,variable
+OS_GetFirstRule,1,function
+BF_encrypt,1,function
+p,1,variable
+getstatfs,1,function
+BF_cbc_encrypt,1,function
+MD5Transform,1,function
+verbose,1,function
+child_node,1,variable
+OS_CheckIfRuleMatch,1,function
+printrule,1,function

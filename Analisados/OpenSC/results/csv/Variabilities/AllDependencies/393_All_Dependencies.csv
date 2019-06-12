@@ -1,0 +1,5 @@
+!def(__GNUC__),True
+def(ATR_SUPPORT),True
+True,def(DEBUG)
+True,!def(__GNUC__)
+def(DEBUG),True

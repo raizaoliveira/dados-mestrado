@@ -1,0 +1,7 @@
+def(NEED_STRCASECMP),
+def(NEED_STRDUP),
+def(USE_TTF),
+def(USE_PROJ),
+True,
+def(NEED_STRNCASECMP),
+def(TEST),

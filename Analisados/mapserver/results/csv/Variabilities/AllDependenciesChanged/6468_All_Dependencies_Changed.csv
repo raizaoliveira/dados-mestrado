@@ -1,0 +1,12 @@
+True,def(notdef)
+True,!def(USE_GD_TTF)
+def(USE_GD_GIF),True
+!def(USE_AGG),True
+!def(USE_FASTCGI),True
+def(USE_GD_JPEG),True
+def(USE_GD_PNG),True
+def(notdef),True
+def(USE_WMS_SVR),True
+True,!def(USE_AGG)
+def(USE_FASTCGI),True
+True,def(USE_WMS_LYR)

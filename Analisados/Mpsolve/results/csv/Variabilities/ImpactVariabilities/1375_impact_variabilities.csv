@@ -1,0 +1,4 @@
+!def(HAVE_FMEMOPEN),
+!def(HAVE_GETLINE),
+True,
+!def(DISABLE_DEBUG),

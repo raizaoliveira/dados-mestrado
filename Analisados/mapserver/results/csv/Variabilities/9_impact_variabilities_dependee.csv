@@ -1,0 +1,13 @@
+def(USE_PROJ),loadProjection,exclusion,Function,6
+def(USE_PROJ),msWhichShapesProj,parameter,Function,6
+True,rect,exclusion,Variable,6
+True,getCharacter,additon,Function,6
+def(TEST),cacheFetch,parameter,Function,6
+True,font,exclusion,Variable,6
+True,value,exclusion,Variable,6
+True,img,exclusion,Variable,6
+def(TEST),cacheTest,parameter,Function,6
+True,DBFReadStringAttribute,parameter,Function,6
+True,msSetError,additon,Function,6
+True,map,exclusion,Variable,6
+def(TEST),cacheRelease,parameter,Function,6

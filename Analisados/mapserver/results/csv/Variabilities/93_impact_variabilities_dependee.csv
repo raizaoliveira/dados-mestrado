@@ -1,0 +1,10 @@
+def(USE_PROJ),i,exclusion,Variable,3
+def(USE_PROJ),j,exclusion,Variable,3
+def(USE_PROJ),shape,exclusion,Variable,3
+def(TEST),cacheRelease,parameter,Function,3
+def(TEST),cacheTest,parameter,Function,3
+True,map,exclusion,Variable,3
+True,SHPReadShape,exclusion,Function,3
+def(TEST),cacheFetch,parameter,Function,3
+True,DBFReadStringAttribute,parameter,Function,3
+True,results,exclusion,Variable,3

@@ -1,0 +1,3 @@
+True,ctx,additon,Variable,2
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,2
+True,req_map,additon,Variable,2

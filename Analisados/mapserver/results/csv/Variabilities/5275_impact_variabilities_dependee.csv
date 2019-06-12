@@ -1,0 +1,8 @@
+True,msFreeShape,additon,Function,5
+True,msGetOutputFormatOption,parameter,Function,5
+True,msObj,exclusion,Variable,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+True,final_j,exclusion,Variable,5
+True,split,parameter,Function,5
+True,msDBFReadStringAttribute,parameter,Function,5
+True,shape,exclusion,Variable,5

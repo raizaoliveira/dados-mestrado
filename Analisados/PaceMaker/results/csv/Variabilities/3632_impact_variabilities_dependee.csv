@@ -1,0 +1,5 @@
+True,find_xml_node,exclusion,Function,2
+True,extract_event,exclusion,Function,2
+True,process_trigger,exclusion,Function,2
+True,get_object_root,exclusion,Function,2
+True,cib_action_update,additon,Function,2

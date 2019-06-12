@@ -1,0 +1,7 @@
+True,
+def(HAVE_OPENSSL),
+def(_WIN32),
+def(HAVE_USBTOKEN),
+!def(OPENSC_NO_DEPRECATED),
+def(HAVE_ZLIB_H),
+def(USE_PKCS15_INIT),

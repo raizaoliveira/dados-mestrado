@@ -1,0 +1,8 @@
+def(notdef),
+True,
+def(USE_THREAD),
+def(USE_WMS_SVR),
+def(USE_WMS_LYR),
+def(TEST_MAPCRYPTO),
+def(USE_OGR),
+def(USE_WCS_SVR),

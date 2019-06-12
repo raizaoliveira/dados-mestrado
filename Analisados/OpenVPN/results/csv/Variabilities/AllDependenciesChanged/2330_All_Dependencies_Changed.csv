@@ -1,0 +1,10 @@
+True,def(ENABLE_PF)
+True,def(ENABLE_PLUGIN)
+def(PLUGIN_PF),True
+True,def(ENABLE_DEBUG)
+True,!def(DMALLOC)
+def(ENABLE_PLUGIN),True
+True,def(LIST_TEST)
+def(ENABLE_EUREPHIA),True
+!def(DMALLOC),True
+def(MANAGEMENT_DEF_AUTH),True

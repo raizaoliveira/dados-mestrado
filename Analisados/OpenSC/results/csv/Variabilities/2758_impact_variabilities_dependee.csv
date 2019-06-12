@@ -1,0 +1,6 @@
+True,get_key,exclusion,Function,2
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,2
+True,sc_strerror,parameter,Function,2
+True,sign,specifier,Function,2
+True,sc_keycache_forget_key,additon,Function,2
+True,type,exclusion,Variable,2

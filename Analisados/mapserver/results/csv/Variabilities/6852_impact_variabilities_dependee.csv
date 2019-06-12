@@ -1,0 +1,15 @@
+True,msAddLineDirectly,additon,Function,4
+True,msSetError,additon,Function,4
+True,ind,exclusion,Function,4
+def(GD_HAS_FTEX_XSHOW),line_index,exclusion,Function,4
+True,msInitShape,additon,Function,4
+True,msLookupHashTable,additon,Function,4
+def(GD_HAS_FTEX_XSHOW),left_label_position,additon,Function,4
+True,msComputeBounds,additon,Function,4
+True,j,additon,Variable,4
+True,msAddLine,exclusion,Function,4
+def(GD_HAS_FTEX_XSHOW),j,exclusion,Variable,4
+True,msFreeLabelPathObj,additon,Function,4
+def(GD_HAS_FTEX_XSHOW),right_label_position,additon,Function,4
+def(GD_HAS_FTEX_XSHOW),center_label_position,additon,Function,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4

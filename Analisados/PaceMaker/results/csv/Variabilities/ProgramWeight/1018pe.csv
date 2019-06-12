@@ -1,0 +1,3 @@
+set_xml_property_copy,1,function
+src,1,variable
+dump_array,1,function

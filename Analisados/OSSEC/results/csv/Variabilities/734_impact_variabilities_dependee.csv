@@ -1,0 +1,9 @@
+True,ip_address,additon,Variable,3
+True,ErrorExit,additon,Function,3
+!def(WIN32),ip_address_regex,exclusion,Variable,3
+!def(WIN32),OS_HasNetmask,exclusion,Function,3
+!def(WIN32),OS_GetHost,additon,Function,3
+!def(WIN32),OS_IsValidIP,additon,Function,3
+!def(WIN32),OS_IPFound,exclusion,Function,3
+True,merror,additon,Function,3
+def(WIN32),u_int16_t,exclusion,Variable,3

@@ -1,0 +1,7 @@
+!def(USE_BUGGY_LIBXML),
+True,
+!def(DOT_ALL_FSA_INPUTS),
+def(DOT_ALL_FSA_INPUTS),
+def(FSA_TRACE),
+def(DOT_FSA_ACTIONS),
+def(XML_TRACE),

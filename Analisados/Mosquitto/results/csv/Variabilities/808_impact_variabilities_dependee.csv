@@ -1,0 +1,7 @@
+True,_mosquitto_log_printf,additon,Function,2
+True,mosq,exclusion,Variable,2
+True,handle__unsuback,additon,Function,2
+!def(WITH_BROKER),handle__unsuback,exclusion,Function,2
+!def(WITH_BROKER),handle__suback,exclusion,Function,2
+!def(WITH_BROKER),send__pingresp,exclusion,Function,2
+True,handle__suback,additon,Function,2

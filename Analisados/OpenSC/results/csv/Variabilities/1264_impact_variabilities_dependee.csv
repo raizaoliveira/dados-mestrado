@@ -1,0 +1,11 @@
+True,sign,additon,Function,2
+def(HAVE_OPENSSL),sc_pkcs11_verify_update,additon,Function,2
+True,session_get_operation,additon,Function,2
+True,sc_pkcs11_release_operation,additon,Function,2
+True,session_stop_operation,additon,Function,2
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,2
+True,sc_pkcs11_find_mechanism,additon,Function,2
+True,sc_pkcs11_new_operation,additon,Function,2
+True,session_start_operation,additon,Function,2
+def(HAVE_OPENSSL),sc_pkcs11_verify_final,additon,Function,2
+def(HAVE_OPENSSL),sc_pkcs11_verify_init,additon,Function,2

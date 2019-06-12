@@ -1,0 +1,6 @@
+def(XML_TRACE),True
+True,!def(USE_BUGGY_LIBXML)
+!def(USE_BUGGY_LIBXML),True
+!def(TESTING),True
+def(TESTING),True
+True,!def(TESTING)

@@ -1,0 +1,2 @@
+def(HAVE_SYS_SIGNALFD_H),True
+True,def(HAVE_SYS_TIMEB_H)

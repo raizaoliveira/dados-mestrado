@@ -1,0 +1,13 @@
+True,font,additon,Variable,8
+True,msCreateLegendIcon,additon,Function,8
+True,split,parameter,Function,8
+True,msDrawLegend,additon,Function,8
+True,size,additon,Variable,8
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,8
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,8
+True,msImageInitGD,exclusion,Function,8
+True,rect,additon,Variable,8
+True,msDrawLegendIconGD,exclusion,Function,8
+True,msGetOutputFormatOption,parameter,Function,8
+True,img,additon,Variable,8
+True,msDBFReadStringAttribute,parameter,Function,8

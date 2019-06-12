@@ -1,0 +1,3 @@
+True,connect_card,additon,Function,1
+True,sc_connect_card,exclusion,Function,1
+True,sc_disconnect_card,exclusion,Function,1

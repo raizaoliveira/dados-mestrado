@@ -1,0 +1,5 @@
+True,argc,exclusion,Variable,1
+True,pub_or_sub,exclusion,Variable,1
+True,argv,exclusion,Variable,1
+True,mosq,additon,Variable,1
+True,cfg,additon,Variable,1

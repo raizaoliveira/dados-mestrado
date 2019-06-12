@@ -1,0 +1,13 @@
+True,msCalculateScale,additon,Function,5
+True,loadParams,parameter,Function,5
+True,msFreeCharArray,exclusion,Function,5
+True,msResetErrorList,exclusion,Function,5
+def(TEST),cacheTest,parameter,Function,5
+def(USE_WMS_SVR),layer_index,additon,Function,5
+True,mapserv,exclusion,Variable,5
+True,msOWSLookupMetadata,additon,Function,5
+True,msLegendCalcSize,additon,Function,5
+!def(USE_WMS_SVR),msWMSDispatch,parameter,Function,5
+def(TEST),cacheRelease,parameter,Function,5
+def(TEST),cacheFetch,parameter,Function,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5

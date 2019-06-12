@@ -1,0 +1,10 @@
+True,client,additon,Variable,2
+True,request,additon,Variable,2
+def(HAVE_SYS_TIMEB_H),delay,additon,Variable,2
+True,time_sum,additon,Variable,2
+def(HAVE_SYS_TIMEB_H),time_diff_ms,exclusion,Function,2
+True,id,additon,Variable,2
+def(HAVE_SYS_TIMEB_H),send_cmd_complete_notify,exclusion,Function,2
+True,timeout_left,additon,Variable,2
+True,cmd,additon,Variable,2
+def(HAVE_SYS_TIMEB_H),action_complete,additon,Function,2

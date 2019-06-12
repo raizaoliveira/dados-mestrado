@@ -1,0 +1,5 @@
+True,create_op,additon,Function,3
+True,cib_create_op,exclusion,Function,3
+True,construct_op,parameter,Function,3
+def(ON_LINUX),process_icmp6_error,additon,Function,3
+def(ON_LINUX),process_icmp4_error,additon,Function,3

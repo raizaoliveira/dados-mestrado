@@ -1,0 +1,17 @@
+True,p15card,exclusion,Variable,4
+True,sc_profile_get_file,additon,Function,4
+True,handle,parameter,Function,4
+def(ENABLE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,4
+True,sc_append_file_id,additon,Function,4
+True,sc_profile_find_file,exclusion,Function,4
+def(ENABLE_OPENSSL),file,additon,Variable,4
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,4
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,4
+True,sc_profile_get_file_by_path,exclusion,Function,4
+True,get_bool,additon,Function,4
+True,card,exclusion,Variable,4
+def(ENABLE_OPENSSL),profile,additon,Variable,4
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,4
+True,scconf_get_bool,exclusion,Function,4
+True,new_file,additon,Function,4
+True,append_file,exclusion,Function,4

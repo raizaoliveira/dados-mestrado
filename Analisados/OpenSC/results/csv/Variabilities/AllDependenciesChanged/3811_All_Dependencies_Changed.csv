@@ -1,0 +1,4 @@
+True,def(ENABLE_OPENSSL)
+def(DEBUG),True
+def(USE_PKCS15_INIT),True
+True,def(USE_PKCS15_INIT)

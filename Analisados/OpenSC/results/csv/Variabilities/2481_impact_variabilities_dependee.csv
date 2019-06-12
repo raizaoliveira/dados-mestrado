@@ -1,0 +1,7 @@
+def(USE_PKCS15_INIT),pkcs15init_unbind,additon,Function,3
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,3
+True,card,additon,Variable,3
+True,profile,additon,Variable,3
+True,sc_pkcs15init_unbind,exclusion,Function,3
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,3
+True,usage,type,Function,3

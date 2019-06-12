@@ -1,0 +1,15 @@
+True,ctx,exclusion,Variable,3
+def(ENABLE_OPENSSL),usage,exclusion,Function,3
+True,sc_format_asn1_entry,exclusion,Function,3
+def(ENABLE_OPENSSL),pgp_store_key,parameter,Function,3
+def(ENABLE_OPENSSL),iasecc_sdo_encode_update_field,exclusion,Function,3
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,3
+True,sc_asn1_encode,exclusion,Function,3
+True,sc_dump_hex,exclusion,Function,3
+def(ENABLE_OPENSSL),pgp_gen_key,parameter,Function,3
+True,card,exclusion,Variable,3
+True,sc_do_log,exclusion,Function,3
+True,sc_strerror,exclusion,Function,3
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,3
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,3
+True,sc_copy_asn1_entry,exclusion,Function,3

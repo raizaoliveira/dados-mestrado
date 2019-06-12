@@ -1,0 +1,2 @@
+True,def(HAVE_SYS_TIMEB_H)
+!def(SUPPORT_CS_QUORUM),True

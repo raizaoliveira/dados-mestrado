@@ -1,0 +1,4 @@
+True,signal_description,additon,Function,1
+True,pos,additon,Function,1
+True,np,exclusion,Function,1
+True,post_init_signal_catch,exclusion,Function,1

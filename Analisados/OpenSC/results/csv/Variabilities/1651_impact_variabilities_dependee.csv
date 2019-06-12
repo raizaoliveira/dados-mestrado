@@ -1,0 +1,11 @@
+True,sc_pkcs15init_bind,additon,Function,3
+def(HAVE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,3
+True,opt_profile,exclusion,Variable,3
+True,sc_print_path,parameter,Function,3
+def(USE_PKCS15_INIT),pkcs15init_bind,exclusion,Function,3
+True,profile,exclusion,Variable,3
+def(HAVE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3
+True,opt_card_profile,exclusion,Variable,3
+def(HAVE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,3
+True,card,exclusion,Variable,3
+True,sc_strerror,parameter,Function,3

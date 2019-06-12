@@ -1,0 +1,5 @@
+True,ctx,additon,Variable,3
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,3
+def(USE_CAIRO),basemap,exclusion,Variable,3
+True,basemap,additon,Variable,3
+True,req_map,additon,Variable,3

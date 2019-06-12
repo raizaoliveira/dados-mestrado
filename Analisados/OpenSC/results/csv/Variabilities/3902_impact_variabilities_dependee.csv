@@ -1,0 +1,4 @@
+True,usage,parameter,Function,3
+True,sc_pkcs15init_create_file,exclusion,Function,3
+True,create_file,additon,Function,3
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,3

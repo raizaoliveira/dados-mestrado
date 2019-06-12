@@ -1,0 +1,2 @@
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,2
+True,pin,additon,Variable,2

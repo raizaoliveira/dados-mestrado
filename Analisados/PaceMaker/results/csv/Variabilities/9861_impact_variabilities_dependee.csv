@@ -1,0 +1,11 @@
+True,msg,exclusion,Variable,4
+True,rsc_id,additon,Variable,4
+def(ON_LINUX),node,additon,Variable,4
+True,cib_conn,additon,Variable,4
+def(ON_LINUX),process_icmp6_error,exclusion,Function,4
+True,data_set,additon,Variable,4
+True,prop_name,additon,Variable,4
+True,rsc,additon,Variable,4
+True,prop_set,additon,Variable,4
+True,prop_id,additon,Variable,4
+True,cib,exclusion,Variable,4

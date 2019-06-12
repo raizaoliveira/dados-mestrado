@@ -1,0 +1,5 @@
+def(ENABLE_DEBUG),up,additon,Variable,2
+def(ENABLE_DEBUG),tls_common_name,additon,Function,2
+True,array_mult_safe,parameter,Function,2
+True,verify_user_pass,additon,Function,2
+def(ENABLE_DEBUG),pf_cn_test,additon,Function,2

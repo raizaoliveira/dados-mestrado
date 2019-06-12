@@ -1,0 +1,3 @@
+True,def(HAVE_ZLIB_H)
+!def(__GNUC__),True
+True,def(HAVE_OPENSSL)

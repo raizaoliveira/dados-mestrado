@@ -1,0 +1,15 @@
+True,crm_signal,additon,Function,2
+True,stonith_reconnect,additon,Variable,2
+True,transition_trigger,additon,Variable,2
+True,cfg_handle,exclusion,Variable,2
+True,stderr_callbacks,exclusion,Variable,2
+True,crm_ipc_default_buffer_size,exclusion,Function,2
+True,stdout_callbacks,exclusion,Variable,2
+True,crm_ipc_prepare,additon,Function,2
+True,userdata,exclusion,Variable,2
+True,crm_callbacks,additon,Variable,2
+True,crm_signals,additon,Function,2
+True,client,exclusion,Variable,2
+True,t,exclusion,Variable,2
+True,fd,exclusion,Variable,2
+True,priority,exclusion,Variable,2

@@ -1,0 +1,8 @@
+True,size,exclusion,Variable,3
+True,msDrawLegendIconGD,exclusion,Function,3
+True,msDrawLegend,additon,Function,3
+def(notdef),style,additon,Variable,3
+def(notdef),searchImageCache,exclusion,Function,3
+True,style,exclusion,Variable,3
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,3
+def(notdef),size,additon,Variable,3

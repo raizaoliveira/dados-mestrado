@@ -1,0 +1,5 @@
+def(notused),True
+True,def(HAVE_OPENSSL)
+!def(__GNUC__),True
+def(USE_PKCS15_INIT),True
+True,def(USE_PKCS15_INIT)

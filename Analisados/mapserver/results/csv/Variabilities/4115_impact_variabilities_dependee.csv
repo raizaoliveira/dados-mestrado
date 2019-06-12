@@ -1,0 +1,7 @@
+True,split,parameter,Function,3
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,3
+True,msGetOutputFormatOption,parameter,Function,3
+def(TEST),cacheFetch,parameter,Function,3
+def(TEST),cacheTest,parameter,Function,3
+def(TEST),cacheRelease,parameter,Function,3
+True,msDBFReadStringAttribute,parameter,Function,3

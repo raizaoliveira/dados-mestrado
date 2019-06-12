@@ -1,0 +1,8 @@
+!def(__GNUC__),SC_LOG_DEBUG,exclusion,Function,2
+True,sc_strerror,parameter,Function,2
+!def(__GNUC__),debug,additon,Function,2
+!def(__GNUC__),SC_LOG_TYPE_DEBUG,additon,Function,2
+True,do_log2,exclusion,Function,2
+!def(__GNUC__),SC_LOG_TYPE_ERROR,additon,Function,2
+!def(__GNUC__),SC_LOG_NORMAL,exclusion,Function,2
+!def(__GNUC__),SC_LOG_ERROR,exclusion,Function,2

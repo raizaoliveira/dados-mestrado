@@ -1,0 +1,4 @@
+!def(HAVE_STRNDUP),
+!def(HAVE_GETLINE),
+True,
+!def(HAVE_FMEMOPEN),

@@ -1,0 +1,16 @@
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,5
+True,sc_pkcs15_free_object_content,exclusion,Function,5
+!def(HAVE_STRLCPY),strlcpy,exclusion,Function,5
+True,__pkcs15_create_secret_key_object,additon,Function,5
+True,sc_pkcs15_free_object,additon,Function,5
+True,scconf_get_bool,additon,Function,5
+True,card,additon,Variable,5
+True,p15card,additon,Variable,5
+True,new_file,exclusion,Function,5
+True,get_bool,exclusion,Function,5
+True,fw_data,exclusion,Variable,5
+True,sc_profile_find_file,additon,Function,5
+def(ENABLE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,5
+def(ENABLE_OPENSSL),profile,exclusion,Variable,5
+def(ENABLE_OPENSSL),file,exclusion,Variable,5
+True,handle,parameter,Function,5

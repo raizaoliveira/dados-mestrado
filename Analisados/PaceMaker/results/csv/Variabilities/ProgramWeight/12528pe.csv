@@ -1,0 +1,14 @@
+request,1,variable
+time_diff_ms,1,function
+client,1,variable
+daemon_option,1,function
+crm_is_callsite_active,1,function
+crm_enable_blackbox,1,function
+cib_create_op,1,function
+strerror,1,function
+crm_trigger_blackbox,1,function
+ipc_proxy_forward_client,1,function
+process_lrmd_signon,1,function
+id,1,variable
+ipc_proxy_add_provider,1,function
+daemon_option_enabled,1,function

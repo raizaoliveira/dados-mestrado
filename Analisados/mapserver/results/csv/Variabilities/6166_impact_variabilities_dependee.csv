@@ -1,0 +1,5 @@
+True,msAddLineDirectly,additon,Function,3
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,3
+True,final_j,exclusion,Variable,3
+True,j,additon,Variable,3
+True,msAddLine,exclusion,Function,3

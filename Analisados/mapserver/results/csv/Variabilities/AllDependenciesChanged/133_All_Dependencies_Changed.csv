@@ -1,0 +1,4 @@
+!def(USE_GD_1_8),True
+def(NEED_STRDUP),True
+def(USE_GD_1_8),True
+True,def(TEST)

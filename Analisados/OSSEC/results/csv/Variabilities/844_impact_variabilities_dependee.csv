@@ -1,0 +1,4 @@
+!def(WIN32),StartMQ,additon,Function,1
+!def(WIN32),OS_GetHost,parameter,Function,1
+!def(WIN32),SendMSG,additon,Function,1
+!def(WIN32),path,exclusion,Variable,1

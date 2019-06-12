@@ -1,0 +1,4 @@
+True,p11card,exclusion,Variable,2
+True,pin,additon,Variable,2
+True,slot,exclusion,Variable,2
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,2

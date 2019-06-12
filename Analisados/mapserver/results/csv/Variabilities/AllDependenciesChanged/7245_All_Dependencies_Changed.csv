@@ -1,0 +1,10 @@
+True,def(USE_GD_FT)
+!def(USE_AGG),True
+!def(USE_FASTCGI),True
+True,def(notdef)
+True,def(USE_WMS_SVR)
+True,def(USE_WMS_LYR)
+def(USE_WMS_SVR),True
+def(notdef),True
+True,!def(USE_AGG)
+def(USE_FASTCGI),True

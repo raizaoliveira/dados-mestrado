@@ -1,0 +1,6 @@
+True,profile,additon,Variable,3
+def(HAVE_ZLIB_H),sc_strerror,type,Function,3
+True,sc_pkcs15init_unbind,exclusion,Function,3
+def(USE_PKCS15_INIT),pkcs15init_unbind,additon,Function,3
+True,version,parameter,Function,3
+True,sc_strerror,parameter,Function,3

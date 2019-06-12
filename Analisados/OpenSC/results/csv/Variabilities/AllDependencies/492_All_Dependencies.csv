@@ -1,0 +1,5 @@
+True,def(HAVE_SETUTENT)
+def(DEBUG),True
+def(RANDOM_POOL),True
+True,def(DEBUG)
+def(ATR_SUPPORT),True

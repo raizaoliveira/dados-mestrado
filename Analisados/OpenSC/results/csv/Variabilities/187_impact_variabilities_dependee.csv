@@ -1,0 +1,5 @@
+True,sc_pkcs15_bind,exclusion,Function,1
+True,pkcs15_bind,additon,Function,1
+True,sc_pkcs15_unbind,additon,Function,1
+True,sc_strerror,parameter,Function,1
+True,pkcs15_unbind,exclusion,Function,1

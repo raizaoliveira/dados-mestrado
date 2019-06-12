@@ -1,0 +1,10 @@
+True,ind,exclusion,Function,3
+def(TEST),cacheFetch,parameter,Function,3
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,3
+True,loadParams,parameter,Function,3
+def(TEST),cacheRelease,parameter,Function,3
+def(TEST),cacheTest,parameter,Function,3
+True,msCopyClass,exclusion,Function,3
+True,freeClass,exclusion,Function,3
+True,index,exclusion,Function,3
+True,initClass,exclusion,Function,3

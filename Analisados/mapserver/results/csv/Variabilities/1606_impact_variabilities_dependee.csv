@@ -1,0 +1,16 @@
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,12
+def(NEED_STRDUP),strdup,additon,Function,12
+True,string,additon,Variable,12
+True,label,additon,Variable,12
+True,msSetError,additon,Function,12
+True,msDBFReadStringAttribute,parameter,Function,12
+True,msDebug,exclusion,Function,12
+def(NEED_STRCASECMP),strcasecmp,additon,Function,12
+True,rect,additon,Variable,12
+def(TEST),cacheRelease,parameter,Function,12
+True,value,exclusion,Variable,12
+True,fontset,additon,Variable,12
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,12
+def(TEST),cacheTest,parameter,Function,12
+def(TEST),cacheFetch,parameter,Function,12
+True,msGetOutputFormatOption,parameter,Function,12

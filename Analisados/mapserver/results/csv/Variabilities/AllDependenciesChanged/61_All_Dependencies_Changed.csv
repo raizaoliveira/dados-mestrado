@@ -1,0 +1,6 @@
+def(NEED_STRDUP),True
+def(USE_TTF),True
+def(USE_PROJ),True
+True,def(USE_PROJ)
+def(_WIN32),True
+True,def(TEST)

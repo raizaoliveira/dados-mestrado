@@ -1,0 +1,4 @@
+def(RANDOM_POOL),True
+True,def(DEBUG)
+def(DEBUG),True
+def(ATR_SUPPORT),True

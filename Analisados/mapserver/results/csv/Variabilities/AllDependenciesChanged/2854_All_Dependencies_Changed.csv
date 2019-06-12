@@ -1,0 +1,7 @@
+True,def(TEST)
+True,def(USE_WMS_LYR)
+True,def(USE_WMS_SVR)
+True,def(ENABLE_STDERR_DEBUG)
+def(USE_OGR),True
+def(NEED_STRDUP),True
+def(NEED_STRCASECMP),True

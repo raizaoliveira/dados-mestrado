@@ -1,0 +1,13 @@
+def(NEED_STRCASECMP),True
+def(NEED_STRDUP),True
+True,def(NEED_STRDUP)
+!def(USE_PROJ),True
+def(IGNORE_MISSING_DATA),True
+def(USE_WFS_SVR),True
+True,def(IGNORE_MISSING_DATA)
+True,def(USE_PROJ)
+True,def(TEST)
+True,def(USE_WMS_LYR)
+def(USE_WMS_SVR),True
+!def(IGNORE_MISSING_DATA),True
+True,def(NEED_STRNCASECMP)

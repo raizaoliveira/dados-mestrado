@@ -1,0 +1,2 @@
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,2
+True,shape,exclusion,Variable,2

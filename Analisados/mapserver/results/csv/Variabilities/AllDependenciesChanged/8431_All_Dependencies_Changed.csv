@@ -1,0 +1,4 @@
+True,def(USE_PROJ)
+True,def(USE_CAIRO)
+def(USE_CAIRO),True
+True,def(USE_WMS_SVR)

@@ -1,0 +1,5 @@
+!def(DMALLOC),alloc_buf_gc,additon,Function,3
+True,signal_description,exclusion,Function,3
+!def(DMALLOC),gc_malloc,additon,Function,3
+True,np,additon,Function,3
+!def(DMALLOC),alloc_buf,exclusion,Function,3

@@ -1,0 +1,11 @@
+True,crm_enable_blackbox,additon,Function,3
+True,operation_finished,additon,Function,3
+True,cib,exclusion,Variable,3
+True,crm_callbacks,exclusion,Variable,3
+True,crm_ipc_default_buffer_size,exclusion,Function,3
+True,crm_trigger_blackbox,additon,Function,3
+True,pid,additon,Variable,3
+True,child_death_dispatch,additon,Function,3
+True,crmd_child_exit,additon,Function,3
+True,crm_ipc_prepare,additon,Function,3
+True,test_shutdown,additon,Function,3

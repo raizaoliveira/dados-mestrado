@@ -1,0 +1,6 @@
+(!def(WITH_BROKER)|def(WITH_BRIDGE)),True
+def(WITH_TLS),True
+True,def(WITH_SRV)
+def(WITH_SOCKS),True
+True,!def(WITH_BROKER)
+def(WITH_SRV),True

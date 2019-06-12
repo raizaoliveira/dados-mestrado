@@ -1,0 +1,5 @@
+True,p15card,exclusion,Variable,2
+True,sc_pkcs15_bind,exclusion,Function,2
+True,sc_pkcs15_get_objects,additon,Function,2
+True,pkcs15_bind,additon,Function,2
+!def(__GNUC__),debug,exclusion,Function,2

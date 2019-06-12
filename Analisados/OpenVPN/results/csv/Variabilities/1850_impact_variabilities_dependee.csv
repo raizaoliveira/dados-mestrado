@@ -1,0 +1,5 @@
+def(ENABLE_DEBUG),drop_accept,qualifier,Function,2
+True,x_msg,additon,Function,2
+def(ENABLE_DEBUG),wait_status_string,parameter,Function,2
+def(ENABLE_DEBUG),pct_name,qualifier,Function,2
+True,array_mult_safe,parameter,Function,2

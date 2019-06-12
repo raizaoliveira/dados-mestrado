@@ -1,0 +1,7 @@
+True,!def(USE_BUGGY_LIBXML)
+True,def(TESTING)
+!def(USE_BUGGY_LIBXML),True
+def(HAVE_GETOPT_H),True
+True,!def(HAVE_ENVIRON_DECL)
+def(TESTING),True
+def(XML_TRACE),True

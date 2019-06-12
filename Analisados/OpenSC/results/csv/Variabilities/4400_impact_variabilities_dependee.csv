@@ -1,0 +1,4 @@
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+True,opts,additon,Variable,2
+True,sc_do_log,additon,Function,2
+True,ctx,additon,Variable,2

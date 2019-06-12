@@ -1,0 +1,16 @@
+def(notdef),p,additon,Variable,7
+def(notdef),offsetx,additon,Variable,7
+True,p,exclusion,Variable,7
+def(notdef),img,additon,Variable,7
+True,color,exclusion,Variable,7
+True,offsety,exclusion,Variable,7
+True,msyytext,additon,Variable,7
+True,msImageLoadGD,additon,Function,7
+def(notdef),offsety,additon,Variable,7
+True,offsetx,exclusion,Variable,7
+def(notdef),imageOffsetPolyline,exclusion,Function,7
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,7
+def(notdef),color,additon,Variable,7
+True,ctx,additon,Variable,7
+True,img,exclusion,Variable,7
+True,msCreateLegendIcon,additon,Function,7

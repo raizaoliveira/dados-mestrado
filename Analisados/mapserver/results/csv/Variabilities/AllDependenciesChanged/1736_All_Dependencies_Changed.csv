@@ -1,0 +1,11 @@
+True,def(USE_WFS_LYR)
+def(NEED_STRCASECMP),True
+True,def(TEST)
+def(NEED_STRDUP),True
+True,def(USE_WMS_LYR)
+True,def(__cplusplus)
+!def(USE_GD_TTF),True
+True,def(USE_GD_FT)
+True,def(USE_GD_TTF)
+True,def(USE_WMS_SVR)
+def(USE_GD_TTF),True

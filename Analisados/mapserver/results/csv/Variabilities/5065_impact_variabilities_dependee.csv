@@ -1,0 +1,10 @@
+True,msGetOutputFormatOption,parameter,Function,7
+True,Decode,exclusion,Function,7
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,7
+True,split,parameter,Function,7
+True,msDBFReadStringAttribute,parameter,Function,7
+True,msHexEncode,additon,Function,7
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,7
+True,msHexDecode,additon,Function,7
+def(NEED_STRDUP),strdup,exclusion,Function,7
+True,Encode,exclusion,Function,7

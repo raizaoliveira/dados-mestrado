@@ -1,0 +1,8 @@
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+True,msCopyClass,exclusion,Function,5
+True,src,exclusion,Variable,5
+True,split,parameter,Function,5
+True,msDBFReadStringAttribute,parameter,Function,5
+True,dst,exclusion,Variable,5
+True,msGetOutputFormatOption,parameter,Function,5
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,5

@@ -1,0 +1,7 @@
+True,builtin_emulators,additon,Variable,4
+True,sc_strerror,additon,Function,4
+def(HAVE_ZLIB_H),sc_strerror,type,Function,4
+!def(__GNUC__),sc_debug,additon,Function,4
+True,error,additon,Function,4
+True,lt_dlerror,additon,Function,4
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,4

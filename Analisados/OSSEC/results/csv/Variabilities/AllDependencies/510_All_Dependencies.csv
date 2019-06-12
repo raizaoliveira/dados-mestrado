@@ -1,0 +1,14 @@
+def(OSSECHIDS),True
+True,def(OSSECHIDS)
+!def(BF_DEFAULT_OPTIONS),True
+!def(OSSECHIDS),True
+True,!def(BF_DEFAULT_OPTIONS)
+def(__OpenBSD__),True
+def(BF_PTR2),!def(BF_PTR2)
+True,def(AIX)
+!def(LOCAL),True
+!def(OSSECHIDS),def(OSSECHIDS)
+def(DEBUG),True
+True,(!def(ASM_MD5)&!def(HIGHFIRST))
+!def(BF_PTR2),def(BF_PTR2)
+True,!def(OSSECHIDS)

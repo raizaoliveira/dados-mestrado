@@ -1,0 +1,12 @@
+def(USE_WMS_SVR),(def(USE_GD_WBMP)&def(USE_WMS_SVR))
+def(USE_WMS_SVR),True
+True,!def(USE_FASTCGI)
+True,def(TEST)
+def(USE_FASTCGI),True
+True,def(USE_WMS_SVR)
+!def(USE_FASTCGI),True
+def(NEED_STRCASECMP),True
+True,def(USE_WMS_LYR)
+def(NEED_STRDUP),True
+True,def(USE_FASTCGI)
+def(USE_OGR),True

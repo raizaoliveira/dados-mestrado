@@ -1,0 +1,8 @@
+True,low_name,additon,Variable,3
+True,high_name,additon,Variable,3
+True,OS_MD5_File,additon,Function,3
+True,run_rk_check,exclusion,Function,3
+True,notify_agent,additon,Function,3
+True,merror,additon,Function,3
+!def(WIN32),OS_GetHost,parameter,Function,3
+True,curr_time,additon,Variable,3

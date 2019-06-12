@@ -1,0 +1,8 @@
+def(NEED_STRDUP),True
+True,def(USE_WMS_LYR)
+True,def(USE_WCS_SVR)
+def(USE_MING_FLASH),True
+True,def(NEED_STRCASECMP)
+def(USE_OGR),True
+def(NEED_STRCASECMP),True
+True,def(USE_GD_JPEG)

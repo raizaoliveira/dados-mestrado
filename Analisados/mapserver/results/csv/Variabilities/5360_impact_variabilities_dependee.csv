@@ -1,0 +1,12 @@
+True,r,exclusion,Variable,9
+True,p,exclusion,Variable,9
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,9
+True,msGetOutputFormatOption,parameter,Function,9
+True,msDBFReadStringAttribute,parameter,Function,9
+True,style,exclusion,Variable,9
+True,msCreateLegendIcon,additon,Function,9
+True,msImageInitGD,exclusion,Function,9
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,9
+True,symbolset,exclusion,Variable,9
+True,scalefactor,exclusion,Variable,9
+True,split,parameter,Function,9

@@ -1,0 +1,5 @@
+!def(USE_BUGGY_LIBXML),
+!def(TESTING),
+def(FSA_TRACE),
+True,
+def(XML_TRACE),

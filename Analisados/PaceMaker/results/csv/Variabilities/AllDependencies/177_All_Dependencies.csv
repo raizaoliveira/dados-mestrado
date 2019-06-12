@@ -1,0 +1,9 @@
+def(FSA_TRACE),True
+def(DOT_FSA_ACTIONS),True
+!def(USE_BUGGY_LIBXML),True
+def(DOT_ALL_FSA_INPUTS),True
+def(INTEGRATED_CIB),True
+!def(DOT_ALL_FSA_INPUTS),True
+!def(INTEGRATED_CIB),True
+def(MSG_LOG),True
+True,!def(USE_BUGGY_LIBXML)

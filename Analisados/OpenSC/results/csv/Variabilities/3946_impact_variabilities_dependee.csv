@@ -1,0 +1,4 @@
+True,create_cert_obj,exclusion,Function,2
+True,__pkcs15_create_cert_object,additon,Function,2
+True,sc_do_log,additon,Function,2
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,2

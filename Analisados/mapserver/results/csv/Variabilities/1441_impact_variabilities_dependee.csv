@@ -1,0 +1,14 @@
+True,rect,additon,Variable,7
+def(TEST),cacheFetch,parameter,Function,7
+def(NEED_STRNCASECMP),strncasecmp,additon,Function,7
+def(TEST),cacheTest,parameter,Function,7
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,7
+True,layer,additon,Variable,7
+True,msDBFReadStringAttribute,parameter,Function,7
+True,msGetOutputFormatOption,parameter,Function,7
+True,msSHPOpenFile,additon,Function,7
+def(TEST),cacheRelease,parameter,Function,7
+True,map,additon,Variable,7
+True,msLayerOpen,parameter,Function,7
+True,msSHPOpen,exclusion,Function,7
+def(NEED_STRDUP),strdup,exclusion,Function,7

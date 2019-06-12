@@ -1,0 +1,17 @@
+def(USE_WMS_SVR),True
+def(USE_GD_FT),True
+!def(USE_GD_FT),True
+True,def(USE_GD_PNG)
+def(USE_GD_JPEG),True
+def(NEED_STRCASECMP),True
+True,def(GD_HAS_FTEX_XSHOW)
+True,def(USE_WCS_SVR)
+def(GD_HAS_FTEX_XSHOW),True
+True,!def(USE_AGG)
+True,def(USE_WMS_LYR)
+def(USE_GEOS),True
+def(notdef),True
+def(USE_OGR),True
+def(NEED_STRDUP),True
+True,def(USE_GD_JPEG)
+True,def(notdef)

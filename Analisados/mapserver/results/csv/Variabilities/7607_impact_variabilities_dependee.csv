@@ -1,0 +1,10 @@
+def(TEST),cacheTest,parameter,Function,3
+def(TEST),cacheFetch,parameter,Function,3
+def(TEST),cacheRelease,parameter,Function,3
+True,r,additon,Variable,3
+True,p,additon,Variable,3
+True,scalefactor,additon,Variable,3
+True,style,additon,Variable,3
+True,symbolset,additon,Variable,3
+True,loadParams,parameter,Function,3
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,3

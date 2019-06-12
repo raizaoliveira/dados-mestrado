@@ -1,0 +1,10 @@
+def(NEED_STRNCASECMP),strncasecmp,additon,Function,6
+True,msGetOutputFormatOption,parameter,Function,6
+def(TEST),cacheTest,parameter,Function,6
+True,msObj,exclusion,Variable,6
+def(TEST),cacheFetch,parameter,Function,6
+def(NEED_STRDUP),strdup,exclusion,Function,6
+True,split,parameter,Function,6
+True,msDBFReadStringAttribute,parameter,Function,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+def(TEST),cacheRelease,parameter,Function,6

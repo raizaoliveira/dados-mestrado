@@ -1,0 +1,16 @@
+True,crmd_child_exit,additon,Function,2
+True,election_timer_cb,parameter,Function,2
+True,crm_ipc_prepare,exclusion,Function,2
+True,remote_ra_exec,exclusion,Function,2
+True,lrmd_rsc_dispatch,exclusion,Function,2
+True,async_fence_helper,exclusion,Function,2
+True,operation_finished,additon,Function,2
+True,cib_create_op,additon,Function,2
+True,start_test,exclusion,Function,2
+True,throttle_timer,additon,Variable,2
+True,crm_ipc_default_buffer_size,additon,Function,2
+True,client,additon,Variable,2
+True,throttle_timer_cb,parameter,Function,2
+True,pid,additon,Variable,2
+True,handle_remote_ra_exec,exclusion,Function,2
+True,create_op,exclusion,Function,2

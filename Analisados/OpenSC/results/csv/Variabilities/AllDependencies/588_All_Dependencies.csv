@@ -1,0 +1,7 @@
+True,def(HAVE_SETUTENT)
+True,!def(HAVE_OPENSSL)
+def(DEBUG),True
+True,def(DEBUG)
+!def(HAVE_OPENSSL),True
+def(ATR_SUPPORT),True
+def(RANDOM_POOL),True

@@ -1,0 +1,4 @@
+True,do_get,exclusion,Function,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+def(ENABLE_OPENSSL),sdo,additon,Variable,2
+True,do_get_data,additon,Function,2

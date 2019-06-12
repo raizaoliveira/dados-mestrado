@@ -1,0 +1,10 @@
+True,cib_create_op,exclusion,Function,1
+True,call_options,additon,Variable,1
+True,rsc,additon,Variable,1
+True,data,additon,Variable,1
+True,output_data,additon,Variable,1
+True,msg,exclusion,Variable,1
+True,host,additon,Variable,1
+True,cib,additon,Variable,1
+True,create_op,additon,Function,1
+True,op,additon,Variable,1

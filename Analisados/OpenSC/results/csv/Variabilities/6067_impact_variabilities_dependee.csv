@@ -1,0 +1,10 @@
+!def(HAVE_STRLCPY),strlcpy,additon,Function,5
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,5
+True,fw_data,additon,Variable,5
+True,__pkcs15_create_secret_key_object,exclusion,Function,5
+True,handle,parameter,Function,5
+def(USE_PKCS15_INIT),pkcs15_create_data,exclusion,Function,5
+True,sc_pkcs15_free_object,exclusion,Function,5
+True,__pkcs15_create_data_object,additon,Function,5
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,5
+True,sc_pkcs15_free_object_content,additon,Function,5

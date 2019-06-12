@@ -1,0 +1,7 @@
+True,lrmd,additon,Variable,2
+True,data,additon,Variable,2
+True,timeout,additon,Variable,2
+True,crm_ipc_buffer,additon,Function,2
+True,options,additon,Variable,2
+True,strerror,additon,Function,2
+True,resources_list_agents,additon,Function,2

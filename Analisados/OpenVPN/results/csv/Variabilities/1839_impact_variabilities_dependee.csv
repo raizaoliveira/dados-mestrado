@@ -1,0 +1,3 @@
+True,format_hex_ex,exclusion,Function,2
+True,array_mult_safe,parameter,Function,2
+def(ENABLE_DEBUG),up,additon,Variable,2

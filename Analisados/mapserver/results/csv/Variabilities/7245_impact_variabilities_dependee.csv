@@ -1,0 +1,14 @@
+True,loadParams,parameter,Function,6
+True,color,additon,Variable,6
+True,size,exclusion,Variable,6
+True,height,exclusion,Variable,6
+True,offsety,additon,Variable,6
+True,style,exclusion,Variable,6
+True,width,exclusion,Variable,6
+True,msCreateLegendIcon,additon,Function,6
+True,p,additon,Variable,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,map,exclusion,Variable,6
+True,offsetx,additon,Variable,6
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6
+True,img,additon,Variable,6

@@ -1,0 +1,7 @@
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,4
+True,sc_strerror,parameter,Function,4
+True,sc_hex_to_bin,exclusion,Function,4
+True,version,parameter,Function,4
+def(HAVE_ZLIB_H),sc_strerror,type,Function,4
+True,hex_to_bin,additon,Function,4
+!def(__GNUC__),sc_error,additon,Function,4

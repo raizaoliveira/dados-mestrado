@@ -1,0 +1,5 @@
+True,cfg,additon,Variable,1
+True,pub_or_sub,additon,Variable,1
+True,mosq,additon,Variable,1
+True,argv,additon,Variable,1
+True,argc,additon,Variable,1

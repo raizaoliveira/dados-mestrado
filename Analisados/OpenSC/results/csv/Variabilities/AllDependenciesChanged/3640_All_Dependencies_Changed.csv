@@ -1,0 +1,2 @@
+True,def(ENABLE_OPENSSL)
+def(_WIN32),True

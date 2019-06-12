@@ -1,0 +1,3 @@
+True,sc_strerror,exclusion,Function,3
+def(FORCE_VERIFY_RUTOKEN),sc_strerror,exclusion,Function,3
+True,sc_do_log,exclusion,Function,3

@@ -1,0 +1,5 @@
+!def(__GNUC__),debug,additon,Function,2
+True,context,additon,Variable,2
+True,pcsc_stringify_error,additon,Function,2
+!def(__GNUC__),error,additon,Function,2
+True,rv,additon,Variable,2

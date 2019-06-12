@@ -1,0 +1,11 @@
+!def(HAVE_OPENSSL),p11_perror,additon,Function,3
+True,error,additon,Function,3
+True,p11_mechanism_to_name,additon,Function,3
+True,ck_mech,additon,Variable,3
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,3
+True,CKR2Str,additon,Function,3
+!def(HAVE_OPENSSL),CKR2Str,additon,Function,3
+True,sc_to_cryptoki_error,exclusion,Function,3
+True,modLenBytes,additon,Variable,3
+True,slot,additon,Variable,3
+True,privKeyObject,additon,Variable,3

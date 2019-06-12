@@ -1,0 +1,6 @@
+def(USE_FASTCGI),True
+def(USE_PROJ),True
+!def(USE_FASTCGI),True
+def(USE_TILE_API),True
+!def(USE_TILE_API),True
+True,def(USE_WMS_LYR)

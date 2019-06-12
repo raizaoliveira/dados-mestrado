@@ -1,0 +1,14 @@
+def(TEST),cacheFetch,parameter,Function,7
+def(TEST),cacheRelease,parameter,Function,7
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,7
+def(USE_PROJ),msCopyProjection,additon,Function,7
+def(USE_PROJ),msProcessProjection,exclusion,Function,7
+def(USE_PROJ),msInitProjection,exclusion,Function,7
+True,copyProperty,additon,Function,7
+True,src,additon,Variable,7
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,7
+True,msCopyClass,additon,Function,7
+True,msGetOutputFormatOption,parameter,Function,7
+True,dst,additon,Variable,7
+True,msDBFReadStringAttribute,parameter,Function,7
+def(TEST),cacheTest,parameter,Function,7

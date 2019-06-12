@@ -1,0 +1,16 @@
+crm_add_logfile,1,function
+crm_ipcs_send,1,function
+cib_create_op,1,function
+pcmk_strerror,1,function
+crm_send_remote_msg,1,function
+daemon_option,1,function
+crm_enable_blackbox,1,function
+cib_recv_plaintext,1,function
+daemon_option_enabled,1,function
+strerror,1,function
+cib_send_plaintext,1,function
+argc,1,variable
+options,1,variable
+crm_trigger_blackbox,1,function
+argv,1,variable
+crm_is_callsite_active,1,function

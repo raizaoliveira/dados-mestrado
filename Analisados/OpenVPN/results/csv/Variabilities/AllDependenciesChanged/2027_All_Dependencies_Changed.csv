@@ -1,0 +1,6 @@
+!def(DMALLOC),True
+(def(SYSTEMD_NEWER_THAN_216)&def(ENABLE_SYSTEMD)),True
+def(ENABLE_DEBUG),True
+True,def(ENABLE_DEBUG)
+def(ENABLE_SYSTEMD),True
+def(DO_DAEMONIZE),True

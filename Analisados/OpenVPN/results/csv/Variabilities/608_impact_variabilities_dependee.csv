@@ -1,0 +1,8 @@
+!def(DMALLOC),alloc_buf_gc,exclusion,Function,3
+True,buf_printf,type,Function,3
+True,buffer_list_file,additon,Function,3
+True,np,exclusion,Function,3
+True,buffer_list_free,additon,Function,3
+!def(DMALLOC),alloc_buf,additon,Function,3
+!def(DMALLOC),gc_malloc,exclusion,Function,3
+True,signal_description,additon,Function,3

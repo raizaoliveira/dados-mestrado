@@ -1,0 +1,2 @@
+def(WIN32),True
+!def(WIN32),True

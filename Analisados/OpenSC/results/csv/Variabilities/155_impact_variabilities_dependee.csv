@@ -1,0 +1,5 @@
+!def(__GNUC__),debug,additon,Function,2
+True,sc_strerror,parameter,Function,2
+!def(__GNUC__),error,additon,Function,2
+True,get_certificate,parameter,Function,2
+True,rv,additon,Variable,2

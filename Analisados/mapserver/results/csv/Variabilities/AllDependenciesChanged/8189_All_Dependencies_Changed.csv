@@ -1,0 +1,11 @@
+!def(USE_GD_PNG),True
+True,def(USE_WMS_SVR)
+def(USE_GD_PNG),True
+True,def(USE_GD_FT)
+def(USE_GEOS),True
+def(USE_WMS_SVR),True
+def(USE_GD_GIF),True
+!def(USE_GD_FT),True
+!def(USE_GD_GIF),True
+!def(USE_GEOS),True
+def(USE_GD_FT),True

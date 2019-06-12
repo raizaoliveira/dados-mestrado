@@ -1,0 +1,6 @@
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,2
+True,dst,additon,Variable,2
+True,src,additon,Variable,2
+True,image,additon,Variable,2
+True,map,additon,Variable,2
+True,layer,additon,Variable,2

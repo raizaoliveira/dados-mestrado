@@ -1,0 +1,6 @@
+def(ENABLE_OPENSSL),sc_pkcs11_register_sign_and_hash_mechanism,additon,Function,2
+True,__pkcs15_create_cert_object,additon,Function,2
+True,usage,exclusion,Function,2
+True,create_cert_obj,exclusion,Function,2
+True,sign,additon,Function,2
+True,p11card,additon,Variable,2

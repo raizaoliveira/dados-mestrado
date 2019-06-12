@@ -1,0 +1,7 @@
+True,geocache_tileset_tile_get,exclusion,Function,3
+True,geocache_tileset_get_map_tiles,exclusion,Function,3
+True,req_map,exclusion,Variable,3
+def(USE_CAIRO),geocache_tileset_assemble_map_tiles,additon,Function,3
+True,ctx,exclusion,Variable,3
+True,_core_get_single_map,additon,Function,3
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,3

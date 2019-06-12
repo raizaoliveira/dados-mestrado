@@ -1,0 +1,5 @@
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,3
+True,shape,exclusion,Variable,3
+True,msLayerWhichItems,parameter,Function,3
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,3
+True,i,exclusion,Variable,3

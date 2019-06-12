@@ -1,0 +1,9 @@
+True,ctx,additon,Variable,2
+True,sc_strerror,additon,Function,2
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,2
+def(ENABLE_OPENSSL),iasecc_sdo_encode_update_field,additon,Function,2
+True,sc_do_log,additon,Function,2
+True,card,additon,Variable,2
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,2
+True,rdata,additon,Variable,2
+def(ENABLE_OPENSSL),usage,additon,Function,2

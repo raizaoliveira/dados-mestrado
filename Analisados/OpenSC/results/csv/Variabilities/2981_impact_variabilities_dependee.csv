@@ -1,0 +1,3 @@
+!def(__GNUC__),sc_debug,exclusion,Function,3
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,3
+def(HAVE_ZLIB_H),sc_strerror,type,Function,3

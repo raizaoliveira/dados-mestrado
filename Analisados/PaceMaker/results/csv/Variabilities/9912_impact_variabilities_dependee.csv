@@ -1,0 +1,6 @@
+True,msg,exclusion,Variable,3
+def(ON_LINUX),process_icmp4_error,additon,Function,3
+True,create_op,exclusion,Function,3
+True,rsc,additon,Variable,3
+def(ON_LINUX),node,exclusion,Variable,3
+True,cib_create_op,additon,Function,3

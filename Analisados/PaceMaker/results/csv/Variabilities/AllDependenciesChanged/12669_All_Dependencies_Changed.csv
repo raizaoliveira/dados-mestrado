@@ -1,0 +1,2 @@
+def(SUPPORT_REMOTE),True
+True,def(HAVE_SYS_TIMEB_H)

@@ -1,0 +1,6 @@
+True,profile,exclusion,Variable,3
+True,sc_pkcs15init_generate_key,additon,Function,3
+True,generate_key,exclusion,Function,3
+def(USE_PKCS15_INIT),pkcs15init_unbind,exclusion,Function,3
+True,sc_pkcs15init_unbind,additon,Function,3
+def(ENABLE_OPENSSL),sc_pkcs15_pubkey_from_cert,parameter,Function,3

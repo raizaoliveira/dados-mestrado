@@ -1,0 +1,12 @@
+!def(MPS_USE_BUILTIN_COMPLEX),def(MPS_USE_BUILTIN_COMPLEX)
+!def(HAVE_STRNDUP),True
+True,!def(mpf_pow_ui)
+True,!def(DISABLE_DEBUG)
+True,!def(HAVE_STRNDUP)
+!def(DISABLE_DEBUG),True
+def(NICE_DEBUG),True
+!def(MPS_USE_BUILTIN_COMPLEX),True
+True,def(MPS_USE_BUILTIN_COMPLEX)
+True,!def(MPS_USE_BUILTIN_COMPLEX)
+True,!def(mpq_out_str)
+def(MPS_USE_BUILTIN_COMPLEX),True

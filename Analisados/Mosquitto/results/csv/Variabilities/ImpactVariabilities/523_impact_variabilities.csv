@@ -1,0 +1,8 @@
+def(WITH_SYS_TREE),
+!def(WITH_BROKER),
+def(WITH_SOCKS),
+(!def(REAL_WITH_TLS_PSK)&!def(WITH_BROKER)),
+def(WITH_WEBSOCKETS),
+True,
+def(WITH_BROKER),
+def(WITH_BRIDGE),

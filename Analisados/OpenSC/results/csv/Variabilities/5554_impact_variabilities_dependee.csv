@@ -1,0 +1,7 @@
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,4
+True,sc_strerror,additon,Function,4
+True,sc_do_log,exclusion,Function,4
+def(ENABLE_OPENSSL),lookup_enum,additon,Function,4
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,4
+True,_sc_log,additon,Function,4
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,4

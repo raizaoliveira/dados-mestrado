@@ -1,0 +1,8 @@
+def(HAVE_OPENSSL),len,additon,Variable,3
+def(HAVE_OPENSSL),obj,additon,Variable,3
+def(HAVE_ZLIB_H),sc_strerror,type,Function,3
+def(HAVE_OPENSSL),out,additon,Variable,3
+True,set_pin,specifier,Function,3
+True,sign,additon,Function,3
+def(HAVE_OPENSSL),sign_ext,parameter,Function,3
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,3

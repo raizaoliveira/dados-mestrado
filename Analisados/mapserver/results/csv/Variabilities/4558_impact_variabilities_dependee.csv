@@ -1,0 +1,14 @@
+True,msDBFReadStringAttribute,parameter,Function,5
+True,msGetOutputFormatOption,parameter,Function,5
+def(TEST),cacheFetch,parameter,Function,5
+True,msFreeMap,additon,Function,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+True,split,parameter,Function,5
+True,msOWSDispatch,additon,Function,5
+True,msFreeMapServObj,exclusion,Function,5
+True,msSOSDispatch,exclusion,Function,5
+True,msResetErrorList,additon,Function,5
+def(TEST),cacheTest,parameter,Function,5
+def(USE_WMS_SVR),msWMSDispatch,additon,Function,5
+def(TEST),cacheRelease,parameter,Function,5
+True,setExtentFromShapes,additon,Function,5

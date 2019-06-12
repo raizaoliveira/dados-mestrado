@@ -1,0 +1,8 @@
+True,j,additon,Variable,5
+True,msAddLineDirectly,additon,Function,5
+True,msDBFReadStringAttribute,parameter,Function,5
+True,split,parameter,Function,5
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,5
+True,msGetOutputFormatOption,parameter,Function,5
+True,msAddLine,exclusion,Function,5
+True,msFreeShape,exclusion,Function,5

@@ -1,0 +1,4 @@
+def(OPENSC_CONFIG_STRING),True
+def(ENABLE_PCSC),True
+True,def(ENABLE_PCSC)
+True,def(ENABLE_OPENSSL)

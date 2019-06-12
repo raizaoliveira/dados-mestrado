@@ -1,0 +1,16 @@
+True,infocamere_1200_init,exclusion,Function,4
+True,p15card,additon,Variable,4
+!def(OPENSC_NO_DEPRECATED),sc_pkcs15emu_add_cert,additon,Function,4
+!def(OPENSC_NO_DEPRECATED),sc_pkcs15emu_add_prkey,additon,Function,4
+True,card,exclusion,Variable,4
+True,sc_format_path,additon,Function,4
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,4
+True,sc_select_file,additon,Function,4
+True,error,additon,Function,4
+!def(OPENSC_NO_DEPRECATED),sc_pkcs15emu_add_pin,additon,Function,4
+True,sc_do_log,additon,Function,4
+True,sc_read_binary,additon,Function,4
+def(HAVE_ZLIB_H),sc_strerror,additon,Function,4
+def(HAVE_OPENSSL),decipher_ext,parameter,Function,4
+True,sc_pkcs15_cache_file,additon,Function,4
+True,sc_pkcs15emu_add_x509_cert,additon,Function,4

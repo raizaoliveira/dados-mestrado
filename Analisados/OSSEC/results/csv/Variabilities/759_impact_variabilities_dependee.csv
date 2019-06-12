@@ -1,0 +1,6 @@
+def(WIN32),SendMSG,exclusion,Function,3
+!def(WIN32),StartMQ,additon,Function,3
+!def(WIN32),OS_GetHost,exclusion,Function,3
+def(WIN32),StartMQ,exclusion,Function,3
+True,merror,additon,Function,3
+!def(WIN32),SendMSG,additon,Function,3

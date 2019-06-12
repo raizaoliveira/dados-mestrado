@@ -1,0 +1,4 @@
+!def(USE_BUGGY_LIBXML),True
+def(HAVE_GETOPT_H),True
+True,!def(USE_BUGGY_LIBXML)
+def(XML_TRACE),True

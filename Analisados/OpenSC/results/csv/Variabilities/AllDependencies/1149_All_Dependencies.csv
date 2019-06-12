@@ -1,0 +1,11 @@
+True,def(notused)
+def(notused),True
+def(RANDOM_POOL),True
+def(ATR_SUPPORT),True
+True,def(HAVE_SETUTENT)
+True,def(HAVE_OPENSSL)
+def(USE_PKCS15_INIT),True
+True,!def(HAVE_OPENSSL)
+True,def(USE_PKCS15_INIT)
+def(HAVE_OPENSSL),True
+!def(HAVE_OPENSSL),True

@@ -1,0 +1,5 @@
+True,mqtt3_context_disconnect,additon,Function,1
+True,db,additon,Variable,1
+True,pollfds,additon,Variable,1
+True,_mosquitto_log_printf,additon,Function,1
+True,do_disconnect,exclusion,Function,1

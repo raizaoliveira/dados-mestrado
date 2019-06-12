@@ -1,0 +1,7 @@
+copy_in_properties,1,function
+src,1,variable
+set_xml_property_copy,1,function
+the_cib,1,variable
+extract_event,1,function
+send_abort,1,function
+dump_array,1,function

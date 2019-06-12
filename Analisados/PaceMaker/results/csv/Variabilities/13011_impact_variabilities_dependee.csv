@@ -1,0 +1,6 @@
+True,throttle_timer_cb,parameter,Function,2
+True,crmd_child_exit,parameter,Function,2
+True,child_death_dispatch,parameter,Function,2
+True,test_shutdown,parameter,Function,2
+True,operation_finished,parameter,Function,2
+True,election_timer_cb,parameter,Function,2

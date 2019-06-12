@@ -1,0 +1,8 @@
+True,cib,exclusion,Variable,4
+True,output_data,exclusion,Variable,4
+True,call_options,exclusion,Variable,4
+True,op,exclusion,Variable,4
+True,host,exclusion,Variable,4
+True,rsc,exclusion,Variable,4
+True,data,exclusion,Variable,4
+def(ON_LINUX),process_icmp4_error,exclusion,Function,4

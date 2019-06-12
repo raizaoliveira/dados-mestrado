@@ -1,0 +1,6 @@
+True,mosq,additon,Variable,4
+!def(WITH_BROKER),net__socket_close,exclusion,Function,4
+True,topic,exclusion,Variable,4
+def(WITH_SOCKS),client_config_line_proc,additon,Function,4
+True,cfg,exclusion,Variable,4
+def(WITH_BROKER),net__socket_close,additon,Function,4

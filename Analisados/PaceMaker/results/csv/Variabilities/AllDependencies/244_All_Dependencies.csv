@@ -1,0 +1,4 @@
+!def(USE_BUGGY_LIBXML),True
+def(FSA_TRACE),True
+def(XML_TRACE),True
+True,!def(USE_BUGGY_LIBXML)

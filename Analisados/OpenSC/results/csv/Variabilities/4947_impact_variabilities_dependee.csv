@@ -1,0 +1,10 @@
+True,sc_do_log,additon,Function,3
+True,sc_pkcs15init_unbind,exclusion,Function,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_update,parameter,Function,3
+def(USE_PKCS15_INIT),pkcs15init_unbind,additon,Function,3
+True,sc_pkcs15init_change_attrib,additon,Function,3
+True,sc_to_cryptoki_error,additon,Function,3
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,3
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,3
+True,profile,additon,Variable,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,3

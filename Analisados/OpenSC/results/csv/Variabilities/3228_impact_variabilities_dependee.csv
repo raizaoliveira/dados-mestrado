@@ -1,0 +1,10 @@
+True,fw_data,additon,Variable,3
+True,slot,additon,Variable,3
+def(HAVE_ZLIB_H),sc_strerror,type,Function,3
+def(USE_PKCS15_INIT),pkcs15_create_data,additon,Function,3
+True,p11card,additon,Variable,3
+True,card,additon,Variable,3
+True,sc_strerror,parameter,Function,3
+True,version,parameter,Function,3
+True,usage,additon,Function,3
+True,__pkcs15_create_data_object,exclusion,Function,3

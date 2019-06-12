@@ -1,0 +1,8 @@
+True,card,additon,Variable,3
+True,se_num,additon,Variable,3
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,3
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,3
+def(ENABLE_OPENSSL),pgp_store_key,parameter,Function,3
+True,initialize,exclusion,Function,3
+def(ENABLE_OPENSSL),pgp_gen_key,parameter,Function,3
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,3

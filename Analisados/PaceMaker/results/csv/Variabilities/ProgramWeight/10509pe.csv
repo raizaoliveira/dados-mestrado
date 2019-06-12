@@ -1,0 +1,13 @@
+cib_recv_plaintext,1,function
+process_icmp4_error,1,function
+cib_error2string,1,function
+create_op,1,function
+cmsglen,1,variable
+crm_ipcs_send,1,function
+process_icmp6_error,1,function
+cib_send_remote_msg,1,function
+node,1,variable
+ping_desc,1,function
+cib_send_plaintext,1,function
+ping_open,1,function
+strerror,1,function

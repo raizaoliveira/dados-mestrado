@@ -1,0 +1,10 @@
+def(USE_GD_PNG),True
+def(USE_WCS_SVR),True
+True,def(USE_WMS_LYR)
+def(USE_FASTCGI),True
+def(USE_WMS_SVR),True
+True,def(USE_WMS_SVR)
+def(USE_MING_FLASH),True
+def(USE_SOS_SVR),True
+!def(USE_TILE_API),True
+!def(USE_FASTCGI),True

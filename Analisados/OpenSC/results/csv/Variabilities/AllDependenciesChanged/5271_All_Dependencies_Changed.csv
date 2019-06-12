@@ -1,0 +1,6 @@
+def(_WIN32),True
+def(ENABLE_OPENSSL),True
+True,def(ENABLE_OPENSSL)
+def(ENABLE_SM),!def(ENABLE_SM)
+True,def(_WIN32)
+!def(ENABLE_SM),True

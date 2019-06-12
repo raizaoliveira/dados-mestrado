@@ -1,0 +1,4 @@
+True,sc_profile_get_file,additon,Function,3
+def(HAVE_ZLIB_H),sc_strerror,type,Function,3
+True,get_file,exclusion,Function,3
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,3

@@ -1,0 +1,4 @@
+True,def(USE_PROJ)
+True,def(NEED_STRCASECMP)
+True,def(TEST)
+def(NEED_STRDUP),True

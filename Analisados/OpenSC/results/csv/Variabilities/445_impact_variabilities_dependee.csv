@@ -1,0 +1,13 @@
+True,pcsc_stringify_error,additon,Function,2
+True,p15card,additon,Variable,2
+True,do_log,additon,Function,2
+True,connect,exclusion,Function,2
+True,sc_strerror,parameter,Function,2
+True,error,additon,Function,2
+!def(__GNUC__),debug,additon,Function,2
+True,card,additon,Variable,2
+True,sc_connect_card,additon,Function,2
+True,rv,exclusion,Variable,2
+!def(__GNUC__),error,additon,Function,2
+True,do_log2,exclusion,Function,2
+True,iso7816_errors,additon,Function,2

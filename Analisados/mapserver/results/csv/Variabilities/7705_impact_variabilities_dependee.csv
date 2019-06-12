@@ -1,0 +1,12 @@
+def(TEST),cacheRelease,parameter,Function,4
+True,index,exclusion,Function,4
+def(USE_OGR),msSLDApplySLD,exclusion,Function,4
+True,loadParams,parameter,Function,4
+True,dst,additon,Variable,4
+True,iLayer,additon,Variable,4
+def(TEST),cacheTest,parameter,Function,4
+def(TEST),cacheFetch,parameter,Function,4
+True,src,additon,Variable,4
+True,ind,exclusion,Function,4
+True,map,additon,Variable,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4

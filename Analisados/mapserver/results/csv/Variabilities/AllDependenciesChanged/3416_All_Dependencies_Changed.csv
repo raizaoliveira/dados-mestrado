@@ -1,0 +1,6 @@
+True,def(TEST)
+def(IGNORE_MISSING_DATA),True
+def(NEED_STRCASECMP),True
+def(NEED_STRDUP),True
+True,def(USE_WMS_LYR)
+def(USE_OGR),True

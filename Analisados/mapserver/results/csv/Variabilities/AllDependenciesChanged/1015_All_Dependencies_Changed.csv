@@ -1,0 +1,5 @@
+def(NEED_STRCASECMP),True
+def(USE_GDAL),True
+def(NEED_STRDUP),True
+True,def(TEST)
+def(USE_MING_FLASH),True

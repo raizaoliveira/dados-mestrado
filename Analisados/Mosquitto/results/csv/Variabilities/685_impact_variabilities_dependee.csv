@@ -1,0 +1,8 @@
+True,context,exclusion,Variable,3
+True,db,exclusion,Variable,3
+!def(WITH_BROKER),handle__pubrel,additon,Function,3
+def(WITH_BROKER),handle__pubrel,exclusion,Function,3
+True,mid,exclusion,Variable,3
+True,qos,exclusion,Variable,3
+True,retain,exclusion,Variable,3
+True,stored,exclusion,Variable,3

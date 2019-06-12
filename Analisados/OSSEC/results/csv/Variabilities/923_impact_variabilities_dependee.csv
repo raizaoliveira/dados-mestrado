@@ -1,0 +1,2 @@
+!def(WIN32),OS_GetHost,parameter,Function,2
+True,isChroot,additon,Function,2

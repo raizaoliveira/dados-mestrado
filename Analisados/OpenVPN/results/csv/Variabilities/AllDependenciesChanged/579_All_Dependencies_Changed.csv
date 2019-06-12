@@ -1,0 +1,3 @@
+def(PLUGIN_PF),True
+def(HAVE_SIGNAL_H),True
+def(ENABLE_SOCKS),True

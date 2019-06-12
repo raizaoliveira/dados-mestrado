@@ -1,0 +1,16 @@
+True,ind,additon,Function,13
+True,loadParams,parameter,Function,13
+True,img,exclusion,Variable,13
+def(TEST),cacheFetch,parameter,Function,13
+def(USE_WMS_SVR),msOWSDispatch,additon,Function,13
+True,rect,exclusion,Variable,13
+True,label,exclusion,Variable,13
+True,index,additon,Function,13
+True,fontset,exclusion,Variable,13
+True,mapserv,exclusion,Variable,13
+True,string,exclusion,Variable,13
+def(TEST),cacheTest,parameter,Function,13
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,13
+def(TEST),cacheRelease,parameter,Function,13
+True,labelPnt,exclusion,Variable,13
+True,msWriteErrorImage,exclusion,Function,13

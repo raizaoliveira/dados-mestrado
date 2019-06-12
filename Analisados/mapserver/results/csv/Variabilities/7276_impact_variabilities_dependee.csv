@@ -1,0 +1,11 @@
+True,map,additon,Variable,3
+True,msWriteErrorImage,additon,Function,3
+True,msWriteErrorXML,additon,Function,3
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,3
+True,layer,additon,Variable,3
+True,msyytext,exclusion,Variable,3
+True,msWriteError,exclusion,Function,3
+True,image,additon,Variable,3
+True,mapserv,additon,Variable,3
+True,loadParams,parameter,Function,3
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,3

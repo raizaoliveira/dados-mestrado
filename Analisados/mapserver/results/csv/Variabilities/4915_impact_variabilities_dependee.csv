@@ -1,0 +1,16 @@
+True,msGetOutputFormatOption,parameter,Function,9
+def(notdef),addImageCache,exclusion,Function,9
+True,scalefactor,additon,Variable,9
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,9
+True,p,additon,Variable,9
+True,size,exclusion,Variable,9
+True,split,parameter,Function,9
+True,msDBFReadStringAttribute,parameter,Function,9
+True,symbolset,additon,Variable,9
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,9
+True,ctx,exclusion,Variable,9
+True,r,additon,Variable,9
+def(notdef),style,additon,Variable,9
+def(notdef),size,additon,Variable,9
+True,style,additon,Variable,9
+True,msyytext,exclusion,Variable,9

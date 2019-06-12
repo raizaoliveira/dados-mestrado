@@ -1,0 +1,4 @@
+True,msAddColorGD,additon,Function,3
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,3
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,3
+True,msAddColor,exclusion,Function,3

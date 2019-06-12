@@ -1,0 +1,14 @@
+!def(WITH_BROKER),packet__write,additon,Function,3
+True,log__printf,additon,Function,3
+True,mid,additon,Variable,3
+def(WITH_BROKER),packet__read,additon,Function,3
+!def(WITH_BROKER),packet__queue,additon,Function,3
+!def(WITH_BROKER),send__puback,additon,Function,3
+True,handle__packet,additon,Function,3
+!def(WITH_BROKER),send__pubrel,additon,Function,3
+!def(WITH_BROKER),handle__pingreq,exclusion,Function,3
+True,db,exclusion,Variable,3
+!def(WITH_BROKER),handle__pubrec,exclusion,Function,3
+True,mosq,additon,Variable,3
+!def(WITH_BROKER),send__pubrec,additon,Function,3
+!def(WITH_BROKER),send__pubcomp,additon,Function,3

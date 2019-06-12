@@ -1,0 +1,11 @@
+def(TEST),cacheFetch,parameter,Function,4
+True,getCharacter,exclusion,Function,4
+True,DBFReadStringAttribute,parameter,Function,4
+True,p,exclusion,Variable,4
+def(TEST),cacheTest,parameter,Function,4
+True,font,additon,Variable,4
+True,rect,additon,Variable,4
+True,img,exclusion,Variable,4
+def(TEST),cacheRelease,parameter,Function,4
+True,class,exclusion,Variable,4
+def(USE_PROJ),msWhichShapesProj,parameter,Function,4

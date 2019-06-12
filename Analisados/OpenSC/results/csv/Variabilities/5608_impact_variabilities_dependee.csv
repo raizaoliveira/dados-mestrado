@@ -1,0 +1,7 @@
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,5
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,5
+def(ENABLE_OPENSSL),pgp_gen_key,parameter,Function,5
+(!def(HAVE_GETPASS)&!def(_WIN32)),_getch,additon,Function,5
+True,initialize,specifier,Function,5
+def(ENABLE_OPENSSL),pgp_store_key,parameter,Function,5
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,5

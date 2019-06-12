@@ -1,0 +1,10 @@
+def(TEST),cacheTest,parameter,Function,3
+def(TEST),cacheFetch,parameter,Function,3
+True,rect,exclusion,Variable,3
+def(TEST),cacheRelease,parameter,Function,3
+True,fontset,exclusion,Variable,3
+True,draw_text,additon,Function,3
+True,msDBFReadStringAttribute,parameter,Function,3
+True,string,exclusion,Variable,3
+True,msGetLabelSize,additon,Function,3
+True,label,exclusion,Variable,3

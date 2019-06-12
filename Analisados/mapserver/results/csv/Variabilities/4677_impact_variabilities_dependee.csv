@@ -1,0 +1,17 @@
+True,msDBFReadStringAttribute,parameter,Function,6
+True,string,exclusion,Variable,6
+True,img,exclusion,Variable,6
+True,split,parameter,Function,6
+def(TEST),cacheRelease,parameter,Function,6
+def(TEST),cacheFetch,parameter,Function,6
+True,msObj,exclusion,Variable,6
+True,fontset,exclusion,Variable,6
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,6
+True,msGetOutputFormatOption,parameter,Function,6
+True,map,exclusion,Variable,6
+True,label,exclusion,Variable,6
+True,scalefactor,exclusion,Variable,6
+def(USE_WMS_SVR),msWMSDispatch,parameter,Function,6
+def(TEST),cacheTest,parameter,Function,6
+True,value,exclusion,Variable,6
+True,labelPnt,exclusion,Variable,6

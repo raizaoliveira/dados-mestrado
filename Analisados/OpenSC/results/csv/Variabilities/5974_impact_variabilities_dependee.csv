@@ -1,0 +1,12 @@
+True,p15card,exclusion,Variable,4
+True,datalen,additon,Variable,4
+True,piv_validate_general_authentication,exclusion,Function,4
+def(ENABLE_OPENSSL),sc_pkcs11_verify_final,parameter,Function,4
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,4
+True,out,additon,Variable,4
+True,card,additon,Variable,4
+True,sc_do_log,additon,Function,4
+True,sc_strerror,additon,Function,4
+True,outlen,additon,Variable,4
+True,ext_info_ok,exclusion,Variable,4
+True,handle,parameter,Function,4

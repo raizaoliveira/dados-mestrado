@@ -1,0 +1,7 @@
+True,msObj,additon,Variable,4
+True,msDBFReadStringAttribute,parameter,Function,4
+def(TEST),cacheRelease,parameter,Function,4
+def(NEED_STRCASECMP),strcasecmp,additon,Function,4
+def(TEST),cacheTest,parameter,Function,4
+def(TEST),cacheFetch,parameter,Function,4
+def(USE_PROJ),encode_url,additon,Function,4

@@ -1,0 +1,3 @@
+def(TESTING),te_fence_node,additon,Function,2
+True,process_trigger,additon,Function,2
+True,cib_action_update,additon,Function,2

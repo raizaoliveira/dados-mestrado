@@ -1,0 +1,4 @@
+True,def(HAVE_OPENSSL)
+True,!def(HAVE_OPENSSL)
+!def(OPENSC_NO_DEPRECATED),True
+!def(__GNUC__),True

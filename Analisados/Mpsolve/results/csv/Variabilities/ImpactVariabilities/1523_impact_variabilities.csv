@@ -1,0 +1,4 @@
+True,
+!def(HAVE_STRNDUP),
+!def(HAVE_FMEMOPEN),
+def(MPS_USE_BUILTIN_COMPLEX),

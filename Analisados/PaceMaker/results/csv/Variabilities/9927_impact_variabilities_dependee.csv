@@ -1,0 +1,10 @@
+def(ON_LINUX),process_icmp4_error,additon,Function,2
+True,create_op,exclusion,Function,2
+True,output_data,exclusion,Variable,2
+True,data,exclusion,Variable,2
+True,rsc,additon,Variable,2
+True,cib_create_op,additon,Function,2
+True,host,exclusion,Variable,2
+def(ON_LINUX),process_icmp6_error,additon,Function,2
+True,cib,exclusion,Variable,2
+True,call_options,exclusion,Variable,2

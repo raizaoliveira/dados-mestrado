@@ -1,0 +1,12 @@
+def(NEED_STRDUP),True
+True,def(__cplusplus)
+True,def(NEED_STRDUP)
+True,def(TEST)
+True,def(USE_WMS_LYR)
+!def(USE_GD_FT),True
+def(USE_PROJ),True
+True,def(USE_WMS_SVR)
+def(NEED_STRCASECMP),True
+def(__cplusplus),True
+!def(__cplusplus),True
+def(USE_GD_FT),True

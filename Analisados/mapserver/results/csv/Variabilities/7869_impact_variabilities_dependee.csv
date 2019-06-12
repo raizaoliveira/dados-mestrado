@@ -1,0 +1,8 @@
+True,msOWSDispatch,additon,Function,4
+def(TEST),cacheFetch,parameter,Function,4
+True,msFreeCharArray,exclusion,Function,4
+def(TEST),cacheRelease,parameter,Function,4
+def(USE_WMS_LYR),msDrawWMSLayer,parameter,Function,4
+def(USE_WMS_SVR),msOWSDispatch,exclusion,Function,4
+True,loadParams,parameter,Function,4
+def(TEST),cacheTest,parameter,Function,4

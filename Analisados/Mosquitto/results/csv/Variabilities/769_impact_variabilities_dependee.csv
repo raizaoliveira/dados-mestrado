@@ -1,0 +1,7 @@
+def(WITH_TLS),net__write,additon,Function,3
+True,_mosquitto_packet_cleanup,exclusion,Function,3
+True,packet,additon,Variable,3
+def(WITH_BROKER),_mosquitto_socket_close,exclusion,Function,3
+True,topic,additon,Variable,3
+True,mosq,additon,Variable,3
+def(WITH_BROKER),mosq,additon,Variable,3

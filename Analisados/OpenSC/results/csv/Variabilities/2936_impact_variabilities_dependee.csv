@@ -1,0 +1,7 @@
+def(HAVE_OPENSSL),path,additon,Variable,3
+def(HAVE_ZLIB_H),sc_strerror,type,Function,3
+True,card,exclusion,Variable,3
+def(HAVE_OPENSSL),tmp_path,additon,Variable,3
+True,select_file,additon,Function,3
+def(HAVE_OPENSSL),file_out,additon,Variable,3
+def(HAVE_OPENSSL),read_ssh_key,specifier,Function,3

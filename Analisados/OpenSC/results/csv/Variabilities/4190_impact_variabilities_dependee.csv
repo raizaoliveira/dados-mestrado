@@ -1,0 +1,5 @@
+True,pSignature,exclusion,Variable,1
+True,pulSignatureLen,exclusion,Variable,1
+True,ulDataLen,exclusion,Variable,1
+True,pData,exclusion,Variable,1
+True,p11card,exclusion,Variable,1

@@ -1,0 +1,2 @@
+!def(HAVE_GNUTLS_GNUTLS_H),True
+True,def(ON_LINUX)

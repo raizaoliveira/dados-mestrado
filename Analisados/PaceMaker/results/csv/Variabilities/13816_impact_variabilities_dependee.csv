@@ -1,0 +1,2 @@
+def(HAVE_SYS_TIMEB_H),time_diff_ms,additon,Function,1
+def(HAVE_SYS_TIMEB_H),send_cmd_complete_notify,exclusion,Function,1

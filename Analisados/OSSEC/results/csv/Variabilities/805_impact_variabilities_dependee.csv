@@ -1,0 +1,16 @@
+True,readel,exclusion,Function,3
+True,win_startel,exclusion,Function,3
+True,event,exclusion,Variable,3
+True,el_getEventDLL,additon,Function,3
+True,el,additon,Variable,3
+def(WIN32),event,additon,Variable,3
+True,source,exclusion,Variable,3
+!def(WIN32),OS_GetHost,parameter,Function,3
+!def(WIN32),LogCollectorStart,exclusion,Function,3
+True,ErrorExit,exclusion,Function,3
+def(WIN32),el_getEventDLL,exclusion,Function,3
+!def(WIN32),StartMQ,exclusion,Function,3
+def(WIN32),readel,additon,Function,3
+def(WIN32),source,additon,Variable,3
+def(WIN32),win_startel,additon,Function,3
+True,name,exclusion,Variable,3

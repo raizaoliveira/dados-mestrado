@@ -1,0 +1,4 @@
+True,mqtt3_context_cleanup,exclusion,Function,1
+True,db,exclusion,Variable,1
+True,listensock,exclusion,Variable,1
+True,mqtt3_context_init,exclusion,Function,1

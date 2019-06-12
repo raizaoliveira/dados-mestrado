@@ -1,0 +1,9 @@
+True,sc_asn1_encode,exclusion,Function,3
+True,sc_asn1_decode,exclusion,Function,3
+True,asn1_encode,additon,Function,3
+True,sc_asn1_decode_object_id,exclusion,Function,3
+True,card,exclusion,Variable,3
+True,asn1_decode,additon,Function,3
+def(ENABLE_OPENSSL),awp_update_df_delete,parameter,Function,3
+def(ENABLE_SM),sc_card_sm_check,parameter,Function,3
+def(ENABLE_OPENSSL),awp_update_df_create,parameter,Function,3

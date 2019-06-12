@@ -1,0 +1,5 @@
+True,sc_mem_reverse,additon,Function,3
+True,opts,exclusion,Variable,3
+True,reverse,exclusion,Function,3
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,3
+True,ctx,exclusion,Variable,3

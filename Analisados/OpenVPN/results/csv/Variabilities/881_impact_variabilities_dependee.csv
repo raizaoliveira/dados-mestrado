@@ -1,0 +1,5 @@
+def(ENABLE_DEBUG),up,additon,Variable,3
+!def(DMALLOC),string_alloc,additon,Function,3
+!def(DMALLOC),gc_malloc,additon,Function,3
+True,array_mult_safe,additon,Function,3
+True,tls_common_name,additon,Function,3

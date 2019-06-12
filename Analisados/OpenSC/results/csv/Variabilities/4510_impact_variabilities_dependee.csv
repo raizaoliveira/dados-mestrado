@@ -1,0 +1,14 @@
+True,process_fci,exclusion,Function,2
+True,sc_do_log,additon,Function,2
+True,sc_transmit_apdu,exclusion,Function,2
+def(ENABLE_OPENSSL),extract_key,additon,Function,2
+def(ENABLE_OPENSSL),authentic_known_atrs,additon,Variable,2
+def(ENABLE_OPENSSL),tries_left,additon,Variable,2
+def(ENABLE_OPENSSL),sc_pkcs11_verify_init,parameter,Function,2
+def(ENABLE_OPENSSL),file,exclusion,Variable,2
+True,sc_check_sw,exclusion,Function,2
+True,card,additon,Variable,2
+True,sc_strerror,additon,Function,2
+True,change_pin,additon,Function,2
+True,sc_format_apdu,exclusion,Function,2
+True,set_pin,additon,Function,2

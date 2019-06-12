@@ -1,0 +1,12 @@
+True,def(USE_WMS_LYR)
+True,def(__cplusplus)
+def(USE_OGR),True
+True,!def(USE_GD_TTF)
+def(NEED_STRCASECMP),True
+True,def(USE_PROJ)
+def(NEED_STRDUP),True
+True,def(USE_WMS_SVR)
+def(USE_GD_PNG),True
+True,def(USE_GD_TTF)
+!def(USE_GD_TTF),True
+!def(USE_OGR),True

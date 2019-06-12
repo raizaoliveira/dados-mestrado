@@ -1,0 +1,8 @@
+True,def(NEED_STRCASECMP)
+True,def(TEST)
+True,def(USE_PROJ)
+def(NEED_STRDUP),True
+True,def(USE_WMS_LYR)
+True,def(NEED_STRDUP)
+def(USE_OGR),True
+def(NEED_STRCASECMP),True

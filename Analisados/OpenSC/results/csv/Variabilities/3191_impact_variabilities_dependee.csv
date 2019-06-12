@@ -1,0 +1,5 @@
+True,version,parameter,Function,3
+True,sc_strerror,parameter,Function,3
+def(HAVE_ZLIB_H),sc_strerror,type,Function,3
+!def(__GNUC__),sc_debug,exclusion,Function,3
+!def(__GNUC__),sc_error,exclusion,Function,3

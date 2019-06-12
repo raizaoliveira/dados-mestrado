@@ -1,0 +1,13 @@
+!def(MPS_USE_BUILTIN_COMPLEX),def(MPS_USE_BUILTIN_COMPLEX)
+True,!def(MPS_USE_BUILTIN_COMPLEX)
+True,!def(mpf_pow_ui)
+True,!def(HAVE_FMEMOPEN)
+!def(DISABLE_DEBUG),True
+True,!def(DISABLE_DEBUG)
+!def(MPS_USE_BUILTIN_COMPLEX),True
+def(NICE_DEBUG),True
+def(MPS_USE_BUILTIN_COMPLEX),True
+!def(HAVE_FMEMOPEN),True
+True,!def(mpq_out_str)
+True,def(MPS_USE_BUILTIN_COMPLEX)
+True,!def(HAVE_GETLINE)

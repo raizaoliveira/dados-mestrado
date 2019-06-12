@@ -1,0 +1,4 @@
+!def(NO_CONSOLE),
+True,
+!def(PROTO),
+def(FEAT_MBYTE),

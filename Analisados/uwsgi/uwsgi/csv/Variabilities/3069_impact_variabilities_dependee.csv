@@ -1,0 +1,14 @@
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,3
+True,uwsgi_stats_str,additon,Function,3
+True,uwsgi_stats_list_close,additon,Function,3
+True,uwsgi_stats_key,additon,Function,3
+True,uwsgi_stats_comma,additon,Function,3
+True,uwsgi_stats_list_open,additon,Function,3
+def(__linux__),get_linux_tcp_info,parameter,Function,3
+True,uwsgi_stats_object_open,additon,Function,3
+def(UWSGI_UDP),bind_to_udp,parameter,Function,3
+True,uwsgi_stats_keyval_comma,additon,Function,3
+True,uwsgi_router_access,parameter,Function,3
+True,uwsgi_stats_keylong,additon,Function,3
+True,uwsgi_stats_object_close,additon,Function,3
+True,uwsgi_stats_keyvaln_comma,additon,Function,3

@@ -1,0 +1,16 @@
+(def(UWSGI_UDP)&!def(UWSGI_MULTICAST)),True
+def(UWSGI_SPOOLER),True
+def(UWSGI_LDAP),True
+def(UWSGI_ROUTING),True
+True,def(__BIG_ENDIAN__)
+(def(UWSGI_PASTE)&def(UWSGI_INI)),True
+True,def(UWSGI_EMBEDDED)
+def(__BIG_ENDIAN__),True
+def(UWSGI_HTTP),True
+def(UWSGI_UDP),True
+!def(UWSGI_UDP),True
+def(__linux__),True
+def(UWSGI_PROXY),True
+(def(__linux__)&def(UWSGI_ASYNC)),True
+def(__BIG_ENDIAN__),def(UWSGI_EMBEDDED)
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),True

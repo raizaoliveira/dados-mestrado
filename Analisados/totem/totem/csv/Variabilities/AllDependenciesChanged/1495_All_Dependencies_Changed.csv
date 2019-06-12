@@ -1,0 +1,2 @@
+True,!def(USE_STABLE_LIBGNOMEUI)
+True,def(__linux__)

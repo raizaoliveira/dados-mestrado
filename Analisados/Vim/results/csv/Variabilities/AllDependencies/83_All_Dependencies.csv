@@ -1,0 +1,14 @@
+True,(!def(PROTO)&!def(__BORLANDC__))
+!def(EBCDIC),True
+!def(RISCOS),True
+(def(FEAT_GUI_GTK)&def(FEAT_BEVAL)),True
+def(EBCDIC),True
+(!def(PROTO)&!def(__BORLANDC__)),True
+def(WSDEBUG_TRACE),True
+(def(FEAT_BEVAL)&!def(FEAT_GUI_GTK)&(!def(FEAT_GUI_GTK)|!def(FEAT_BEVAL))),True
+!def(NO_CONSOLE),True
+def(FEAT_GUI),True
+True,def(FEAT_BEVAL)
+def(FEAT_BEVAL),True
+def(WSDEBUG_SENSE),True
+True,!def(RISCOS)

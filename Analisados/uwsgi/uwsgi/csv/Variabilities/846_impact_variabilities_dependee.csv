@@ -1,0 +1,7 @@
+True,uhttp,additon,Variable,2
+True,http_manage_subscription,parameter,Function,2
+True,cache_command,parameter,Function,2
+True,uwsgi_subscribe,additon,Function,2
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,2
+True,environ,additon,Variable,2
+True,argv,additon,Variable,2

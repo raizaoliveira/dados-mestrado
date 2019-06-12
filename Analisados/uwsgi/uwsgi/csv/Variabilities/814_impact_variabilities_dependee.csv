@@ -1,0 +1,5 @@
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,4
+True,cache_command,parameter,Function,4
+True,uwsgi_log,exclusion,Function,4
+def(UWSGI_EVENT_USE_EPOLL),event_queue_add_fd_read,additon,Function,4
+def(UWSGI_EVENT_USE_KQUEUE),event_queue_add_fd_write,additon,Function,4

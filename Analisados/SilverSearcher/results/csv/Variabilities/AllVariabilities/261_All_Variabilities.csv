@@ -1,0 +1,3 @@
+def(AG_DEBUG),
+True,
+def(USE_PRCE_JIT),

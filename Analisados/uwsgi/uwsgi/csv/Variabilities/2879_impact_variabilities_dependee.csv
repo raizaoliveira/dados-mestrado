@@ -1,0 +1,8 @@
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,5
+def(__linux__),get_linux_tcp_info,parameter,Function,5
+True,uwsgi_router_access,parameter,Function,5
+def(UWSGI_SPOOLER),uspool,exclusion,Variable,5
+def(UWSGI_UDP),bind_to_udp,parameter,Function,5
+def(UWSGI_EMBEDDED),spool_buffer,additon,Variable,5
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,5
+def(UWSGI_SPOOLER),spooler,additon,Function,5

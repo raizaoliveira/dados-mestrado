@@ -1,0 +1,14 @@
+def(UWSGI_EVENT_USE_EPOLL),event_queue_add_fd_read,additon,Function,5
+True,fastrouter_manage_subscription,parameter,Function,5
+True,manage_cluster_announce,exclusion,Function,5
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,5
+True,fr_get_hostname,parameter,Function,5
+True,cache_command,parameter,Function,5
+True,ping,exclusion,Function,5
+True,master_check_cluster_nodes,additon,Function,5
+True,uwsgi_add_sockets_to_queue,additon,Function,5
+True,uwsgi_concat2,parameter,Function,5
+True,uwsgi_log,additon,Function,5
+True,uwsgi_sock,additon,Variable,5
+True,uwsgi_route_signal,additon,Function,5
+True,uwsgi_subscribe,parameter,Function,5

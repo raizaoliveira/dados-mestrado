@@ -1,0 +1,5 @@
+scandir;True; @ main;
+perror;True; @ main;
+__builtin_va_start;True; @ plog;
+vprintf;True; @ plog;
+__builtin_va_end;True; @ plog;

@@ -1,0 +1,2 @@
+True,def(HAVE_RSVG)
+True,!def(USE_STABLE_LIBGNOMEUI)

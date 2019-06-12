@@ -1,0 +1,8 @@
+totem_download_from_fourcc,1,function
+load_icon_file,1,function
+totem_action_error,1,function
+msg,1,variable
+egg_recent_util_get_icon,1,function
+totem_action_error_try_download,1,function
+XShmGetEventBase,1,variable
+totem,1,variable

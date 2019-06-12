@@ -1,0 +1,4 @@
+getutent,1,function
+inet_aton,1,function
+endutent,1,function
+buf,1,variable

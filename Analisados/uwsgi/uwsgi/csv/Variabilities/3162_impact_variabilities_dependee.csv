@@ -1,0 +1,14 @@
+True,uwsgi_pipe,additon,Function,6
+def(__linux__),get_linux_tcp_info,parameter,Function,6
+True,uwsgi_open_and_read,additon,Function,6
+True,uwsgi_pythonize,additon,Function,6
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,6
+!def(UWSGI_PYPY),uwsgi_pyimport_by_filename,additon,Function,6
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,6
+def(UWSGI_UDP),bind_to_udp,parameter,Function,6
+True,uwsgi_protected_read,additon,Function,6
+True,uwsgi_protected_close,additon,Function,6
+True,uwsgi_router_access,parameter,Function,6
+def(UWSGI_EMBEDDED),up,exclusion,Variable,6
+True,uwsgi_pipe_sized,additon,Function,6
+True,filename,additon,Variable,6

@@ -1,0 +1,7 @@
+def(THUMB_DEBUG),
+!def(HAVE_XTEST),
+def(HAVE_XTEST),
+True,
+!def(USE_STABLE_LIBGNOMEUI),
+!def(XShmGetEventBase),
+def(ENABLE_REMEMBER_INFO),

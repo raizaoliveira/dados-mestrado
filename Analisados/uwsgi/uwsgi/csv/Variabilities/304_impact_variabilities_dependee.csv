@@ -1,0 +1,4 @@
+def(UWSGI_SNMP),tlen,type,Variable,4
+True,manage_python_response,additon,Function,4
+True,wsgi_req,additon,Variable,4
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,4

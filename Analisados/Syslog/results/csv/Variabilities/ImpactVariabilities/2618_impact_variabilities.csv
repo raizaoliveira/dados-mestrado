@@ -1,0 +1,4 @@
+!def(HAVE_MEMRCHR),
+!def(HAVE_STRCASESTR),
+True,
+def(__linux__),

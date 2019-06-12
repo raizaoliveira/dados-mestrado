@@ -1,0 +1,6 @@
+True,def(UWSGI_DEBUG)
+True,def(__BIG_ENDIAN__)
+!def(UWSGI_AS_SHARED_LIBRARY),True
+!def(UWSGI_PYPY),!def(PYTHREE)
+def(UWSGI_DEBUG),True
+True,def(UWSGI_SCTP)

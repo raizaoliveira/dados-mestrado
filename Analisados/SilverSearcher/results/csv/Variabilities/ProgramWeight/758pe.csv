@@ -1,0 +1,5 @@
+fgetln,1,function
+strndup,1,function
+asprintf,1,function
+ignore_pattern_files,1,variable
+getline,1,function

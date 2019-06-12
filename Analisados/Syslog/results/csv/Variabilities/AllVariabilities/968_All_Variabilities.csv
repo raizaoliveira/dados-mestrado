@@ -1,0 +1,5 @@
+def(__linux__),
+def(ENV_LD_LIBRARY_PATH),
+True,
+!def(HAVE_INET_ATON),
+!def(HAVE_GETUTENT),

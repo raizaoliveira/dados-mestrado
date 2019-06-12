@@ -1,0 +1,6 @@
+True,
+def(HAVE_X86),
+def(HAVE_HAL_0_5),
+def(__linux__),
+def(WITH_SMCLIENT),
+!def(TOTEM_PL_PARSER_MINI),

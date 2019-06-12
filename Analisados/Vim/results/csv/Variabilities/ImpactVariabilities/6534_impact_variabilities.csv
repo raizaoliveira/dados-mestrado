@@ -1,0 +1,5 @@
+!def(FEAT_GUI_GTK),
+def(NBDEBUG),
+def(FEAT_BEVAL),
+def(MAIN),
+True,

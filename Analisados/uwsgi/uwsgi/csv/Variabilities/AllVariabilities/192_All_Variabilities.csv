@@ -1,0 +1,8 @@
+(def(__sun__)&!def(ROCK_SOLID)&def(__BIG_ENDIAN__)&(def(ROCK_SOLID)|def(__sun__))),
+!def(ROCK_SOLID),
+(def(__BIG_ENDIAN__)&!def(ROCK_SOLID)),
+def(__BIG_ENDIAN__),
+!def(UNBIT),
+True,
+!def(NGX_HAVE_LITTLE_ENDIAN),
+(!def(ROCK_SOLID)&!def(__sun__)&def(__BIG_ENDIAN__)),

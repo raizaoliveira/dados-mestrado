@@ -1,0 +1,2 @@
+!def(HAVE_GETUTXENT),True
+def(HAVE_GETUTXENT),True

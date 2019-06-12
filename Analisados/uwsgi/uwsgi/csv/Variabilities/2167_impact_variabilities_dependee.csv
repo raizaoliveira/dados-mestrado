@@ -1,0 +1,8 @@
+def(UWSGI_SCTP),connect_to_sctp,parameter,Function,5
+True,uwsgi_concat2,additon,Function,5
+True,uwsgi_concat3,additon,Function,5
+True,ugevent,exclusion,Variable,5
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,5
+True,args,exclusion,Variable,5
+True,callable,exclusion,Variable,5
+True,wsgi_req,additon,Variable,5

@@ -1,0 +1,3 @@
+def(UWSGI_SPOOLER),True
+def(__BIG_ENDIAN__),True
+True,!def(PYTHREE)

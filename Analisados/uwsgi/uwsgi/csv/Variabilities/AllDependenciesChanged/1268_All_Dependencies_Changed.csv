@@ -1,0 +1,17 @@
+True,def(UWSGI_INI)
+def(UWSGI_INI),True
+True,def(__BIG_ENDIAN__)
+!def(UWSGI_JSON),True
+def(UWSGI_XML),True
+def(__linux__),def(UWSGI_EMBEDDED)
+def(UWSGI_DEBUG),True
+def(__BIG_ENDIAN__),True
+def(__linux__),True
+True,def(UWSGI_YAML)
+def(__BIG_ENDIAN__),def(UWSGI_EMBEDDED)
+True,def(UWSGI_EMBEDDED)
+(!def(PYTHREE)&def(UWSGI_INI)),True
+True,def(UWSGI_DEBUG)
+def(UWSGI_DEBUG),def(UWSGI_EMBEDDED)
+def(UWSGI_YAML),True
+True,def(UWSGI_XML)

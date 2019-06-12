@@ -1,0 +1,6 @@
+def(TEST),main,exclusion,Function,2
+def(TEST),WaitressBase64Encode,additon,Function,2
+True,WaitressBase64Encode,exclusion,Function,2
+def(TEST),compareUrl,additon,Function,2
+True,streqtest,additon,Function,2
+True,compareStr,additon,Function,2

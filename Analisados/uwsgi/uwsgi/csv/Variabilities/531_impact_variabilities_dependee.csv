@@ -1,0 +1,8 @@
+True,callable,additon,Variable,3
+True,wsgi_req,additon,Variable,3
+(def(__linux__)&def(UWSGI_ASYNC)),async_mod,additon,Function,3
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,3
+True,args,additon,Variable,3
+True,uwsgi_log,additon,Function,3
+True,uwsgi_swap16,additon,Function,3
+(def(__linux__)&def(UWSGI_ASYNC)),async_wait,additon,Function,3

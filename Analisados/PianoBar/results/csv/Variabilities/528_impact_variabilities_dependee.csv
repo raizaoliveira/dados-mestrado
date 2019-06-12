@@ -1,0 +1,3 @@
+(!def(ENABLE_TLS)&def(TEST)),main,exclusion,Function,2
+True,WaitressSetUrl,type,Function,2
+True,WaitressSplitUrl,specifier,Function,2

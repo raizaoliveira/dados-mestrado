@@ -1,0 +1,3 @@
+True,def(UWSGI_DEBUG)
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_WSGI2),True

@@ -1,0 +1,5 @@
+True,cache_command,parameter,Function,2
+True,psgi_response,additon,Function,2
+def(UWSGI_SENDFILE),uwsgi_sendfile,additon,Function,2
+True,uwsgi_perl_obj_call,additon,Function,2
+True,internal_server_error,additon,Function,2

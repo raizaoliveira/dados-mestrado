@@ -1,0 +1,5 @@
+True,def(SYSLOG_NG_HAVE_UTMPX_H)
+True,!def(PCRE_NEWLINE_ANYCRLF)
+True,!def(SYSLOG_NG_HAVE_INET_ATON)
+!def(PCRE_NEWLINE_ANYCRLF),True
+def(__linux__),True

@@ -1,0 +1,5 @@
+True,fr_get_hostname,parameter,Function,3
+def(UWSGI_EMBEDDED),up,exclusion,Variable,3
+True,cache_command,parameter,Function,3
+True,filename,additon,Variable,3
+True,fastrouter_manage_subscription,parameter,Function,3

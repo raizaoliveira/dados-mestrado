@@ -1,0 +1,5 @@
+def(UWSGI_SNMP),tlen,type,Variable,3
+True,timeout,additon,Variable,3
+True,uh,additon,Variable,3
+!def(ROCK_SOLID),uwsgi,exclusion,Variable,3
+True,buffer,additon,Variable,3

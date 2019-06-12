@@ -1,0 +1,2 @@
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,3
+True,wsgi_req,exclusion,Variable,3

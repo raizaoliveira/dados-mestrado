@@ -1,0 +1,16 @@
+def(FEAT_GUI),True
+def(WIN32),True
+!def(NO_CONSOLE),def(WIN32)
+True,def(WIN32)
+True,def(WSDEBUG)
+def(FEAT_BEVAL),True
+True,def(NBDEBUG)
+def(WSDEBUG),True
+!def(INET_SOCKETS),True
+def(INET_SOCKETS),True
+def(MAIN),True
+!def(INET_SOCKETS),def(INET_SOCKETS)
+def(FEAT_SUN_WORKSHOP),def(FEAT_BEVAL)
+True,def(WSDEBUG_TRACE)
+def(WSDEBUG_SENSE),True
+def(WSDEBUG_TRACE),True

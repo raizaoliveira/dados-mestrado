@@ -1,0 +1,4 @@
+def(UWSGI_ROUTING),True
+def(UWSGI_PROXY),True
+def(UWSGI_LDAP),True
+def(UWSGI_UDP),True

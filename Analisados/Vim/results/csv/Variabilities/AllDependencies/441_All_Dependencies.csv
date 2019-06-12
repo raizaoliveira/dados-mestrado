@@ -1,0 +1,12 @@
+True,!def(FEAT_BEVAL)
+True,!def(EBCDIC)
+def(FEAT_GUI),True
+!def(EBCDIC),True
+!def(FEAT_BEVAL),True
+(!def(FEAT_BEVAL)&def(WSDEBUG_SENSE)),True
+(!def(FEAT_BEVAL)&def(WSDEBUG_TRACE)),True
+True,!def(RISCOS)
+def(EBCDIC),True
+True,!def(LESSTIF_VERSION)
+!def(RISCOS),True
+!def(NO_CONSOLE),True

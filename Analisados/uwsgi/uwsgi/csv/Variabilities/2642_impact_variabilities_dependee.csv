@@ -1,0 +1,12 @@
+def(UWSGI_PCRE),uwsgi_real_file_serve,exclusion,Function,4
+True,argvs,exclusion,Variable,4
+True,argc,exclusion,Variable,4
+True,real_filename_len,additon,Variable,4
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,4
+True,host,exclusion,Variable,4
+True,wsgi_req,exclusion,Variable,4
+def(UWSGI_UDP),bind_to_udp,parameter,Function,4
+True,real_filename,additon,Variable,4
+True,argv,exclusion,Variable,4
+True,st,additon,Variable,4
+True,message,exclusion,Variable,4

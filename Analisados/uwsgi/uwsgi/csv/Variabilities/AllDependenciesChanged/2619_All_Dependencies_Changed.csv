@@ -1,0 +1,3 @@
+True,def(UWSGI_UDP)
+def(UWSGI_SSL),True
+True,def(UWSGI_SSL)

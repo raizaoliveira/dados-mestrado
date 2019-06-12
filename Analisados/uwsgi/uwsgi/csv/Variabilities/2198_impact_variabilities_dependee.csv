@@ -1,0 +1,4 @@
+True,wsgi_req,exclusion,Variable,4
+def(UWSGI_SCTP),connect_to_sctp,parameter,Function,4
+True,uwsgi_log,exclusion,Function,4
+True,fr_get_hostname,parameter,Function,4

@@ -1,0 +1,14 @@
+memset;True;True; @ main;main;
+strcpy;True; @ main;
+socket;True; @ main;
+perror;True;True; @ main;main;
+exit;True;True; @ main;main;
+connect;True; @ main;
+__p__environ;True;True; @ main;main;
+strchr;True; @ main;
+memcpy;True;True;True;True;True; @ main;main;main;main;main;
+strlen;True; @ main;
+send;True;True; @ main;main;
+read;True; @ main;
+recv;True; @ main;
+write;True; @ main;

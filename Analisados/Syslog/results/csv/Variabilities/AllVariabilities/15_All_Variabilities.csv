@@ -1,0 +1,3 @@
+True,
+!def(HAVE_GETUTENT),
+!def(HAVE_INET_ATON),

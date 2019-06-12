@@ -1,0 +1,11 @@
+def(UWSGI_SPOOLER),(def(__BIG_ENDIAN__)&def(UWSGI_SPOOLER))
+def(UWSGI_SPOOLER),True
+True,def(__BIG_ENDIAN__)
+def(__linux__),True
+def(UWSGI_LDAP),def(UWSGI_EMBEDDED)
+def(__BIG_ENDIAN__),True
+True,def(UWSGI_EMBEDDED)
+(def(UWSGI_SPOOLER)&def(UWSGI_EMBEDDED)),True
+True,def(UWSGI_PASTE)
+def(UWSGI_EMBEDDED),True
+def(UWSGI_DEBUG),True

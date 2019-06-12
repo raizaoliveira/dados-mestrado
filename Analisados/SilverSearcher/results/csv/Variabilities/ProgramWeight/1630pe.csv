@@ -1,0 +1,13 @@
+ag_asprintf,1,function
+fprintf_w32,1,function
+die,1,function
+getline,1,function
+ag_strndup,1,function
+fgetln,1,function
+color_reset,1,variable
+ag_malloc,1,function
+is_symlink,1,function
+si,1,variable
+vasprintf,1,function
+realpath,1,function
+strlcpy,1,function

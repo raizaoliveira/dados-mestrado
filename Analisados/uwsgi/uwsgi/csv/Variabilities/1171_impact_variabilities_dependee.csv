@@ -1,0 +1,4 @@
+def(UWSGI_EVENT_USE_EPOLL),event_queue_add_fd_read,additon,Function,3
+True,ufr,exclusion,Variable,3
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,3
+True,ptr,type,Variable,3

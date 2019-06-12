@@ -1,0 +1,6 @@
+!def(FEAT_GUI_W32),
+def(MAIN),
+True,
+def(FEAT_GUI),
+def(FEAT_GUI_W32),
+def(NBDEBUG),

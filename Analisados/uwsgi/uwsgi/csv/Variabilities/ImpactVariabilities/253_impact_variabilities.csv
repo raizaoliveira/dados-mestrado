@@ -1,0 +1,8 @@
+(def(UWSGI_SPOOLER)&!def(ROCK_SOLID)),
+True,
+def(UWSGI_SNMP),
+!def(UNBIT),
+def(UWSGI_SPOOLER),
+!def(ROCK_SOLID),
+def(UWSGI_UDP),
+def(UWSGI_SCTP),

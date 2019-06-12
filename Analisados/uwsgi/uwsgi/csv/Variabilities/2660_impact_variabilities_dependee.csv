@@ -1,0 +1,15 @@
+True,message,additon,Variable,4
+True,argvs,additon,Variable,4
+True,argv,additon,Variable,4
+True,host,additon,Variable,4
+True,uwsgi_parse_vars,exclusion,Function,4
+True,argc,additon,Variable,4
+def(UWSGI_PCRE),uwsgi_add_expires,additon,Function,4
+True,bufferend,exclusion,Variable,4
+True,mime_type,additon,Variable,4
+True,st,additon,Variable,4
+True,ptrbuf,exclusion,Variable,4
+True,real_filename,exclusion,Variable,4
+True,real_filename_len,exclusion,Variable,4
+def(UWSGI_UDP),bind_to_udp,parameter,Function,4
+True,wsgi_req,exclusion,Variable,4

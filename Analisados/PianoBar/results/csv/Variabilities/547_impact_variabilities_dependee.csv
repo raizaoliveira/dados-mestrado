@@ -1,0 +1,4 @@
+def(TEST),main,additon,Function,2
+True,WaitressBase64Encode,additon,Function,2
+True,Encode,exclusion,Function,2
+True,WaitressSplitUrl,specifier,Function,2

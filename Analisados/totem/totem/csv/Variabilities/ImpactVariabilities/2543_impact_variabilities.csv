@@ -1,0 +1,4 @@
+!def(HAVE_GTK_ONLY),
+True,
+def(__linux__),
+def(HAVE_X86),

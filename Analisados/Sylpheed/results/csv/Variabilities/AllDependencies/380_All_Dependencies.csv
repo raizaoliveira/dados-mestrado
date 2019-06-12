@@ -1,0 +1,3 @@
+True,!def(HAVE_STRLCAT)
+def(AG_DEBUG),True
+True,!def(HAVE_STRLCPY)

@@ -1,0 +1,8 @@
+True,def(__linux__)
+!def(PCRE_NEWLINE_ANYCRLF),True
+True,!def(JSON_C_VERSION)
+def(_AIX),True
+def(__linux__),True
+True,def(JSON_C_VERSION)
+True,!def(PCRE_NEWLINE_ANYCRLF)
+!def(_AIX),True

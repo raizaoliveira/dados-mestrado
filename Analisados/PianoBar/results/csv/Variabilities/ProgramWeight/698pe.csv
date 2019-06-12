@@ -1,0 +1,5 @@
+streqtest,1,function
+WaitressBase64Encode,1,function
+WaitressSplitUrl,1,function
+compareUrl,1,function
+compareStr,1,function

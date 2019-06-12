@@ -1,0 +1,4 @@
+True,uwsgi_log,additon,Function,3
+def(UWSGI_EMBEDDED),up,additon,Variable,3
+True,cache_command,parameter,Function,3
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,3

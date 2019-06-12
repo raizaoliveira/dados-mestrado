@@ -1,0 +1,6 @@
+True,msg_event_create,additon,Function,3
+True,msg_event,exclusion,Function,3
+True,msg_event_suppress_recursions_and_send,additon,Function,3
+True,fd,additon,Variable,3
+True,msg_limit_internal_message,exclusion,Function,3
+True,testcase,parameter,Function,3

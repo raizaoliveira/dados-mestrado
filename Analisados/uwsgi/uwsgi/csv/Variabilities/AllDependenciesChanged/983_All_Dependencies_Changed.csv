@@ -1,0 +1,5 @@
+def(__sun__),True
+True,def(UWSGI_EMBEDDED)
+!def(__sun__),True
+def(UWSGI_DEBUG),True
+def(__BIG_ENDIAN__),True

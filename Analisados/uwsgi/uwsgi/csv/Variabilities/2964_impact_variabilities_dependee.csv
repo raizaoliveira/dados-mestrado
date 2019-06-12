@@ -1,0 +1,13 @@
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,4
+True,key,additon,Variable,4
+True,cmd,additon,Variable,4
+True,modifier2,additon,Variable,4
+True,uwsgi_router_access,parameter,Function,4
+def(UWSGI_UDP),bind_to_udp,parameter,Function,4
+True,modifier1,additon,Variable,4
+True,udp_address,additon,Variable,4
+True,sign,additon,Variable,4
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,4
+True,keysize,additon,Variable,4
+def(__linux__),get_linux_tcp_info,parameter,Function,4
+True,socket_name,additon,Variable,4

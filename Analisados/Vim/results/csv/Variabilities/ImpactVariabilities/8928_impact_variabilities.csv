@@ -1,0 +1,7 @@
+def(MAIN),
+def(DEBUG),
+def(FEAT_BEVAL_GUI),
+def(FEAT_JOB_CHANNEL),
+True,
+def(FEAT_TERMRESPONSE),
+def(FEAT_TOOLBAR),

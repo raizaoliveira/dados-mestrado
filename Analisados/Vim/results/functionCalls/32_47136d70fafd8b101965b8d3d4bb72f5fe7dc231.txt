@@ -1,0 +1,4 @@
+strcpy;True; @ make_version;
+strcat;True;True;True;True; @ make_version;make_version;make_version;make_version;
+getvvcol;True;True; @ getviscol;getviscol2;
+coladvance2;True; @ coladvance_force;

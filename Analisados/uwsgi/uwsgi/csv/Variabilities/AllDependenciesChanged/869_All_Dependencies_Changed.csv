@@ -1,0 +1,10 @@
+def(__BIG_ENDIAN__),def(UWSGI_UDP)
+def(UWSGI_UDP),True
+(!def(UWSGI_SPOOLER)&!def(UWSGI_PROXY)),True
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),True
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_UDP),(def(UWSGI_MULTICAST)&def(UWSGI_UDP))
+True,(def(UWSGI_SNMP)&def(UWSGI_UDP))
+True,def(UWSGI_YAML)
+def(__BIG_ENDIAN__),True
+def(__linux__),True

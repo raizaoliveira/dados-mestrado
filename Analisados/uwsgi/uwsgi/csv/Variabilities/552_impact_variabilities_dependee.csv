@@ -1,0 +1,5 @@
+True,uwsgi_log,additon,Function,4
+True,wsgi_req,exclusion,Variable,4
+True,args,exclusion,Variable,4
+True,callable,exclusion,Variable,4
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,4

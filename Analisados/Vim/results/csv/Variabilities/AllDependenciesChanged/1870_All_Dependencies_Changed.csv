@@ -1,0 +1,5 @@
+True,!def(FEAT_BEVAL)
+(!def(FEAT_BEVAL)&def(WSDEBUG_TRACE)),True
+!def(FEAT_BEVAL),True
+True,(!def(FEAT_BEVAL)&def(WSDEBUG_TRACE))
+(!def(FEAT_BEVAL)&def(WSDEBUG_SENSE)),True

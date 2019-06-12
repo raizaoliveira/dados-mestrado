@@ -1,0 +1,5 @@
+True,uwsgi_sendfile,parameter,Function,4
+True,uwsgi_swap16,exclusion,Function,4
+def(UWSGI_SNMP),tlen,type,Variable,4
+def(__BIG_ENDIAN__),uwsgi_parse_vars,additon,Function,4
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,4

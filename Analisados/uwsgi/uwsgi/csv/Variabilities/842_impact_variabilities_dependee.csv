@@ -1,0 +1,10 @@
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,5
+def(UWSGI_EVENT_USE_KQUEUE),event_queue_wait,additon,Function,5
+def(UWSGI_EVENT_USE_EPOLL),event_queue_add_fd_read,additon,Function,5
+def(UWSGI_EVENT_USE_EPOLL),event_queue_init,additon,Function,5
+True,http_manage_subscription,additon,Function,5
+True,len,additon,Variable,5
+True,cache_command,parameter,Function,5
+def(UWSGI_EMBEDDED),up,exclusion,Variable,5
+def(UWSGI_EVENT_USE_KQUEUE),event_queue_add_fd_write,additon,Function,5
+True,uhttp,additon,Variable,5

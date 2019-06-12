@@ -1,0 +1,2 @@
+strcpy;True; @ make_version;
+strcat;True;True;True;True; @ make_version;make_version;make_version;make_version;

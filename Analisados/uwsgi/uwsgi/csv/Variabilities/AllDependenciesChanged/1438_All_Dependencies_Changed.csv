@@ -1,0 +1,10 @@
+True,(def(UWSGI_MULTICAST)&def(UWSGI_UDP))
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_UDP),def(__BIG_ENDIAN__)
+def(UWSGI_DEBUG),def(UWSGI_EMBEDDED)
+True,!def(PYTHREE)
+def(__BIG_ENDIAN__),True
+True,def(__BIG_ENDIAN__)
+def(UWSGI_DEBUG),True
+def(__BIG_ENDIAN__),def(UWSGI_EMBEDDED)
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),True

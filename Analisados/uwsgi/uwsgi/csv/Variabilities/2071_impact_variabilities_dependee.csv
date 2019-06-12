@@ -1,0 +1,3 @@
+True,cache_command,parameter,Function,3
+True,fr_get_hostname,parameter,Function,3
+def(UWSGI_EVENT_USE_KQUEUE),event_queue_add_fd_write,additon,Function,3

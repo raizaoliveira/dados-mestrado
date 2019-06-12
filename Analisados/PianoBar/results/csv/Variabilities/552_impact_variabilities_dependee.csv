@@ -1,0 +1,7 @@
+def(TEST),WaitressFetchBuf,exclusion,Function,2
+True,WaitressFree,exclusion,Function,2
+True,WaitressSetUrl,exclusion,Function,2
+True,WaitressErrorToStr,exclusion,Function,2
+True,WaitressFetchBuf,exclusion,Function,2
+True,WaitressSplitUrl,specifier,Function,2
+True,WaitressInit,exclusion,Function,2

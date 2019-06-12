@@ -1,0 +1,5 @@
+!def(USE_STABLE_LIBGNOMEUI),True
+True,!def(XShmGetEventBase)
+def(THUMB_DEBUG),True
+True,def(THUMB_DEBUG)
+True,!def(USE_STABLE_LIBGNOMEUI)

@@ -1,0 +1,5 @@
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,4
+True,uwsgi_log,additon,Function,4
+True,uwsgi_get_dgram,additon,Function,4
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),bind_to_udp,additon,Function,4
+def(__BIG_ENDIAN__),uwsgi_swap16,additon,Function,4

@@ -1,0 +1,4 @@
+!def(UWSGI_PYPY),True
+True,def(UWSGI_EMBEDDED)
+!def(UWSGI_PYPY),!def(PYTHREE)
+def(__BIG_ENDIAN__),True

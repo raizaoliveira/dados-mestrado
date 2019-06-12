@@ -1,0 +1,5 @@
+def(UWSGI_IPV6),True
+def(__BIG_ENDIAN__),True
+True,def(__BIG_ENDIAN__)
+!def(UWSGI_PYPY),!def(PYTHREE)
+def(UWSGI_SSL),True

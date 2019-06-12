@@ -1,0 +1,13 @@
+True,ptr,additon,Variable,6
+True,uwsgi_swap16,exclusion,Function,6
+def(UWSGI_EVENT_USE_EPOLL),event_queue_add_fd_read,exclusion,Function,6
+def(UWSGI_EVENT_USE_KQUEUE),event_queue_add_fd_write,exclusion,Function,6
+True,uwsgi_log,additon,Function,6
+def(__BIG_ENDIAN__),uwsgi_hooked_parse,exclusion,Function,6
+True,cache_command,parameter,Function,6
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,6
+True,wsgi_req,additon,Variable,6
+True,uhttp,exclusion,Variable,6
+True,http_manage_subscription,exclusion,Function,6
+def(UWSGI_EVENT_USE_EPOLL),event_queue_init,exclusion,Function,6
+def(__BIG_ENDIAN__),uwsgi_swap16,exclusion,Function,6

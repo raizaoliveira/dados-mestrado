@@ -1,0 +1,3 @@
+!def(TOTEM_DEBUG),
+True,
+!def(XShmGetEventBase),

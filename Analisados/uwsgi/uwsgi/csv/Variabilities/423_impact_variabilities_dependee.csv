@@ -1,0 +1,2 @@
+True,uwsgi_log,exclusion,Function,2
+!def(NGX_HAVE_LITTLE_ENDIAN),uwsgi_swap16,exclusion,Function,2

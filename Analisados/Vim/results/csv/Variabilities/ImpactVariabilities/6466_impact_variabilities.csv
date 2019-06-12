@@ -1,0 +1,5 @@
+def(MAIN),
+True,
+def(NBDEBUG),
+def(FEAT_BEVAL),
+def(WIN32),

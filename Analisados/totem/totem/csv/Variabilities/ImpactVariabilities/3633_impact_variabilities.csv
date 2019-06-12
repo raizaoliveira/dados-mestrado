@@ -1,0 +1,6 @@
+def(HAVE_HAL_0_5),
+def(HAVE_X86),
+!def(HAVE_GTK_ONLY),
+def(__linux__),
+True,
+!def(TOTEM_PL_PARSER_MINI),

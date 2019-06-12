@@ -1,0 +1,9 @@
+True,message,exclusion,Variable,2
+True,vs,additon,Variable,2
+True,value,exclusion,Variable,2
+True,name,additon,Variable,2
+True,verb,additon,Variable,2
+True,accText,additon,Variable,2
+True,label,additon,Variable,2
+True,severity,exclusion,Variable,2
+True,filepos,additon,Variable,2

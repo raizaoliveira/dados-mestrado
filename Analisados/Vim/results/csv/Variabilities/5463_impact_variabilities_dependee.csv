@@ -1,0 +1,5 @@
+True,gap,additon,Variable,2
+True,res,additon,Variable,2
+True,s,additon,Variable,2
+True,len,additon,Variable,2
+True,buf,exclusion,Variable,2

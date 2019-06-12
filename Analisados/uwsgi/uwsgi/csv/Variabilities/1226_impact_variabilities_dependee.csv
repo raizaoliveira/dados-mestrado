@@ -1,0 +1,15 @@
+True,uwsgi_string_sendto,exclusion,Function,5
+def(UWSGI_EMBEDDED),init_uwsgi_app,additon,Function,5
+True,fr_get_hostname,parameter,Function,5
+True,uwsgi_concat,exclusion,Function,5
+True,set_harakiri,exclusion,Function,5
+True,fd,exclusion,Variable,5
+True,ptr,additon,Variable,5
+True,harakiri,additon,Function,5
+True,len,exclusion,Variable,5
+True,cache_command,parameter,Function,5
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,5
+True,wsgi_req,additon,Variable,5
+True,uwsgi_get_dgram,exclusion,Function,5
+True,uwsgi_concat4,additon,Function,5
+True,fastrouter_manage_subscription,parameter,Function,5

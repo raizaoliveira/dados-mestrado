@@ -1,0 +1,13 @@
+scandir;True; @ main;
+perror;True; @ main;
+__builtin_va_start;True;True;True;True;True; @ log_debug;log_msg;log_warn;log_err;plog;
+vplog;True;True;True;True;True; @ log_debug;log_msg;log_warn;log_err;plog;
+__builtin_va_end;True;True;True;True;True; @ log_debug;log_msg;log_warn;log_err;plog;
+printf;True;True;True;True;True;True; @ vplog;vplog;vplog;vplog;vplog;usage;
+vprintf;True; @ vplog;
+getopt_long;True; @ parse_options;
+atoi;True;True;True; @ parse_options;parse_options;parse_options;
+set_log_level;True; @ parse_options;
+log_err;True; @ parse_options;
+usage;True; @ parse_options;
+exit;True; @ parse_options;

@@ -1,0 +1,2 @@
+def(UWSGI_SCTP),True
+!def(UWSGI_SCTP),True

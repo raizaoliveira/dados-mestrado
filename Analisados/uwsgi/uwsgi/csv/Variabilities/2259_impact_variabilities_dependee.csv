@@ -1,0 +1,3 @@
+def(UWSGI_SCTP),fastrouter_loop,exclusion,Function,4
+def(UWSGI_SCTP),connect_to_sctp,parameter,Function,4
+True,uwsgi_log,exclusion,Function,4

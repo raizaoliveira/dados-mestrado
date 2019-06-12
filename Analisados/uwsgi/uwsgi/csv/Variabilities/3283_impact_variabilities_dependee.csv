@@ -1,0 +1,11 @@
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,4
+True,uwsgi_concat2,additon,Function,4
+True,uwsgi,additon,Variable,4
+True,uwsgi_alarm_run,additon,Function,4
+def(UWSGI_UDP),bind_to_udp,parameter,Function,4
+True,uwsgi_alarm_get_instance,additon,Function,4
+True,usl,additon,Variable,4
+True,uwsgi_alarm_log_check,exclusion,Function,4
+True,uwsgi_router_access,parameter,Function,4
+def(__linux__),get_linux_tcp_info,parameter,Function,4
+True,uwsgi_strncmp,additon,Function,4

@@ -1,0 +1,12 @@
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_UDP),True
+def(__BIG_ENDIAN__),def(UWSGI_EMBEDDED)
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),True
+True,def(UWSGI_UDP)
+def(UWSGI_SPOOLER),def(UWSGI_EMBEDDED)
+def(UWSGI_DEBUG),True
+True,def(UWSGI_EVENT_USE_EPOLL)
+def(UWSGI_EVENT_USE_EPOLL),True
+True,!def(__linux__)
+def(__BIG_ENDIAN__),True
+True,def(UWSGI_DEBUG)

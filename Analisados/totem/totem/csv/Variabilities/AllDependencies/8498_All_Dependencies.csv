@@ -1,0 +1,10 @@
+True,def(HAVE_HAL_0_2)
+def(HAVE_HAL_0_5),!def(HAVE_HAL)
+def(HAVE_HAL),True
+!def(TOTEM_PL_PARSER_MINI),True
+True,def(HAVE_HAL_0_5)
+def(HAVE_HAL),def(HAVE_HAL_0_2)
+True,!def(XShmGetEventBase)
+True,def(HAVE_HAL)
+True,def(__linux__)
+True,def(THUMB_DEBUG)

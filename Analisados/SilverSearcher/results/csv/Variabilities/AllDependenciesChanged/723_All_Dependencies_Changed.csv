@@ -1,0 +1,3 @@
+True,!def(HAVE_STRLCPY)
+True,!def(HAVE_STRLCAT)
+True,!def(HAVE_STRNDUP)

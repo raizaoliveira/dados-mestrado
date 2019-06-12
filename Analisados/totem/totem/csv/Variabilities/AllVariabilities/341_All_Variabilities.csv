@@ -1,0 +1,6 @@
+def(HAVE_RSVG),
+!def(HAVE_XTEST),
+!def(XShmGetEventBase),
+True,
+def(HAVE_XTEST),
+!def(USE_STABLE_LIBGNOMEUI),

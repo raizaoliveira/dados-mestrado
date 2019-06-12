@@ -1,0 +1,4 @@
+True,fr_get_hostname,parameter,Function,3
+True,fastrouter_manage_subscription,parameter,Function,3
+True,psgi_response,parameter,Function,3
+True,cache_command,parameter,Function,3

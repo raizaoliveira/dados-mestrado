@@ -1,0 +1,5 @@
+def(SCTP),
+!def(UNBIT),
+True,
+!def(ROCK_SOLID),
+(!def(ROCK_SOLID)&!def(UNBIT)),

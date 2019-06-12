@@ -1,0 +1,9 @@
+def(UWSGI_EVENT_USE_EPOLL),event_queue_init,exclusion,Function,4
+True,ptr,additon,Variable,4
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,4
+True,cache_command,parameter,Function,4
+True,wsgi_req,additon,Variable,4
+True,uwsgi_concat2,parameter,Function,4
+def(UWSGI_EVENT_USE_EPOLL),event_queue_add_fd_read,exclusion,Function,4
+True,fr_get_hostname,parameter,Function,4
+True,fastrouter_manage_subscription,exclusion,Function,4

@@ -1,0 +1,14 @@
+True,def(JSON_C_VERSION)
+True,!def(SYSLOG_NG_HAVE_MEMRCHR)
+!def(SYSLOG_NG_HAVE_UTMPX_H),True
+def(_AIX),True
+!def(PCRE_NEWLINE_ANYCRLF),True
+True,!def(PCRE_NEWLINE_ANYCRLF)
+True,!def(SYSLOG_NG_HAVE_STRCASESTR)
+True,def(__linux__)
+True,!def(JSON_C_VERSION)
+True,!def(SYSLOG_NG_HAVE_UTMPX_H)
+!def(_AIX),True
+True,!def(SYSLOG_NG_HAVE_INET_ATON)
+def(__linux__),True
+True,def(SYSLOG_NG_HAVE_UTMPX_H)

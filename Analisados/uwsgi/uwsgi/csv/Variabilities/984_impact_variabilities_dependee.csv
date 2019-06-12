@@ -1,0 +1,16 @@
+True,uwsgi_concat,additon,Function,7
+True,optarg,additon,Variable,7
+def(UWSGI_YAML),uwsgi_get_last_char,additon,Function,7
+True,wsgi_req,additon,Variable,7
+True,callable,exclusion,Variable,7
+True,i,additon,Variable,7
+def(UWSGI_EMBEDDED),up,exclusion,Variable,7
+True,argc,additon,Variable,7
+True,http_manage_subscription,parameter,Function,7
+True,uwsgi_concat2,exclusion,Function,7
+True,argv,additon,Variable,7
+def(UWSGI_INI),uwsgi_get_last_char,additon,Function,7
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,7
+True,args,exclusion,Variable,7
+True,uwsgi_log,additon,Function,7
+True,cache_command,parameter,Function,7

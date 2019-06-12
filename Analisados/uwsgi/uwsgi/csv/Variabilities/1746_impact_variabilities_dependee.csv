@@ -1,0 +1,8 @@
+True,key,exclusion,Variable,3
+True,keylen,exclusion,Variable,3
+True,fastrouter_manage_subscription,parameter,Function,3
+True,cache_command,parameter,Function,3
+True,fr_get_hostname,parameter,Function,3
+True,uwsgi_concat2,parameter,Function,3
+True,slot,exclusion,Variable,3
+True,regexp,exclusion,Variable,3

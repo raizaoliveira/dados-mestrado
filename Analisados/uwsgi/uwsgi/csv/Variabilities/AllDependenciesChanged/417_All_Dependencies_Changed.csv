@@ -1,0 +1,2 @@
+def(UWSGI_UDP),True
+True,def(__BIG_ENDIAN__)

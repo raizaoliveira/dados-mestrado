@@ -1,0 +1,16 @@
+True,args,exclusion,Variable,9
+True,set_harakiri,additon,Function,9
+True,uwsgi_concat,additon,Function,9
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,9
+True,wsgi_req,exclusion,Variable,9
+True,async_add_timeout,additon,Function,9
+def(UWSGI_YAML),uwsgi_get_last_char,additon,Function,9
+True,uwsgi_concat3,exclusion,Function,9
+def(UWSGI_INI),uwsgi_get_last_char,additon,Function,9
+True,cache_command,parameter,Function,9
+def(UWSGI_DEBUG),uwsgi_parse_response,exclusion,Function,9
+def(UWSGI_EVENT_USE_EPOLL),event_queue_add_fd_read,additon,Function,9
+def(UWSGI_EVENT_USE_KQUEUE),event_queue_wait,additon,Function,9
+def(UWSGI_EMBEDDED),up,exclusion,Variable,9
+True,uwsgi_concat2,exclusion,Function,9
+True,callable,exclusion,Variable,9

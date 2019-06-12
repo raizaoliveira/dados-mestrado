@@ -1,0 +1,5 @@
+True,uwsgi_log,additon,Function,5
+!def(NGX_HAVE_LITTLE_ENDIAN),uwsgi_swap16,additon,Function,5
+def(UWSGI_SPOOLER),spooler,exclusion,Function,5
+True,wsgi_req,additon,Variable,5
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,5

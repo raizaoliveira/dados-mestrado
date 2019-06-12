@@ -1,0 +1,8 @@
+True,def(WIN32)
+True,def(_WIN32)
+def(INET_SOCKETS),def(_WIN32)
+def(WSDEBUG),True
+!def(INET_SOCKETS),def(_WIN32)
+def(WSDEBUG_SENSE),True
+True,def(WSDEBUG_TRACE)
+def(WSDEBUG_TRACE),True

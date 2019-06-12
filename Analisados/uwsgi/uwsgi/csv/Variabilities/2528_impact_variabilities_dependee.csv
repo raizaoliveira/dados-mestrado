@@ -1,0 +1,13 @@
+True,uwsgi_stats_key,exclusion,Function,1
+True,corerouter_alloc_session,exclusion,Function,1
+True,corerouter_manage_subscription,exclusion,Function,1
+True,uwsgi_stats_comma,exclusion,Function,1
+True,uwsgi_socket_nb,additon,Function,1
+True,corerouter_reset_timeout,exclusion,Function,1
+True,uwsgi_stats_list_close,exclusion,Function,1
+True,corerouter_close_session,exclusion,Function,1
+True,uwsgi_stats_object_open,exclusion,Function,1
+True,uwsgi_stats_list_open,exclusion,Function,1
+True,uwsgi_stats_object_close,exclusion,Function,1
+True,uwsgi_stats_keyval,exclusion,Function,1
+True,ucr,exclusion,Variable,1

@@ -1,0 +1,16 @@
+True,uwsgi_concat,exclusion,Function,6
+True,uwsgi_concat3,additon,Function,6
+def(UWSGI_YAML),uwsgi_get_last_char,additon,Function,6
+True,fd,additon,Variable,6
+True,vallen,exclusion,Variable,6
+True,len,additon,Variable,6
+True,argv,additon,Variable,6
+True,uwsgi_concat2n,additon,Function,6
+True,key,exclusion,Variable,6
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,6
+True,keylen,exclusion,Variable,6
+def(UWSGI_INI),uwsgi_get_last_char,additon,Function,6
+True,ptr,type,Variable,6
+True,argc,additon,Variable,6
+True,wsgi_req,exclusion,Variable,6
+True,val,exclusion,Variable,6

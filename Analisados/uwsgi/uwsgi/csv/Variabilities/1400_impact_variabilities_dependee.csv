@@ -1,0 +1,6 @@
+def(UWSGI_EMBEDDED),up,additon,Variable,3
+True,wsgi_req,exclusion,Variable,3
+True,init_uwsgi_app,exclusion,Function,3
+True,interpreter,exclusion,Variable,3
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,3
+True,app_type,exclusion,Variable,3

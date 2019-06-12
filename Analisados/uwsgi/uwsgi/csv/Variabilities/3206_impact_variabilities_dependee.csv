@@ -1,0 +1,17 @@
+True,uwsgi_strncmp,additon,Function,7
+True,filename,additon,Variable,7
+True,uwsgi_strncopy,additon,Function,7
+True,uwsgi_startswith,additon,Function,7
+True,uwsgi_pythonize,exclusion,Function,7
+True,uwsgi_concat,additon,Function,7
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,7
+def(UWSGI_IPV6),uwsgi_concat4,additon,Function,7
+def(UWSGI_IPV6),uwsgi_concat2,additon,Function,7
+def(UWSGI_UDP),bind_to_udp,parameter,Function,7
+def(UWSGI_EMBEDDED),up,additon,Variable,7
+True,uwsgi_concat3,additon,Function,7
+True,uwsgi_concat2,additon,Function,7
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,7
+def(__linux__),get_linux_tcp_info,parameter,Function,7
+True,uwsgi_sock,additon,Variable,7
+True,uwsgi_router_access,parameter,Function,7

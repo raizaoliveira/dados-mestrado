@@ -1,0 +1,5 @@
+def(WIN32),read,qualifier,Function,3
+True,eap,exclusion,Variable,3
+def(_WIN32),strerror_win32,qualifier,Function,3
+def(WIN32),close,exclusion,Function,3
+def(WIN32),write,qualifier,Function,3

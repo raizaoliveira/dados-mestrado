@@ -1,0 +1,11 @@
+True,uwsgi_pipe,exclusion,Function,4
+def(UWSGI_UDP),bind_to_udp,parameter,Function,4
+True,uwsgi_buffer_append,additon,Function,4
+True,uwsgi_connect,exclusion,Function,4
+def(__linux__),get_linux_tcp_info,parameter,Function,4
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,4
+True,uwsgi_buffer_destroy,additon,Function,4
+True,uwsgi_send_message,exclusion,Function,4
+True,uwsgi_router_access,parameter,Function,4
+True,uwsgi_buffer_new,additon,Function,4
+True,uwsgi_concat2,parameter,Function,4

@@ -1,0 +1,2 @@
+!def(HAVE_STRLCAT),strlcat,exclusion,Function,2
+!def(HAVE_STRLCPY),strlcpy,exclusion,Function,2

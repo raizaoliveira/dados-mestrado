@@ -1,0 +1,17 @@
+memset;True;True;True;True; @ main;main;main;main;
+strcpy;True;True; @ main;main;
+socket;True;True; @ main;main;
+perror;True;True;True;True;True; @ main;main;main;main;main;
+exit;True;True;True;True;True; @ main;main;main;main;main;
+connect;True;True; @ main;main;
+__p__environ;True;True; @ main;main;
+strchr;True;True; @ main;main;
+memcpy;True;True;True;True;True;True;True;True;True;True; @ main;main;main;main;main;main;main;main;main;main;
+strlen;True;True; @ main;main;
+send;True;True;True;True; @ main;main;main;main;
+getenv;True; @ main;
+atoi;True; @ main;
+read;True;True; @ main;main;
+recv;True;True; @ main;main;
+write;True;True; @ main;main;
+setenv;True; @ main;

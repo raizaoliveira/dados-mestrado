@@ -1,0 +1,4 @@
+def(__BIG_ENDIAN__),True
+def(UWSGI_ASYNC),True
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_LDAP),True

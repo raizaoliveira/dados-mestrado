@@ -1,0 +1,11 @@
+True,manage_string_opt,exclusion,Function,5
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,5
+True,uwsgi_log,additon,Function,5
+True,len,exclusion,Variable,5
+def(UWSGI_UDP),manage_string_opt,additon,Function,5
+True,fd,exclusion,Variable,5
+True,http_manage_subscription,parameter,Function,5
+True,uwsgi_hooked_parse_dict_dgram,additon,Function,5
+True,wsgi_req,additon,Variable,5
+True,cache_command,parameter,Function,5
+def(UWSGI_SENDFILE),uwsgi_sendfile,additon,Function,5

@@ -1,0 +1,8 @@
+Encode,1,function
+WaitressSplitUrl,1,function
+WaitressFetchBuf,1,function
+WaitressFree,1,function
+main,1,function
+WaitressErrorToStr,1,function
+WaitressInit,1,function
+WaitressSetUrl,1,function

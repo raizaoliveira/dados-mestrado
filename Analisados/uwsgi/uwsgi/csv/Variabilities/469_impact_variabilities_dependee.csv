@@ -1,0 +1,7 @@
+True,uwsgi_do_sendfile,additon,Function,3
+True,args,exclusion,Variable,3
+True,wsgi_req,additon,Variable,3
+True,uwsgi_log,additon,Function,3
+True,callable,exclusion,Variable,3
+True,uwsgi_sendfile,exclusion,Function,3
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,3

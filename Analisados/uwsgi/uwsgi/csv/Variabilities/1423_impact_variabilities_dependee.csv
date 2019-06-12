@@ -1,0 +1,6 @@
+True,uwsgi_gevent_switch,additon,Variable,3
+True,uwsgi_gevent_switch_args,additon,Variable,3
+True,uwsgi_greenlet_args,additon,Variable,3
+True,gevent_current_args,additon,Variable,3
+True,uwsgi_gevent_spawn,additon,Variable,3
+True,gevent_current,additon,Variable,3

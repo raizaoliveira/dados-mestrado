@@ -1,0 +1,2 @@
+def(UWSGI_UDP),bind_to_udp,exclusion,Function,2
+True,uwsgi_to_http,additon,Function,2

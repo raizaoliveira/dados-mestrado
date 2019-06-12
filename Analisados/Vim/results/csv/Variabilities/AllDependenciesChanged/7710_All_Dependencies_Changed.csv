@@ -1,0 +1,5 @@
+True,def(WSDEBUG_TRACE)
+True,def(WSDEBUG_SENSE)
+def(WSDEBUG),True
+True,def(WSDEBUG)
+def(WSDEBUG_TRACE),True

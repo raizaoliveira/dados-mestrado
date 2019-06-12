@@ -1,0 +1,5 @@
+True,(def(__sun__)&def(__BIG_ENDIAN__))
+True,def(__BIG_ENDIAN__)
+def(__BIG_ENDIAN__),True
+True,!def(NGX_HAVE_LITTLE_ENDIAN)
+True,(!def(__sun__)&def(__BIG_ENDIAN__))

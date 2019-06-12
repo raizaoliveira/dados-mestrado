@@ -1,0 +1,12 @@
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_SCTP),def(UWSGI_EVENT_USE_KQUEUE)
+def(UWSGI_UDP),True
+True,!def(UWSGI_SCTP)
+def(UWSGI_SCTP),True
+def(__HAIKU__),True
+True,def(UWSGI_SCTP)
+True,def(__BIG_ENDIAN__)
+def(__BIG_ENDIAN__),True
+True,def(UWSGI_EVENT_USE_KQUEUE)
+!def(UWSGI_PYPY),!def(PYTHREE)
+!def(__HAIKU__),True

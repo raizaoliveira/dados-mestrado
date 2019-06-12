@@ -1,0 +1,16 @@
+!def(FEAT_MBYTE),def(FEAT_MBYTE)
+True,!def(RISCOS)
+True,def(FEAT_MBYTE)
+def(FEAT_MBYTE),True
+!def(FEAT_BEVAL),True
+def(FEAT_GUI),True
+True,!def(FEAT_BEVAL)
+!def(RISCOS),True
+def(FEAT_FKMAP),True
+!def(EBCDIC),True
+def(EBCDIC),True
+(!def(FEAT_BEVAL)&def(WSDEBUG_SENSE)),True
+!def(FEAT_MBYTE),True
+True,def(NBDEBUG)
+(!def(FEAT_BEVAL)&def(WSDEBUG_TRACE)),True
+!def(NO_CONSOLE),True

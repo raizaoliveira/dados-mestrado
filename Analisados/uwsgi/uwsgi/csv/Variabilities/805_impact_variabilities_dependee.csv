@@ -1,0 +1,5 @@
+True,optarg,additon,Variable,2
+True,i,additon,Variable,2
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,2
+True,cache_command,parameter,Function,2
+True,argv,additon,Variable,2

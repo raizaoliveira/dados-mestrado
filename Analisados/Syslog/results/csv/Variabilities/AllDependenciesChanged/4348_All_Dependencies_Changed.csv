@@ -1,0 +1,4 @@
+!def(PCRE_NEWLINE_ANYCRLF),True
+True,!def(SYSLOG_NG_HAVE_INET_ATON)
+True,def(SYSLOG_NG_HAVE_UTMPX_H)
+def(__linux__),True

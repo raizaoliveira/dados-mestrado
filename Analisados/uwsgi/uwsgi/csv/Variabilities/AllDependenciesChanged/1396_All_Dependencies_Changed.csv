@@ -1,0 +1,2 @@
+True,!def(PYTHREE)
+True,(!def(UWSGI_SENDFILE)&!def(UWSGI_ASYNC))

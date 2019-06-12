@@ -1,0 +1,6 @@
+!def(UNBIT),True
+(def(UWSGI_UDP)&!def(UNBIT)),True
+def(UWSGI_SENDFILE),True
+(!def(UWSGI_UDP)&!def(UNBIT)&(!def(UWSGI_UDP)|def(UNBIT))),True
+def(UWSGI_UDP),True
+True,def(UWSGI_EMBEDDED)

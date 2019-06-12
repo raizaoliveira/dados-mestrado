@@ -1,0 +1,10 @@
+True,ustrlen,exclusion,Variable,4
+def(__linux__),get_linux_tcp_info,parameter,Function,4
+def(UWSGI_SSL),new_buf,exclusion,Variable,4
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,4
+True,ssb,exclusion,Variable,4
+def(UWSGI_SSL),signature_len,exclusion,Variable,4
+True,uwsgi_router_access,parameter,Function,4
+def(UWSGI_SSL),uwsgi_add_subscribe_node,additon,Function,4
+def(UWSGI_UDP),bind_to_udp,parameter,Function,4
+True,subscrbuf,exclusion,Variable,4

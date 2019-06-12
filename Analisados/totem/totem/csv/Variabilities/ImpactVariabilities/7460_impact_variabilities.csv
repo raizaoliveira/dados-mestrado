@@ -1,0 +1,6 @@
+def(__linux__),
+def(WITH_SMCLIENT),
+def(ENABLE_MISSING_PLUGIN_INSTALLATION),
+True,
+def(HAVE_HAL_0_5),
+!def(TOTEM_PL_PARSER_MINI),

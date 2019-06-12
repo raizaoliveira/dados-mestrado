@@ -1,0 +1,5 @@
+def(UWSGI_PROXY),(def(__linux__)&def(UWSGI_ASYNC))
+(def(__linux__)&def(UWSGI_ASYNC)),(def(UWSGI_ASYNC)&!def(__linux__))
+True,def(UWSGI_PASTE)
+True,def(__BIG_ENDIAN__)
+def(UWSGI_PROXY),(def(UWSGI_ASYNC)&!def(__linux__))

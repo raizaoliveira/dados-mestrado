@@ -1,0 +1,3 @@
+(def(UWSGI_SNMP)&!def(__BIG_ENDIAN__)&(!def(__BIG_ENDIAN__)|!def(UWSGI_SNMP))),def(UWSGI_SNMP)
+(def(__BIG_ENDIAN__)&def(UWSGI_SNMP)),def(UWSGI_SNMP)
+True,def(__BIG_ENDIAN__)

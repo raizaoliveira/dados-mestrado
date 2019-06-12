@@ -1,0 +1,9 @@
+True,get_uwsgi_pydict,additon,Function,4
+True,uwsgi_log,additon,Function,4
+def(UWSGI_PASTE),uwsgi_paste_loader,parameter,Function,4
+def(UWSGI_EMBEDDED),up,additon,Variable,4
+True,argv,exclusion,Variable,4
+True,environ,exclusion,Variable,4
+True,async_id,exclusion,Variable,4
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,4
+True,wsgi_req,exclusion,Variable,4

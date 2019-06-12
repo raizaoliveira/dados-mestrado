@@ -1,0 +1,5 @@
+!def(HAVE_STRLCPY),
+!def(HAVE_STRLCAT),
+True,
+def(USE_PCRE_JIT),
+def(AG_DEBUG),

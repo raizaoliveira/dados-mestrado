@@ -1,0 +1,6 @@
+def(UWSGI_UDP),True
+def(UWSGI_ASYNC),True
+def(UWSGI_ROUTING),True
+True,def(UWSGI_YAML)
+def(__BIG_ENDIAN__),True
+True,def(UWSGI_EMBEDDED)

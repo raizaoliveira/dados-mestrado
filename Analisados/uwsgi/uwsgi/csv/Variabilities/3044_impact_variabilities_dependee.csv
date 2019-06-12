@@ -1,0 +1,12 @@
+def(UWSGI_SENDFILE),uwsgi_sendfile,exclusion,Function,7
+!def(UWSGI_PYPY),python_call,additon,Function,7
+True,ur,additon,Variable,7
+def(UWSGI_UDP),bind_to_udp,parameter,Function,7
+def(__linux__),get_linux_tcp_info,parameter,Function,7
+True,uwsgi_response_prepare_headers,additon,Function,7
+True,uwsgi_response_sendfile_do,additon,Function,7
+True,uwsgi_response_add_header,additon,Function,7
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,7
+True,uwsgi_response_write_body_do,additon,Function,7
+True,uwsgi_router_access,parameter,Function,7
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,7

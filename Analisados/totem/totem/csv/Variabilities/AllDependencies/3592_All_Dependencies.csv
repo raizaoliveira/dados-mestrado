@@ -1,0 +1,15 @@
+True,def(__linux__)
+!def(HAVE_X86),True
+def(HAVE_HAL),True
+True,def(HAVE_HAL_0_5)
+True,!def(XShmGetEventBase)
+True,!def(HAVE_GTK_ONLY)
+def(HAVE_X86),True
+def(HAVE_HAL_0_5),!def(HAVE_HAL)
+True,!def(TOTEM_PL_PARSER_MINI)
+!def(TOTEM_PL_PARSER_MINI),True
+True,def(HAVE_HAL)
+True,def(HAVE_HAL_0_2)
+True,def(THUMB_DEBUG)
+True,def(HAVE_X86)
+def(HAVE_HAL),def(HAVE_HAL_0_2)

@@ -1,0 +1,13 @@
+True,value,exclusion,Variable,3
+True,lineno,exclusion,Variable,3
+True,markId,exclusion,Variable,3
+True,on,exclusion,Variable,3
+True,delay,exclusion,Variable,3
+True,name,additon,Variable,3
+True,verb,additon,Variable,3
+True,line,exclusion,Variable,3
+True,label,additon,Variable,3
+True,filepos,additon,Variable,3
+True,accText,additon,Variable,3
+True,vimShell,exclusion,Variable,3
+True,message,exclusion,Variable,3

@@ -1,0 +1,7 @@
+True,i,exclusion,Variable,1
+True,optarg,exclusion,Variable,1
+True,async_id,additon,Variable,1
+True,argv,additon,Variable,1
+True,environ,additon,Variable,1
+True,cache_command,parameter,Function,1
+True,wsgi_req,additon,Variable,1

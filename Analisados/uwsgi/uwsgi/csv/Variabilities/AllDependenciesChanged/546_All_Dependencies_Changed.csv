@@ -1,0 +1,4 @@
+def(__linux__),True
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_WSGI2),True
+def(UWSGI_DEBUG),True

@@ -1,0 +1,10 @@
+True,def(WIN32)
+True,def(WSDEBUG)
+True,!def(FEAT_PROFILE)
+def(INET_SOCKETS),True
+!def(INET_SOCKETS),def(INET_SOCKETS)
+True,def(NBDEBUG)
+!def(FEAT_PROFILE),True
+!def(INET_SOCKETS),True
+def(MAIN),True
+def(WIN32),True

@@ -1,0 +1,2 @@
+def(UWSGI_DEBUG),True
+True,def(UWSGI_DEBUG)

@@ -1,0 +1,10 @@
+True,wsgi_req,additon,Variable,5
+True,uwsgi_swap16,exclusion,Function,5
+True,uwsgi_log,additon,Function,5
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,5
+True,uwsgi_parse_response,exclusion,Function,5
+True,callable,additon,Variable,5
+True,args,additon,Variable,5
+True,uwsgi_concat2,additon,Function,5
+True,uwsgi_log_verbose,exclusion,Function,5
+def(UWSGI_PASTE),uwsgi_paste_loader,parameter,Function,5

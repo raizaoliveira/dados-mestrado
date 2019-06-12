@@ -1,0 +1,4 @@
+!def(HAVE_XTEST),
+!def(XShmGetEventBase),
+def(HAVE_XTEST),
+True,

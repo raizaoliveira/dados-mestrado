@@ -1,0 +1,6 @@
+True,fr_get_hostname,parameter,Function,6
+True,uwsgi_concat3,additon,Function,6
+True,wsgi_req,additon,Variable,6
+True,uwsgi_concat2,additon,Function,6
+!def(UWSGI_PYPY),python_call,additon,Function,6
+def(UWSGI_SCTP),connect_to_sctp,parameter,Function,6

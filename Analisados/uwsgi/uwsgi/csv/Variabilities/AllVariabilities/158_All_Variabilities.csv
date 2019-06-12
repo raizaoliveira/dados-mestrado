@@ -1,0 +1,7 @@
+True,
+def(__sun__),
+(!def(__sun__)&def(__BIG_ENDIAN__)),
+!def(UNBIT),
+!def(NGX_HAVE_LITTLE_ENDIAN),
+def(__BIG_ENDIAN__),
+(def(__sun__)&def(__BIG_ENDIAN__)),

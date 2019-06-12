@@ -1,0 +1,3 @@
+def(UWSGI_SNMP),tlen,type,Variable,3
+True,uwsgi_sendfile,parameter,Function,3
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,3

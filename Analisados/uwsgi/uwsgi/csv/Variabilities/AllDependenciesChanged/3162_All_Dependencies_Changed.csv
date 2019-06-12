@@ -1,0 +1,9 @@
+True,def(__linux__)
+!def(UWSGI_PYPY),True
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_SPOOLER),True
+True,!def(PYTHREE)
+True,def(UWSGI_UDP)
+True,!def(UWSGI_PYPY)
+def(UWSGI_ROUTING),True
+!def(UWSGI_PYPY),def(UWSGI_EMBEDDED)

@@ -1,0 +1,13 @@
+path,1,variable
+error,1,variable
+totem,1,variable
+cache,1,variable
+XShmGetEventBase,1,variable
+device,1,variable
+linux_scan,1,function
+scan_for_video_devices,1,function
+totem_action_error_try_download,1,function
+totem_action_error,1,function
+cd_cache_new_hal_ctx,1,function
+msg,1,variable
+cd_cache_has_medium,1,function

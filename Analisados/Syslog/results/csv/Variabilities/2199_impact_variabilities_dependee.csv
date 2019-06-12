@@ -1,0 +1,2 @@
+def(__linux__),linux_msg_format_init,exclusion,Function,2
+True,kmsg_timeval_diff,exclusion,Function,2

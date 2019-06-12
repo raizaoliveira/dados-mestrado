@@ -1,0 +1,5 @@
+def(UWSGI_UDP),True
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_HTTP),True
+def(UWSGI_LDAP),True
+def(UWSGI_SPOOLER),True

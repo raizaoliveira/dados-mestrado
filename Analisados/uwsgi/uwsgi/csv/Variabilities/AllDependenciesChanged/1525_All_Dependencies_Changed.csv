@@ -1,0 +1,3 @@
+def(__BIG_ENDIAN__),True
+def(__sun__),True
+True,!def(PYTHREE)

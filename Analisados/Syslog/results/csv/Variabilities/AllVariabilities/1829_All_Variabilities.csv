@@ -1,0 +1,8 @@
+def(_AIX),
+def(ENV_LD_LIBRARY_PATH),
+def(__linux__),
+!def(HAVE_GETUTENT),
+def(HAVE_CLOCK_GETTIME),
+True,
+!def(_MSC_VER),
+!def(HAVE_INET_ATON),

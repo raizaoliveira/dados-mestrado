@@ -1,0 +1,17 @@
+True,message,exclusion,Variable,6
+True,argv,additon,Variable,6
+True,filename,exclusion,Variable,6
+True,st,exclusion,Variable,6
+True,fr_get_hostname,exclusion,Function,6
+True,cache_command,exclusion,Function,6
+True,bufferend,exclusion,Variable,6
+True,data,exclusion,Variable,6
+True,argvs,additon,Variable,6
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,6
+True,wsgi_req,exclusion,Variable,6
+True,argc,additon,Variable,6
+True,ptrbuf,exclusion,Variable,6
+True,len,exclusion,Variable,6
+def(UWSGI_SCTP),connect_to_sctp,parameter,Function,6
+True,uwsgi_python_add_item,exclusion,Function,6
+True,host,exclusion,Variable,6

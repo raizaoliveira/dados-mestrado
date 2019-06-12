@@ -1,0 +1,5 @@
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,4
+True,argv,exclusion,Variable,4
+True,fr_get_hostname,parameter,Function,4
+True,uwsgi_log,additon,Function,4
+True,cache_command,parameter,Function,4

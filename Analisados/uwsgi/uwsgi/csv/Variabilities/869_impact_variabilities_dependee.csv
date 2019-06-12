@@ -1,0 +1,13 @@
+True,cache_command,parameter,Function,6
+True,uwsgi_cluster_add_node,additon,Function,6
+True,argv,exclusion,Variable,6
+def(UWSGI_YAML),main,additon,Function,6
+True,http_manage_subscription,parameter,Function,6
+def(UWSGI_UDP),manage_cluster_announce,exclusion,Function,6
+True,environ,additon,Variable,6
+True,uwsgi_malloc,additon,Function,6
+True,uwsgi_get_dgram,additon,Function,6
+True,uwsgi_log,additon,Function,6
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),uwsgi_malloc,exclusion,Function,6
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,6
+True,uwsgi_log_verbose,additon,Function,6

@@ -1,0 +1,16 @@
+True,help,exclusion,Variable,3
+True,lineno,additon,Variable,3
+True,filepos,exclusion,Variable,3
+True,on,additon,Variable,3
+True,senseVerb,exclusion,Variable,3
+True,label,exclusion,Variable,3
+True,name,additon,Variable,3
+True,verb,exclusion,Variable,3
+True,delay,additon,Variable,3
+True,sense,exclusion,Variable,3
+True,vs,additon,Variable,3
+True,file,exclusion,Variable,3
+True,vimShell,exclusion,Variable,3
+True,left,exclusion,Variable,3
+True,filename,exclusion,Variable,3
+True,tip,additon,Variable,3

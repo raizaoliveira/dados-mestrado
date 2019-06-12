@@ -1,0 +1,2 @@
+def(UWSGI_UDP),bind_to_udp,parameter,Function,2
+def(__linux__),cheaper_busyness_algo,additon,Function,2

@@ -1,0 +1,6 @@
+True,def(UWSGI_UDP)
+def(UWSGI_IPV6),True
+True,def(__linux__)
+True,def(UWSGI_SPOOLER)
+!def(UWSGI_PYPY),!def(PYTHREE)
+def(UWSGI_ROUTING),True

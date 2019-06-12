@@ -1,0 +1,15 @@
+True,def(UWSGI_EMBEDDED)
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),def(__BIG_ENDIAN__)
+True,def(UWSGI_DEBUG)
+(!def(PYTHREE)&def(UWSGI_INI)),True
+def(UWSGI_DEBUG),True
+def(UWSGI_UDP),True
+def(UWSGI_SPOOLER),def(UWSGI_EMBEDDED)
+def(UWSGI_UDP),def(__BIG_ENDIAN__)
+def(UWSGI_ASYNC),True
+def(__BIG_ENDIAN__),def(UWSGI_EMBEDDED)
+!def(__linux__),True
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),True
+True,def(__BIG_ENDIAN__)
+def(UWSGI_SPOOLER),(def(__BIG_ENDIAN__)&def(UWSGI_SPOOLER))
+def(__BIG_ENDIAN__),True

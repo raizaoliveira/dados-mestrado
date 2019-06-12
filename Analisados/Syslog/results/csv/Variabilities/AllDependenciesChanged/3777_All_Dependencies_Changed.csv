@@ -1,0 +1,2 @@
+True,!def(PCRE_NEWLINE_ANYCRLF)
+def(__linux__),True

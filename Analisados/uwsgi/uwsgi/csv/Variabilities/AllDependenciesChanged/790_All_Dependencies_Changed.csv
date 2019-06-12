@@ -1,0 +1,3 @@
+def(UWSGI_ROUTING),True
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),True
+True,def(UWSGI_EMBEDDED)

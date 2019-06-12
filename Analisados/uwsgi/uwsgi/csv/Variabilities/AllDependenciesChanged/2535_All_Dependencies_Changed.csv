@@ -1,0 +1,4 @@
+def(__BIG_ENDIAN__),True
+True,def(UWSGI_PCRE)
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_PCRE),True

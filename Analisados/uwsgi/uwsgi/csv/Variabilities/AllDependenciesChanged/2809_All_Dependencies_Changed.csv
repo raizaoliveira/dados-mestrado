@@ -1,0 +1,3 @@
+True,def(UWSGI_UDP)
+def(UWSGI_ROUTING),True
+True,def(__linux__)

@@ -1,0 +1,6 @@
+True,msg_event_create,additon,Function,2
+True,is_file_regular,parameter,Function,2
+True,msg_init,additon,Function,2
+True,_init,exclusion,Function,2
+True,msg_event,exclusion,Function,2
+True,testcase,specifier,Function,2

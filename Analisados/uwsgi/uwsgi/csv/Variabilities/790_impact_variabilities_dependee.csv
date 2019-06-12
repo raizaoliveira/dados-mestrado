@@ -1,0 +1,2 @@
+True,argv,exclusion,Variable,2
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,2

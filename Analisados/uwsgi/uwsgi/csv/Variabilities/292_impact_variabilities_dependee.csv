@@ -1,0 +1,6 @@
+True,uwsgi_swap16,additon,Function,3
+def(__BIG_ENDIAN__),uwsgi_parse_response,additon,Function,3
+True,uh,additon,Variable,3
+def(UWSGI_SNMP),tlen,type,Variable,3
+True,buffer,additon,Variable,3
+True,timeout,additon,Variable,3

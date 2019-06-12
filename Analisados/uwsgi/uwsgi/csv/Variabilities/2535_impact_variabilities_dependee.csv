@@ -1,0 +1,12 @@
+True,bufferend,additon,Variable,3
+True,argvs,additon,Variable,3
+True,wsgi_req,additon,Variable,3
+True,argc,additon,Variable,3
+def(UWSGI_PCRE),uwsgi_add_expires,exclusion,Function,3
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,3
+True,mime_type,exclusion,Variable,3
+True,real_filename_len,exclusion,Variable,3
+True,argv,additon,Variable,3
+True,real_filename,exclusion,Variable,3
+True,st,exclusion,Variable,3
+True,ptrbuf,additon,Variable,3

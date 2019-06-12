@@ -1,0 +1,5 @@
+egg_recent_util_get_icon,1,function
+save_pixbuf,1,function
+pixbuf,1,variable
+XShmGetEventBase,1,variable
+load_icon_file,1,function

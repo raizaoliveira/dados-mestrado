@@ -1,0 +1,3 @@
+True,def(__BIG_ENDIAN__)
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),True
+(def(UWSGI_UDP)&!def(UWSGI_MULTICAST)&(!def(UWSGI_MULTICAST)|!def(UWSGI_UDP))),True

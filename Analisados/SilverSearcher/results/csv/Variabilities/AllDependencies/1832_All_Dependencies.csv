@@ -1,0 +1,14 @@
+def(_WIN32),True
+!def(HAVE_REALPATH),!def(HAVE_STRLCPY)
+True,!def(HAVE_VASPRINTF)
+True,!def(HAVE_GETLINE)
+True,def(_WIN32)
+True,!def(HAVE_REALPATH)
+!def(_WIN32),True
+!def(HAVE_STRNDUP),True
+!def(HAVE_GETLINE),!def(HAVE_FGETLN)
+def(HAVE_PLEDGE),True
+!def(HAVE_STRNDUP),!def(HAVE_STRLCPY)
+True,!def(HAVE_STRNDUP)
+def(HAVE_STRNDUP),True
+True,!def(_WIN32)

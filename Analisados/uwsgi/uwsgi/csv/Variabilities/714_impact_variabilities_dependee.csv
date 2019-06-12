@@ -1,0 +1,16 @@
+True,async_id,additon,Variable,3
+True,i,additon,Variable,3
+True,uping,additon,Function,3
+True,argv,exclusion,Variable,3
+True,nagios_poll,additon,Function,3
+True,uh,additon,Variable,3
+True,environ,exclusion,Variable,3
+True,uwsgi_log_verbose,exclusion,Function,3
+True,buffer,additon,Variable,3
+True,uwsgi_log,exclusion,Function,3
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,3
+True,uwsgi_malloc,additon,Function,3
+True,optarg,additon,Variable,3
+True,ping,additon,Function,3
+True,wsgi_req,additon,Variable,3
+True,nagios,additon,Function,3

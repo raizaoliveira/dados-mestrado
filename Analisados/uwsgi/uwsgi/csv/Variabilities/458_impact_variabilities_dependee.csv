@@ -1,0 +1,9 @@
+True,nagios_poll,exclusion,Function,5
+True,wsgi_req,exclusion,Variable,5
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,5
+True,nagios,exclusion,Function,5
+True,uh,exclusion,Variable,5
+True,buffer,exclusion,Variable,5
+def(UWSGI_SPOOLER),spooler,exclusion,Function,5
+True,timeout,exclusion,Variable,5
+True,uwsgi_swap16,additon,Function,5

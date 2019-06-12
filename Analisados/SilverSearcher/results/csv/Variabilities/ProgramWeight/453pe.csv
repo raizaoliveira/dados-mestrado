@@ -1,0 +1,4 @@
+strndup,1,function
+getline,1,function
+strlcat,1,function
+strlcpy,1,function

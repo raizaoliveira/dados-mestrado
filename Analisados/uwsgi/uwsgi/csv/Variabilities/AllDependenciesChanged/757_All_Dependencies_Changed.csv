@@ -1,0 +1,17 @@
+def(__BIG_ENDIAN__),def(UWSGI_UDP)
+def(UWSGI_UDP),True
+def(UWSGI_ASYNC),True
+def(UWSGI_HTTP),True
+True,def(__BIG_ENDIAN__)
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_UDP),def(__BIG_ENDIAN__)
+(def(UWSGI_UDP)&!def(UWSGI_MULTICAST)),def(__BIG_ENDIAN__)
+def(UWSGI_PROXY),True
+def(__BIG_ENDIAN__),True
+def(UWSGI_DEBUG),True
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),True
+True,def(UWSGI_DEBUG)
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),def(__BIG_ENDIAN__)
+def(__linux__),True
+(def(UWSGI_UDP)&!def(UWSGI_MULTICAST)),True
+def(__BIG_ENDIAN__),def(UWSGI_EMBEDDED)

@@ -1,0 +1,2 @@
+def(WSDEBUG_TRACE),True
+!def(RISCOS),True

@@ -1,0 +1,6 @@
+buf,1,variable
+test_timezone,1,function
+inet_aton,1,function
+endutent,1,function
+testcase,1,function
+getutent,1,function

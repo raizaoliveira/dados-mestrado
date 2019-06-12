@@ -1,0 +1,17 @@
+nb_debug,1,variable
+mch_write,1,function
+sign,1,variable
+vs,1,variable
+gui,1,variable
+qf_guess_filepath,1,function
+mch_getperm,1,function
+fname,1,function
+fixAccelText,1,function
+label,1,variable
+inputHandler,1,variable
+workshop_submenu_begin,1,function
+sd,1,variable
+fixup,1,function
+p,1,variable
+nb_dlevel,1,variable
+fn,1,function

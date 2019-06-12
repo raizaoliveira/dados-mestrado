@@ -1,0 +1,5 @@
+!def(_AIX),True
+def(_AIX),True
+def(__linux__),True
+True,!def(SYSLOG_NG_HAVE_INET_ATON)
+!def(PCRE_NEWLINE_ANYCRLF),True

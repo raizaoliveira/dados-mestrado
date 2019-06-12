@@ -1,0 +1,3 @@
+True,alarm_set,exclusion,Function,1
+True,alarm_cancel,exclusion,Function,1
+True,alarm_has_fired,exclusion,Function,1

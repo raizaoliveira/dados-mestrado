@@ -1,0 +1,6 @@
+!def(PROTO),
+def(FEAT_TOOLBAR),
+def(PROTO),
+!def(FEAT_GUI_GTK),
+def(FEAT_BEVAL),
+True,

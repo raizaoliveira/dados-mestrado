@@ -1,0 +1,2 @@
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,3
+def(UWSGI_UDP),bind_to_udp,parameter,Function,3

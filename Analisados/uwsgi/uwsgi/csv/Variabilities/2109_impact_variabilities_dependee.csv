@@ -1,0 +1,5 @@
+def(UWSGI_SCTP),connect_to_sctp,parameter,Function,4
+True,fr_get_hostname,parameter,Function,4
+True,rb_erase,additon,Function,4
+True,uwsgi_log,additon,Function,4
+True,uwsgi_add_rb_timer,additon,Function,4

@@ -1,0 +1,5 @@
+opendir;True; @ main;
+readdir;True; @ main;
+puts;True; @ main;
+closedir;True; @ main;
+perror;True; @ main;

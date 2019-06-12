@@ -1,0 +1,6 @@
+True,uwsgi_concat2,additon,Function,2
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,2
+True,callable,additon,Variable,2
+True,args,additon,Variable,2
+True,uwsgi_concat,additon,Function,2
+True,wsgi_req,additon,Variable,2

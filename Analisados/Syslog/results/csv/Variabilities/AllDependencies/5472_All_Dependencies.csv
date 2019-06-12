@@ -1,0 +1,14 @@
+True,!def(SYSLOG_NG_HAVE_SSL_CTX_GET0_PARAM)
+True,def(SYSLOG_NG_HAVE_UTMPX_H)
+def(__linux__),True
+True,!def(JSON_C_VERSION)
+True,def(JSON_C_VERSION)
+!def(_AIX),True
+True,def(__linux__)
+True,!def(PCRE_NEWLINE_ANYCRLF)
+!def(PCRE_NEWLINE_ANYCRLF),True
+True,def(_AIX)
+!def(SYSLOG_NG_HAVE_UTMPX_H),True
+True,!def(SYSLOG_NG_HAVE_STRCASESTR)
+def(_AIX),True
+True,!def(SYSLOG_NG_HAVE_INET_ATON)

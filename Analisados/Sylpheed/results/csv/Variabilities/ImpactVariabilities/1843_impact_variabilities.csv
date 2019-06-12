@@ -1,0 +1,7 @@
+True,
+!def(HAVE_STRLCPY),
+!def(HAVE_VASPRINTF),
+!def(HAVE_REALPATH),
+!def(HAVE_GETLINE),
+def(_WIN32),
+!def(HAVE_FGETLN),

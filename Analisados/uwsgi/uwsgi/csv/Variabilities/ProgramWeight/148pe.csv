@@ -1,0 +1,6 @@
+spool_request,1,function
+spooler,1,function
+ngx_http_uwsgi_create_request,1,function
+uwsgi,1,variable
+uwsgi_swap16,1,function
+spool_buffer,1,variable

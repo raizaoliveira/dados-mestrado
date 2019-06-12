@@ -1,0 +1,2 @@
+True,!def(HAVE_INET_ATON)
+!def(HAVE_UTMPX_H),True

@@ -1,0 +1,3 @@
+def(UWSGI_WSGI2),True
+True,!def(NGX_HAVE_LITTLE_ENDIAN)
+True,def(UWSGI_EMBEDDED)

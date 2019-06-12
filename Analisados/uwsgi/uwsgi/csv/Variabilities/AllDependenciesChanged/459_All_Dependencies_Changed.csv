@@ -1,0 +1,2 @@
+def(UWSGI_SENDFILE),True
+def(UWSGI_WSGI2),True

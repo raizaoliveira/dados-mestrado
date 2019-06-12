@@ -1,0 +1,5 @@
+def(UWSGI_EMBEDDED),True
+def(UWSGI_ELF),True
+True,def(UWSGI_UDP)
+True,def(__linux__)
+def(UWSGI_ROUTING),True

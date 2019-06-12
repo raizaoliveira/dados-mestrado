@@ -1,0 +1,13 @@
+True,uwsgi_hooked_parse_dict_dgram,additon,Function,4
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,4
+True,wsgi_req,additon,Variable,4
+True,cache_command,parameter,Function,4
+True,uwsgi_swap16,exclusion,Function,4
+True,manage_string_opt,additon,Function,4
+def(UWSGI_UDP),manage_string_opt,additon,Function,4
+True,fd,exclusion,Variable,4
+True,uwsgi_log,exclusion,Function,4
+True,argc,additon,Variable,4
+True,uwsgi_parse_response,additon,Function,4
+True,len,exclusion,Variable,4
+True,argv,additon,Variable,4

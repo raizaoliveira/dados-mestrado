@@ -1,0 +1,5 @@
+!def(PROTO),
+def(FEAT_RIGHTLEFT),
+True,
+def(FEAT_BEVAL),
+def(FEAT_MBYTE),

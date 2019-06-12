@@ -1,0 +1,5 @@
+True,endutent,exclusion,Function,2
+True,testcase,parameter,Function,2
+!def(HAVE_INET_ATON),inet_aton,exclusion,Function,2
+True,getutent,additon,Function,2
+True,msg_init,exclusion,Function,2

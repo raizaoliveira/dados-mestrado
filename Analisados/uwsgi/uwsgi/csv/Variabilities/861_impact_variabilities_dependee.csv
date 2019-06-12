@@ -1,0 +1,15 @@
+True,http_manage_subscription,parameter,Function,2
+True,argv,additon,Variable,2
+True,ping,additon,Function,2
+True,argc,additon,Variable,2
+True,nagios_poll,additon,Function,2
+True,uwsgi_ping_node,exclusion,Function,2
+True,upoll,additon,Variable,2
+True,timeout,additon,Variable,2
+True,uping,additon,Function,2
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,2
+True,wsgi_req,additon,Variable,2
+True,cache_command,parameter,Function,2
+True,uh,additon,Variable,2
+True,nagios,additon,Function,2
+True,buffer,additon,Variable,2

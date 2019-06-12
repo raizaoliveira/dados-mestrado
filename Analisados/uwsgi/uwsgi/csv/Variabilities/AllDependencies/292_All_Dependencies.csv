@@ -1,0 +1,10 @@
+True,def(__BIG_ENDIAN__)
+True,!def(NGX_HAVE_LITTLE_ENDIAN)
+def(UWSGI_SPOOLER),True
+!def(NGX_HAVE_LITTLE_ENDIAN),True
+def(__BIG_ENDIAN__),True
+def(UWSGI_SPOOLER),(def(__BIG_ENDIAN__)&def(UWSGI_SPOOLER))
+(def(UWSGI_SNMP)&!def(__BIG_ENDIAN__)&(!def(__BIG_ENDIAN__)|!def(UWSGI_SNMP))),def(UWSGI_SNMP)
+(def(__linux__)&def(UWSGI_PROXY)),def(UWSGI_PROXY)
+(def(__BIG_ENDIAN__)&def(UWSGI_SPOOLER)),True
+(def(__BIG_ENDIAN__)&def(UWSGI_SNMP)),def(UWSGI_SNMP)

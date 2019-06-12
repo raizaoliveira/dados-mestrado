@@ -1,0 +1,6 @@
+True,def(__linux__)
+!def(HAVE_INET_ATON),True
+True,def(HAVE_CLOCK_GETTIME)
+True,!def(HAVE_INET_ATON)
+def(__linux__),True
+!def(HAVE_UTMPX_H),True

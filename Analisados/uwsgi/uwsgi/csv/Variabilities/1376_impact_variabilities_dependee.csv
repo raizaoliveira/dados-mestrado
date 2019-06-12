@@ -1,0 +1,7 @@
+True,uwsgi_malloc,additon,Function,4
+True,uwsgi_swap16,additon,Function,4
+True,uwsgi_close_all_sockets,additon,Function,4
+True,end_me,additon,Function,4
+True,is_a_number,additon,Function,4
+True,uwsgi_log,additon,Function,4
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,4

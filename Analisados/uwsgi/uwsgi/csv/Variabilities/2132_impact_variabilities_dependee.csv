@@ -1,0 +1,3 @@
+True,fr_get_hostname,parameter,Function,4
+def(UWSGI_SCTP),connect_to_sctp,parameter,Function,4
+True,uwsgi_log,additon,Function,4

@@ -1,0 +1,4 @@
+!def(HAVE_GETLINE),
+True,
+!def(HAVE_STRLCPY),
+!def(HAVE_STRLCAT),

@@ -1,0 +1,12 @@
+True,severity,additon,Variable,3
+True,verb,additon,Variable,3
+True,vimShell,additon,Variable,3
+True,line,additon,Variable,3
+True,wstrace,additon,Function,3
+True,message,additon,Variable,3
+True,frameid,additon,Variable,3
+True,markId,additon,Variable,3
+True,wsdebug,additon,Function,3
+True,name,additon,Variable,3
+True,filepos,additon,Variable,3
+True,label,additon,Variable,3

@@ -1,0 +1,4 @@
+!def(USE_STABLE_LIBGNOMEUI),
+True,
+def(__linux__),
+def(HAVE_X86),

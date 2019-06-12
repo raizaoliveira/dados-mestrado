@@ -1,0 +1,8 @@
+True,message,exclusion,Variable,2
+True,vimShell,additon,Variable,2
+True,line,exclusion,Variable,2
+True,filename,exclusion,Variable,2
+True,on,exclusion,Variable,2
+True,name,exclusion,Variable,2
+True,markId,exclusion,Variable,2
+True,severity,exclusion,Variable,2

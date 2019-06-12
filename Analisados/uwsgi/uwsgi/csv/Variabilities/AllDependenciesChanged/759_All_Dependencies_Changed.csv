@@ -1,0 +1,7 @@
+def(UWSGI_EMBEDDED),True
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_ASYNC),True
+def(PYTHREE),True
+True,def(UWSGI_DEBUG)
+def(UWSGI_UDP),True
+True,def(UWSGI_PASTE)

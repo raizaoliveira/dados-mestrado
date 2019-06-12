@@ -1,0 +1,13 @@
+def(__linux__),True
+def(HAVE_GETUTXENT),True
+def(HAVE_UTMPX_H),!def(HAVE_GETUTXENT)
+!def(HAVE_GETUTXENT),True
+def(HAVE_UTMPX_H),True
+True,!def(HAVE_GETUTXENT)
+True,def(__linux__)
+True,def(HAVE_GETUTXENT)
+!def(HAVE_UTMPX_H),True
+True,!def(HAVE_INET_ATON)
+def(HAVE_GETUTXENT),!def(HAVE_GETUTXENT)
+!def(HAVE_UTMPX_H),!def(HAVE_GETUTXENT)
+True,def(HAVE_CLOCK_GETTIME)

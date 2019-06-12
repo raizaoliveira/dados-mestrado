@@ -1,0 +1,4 @@
+XShmGetEventBase,1,variable
+load_icon_file,1,function
+egg_recent_util_get_icon,1,function
+pixbuf,1,variable

@@ -1,0 +1,12 @@
+True,socket_name,exclusion,Variable,3
+True,uwsgi_router_access,parameter,Function,3
+True,modifier2,exclusion,Variable,3
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,3
+True,keysize,exclusion,Variable,3
+True,udp_address,exclusion,Variable,3
+True,sign,exclusion,Variable,3
+True,modifier1,exclusion,Variable,3
+True,cmd,exclusion,Variable,3
+def(__linux__),get_linux_tcp_info,parameter,Function,3
+True,key,exclusion,Variable,3
+def(UWSGI_UDP),bind_to_udp,parameter,Function,3

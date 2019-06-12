@@ -1,0 +1,4 @@
+def(__BIG_ENDIAN__),True
+!def(UWSGI_PYPY),!def(PYTHREE)
+True,def(__BIG_ENDIAN__)
+def(UWSGI_SSL),True

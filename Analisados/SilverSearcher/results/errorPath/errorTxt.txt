@@ -1,0 +1,4572 @@
+
+Analysis number: 1
+
+Analysis number: 2
+
+Analysis number: 3
+
+Analysis number: 4
+
+Analysis number: 5
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 6
+
+Analysis number: 7
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 8
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 9
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 10
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 11
+
+Analysis number: 12
+
+Analysis number: 13
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 14
+
+Analysis number: 15
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 16
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 17
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 18
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 19
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 20
+
+Analysis number: 21
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 22
+
+Analysis number: 23
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 24
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 25
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 26
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 27
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 28
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 29
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 30
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 31
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 32
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 33
+
+Analysis number: 34
+
+Analysis number: 35
+
+Analysis number: 36
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 37
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 38
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 39
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 40
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 41
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 42
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 43
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 44
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 45
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+null
+
+Analysis number: 46
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+Duplicate short option D with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+Duplicate short option E with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 47
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+null
+
+Analysis number: 48
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+Duplicate short option I with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 49
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+null
+
+Analysis number: 50
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 51
+
+Analysis number: 52
+
+Analysis number: 53
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+null
+
+Analysis number: 54
+
+Analysis number: 55
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 56
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+Duplicate short option P with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 57
+
+Analysis number: 58
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 59
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\options.c
+Duplicate short option U with systemIncludes
+
+Analysis number: 60
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+Duplicate short option W with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 61
+
+Analysis number: 62
+
+Analysis number: 63
+
+Analysis number: 64
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+null
+
+Analysis number: 65
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 66
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 67
+
+Analysis number: 68
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 69
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 70
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 71
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+Duplicate short option c with settingsFile
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 72
+
+Analysis number: 73
+
+Analysis number: 74
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 75
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+Duplicate short option h with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 76
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 77
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 78
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 79
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+Duplicate short option o with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+Duplicate short option p with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 80
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+Duplicate short option r with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\options.c
+Duplicate short option t with systemIncludes
+
+Analysis number: 81
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+Duplicate short option v with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+Duplicate short option w with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+Duplicate short option x with systemIncludes
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 82
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 83
+
+Analysis number: 84
+
+Analysis number: 85
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 86
+
+Analysis number: 87
+
+Analysis number: 88
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 89
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+null
+
+Analysis number: 90
+
+Analysis number: 91
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 92
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 93
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 94
+
+Analysis number: 95
+
+Analysis number: 96
+
+Analysis number: 97
+
+Analysis number: 98
+
+Analysis number: 99
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 100
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 101
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 102
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 103
+
+Analysis number: 104
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 105
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 106
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 107
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 108
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 109
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 110
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 111
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 112
+
+Analysis number: 113
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 114
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 115
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 116
+
+Analysis number: 117
+
+Analysis number: 118
+
+Analysis number: 119
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 120
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 121
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 122
+
+Analysis number: 123
+
+Analysis number: 124
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 125
+
+Analysis number: 126
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 127
+
+Analysis number: 128
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 129
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 130
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 131
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 132
+
+Analysis number: 133
+
+Analysis number: 134
+
+Analysis number: 135
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 136
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 137
+
+Analysis number: 138
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 139
+
+Analysis number: 140
+
+Analysis number: 141
+
+Analysis number: 142
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 143
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\ignore.c
+null
+
+Analysis number: 144
+
+Analysis number: 145
+
+Analysis number: 146
+
+Analysis number: 147
+
+Analysis number: 148
+
+Analysis number: 149
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 150
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 151
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 152
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 153
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 154
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 155
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 156
+
+Analysis number: 157
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 158
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 159
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 160
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 161
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 162
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 163
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 164
+
+Analysis number: 165
+
+Analysis number: 166
+
+Analysis number: 167
+
+Analysis number: 168
+
+Analysis number: 169
+
+Analysis number: 170
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 171
+
+Analysis number: 172
+
+Analysis number: 173
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 174
+
+Analysis number: 175
+
+Analysis number: 176
+
+Analysis number: 177
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 178
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 179
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 180
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 181
+
+Analysis number: 182
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 183
+
+Analysis number: 184
+
+Analysis number: 185
+
+Analysis number: 186
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 187
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 188
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 189
+
+Analysis number: 190
+
+Analysis number: 191
+
+Analysis number: 192
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 193
+
+Analysis number: 194
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 195
+
+Analysis number: 196
+
+Analysis number: 197
+
+Analysis number: 198
+
+Analysis number: 199
+
+Analysis number: 200
+
+Analysis number: 201
+
+Analysis number: 202
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 203
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 204
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 205
+
+Analysis number: 206
+
+Analysis number: 207
+
+Analysis number: 208
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 209
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 210
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 211
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 212
+
+Analysis number: 213
+
+Analysis number: 214
+
+Analysis number: 215
+
+Analysis number: 216
+
+Analysis number: 217
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 218
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 219
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 220
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 221
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 222
+
+Analysis number: 223
+
+Analysis number: 224
+
+Analysis number: 225
+
+Analysis number: 226
+
+Analysis number: 227
+
+Analysis number: 228
+
+Analysis number: 229
+
+Analysis number: 230
+
+Analysis number: 231
+
+Analysis number: 232
+
+Analysis number: 233
+
+Analysis number: 234
+
+Analysis number: 235
+
+Analysis number: 236
+
+Analysis number: 237
+
+Analysis number: 238
+
+Analysis number: 239
+
+Analysis number: 240
+
+Analysis number: 241
+
+Analysis number: 242
+
+Analysis number: 243
+
+Analysis number: 244
+
+Analysis number: 245
+
+Analysis number: 246
+
+Analysis number: 247
+
+Analysis number: 248
+
+Analysis number: 249
+
+Analysis number: 250
+
+Analysis number: 251
+
+Analysis number: 252
+
+Analysis number: 253
+
+Analysis number: 254
+
+Analysis number: 255
+
+Analysis number: 256
+
+Analysis number: 257
+
+Analysis number: 258
+
+Analysis number: 259
+
+Analysis number: 260
+
+Analysis number: 261
+
+Analysis number: 262
+
+Analysis number: 263
+
+Analysis number: 264
+
+Analysis number: 265
+
+Analysis number: 266
+
+Analysis number: 267
+
+Analysis number: 268
+
+Analysis number: 269
+
+Analysis number: 270
+
+Analysis number: 271
+
+Analysis number: 272
+
+Analysis number: 273
+
+Analysis number: 274
+
+Analysis number: 275
+
+Analysis number: 276
+
+Analysis number: 277
+
+Analysis number: 278
+
+Analysis number: 279
+
+Analysis number: 280
+
+Analysis number: 281
+
+Analysis number: 282
+
+Analysis number: 283
+
+Analysis number: 284
+
+Analysis number: 285
+
+Analysis number: 286
+
+Analysis number: 287
+
+Analysis number: 288
+
+Analysis number: 289
+
+Analysis number: 290
+
+Analysis number: 291
+
+Analysis number: 292
+
+Analysis number: 293
+
+Analysis number: 294
+
+Analysis number: 295
+
+Analysis number: 296
+
+Analysis number: 297
+
+Analysis number: 298
+
+Analysis number: 299
+
+Analysis number: 300
+
+Analysis number: 301
+
+Analysis number: 302
+
+Analysis number: 303
+
+Analysis number: 304
+
+Analysis number: 305
+
+Analysis number: 306
+
+Analysis number: 307
+
+Analysis number: 308
+
+Analysis number: 309
+
+Analysis number: 310
+
+Analysis number: 311
+
+Analysis number: 312
+
+Analysis number: 313
+
+Analysis number: 314
+
+Analysis number: 315
+
+Analysis number: 316
+
+Analysis number: 317
+
+Analysis number: 318
+
+Analysis number: 319
+
+Analysis number: 320
+
+Analysis number: 321
+
+Analysis number: 322
+
+Analysis number: 323
+
+Analysis number: 324
+
+Analysis number: 325
+
+Analysis number: 326
+
+Analysis number: 327
+
+Analysis number: 328
+
+Analysis number: 329
+
+Analysis number: 330
+
+Analysis number: 331
+
+Analysis number: 332
+
+Analysis number: 333
+
+Analysis number: 334
+
+Analysis number: 335
+
+Analysis number: 336
+
+Analysis number: 337
+
+Analysis number: 338
+
+Analysis number: 339
+
+Analysis number: 340
+
+Analysis number: 341
+
+Analysis number: 342
+
+Analysis number: 343
+
+Analysis number: 344
+
+Analysis number: 345
+
+Analysis number: 346
+
+Analysis number: 347
+
+Analysis number: 348
+
+Analysis number: 349
+
+Analysis number: 350
+
+Analysis number: 351
+
+Analysis number: 352
+
+Analysis number: 353
+
+Analysis number: 354
+
+Analysis number: 355
+
+Analysis number: 356
+
+Analysis number: 357
+
+Analysis number: 358
+
+Analysis number: 359
+
+Analysis number: 360
+
+Analysis number: 361
+
+Analysis number: 362
+
+Analysis number: 363
+
+Analysis number: 364
+
+Analysis number: 365
+
+Analysis number: 366
+
+Analysis number: 367
+
+Analysis number: 368
+
+Analysis number: 369
+
+Analysis number: 370
+
+Analysis number: 371
+
+Analysis number: 372
+
+Analysis number: 373
+
+Analysis number: 374
+
+Analysis number: 375
+
+Analysis number: 376
+
+Analysis number: 377
+
+Analysis number: 378
+
+Analysis number: 379
+
+Analysis number: 380
+
+Analysis number: 381
+
+Analysis number: 382
+
+Analysis number: 383
+
+Analysis number: 384
+
+Analysis number: 385
+
+Analysis number: 386
+
+Analysis number: 387
+
+Analysis number: 388
+
+Analysis number: 389
+
+Analysis number: 390
+
+Analysis number: 391
+
+Analysis number: 392
+
+Analysis number: 393
+
+Analysis number: 394
+
+Analysis number: 395
+
+Analysis number: 396
+
+Analysis number: 397
+
+Analysis number: 398
+
+Analysis number: 399
+
+Analysis number: 400
+
+Analysis number: 401
+
+Analysis number: 402
+
+Analysis number: 403
+
+Analysis number: 404
+
+Analysis number: 405
+
+Analysis number: 406
+
+Analysis number: 407
+
+Analysis number: 408
+
+Analysis number: 409
+
+Analysis number: 410
+
+Analysis number: 411
+
+Analysis number: 412
+
+Analysis number: 413
+
+Analysis number: 414
+
+Analysis number: 415
+
+Analysis number: 416
+
+Analysis number: 417
+
+Analysis number: 418
+
+Analysis number: 419
+
+Analysis number: 420
+
+Analysis number: 421
+
+Analysis number: 422
+
+Analysis number: 423
+
+Analysis number: 424
+
+Analysis number: 425
+
+Analysis number: 426
+
+Analysis number: 427
+
+Analysis number: 428
+
+Analysis number: 429
+
+Analysis number: 430
+
+Analysis number: 431
+
+Analysis number: 432
+
+Analysis number: 433
+
+Analysis number: 434
+
+Analysis number: 435
+
+Analysis number: 436
+
+Analysis number: 437
+
+Analysis number: 438
+
+Analysis number: 439
+
+Analysis number: 440
+
+Analysis number: 441
+
+Analysis number: 442
+
+Analysis number: 443
+
+Analysis number: 444
+
+Analysis number: 445
+
+Analysis number: 446
+
+Analysis number: 447
+
+Analysis number: 448
+
+Analysis number: 449
+
+Analysis number: 450
+
+Analysis number: 451
+
+Analysis number: 452
+
+Analysis number: 453
+
+Analysis number: 454
+
+Analysis number: 455
+
+Analysis number: 456
+
+Analysis number: 457
+
+Analysis number: 458
+
+Analysis number: 459
+
+Analysis number: 460
+
+Analysis number: 461
+
+Analysis number: 462
+
+Analysis number: 463
+
+Analysis number: 464
+
+Analysis number: 465
+
+Analysis number: 466
+
+Analysis number: 467
+
+Analysis number: 468
+
+Analysis number: 469
+
+Analysis number: 470
+
+Analysis number: 471
+
+Analysis number: 472
+
+Analysis number: 473
+
+Analysis number: 474
+
+Analysis number: 475
+
+Analysis number: 476
+
+Analysis number: 477
+
+Analysis number: 478
+
+Analysis number: 479
+
+Analysis number: 480
+
+Analysis number: 481
+
+Analysis number: 482
+
+Analysis number: 483
+
+Analysis number: 484
+
+Analysis number: 485
+
+Analysis number: 486
+
+Analysis number: 487
+
+Analysis number: 488
+
+Analysis number: 489
+
+Analysis number: 490
+
+Analysis number: 491
+
+Analysis number: 492
+
+Analysis number: 493
+
+Analysis number: 494
+
+Analysis number: 495
+
+Analysis number: 496
+
+Analysis number: 497
+
+Analysis number: 498
+
+Analysis number: 499
+
+Analysis number: 500
+
+Analysis number: 501
+
+Analysis number: 502
+
+Analysis number: 503
+
+Analysis number: 504
+
+Analysis number: 505
+
+Analysis number: 506
+
+Analysis number: 507
+
+Analysis number: 508
+
+Analysis number: 509
+
+Analysis number: 510
+
+Analysis number: 511
+
+Analysis number: 512
+
+Analysis number: 513
+
+Analysis number: 514
+
+Analysis number: 515
+
+Analysis number: 516
+
+Analysis number: 517
+
+Analysis number: 518
+
+Analysis number: 519
+
+Analysis number: 520
+
+Analysis number: 521
+
+Analysis number: 522
+
+Analysis number: 523
+
+Analysis number: 524
+
+Analysis number: 525
+
+Analysis number: 526
+
+Analysis number: 527
+
+Analysis number: 528
+
+Analysis number: 529
+
+Analysis number: 530
+
+Analysis number: 531
+
+Analysis number: 532
+
+Analysis number: 533
+
+Analysis number: 534
+
+Analysis number: 535
+
+Analysis number: 536
+
+Analysis number: 537
+
+Analysis number: 538
+
+Analysis number: 539
+
+Analysis number: 540
+
+Analysis number: 541
+
+Analysis number: 542
+
+Analysis number: 543
+
+Analysis number: 544
+
+Analysis number: 545
+
+Analysis number: 546
+
+Analysis number: 547
+
+Analysis number: 548
+
+Analysis number: 549
+
+Analysis number: 550
+
+Analysis number: 551
+
+Analysis number: 552
+
+Analysis number: 553
+
+Analysis number: 554
+
+Analysis number: 555
+
+Analysis number: 556
+
+Analysis number: 557
+
+Analysis number: 558
+
+Analysis number: 559
+
+Analysis number: 560
+
+Analysis number: 561
+
+Analysis number: 562
+
+Analysis number: 563
+
+Analysis number: 564
+
+Analysis number: 565
+
+Analysis number: 566
+
+Analysis number: 567
+
+Analysis number: 568
+
+Analysis number: 569
+
+Analysis number: 570
+
+Analysis number: 571
+
+Analysis number: 572
+
+Analysis number: 573
+
+Analysis number: 574
+
+Analysis number: 575
+
+Analysis number: 576
+
+Analysis number: 577
+
+Analysis number: 578
+
+Analysis number: 579
+
+Analysis number: 580
+
+Analysis number: 581
+
+Analysis number: 582
+
+Analysis number: 583
+
+Analysis number: 584
+
+Analysis number: 585
+
+Analysis number: 586
+
+Analysis number: 587
+
+Analysis number: 588
+
+Analysis number: 589
+
+Analysis number: 590
+
+Analysis number: 591
+
+Analysis number: 592
+
+Analysis number: 593
+
+Analysis number: 594
+
+Analysis number: 595
+
+Analysis number: 596
+
+Analysis number: 597
+
+Analysis number: 598
+
+Analysis number: 599
+
+Analysis number: 600
+
+Analysis number: 601
+
+Analysis number: 602
+
+Analysis number: 603
+
+Analysis number: 604
+
+Analysis number: 605
+
+Analysis number: 606
+
+Analysis number: 607
+
+Analysis number: 608
+
+Analysis number: 609
+
+Analysis number: 610
+
+Analysis number: 611
+
+Analysis number: 612
+
+Analysis number: 613
+
+Analysis number: 614
+
+Analysis number: 615
+
+Analysis number: 616
+
+Analysis number: 617
+
+Analysis number: 618
+
+Analysis number: 619
+
+Analysis number: 620
+
+Analysis number: 621
+
+Analysis number: 622
+
+Analysis number: 623
+
+Analysis number: 624
+
+Analysis number: 625
+
+Analysis number: 626
+
+Analysis number: 627
+
+Analysis number: 628
+
+Analysis number: 629
+
+Analysis number: 630
+
+Analysis number: 631
+
+Analysis number: 632
+
+Analysis number: 633
+
+Analysis number: 634
+
+Analysis number: 635
+
+Analysis number: 636
+
+Analysis number: 637
+
+Analysis number: 638
+
+Analysis number: 639
+
+Analysis number: 640
+
+Analysis number: 641
+
+Analysis number: 642
+
+Analysis number: 643
+
+Analysis number: 644
+
+Analysis number: 645
+
+Analysis number: 646
+
+Analysis number: 647
+
+Analysis number: 648
+
+Analysis number: 649
+
+Analysis number: 650
+
+Analysis number: 651
+
+Analysis number: 652
+
+Analysis number: 653
+
+Analysis number: 654
+
+Analysis number: 655
+
+Analysis number: 656
+
+Analysis number: 657
+
+Analysis number: 658
+
+Analysis number: 659
+
+Analysis number: 660
+
+Analysis number: 661
+
+Analysis number: 662
+
+Analysis number: 663
+
+Analysis number: 664
+
+Analysis number: 665
+
+Analysis number: 666
+
+Analysis number: 667
+
+Analysis number: 668
+
+Analysis number: 669
+
+Analysis number: 670
+
+Analysis number: 671
+
+Analysis number: 672
+
+Analysis number: 673
+
+Analysis number: 674
+
+Analysis number: 675
+
+Analysis number: 676
+
+Analysis number: 677
+
+Analysis number: 678
+
+Analysis number: 679
+
+Analysis number: 680
+
+Analysis number: 681
+
+Analysis number: 682
+
+Analysis number: 683
+
+Analysis number: 684
+
+Analysis number: 685
+
+Analysis number: 686
+
+Analysis number: 687
+
+Analysis number: 688
+
+Analysis number: 689
+
+Analysis number: 690
+
+Analysis number: 691
+
+Analysis number: 692
+
+Analysis number: 693
+
+Analysis number: 694
+
+Analysis number: 695
+
+Analysis number: 696
+
+Analysis number: 697
+
+Analysis number: 698
+
+Analysis number: 699
+
+Analysis number: 700
+
+Analysis number: 701
+
+Analysis number: 702
+
+Analysis number: 703
+
+Analysis number: 704
+
+Analysis number: 705
+
+Analysis number: 706
+
+Analysis number: 707
+
+Analysis number: 708
+
+Analysis number: 709
+
+Analysis number: 710
+
+Analysis number: 711
+
+Analysis number: 712
+
+Analysis number: 713
+
+Analysis number: 714
+
+Analysis number: 715
+
+Analysis number: 716
+
+Analysis number: 717
+
+Analysis number: 718
+
+Analysis number: 719
+
+Analysis number: 720
+
+Analysis number: 721
+
+Analysis number: 722
+
+Analysis number: 723
+
+Analysis number: 724
+
+Analysis number: 725
+
+Analysis number: 726
+
+Analysis number: 727
+
+Analysis number: 728
+
+Analysis number: 729
+
+Analysis number: 730
+
+Analysis number: 731
+
+Analysis number: 732
+
+Analysis number: 733
+
+Analysis number: 734
+
+Analysis number: 735
+
+Analysis number: 736
+
+Analysis number: 737
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\scandir.c
+null
+
+Analysis number: 738
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\scandir.c
+null
+
+Analysis number: 739
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\scandir.c
+null
+
+Analysis number: 740
+
+Analysis number: 741
+
+Analysis number: 742
+
+Analysis number: 743
+
+Analysis number: 744
+
+Analysis number: 745
+
+Analysis number: 746
+
+Analysis number: 747
+
+Analysis number: 748
+
+Analysis number: 749
+
+Analysis number: 750
+
+Analysis number: 751
+
+Analysis number: 752
+
+Analysis number: 753
+
+Analysis number: 754
+
+Analysis number: 755
+
+Analysis number: 756
+
+Analysis number: 757
+
+Analysis number: 758
+
+Analysis number: 759
+
+Analysis number: 760
+
+Analysis number: 761
+
+Analysis number: 762
+
+Analysis number: 763
+
+Analysis number: 764
+
+Analysis number: 765
+
+Analysis number: 766
+
+Analysis number: 767
+
+Analysis number: 768
+
+Analysis number: 769
+
+Analysis number: 770
+
+Analysis number: 771
+
+Analysis number: 772
+
+Analysis number: 773
+
+Analysis number: 774
+
+Analysis number: 775
+
+Analysis number: 776
+
+Analysis number: 777
+
+Analysis number: 778
+
+Analysis number: 779
+
+Analysis number: 780
+
+Analysis number: 781
+
+Analysis number: 782
+
+Analysis number: 783
+
+Analysis number: 784
+
+Analysis number: 785
+
+Analysis number: 786
+
+Analysis number: 787
+
+Analysis number: 788
+
+Analysis number: 789
+
+Analysis number: 790
+
+Analysis number: 791
+
+Analysis number: 792
+
+Analysis number: 793
+
+Analysis number: 794
+
+Analysis number: 795
+
+Analysis number: 796
+
+Analysis number: 797
+
+Analysis number: 798
+
+Analysis number: 799
+
+Analysis number: 800
+
+Analysis number: 801
+
+Analysis number: 802
+
+Analysis number: 803
+
+Analysis number: 804
+
+Analysis number: 805
+
+Analysis number: 806
+
+Analysis number: 807
+
+Analysis number: 808
+
+Analysis number: 809
+
+Analysis number: 810
+
+Analysis number: 811
+
+Analysis number: 812
+
+Analysis number: 813
+
+Analysis number: 814
+
+Analysis number: 815
+
+Analysis number: 816
+
+Analysis number: 817
+
+Analysis number: 818
+
+Analysis number: 819
+
+Analysis number: 820
+
+Analysis number: 821
+
+Analysis number: 822
+
+Analysis number: 823
+
+Analysis number: 824
+
+Analysis number: 825
+
+Analysis number: 826
+
+Analysis number: 827
+
+Analysis number: 828
+
+Analysis number: 829
+
+Analysis number: 830
+
+Analysis number: 831
+
+Analysis number: 832
+
+Analysis number: 833
+
+Analysis number: 834
+
+Analysis number: 835
+
+Analysis number: 836
+
+Analysis number: 837
+
+Analysis number: 838
+
+Analysis number: 839
+
+Analysis number: 840
+
+Analysis number: 841
+
+Analysis number: 842
+
+Analysis number: 843
+
+Analysis number: 844
+
+Analysis number: 845
+
+Analysis number: 846
+
+Analysis number: 847
+
+Analysis number: 848
+
+Analysis number: 849
+
+Analysis number: 850
+
+Analysis number: 851
+
+Analysis number: 852
+
+Analysis number: 853
+
+Analysis number: 854
+
+Analysis number: 855
+
+Analysis number: 856
+
+Analysis number: 857
+
+Analysis number: 858
+
+Analysis number: 859
+
+Analysis number: 860
+
+Analysis number: 861
+
+Analysis number: 862
+
+Analysis number: 863
+
+Analysis number: 864
+
+Analysis number: 865
+
+Analysis number: 866
+
+Analysis number: 867
+
+Analysis number: 868
+
+Analysis number: 869
+
+Analysis number: 870
+
+Analysis number: 871
+
+Analysis number: 872
+
+Analysis number: 873
+
+Analysis number: 874
+
+Analysis number: 875
+
+Analysis number: 876
+
+Analysis number: 877
+
+Analysis number: 878
+
+Analysis number: 879
+
+Analysis number: 880
+
+Analysis number: 881
+
+Analysis number: 882
+
+Analysis number: 883
+
+Analysis number: 884
+
+Analysis number: 885
+
+Analysis number: 886
+
+Analysis number: 887
+
+Analysis number: 888
+
+Analysis number: 889
+
+Analysis number: 890
+
+Analysis number: 891
+
+Analysis number: 892
+
+Analysis number: 893
+
+Analysis number: 894
+
+Analysis number: 895
+
+Analysis number: 896
+
+Analysis number: 897
+
+Analysis number: 898
+
+Analysis number: 899
+
+Analysis number: 900
+
+Analysis number: 901
+
+Analysis number: 902
+
+Analysis number: 903
+
+Analysis number: 904
+
+Analysis number: 905
+
+Analysis number: 906
+
+Analysis number: 907
+
+Analysis number: 908
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 909
+
+Analysis number: 910
+
+Analysis number: 911
+
+Analysis number: 912
+
+Analysis number: 913
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 914
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 915
+
+Analysis number: 916
+
+Analysis number: 917
+
+Analysis number: 918
+
+Analysis number: 919
+
+Analysis number: 920
+
+Analysis number: 921
+
+Analysis number: 922
+
+Analysis number: 923
+
+Analysis number: 924
+
+Analysis number: 925
+
+Analysis number: 926
+
+Analysis number: 927
+
+Analysis number: 928
+
+Analysis number: 929
+
+Analysis number: 930
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 931
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 932
+
+Analysis number: 933
+
+Analysis number: 934
+
+Analysis number: 935
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 936
+
+Analysis number: 937
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 938
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 939
+
+Analysis number: 940
+
+Analysis number: 941
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 942
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 943
+
+Analysis number: 944
+
+Analysis number: 945
+
+Analysis number: 946
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 947
+
+Analysis number: 948
+
+Analysis number: 949
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 950
+
+Analysis number: 951
+
+Analysis number: 952
+
+Analysis number: 953
+
+Analysis number: 954
+
+Analysis number: 955
+
+Analysis number: 956
+
+Analysis number: 957
+
+Analysis number: 958
+
+Analysis number: 959
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\scandir.c
+null
+
+Analysis number: 960
+
+Analysis number: 961
+
+Analysis number: 962
+
+Analysis number: 963
+
+Analysis number: 964
+
+Analysis number: 965
+
+Analysis number: 966
+
+Analysis number: 967
+
+Analysis number: 968
+
+Analysis number: 969
+
+Analysis number: 970
+
+Analysis number: 971
+
+Analysis number: 972
+
+Analysis number: 973
+
+Analysis number: 974
+
+Analysis number: 975
+
+Analysis number: 976
+
+Analysis number: 977
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 978
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 979
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 980
+
+Analysis number: 981
+
+Analysis number: 982
+
+Analysis number: 983
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\scandir.c
+null
+
+Analysis number: 984
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\scandir.c
+null
+
+Analysis number: 985
+
+Analysis number: 986
+
+Analysis number: 987
+
+Analysis number: 988
+
+Analysis number: 989
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\scandir.c
+null
+
+Analysis number: 990
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 991
+
+Analysis number: 992
+
+Analysis number: 993
+
+Analysis number: 994
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\scandir.c
+null
+
+Analysis number: 995
+
+Analysis number: 996
+
+Analysis number: 997
+
+Analysis number: 998
+
+Analysis number: 999
+
+Analysis number: 1000
+
+Analysis number: 1001
+
+Analysis number: 1002
+
+Analysis number: 1003
+
+Analysis number: 1004
+
+Analysis number: 1005
+
+Analysis number: 1006
+
+Analysis number: 1007
+
+Analysis number: 1008
+
+Analysis number: 1009
+
+Analysis number: 1010
+
+Analysis number: 1011
+
+Analysis number: 1012
+
+Analysis number: 1013
+
+Analysis number: 1014
+
+Analysis number: 1015
+
+Analysis number: 1016
+
+Analysis number: 1017
+
+Analysis number: 1018
+
+Analysis number: 1019
+
+Analysis number: 1020
+
+Analysis number: 1021
+
+Analysis number: 1022
+
+Analysis number: 1023
+
+Analysis number: 1024
+
+Analysis number: 1025
+
+Analysis number: 1026
+
+Analysis number: 1027
+
+Analysis number: 1028
+
+Analysis number: 1029
+
+Analysis number: 1030
+
+Analysis number: 1031
+
+Analysis number: 1032
+
+Analysis number: 1033
+
+Analysis number: 1034
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1035
+
+Analysis number: 1036
+
+Analysis number: 1037
+
+Analysis number: 1038
+
+Analysis number: 1039
+
+Analysis number: 1040
+
+Analysis number: 1041
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1042
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1043
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1044
+
+Analysis number: 1045
+
+Analysis number: 1046
+
+Analysis number: 1047
+
+Analysis number: 1048
+
+Analysis number: 1049
+
+Analysis number: 1050
+
+Analysis number: 1051
+
+Analysis number: 1052
+
+Analysis number: 1053
+
+Analysis number: 1054
+
+Analysis number: 1055
+
+Analysis number: 1056
+
+Analysis number: 1057
+
+Analysis number: 1058
+
+Analysis number: 1059
+
+Analysis number: 1060
+
+Analysis number: 1061
+
+Analysis number: 1062
+
+Analysis number: 1063
+
+Analysis number: 1064
+
+Analysis number: 1065
+
+Analysis number: 1066
+
+Analysis number: 1067
+
+Analysis number: 1068
+
+Analysis number: 1069
+
+Analysis number: 1070
+
+Analysis number: 1071
+
+Analysis number: 1072
+
+Analysis number: 1073
+
+Analysis number: 1074
+
+Analysis number: 1075
+
+Analysis number: 1076
+
+Analysis number: 1077
+
+Analysis number: 1078
+
+Analysis number: 1079
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\scandir.c
+null
+
+Analysis number: 1080
+
+Analysis number: 1081
+
+Analysis number: 1082
+
+Analysis number: 1083
+
+Analysis number: 1084
+
+Analysis number: 1085
+
+Analysis number: 1086
+
+Analysis number: 1087
+
+Analysis number: 1088
+
+Analysis number: 1089
+
+Analysis number: 1090
+
+Analysis number: 1091
+
+Analysis number: 1092
+
+Analysis number: 1093
+
+Analysis number: 1094
+
+Analysis number: 1095
+
+Analysis number: 1096
+
+Analysis number: 1097
+
+Analysis number: 1098
+
+Analysis number: 1099
+
+Analysis number: 1100
+
+Analysis number: 1101
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\decompress.c
+null
+
+Analysis number: 1102
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\decompress.c
+null
+
+Analysis number: 1103
+
+Analysis number: 1104
+
+Analysis number: 1105
+
+Analysis number: 1106
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\decompress.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\scandir.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1107
+
+Analysis number: 1108
+
+Analysis number: 1109
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\decompress.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1110
+
+Analysis number: 1111
+
+Analysis number: 1112
+
+Analysis number: 1113
+
+Analysis number: 1114
+
+Analysis number: 1115
+
+Analysis number: 1116
+
+Analysis number: 1117
+
+Analysis number: 1118
+
+Analysis number: 1119
+
+Analysis number: 1120
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1121
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1122
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1123
+
+Analysis number: 1124
+
+Analysis number: 1125
+
+Analysis number: 1126
+
+Analysis number: 1127
+
+Analysis number: 1128
+
+Analysis number: 1129
+
+Analysis number: 1130
+
+Analysis number: 1131
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1132
+
+Analysis number: 1133
+
+Analysis number: 1134
+
+Analysis number: 1135
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1136
+
+Analysis number: 1137
+
+Analysis number: 1138
+
+Analysis number: 1139
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1140
+
+Analysis number: 1141
+
+Analysis number: 1142
+
+Analysis number: 1143
+
+Analysis number: 1144
+
+Analysis number: 1145
+
+Analysis number: 1146
+
+Analysis number: 1147
+
+Analysis number: 1148
+
+Analysis number: 1149
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1150
+
+Analysis number: 1151
+
+Analysis number: 1152
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1153
+
+Analysis number: 1154
+
+Analysis number: 1155
+
+Analysis number: 1156
+
+Analysis number: 1157
+
+Analysis number: 1158
+
+Analysis number: 1159
+
+Analysis number: 1160
+
+Analysis number: 1161
+
+Analysis number: 1162
+
+Analysis number: 1163
+
+Analysis number: 1164
+
+Analysis number: 1165
+
+Analysis number: 1166
+
+Analysis number: 1167
+
+Analysis number: 1168
+
+Analysis number: 1169
+
+Analysis number: 1170
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1171
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1172
+
+Analysis number: 1173
+
+Analysis number: 1174
+
+Analysis number: 1175
+
+Analysis number: 1176
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1177
+
+Analysis number: 1178
+
+Analysis number: 1179
+
+Analysis number: 1180
+
+Analysis number: 1181
+
+Analysis number: 1182
+
+Analysis number: 1183
+
+Analysis number: 1184
+
+Analysis number: 1185
+
+Analysis number: 1186
+
+Analysis number: 1187
+
+Analysis number: 1188
+
+Analysis number: 1189
+
+Analysis number: 1190
+
+Analysis number: 1191
+
+Analysis number: 1192
+
+Analysis number: 1193
+
+Analysis number: 1194
+
+Analysis number: 1195
+
+Analysis number: 1196
+
+Analysis number: 1197
+
+Analysis number: 1198
+
+Analysis number: 1199
+
+Analysis number: 1200
+
+Analysis number: 1201
+
+Analysis number: 1202
+
+Analysis number: 1203
+
+Analysis number: 1204
+
+Analysis number: 1205
+
+Analysis number: 1206
+
+Analysis number: 1207
+
+Analysis number: 1208
+
+Analysis number: 1209
+
+Analysis number: 1210
+
+Analysis number: 1211
+
+Analysis number: 1212
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1213
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1214
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1215
+
+Analysis number: 1216
+
+Analysis number: 1217
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 1218
+
+Analysis number: 1219
+
+Analysis number: 1220
+
+Analysis number: 1221
+
+Analysis number: 1222
+
+Analysis number: 1223
+
+Analysis number: 1224
+
+Analysis number: 1225
+
+Analysis number: 1226
+
+Analysis number: 1227
+
+Analysis number: 1228
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1229
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1230
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1231
+
+Analysis number: 1232
+
+Analysis number: 1233
+
+Analysis number: 1234
+
+Analysis number: 1235
+
+Analysis number: 1236
+
+Analysis number: 1237
+
+Analysis number: 1238
+
+Analysis number: 1239
+
+Analysis number: 1240
+
+Analysis number: 1241
+
+Analysis number: 1242
+
+Analysis number: 1243
+
+Analysis number: 1244
+
+Analysis number: 1245
+
+Analysis number: 1246
+
+Analysis number: 1247
+
+Analysis number: 1248
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1249
+
+Analysis number: 1250
+
+Analysis number: 1251
+
+Analysis number: 1252
+
+Analysis number: 1253
+
+Analysis number: 1254
+
+Analysis number: 1255
+
+Analysis number: 1256
+
+Analysis number: 1257
+
+Analysis number: 1258
+
+Analysis number: 1259
+
+Analysis number: 1260
+
+Analysis number: 1261
+
+Analysis number: 1262
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1263
+
+Analysis number: 1264
+
+Analysis number: 1265
+
+Analysis number: 1266
+
+Analysis number: 1267
+
+Analysis number: 1268
+
+Analysis number: 1269
+
+Analysis number: 1270
+
+Analysis number: 1271
+
+Analysis number: 1272
+
+Analysis number: 1273
+
+Analysis number: 1274
+
+Analysis number: 1275
+
+Analysis number: 1276
+
+Analysis number: 1277
+
+Analysis number: 1278
+
+Analysis number: 1279
+
+Analysis number: 1280
+
+Analysis number: 1281
+
+Analysis number: 1282
+
+Analysis number: 1283
+
+Analysis number: 1284
+
+Analysis number: 1285
+
+Analysis number: 1286
+
+Analysis number: 1287
+
+Analysis number: 1288
+
+Analysis number: 1289
+
+Analysis number: 1290
+
+Analysis number: 1291
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1292
+
+Analysis number: 1293
+
+Analysis number: 1294
+
+Analysis number: 1295
+
+Analysis number: 1296
+
+Analysis number: 1297
+
+Analysis number: 1298
+
+Analysis number: 1299
+
+Analysis number: 1300
+
+Analysis number: 1301
+
+Analysis number: 1302
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1303
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1304
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1305
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1306
+
+Analysis number: 1307
+
+Analysis number: 1308
+
+Analysis number: 1309
+
+Analysis number: 1310
+
+Analysis number: 1311
+
+Analysis number: 1312
+
+Analysis number: 1313
+
+Analysis number: 1314
+
+Analysis number: 1315
+
+Analysis number: 1316
+
+Analysis number: 1317
+
+Analysis number: 1318
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1319
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1320
+
+Analysis number: 1321
+
+Analysis number: 1322
+
+Analysis number: 1323
+
+Analysis number: 1324
+
+Analysis number: 1325
+
+Analysis number: 1326
+
+Analysis number: 1327
+
+Analysis number: 1328
+
+Analysis number: 1329
+
+Analysis number: 1330
+
+Analysis number: 1331
+
+Analysis number: 1332
+
+Analysis number: 1333
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1334
+
+Analysis number: 1335
+
+Analysis number: 1336
+
+Analysis number: 1337
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1338
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1339
+
+Analysis number: 1340
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1341
+
+Analysis number: 1342
+
+Analysis number: 1343
+
+Analysis number: 1344
+
+Analysis number: 1345
+
+Analysis number: 1346
+
+Analysis number: 1347
+
+Analysis number: 1348
+
+Analysis number: 1349
+
+Analysis number: 1350
+
+Analysis number: 1351
+
+Analysis number: 1352
+
+Analysis number: 1353
+
+Analysis number: 1354
+
+Analysis number: 1355
+
+Analysis number: 1356
+
+Analysis number: 1357
+
+Analysis number: 1358
+
+Analysis number: 1359
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1360
+
+Analysis number: 1361
+
+Analysis number: 1362
+
+Analysis number: 1363
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1364
+
+Analysis number: 1365
+
+Analysis number: 1366
+
+Analysis number: 1367
+
+Analysis number: 1368
+
+Analysis number: 1369
+
+Analysis number: 1370
+
+Analysis number: 1371
+
+Analysis number: 1372
+
+Analysis number: 1373
+
+Analysis number: 1374
+
+Analysis number: 1375
+
+Analysis number: 1376
+
+Analysis number: 1377
+
+Analysis number: 1378
+
+Analysis number: 1379
+
+Analysis number: 1380
+
+Analysis number: 1381
+
+Analysis number: 1382
+
+Analysis number: 1383
+
+Analysis number: 1384
+
+Analysis number: 1385
+
+Analysis number: 1386
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1387
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1388
+
+Analysis number: 1389
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1390
+
+Analysis number: 1391
+
+Analysis number: 1392
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1393
+
+Analysis number: 1394
+
+Analysis number: 1395
+
+Analysis number: 1396
+
+Analysis number: 1397
+
+Analysis number: 1398
+
+Analysis number: 1399
+
+Analysis number: 1400
+
+Analysis number: 1401
+
+Analysis number: 1402
+
+Analysis number: 1403
+
+Analysis number: 1404
+
+Analysis number: 1405
+
+Analysis number: 1406
+
+Analysis number: 1407
+
+Analysis number: 1408
+
+Analysis number: 1409
+
+Analysis number: 1410
+
+Analysis number: 1411
+
+Analysis number: 1412
+
+Analysis number: 1413
+
+Analysis number: 1414
+
+Analysis number: 1415
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1416
+
+Analysis number: 1417
+
+Analysis number: 1418
+
+Analysis number: 1419
+
+Analysis number: 1420
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 1421
+
+Analysis number: 1422
+
+Analysis number: 1423
+
+Analysis number: 1424
+
+Analysis number: 1425
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 1426
+
+Analysis number: 1427
+
+Analysis number: 1428
+
+Analysis number: 1429
+
+Analysis number: 1430
+
+Analysis number: 1431
+
+Analysis number: 1432
+
+Analysis number: 1433
+
+Analysis number: 1434
+
+Analysis number: 1435
+
+Analysis number: 1436
+
+Analysis number: 1437
+
+Analysis number: 1438
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1439
+
+Analysis number: 1440
+
+Analysis number: 1441
+
+Analysis number: 1442
+
+Analysis number: 1443
+
+Analysis number: 1444
+
+Analysis number: 1445
+
+Analysis number: 1446
+
+Analysis number: 1447
+
+Analysis number: 1448
+
+Analysis number: 1449
+
+Analysis number: 1450
+
+Analysis number: 1451
+
+Analysis number: 1452
+
+Analysis number: 1453
+
+Analysis number: 1454
+
+Analysis number: 1455
+
+Analysis number: 1456
+
+Analysis number: 1457
+
+Analysis number: 1458
+
+Analysis number: 1459
+
+Analysis number: 1460
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1461
+
+Analysis number: 1462
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1463
+
+Analysis number: 1464
+
+Analysis number: 1465
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 1466
+
+Analysis number: 1467
+
+Analysis number: 1468
+
+Analysis number: 1469
+
+Analysis number: 1470
+
+Analysis number: 1471
+
+Analysis number: 1472
+
+Analysis number: 1473
+
+Analysis number: 1474
+
+Analysis number: 1475
+
+Analysis number: 1476
+
+Analysis number: 1477
+
+Analysis number: 1478
+
+Analysis number: 1479
+
+Analysis number: 1480
+
+Analysis number: 1481
+
+Analysis number: 1482
+
+Analysis number: 1483
+
+Analysis number: 1484
+
+Analysis number: 1485
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 1486
+
+Analysis number: 1487
+
+Analysis number: 1488
+
+Analysis number: 1489
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1490
+
+Analysis number: 1491
+
+Analysis number: 1492
+
+Analysis number: 1493
+
+Analysis number: 1494
+
+Analysis number: 1495
+
+Analysis number: 1496
+
+Analysis number: 1497
+
+Analysis number: 1498
+
+Analysis number: 1499
+
+Analysis number: 1500
+
+Analysis number: 1501
+
+Analysis number: 1502
+
+Analysis number: 1503
+
+Analysis number: 1504
+
+Analysis number: 1505
+
+Analysis number: 1506
+
+Analysis number: 1507
+
+Analysis number: 1508
+
+Analysis number: 1509
+
+Analysis number: 1510
+
+Analysis number: 1511
+
+Analysis number: 1512
+
+Analysis number: 1513
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1514
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1515
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1516
+
+Analysis number: 1517
+
+Analysis number: 1518
+
+Analysis number: 1519
+
+Analysis number: 1520
+
+Analysis number: 1521
+
+Analysis number: 1522
+
+Analysis number: 1523
+
+Analysis number: 1524
+
+Analysis number: 1525
+
+Analysis number: 1526
+
+Analysis number: 1527
+
+Analysis number: 1528
+
+Analysis number: 1529
+
+Analysis number: 1530
+
+Analysis number: 1531
+
+Analysis number: 1532
+
+Analysis number: 1533
+
+Analysis number: 1534
+
+Analysis number: 1535
+
+Analysis number: 1536
+
+Analysis number: 1537
+
+Analysis number: 1538
+
+Analysis number: 1539
+
+Analysis number: 1540
+
+Analysis number: 1541
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print_w32.c
+null
+
+Analysis number: 1542
+
+Analysis number: 1543
+
+Analysis number: 1544
+
+Analysis number: 1545
+
+Analysis number: 1546
+
+Analysis number: 1547
+
+Analysis number: 1548
+
+Analysis number: 1549
+
+Analysis number: 1550
+
+Analysis number: 1551
+
+Analysis number: 1552
+
+Analysis number: 1553
+
+Analysis number: 1554
+
+Analysis number: 1555
+
+Analysis number: 1556
+
+Analysis number: 1557
+
+Analysis number: 1558
+
+Analysis number: 1559
+
+Analysis number: 1560
+
+Analysis number: 1561
+
+Analysis number: 1562
+
+Analysis number: 1563
+
+Analysis number: 1564
+
+Analysis number: 1565
+
+Analysis number: 1566
+
+Analysis number: 1567
+
+Analysis number: 1568
+
+Analysis number: 1569
+
+Analysis number: 1570
+
+Analysis number: 1571
+
+Analysis number: 1572
+
+Analysis number: 1573
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\decompress.c
+null
+
+Analysis number: 1574
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\decompress.c
+null
+
+Analysis number: 1575
+
+Analysis number: 1576
+
+Analysis number: 1577
+
+Analysis number: 1578
+
+Analysis number: 1579
+
+Analysis number: 1580
+
+Analysis number: 1581
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\decompress.c
+null
+
+Analysis number: 1582
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1583
+
+Analysis number: 1584
+
+Analysis number: 1585
+
+Analysis number: 1586
+
+Analysis number: 1587
+
+Analysis number: 1588
+
+Analysis number: 1589
+
+Analysis number: 1590
+
+Analysis number: 1591
+
+Analysis number: 1592
+
+Analysis number: 1593
+
+Analysis number: 1594
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 1595
+
+Analysis number: 1596
+
+Analysis number: 1597
+
+Analysis number: 1598
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 1599
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 1600
+
+Analysis number: 1601
+
+Analysis number: 1602
+
+Analysis number: 1603
+
+Analysis number: 1604
+
+Analysis number: 1605
+
+Analysis number: 1606
+
+Analysis number: 1607
+
+Analysis number: 1608
+
+Analysis number: 1609
+
+Analysis number: 1610
+
+Analysis number: 1611
+
+Analysis number: 1612
+
+Analysis number: 1613
+
+Analysis number: 1614
+
+Analysis number: 1615
+
+Analysis number: 1616
+
+Analysis number: 1617
+
+Analysis number: 1618
+
+Analysis number: 1619
+
+Analysis number: 1620
+
+Analysis number: 1621
+
+Analysis number: 1622
+
+Analysis number: 1623
+
+Analysis number: 1624
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1625
+
+Analysis number: 1626
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1627
+
+Analysis number: 1628
+
+Analysis number: 1629
+
+Analysis number: 1630
+
+Analysis number: 1631
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1632
+
+Analysis number: 1633
+
+Analysis number: 1634
+
+Analysis number: 1635
+
+Analysis number: 1636
+
+Analysis number: 1637
+
+Analysis number: 1638
+
+Analysis number: 1639
+
+Analysis number: 1640
+
+Analysis number: 1641
+
+Analysis number: 1642
+
+Analysis number: 1643
+
+Analysis number: 1644
+
+Analysis number: 1645
+
+Analysis number: 1646
+
+Analysis number: 1647
+
+Analysis number: 1648
+
+Analysis number: 1649
+
+Analysis number: 1650
+
+Analysis number: 1651
+
+Analysis number: 1652
+
+Analysis number: 1653
+
+Analysis number: 1654
+
+Analysis number: 1655
+
+Analysis number: 1656
+
+Analysis number: 1657
+
+Analysis number: 1658
+
+Analysis number: 1659
+
+Analysis number: 1660
+
+Analysis number: 1661
+
+Analysis number: 1662
+
+Analysis number: 1663
+
+Analysis number: 1664
+
+Analysis number: 1665
+
+Analysis number: 1666
+
+Analysis number: 1667
+
+Analysis number: 1668
+
+Analysis number: 1669
+
+Analysis number: 1670
+
+Analysis number: 1671
+
+Analysis number: 1672
+
+Analysis number: 1673
+
+Analysis number: 1674
+
+Analysis number: 1675
+
+Analysis number: 1676
+
+Analysis number: 1677
+
+Analysis number: 1678
+
+Analysis number: 1679
+
+Analysis number: 1680
+
+Analysis number: 1681
+
+Analysis number: 1682
+
+Analysis number: 1683
+
+Analysis number: 1684
+
+Analysis number: 1685
+
+Analysis number: 1686
+
+Analysis number: 1687
+
+Analysis number: 1688
+
+Analysis number: 1689
+
+Analysis number: 1690
+
+Analysis number: 1691
+
+Analysis number: 1692
+
+Analysis number: 1693
+
+Analysis number: 1694
+
+Analysis number: 1695
+
+Analysis number: 1696
+
+Analysis number: 1697
+
+Analysis number: 1698
+
+Analysis number: 1699
+
+Analysis number: 1700
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 1701
+
+Analysis number: 1702
+
+Analysis number: 1703
+
+Analysis number: 1704
+
+Analysis number: 1705
+
+Analysis number: 1706
+
+Analysis number: 1707
+
+Analysis number: 1708
+
+Analysis number: 1709
+
+Analysis number: 1710
+
+Analysis number: 1711
+
+Analysis number: 1712
+
+Analysis number: 1713
+
+Analysis number: 1714
+
+Analysis number: 1715
+
+Analysis number: 1716
+
+Analysis number: 1717
+
+Analysis number: 1718
+
+Analysis number: 1719
+
+Analysis number: 1720
+
+Analysis number: 1721
+
+Analysis number: 1722
+
+Analysis number: 1723
+
+Analysis number: 1724
+
+Analysis number: 1725
+
+Analysis number: 1726
+
+Analysis number: 1727
+
+Analysis number: 1728
+
+Analysis number: 1729
+
+Analysis number: 1730
+
+Analysis number: 1731
+
+Analysis number: 1732
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1733
+
+Analysis number: 1734
+
+Analysis number: 1735
+
+Analysis number: 1736
+
+Analysis number: 1737
+
+Analysis number: 1738
+
+Analysis number: 1739
+
+Analysis number: 1740
+
+Analysis number: 1741
+
+Analysis number: 1742
+
+Analysis number: 1743
+
+Analysis number: 1744
+
+Analysis number: 1745
+
+Analysis number: 1746
+
+Analysis number: 1747
+
+Analysis number: 1748
+
+Analysis number: 1749
+
+Analysis number: 1750
+
+Analysis number: 1751
+
+Analysis number: 1752
+
+Analysis number: 1753
+
+Analysis number: 1754
+
+Analysis number: 1755
+
+Analysis number: 1756
+
+Analysis number: 1757
+
+Analysis number: 1758
+
+Analysis number: 1759
+
+Analysis number: 1760
+
+Analysis number: 1761
+
+Analysis number: 1762
+
+Analysis number: 1763
+
+Analysis number: 1764
+
+Analysis number: 1765
+
+Analysis number: 1766
+
+Analysis number: 1767
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1768
+
+Analysis number: 1769
+
+Analysis number: 1770
+
+Analysis number: 1771
+
+Analysis number: 1772
+
+Analysis number: 1773
+
+Analysis number: 1774
+
+Analysis number: 1775
+
+Analysis number: 1776
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\main.c
+null
+
+Analysis number: 1777
+
+Analysis number: 1778
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1779
+
+Analysis number: 1780
+
+Analysis number: 1781
+
+Analysis number: 1782
+
+Analysis number: 1783
+
+Analysis number: 1784
+
+Analysis number: 1785
+
+Analysis number: 1786
+
+Analysis number: 1787
+
+Analysis number: 1788
+
+Analysis number: 1789
+
+Analysis number: 1790
+
+Analysis number: 1791
+
+Analysis number: 1792
+
+Analysis number: 1793
+
+Analysis number: 1794
+
+Analysis number: 1795
+
+Analysis number: 1796
+
+Analysis number: 1797
+
+Analysis number: 1798
+
+Analysis number: 1799
+
+Analysis number: 1800
+
+Analysis number: 1801
+
+Analysis number: 1802
+
+Analysis number: 1803
+
+Analysis number: 1804
+
+Analysis number: 1805
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1806
+
+Analysis number: 1807
+
+Analysis number: 1808
+
+Analysis number: 1809
+
+Analysis number: 1810
+
+Analysis number: 1811
+
+Analysis number: 1812
+
+Analysis number: 1813
+
+Analysis number: 1814
+
+Analysis number: 1815
+
+Analysis number: 1816
+
+Analysis number: 1817
+
+Analysis number: 1818
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 1819
+
+Analysis number: 1820
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 1821
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 1822
+
+Analysis number: 1823
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 1824
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1825
+
+Analysis number: 1826
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1827
+
+Analysis number: 1828
+
+Analysis number: 1829
+
+Analysis number: 1830
+
+Analysis number: 1831
+
+Analysis number: 1832
+
+Analysis number: 1833
+
+Analysis number: 1834
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\options.c
+null
+
+Analysis number: 1835
+
+Analysis number: 1836
+
+Analysis number: 1837
+
+Analysis number: 1838
+
+Analysis number: 1839
+
+Analysis number: 1840
+
+Analysis number: 1841
+
+Analysis number: 1842
+
+Analysis number: 1843
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\options.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1844
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\options.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1845
+
+Analysis number: 1846
+
+Analysis number: 1847
+
+Analysis number: 1848
+
+Analysis number: 1849
+
+Analysis number: 1850
+
+Analysis number: 1851
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1852
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1853
+
+Analysis number: 1854
+
+Analysis number: 1855
+
+Analysis number: 1856
+
+Analysis number: 1857
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1858
+
+Analysis number: 1859
+
+Analysis number: 1860
+
+Analysis number: 1861
+
+Analysis number: 1862
+
+Analysis number: 1863
+
+Analysis number: 1864
+
+Analysis number: 1865
+
+Analysis number: 1866
+
+Analysis number: 1867
+
+Analysis number: 1868
+
+Analysis number: 1869
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\options.c
+null
+
+Analysis number: 1870
+
+Analysis number: 1871
+
+Analysis number: 1872
+
+Analysis number: 1873
+
+Analysis number: 1874
+
+Analysis number: 1875
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1876
+
+Analysis number: 1877
+
+Analysis number: 1878
+
+Analysis number: 1879
+
+Analysis number: 1880
+
+Analysis number: 1881
+
+Analysis number: 1882
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1883
+
+Analysis number: 1884
+
+Analysis number: 1885
+
+Analysis number: 1886
+
+Analysis number: 1887
+
+Analysis number: 1888
+
+Analysis number: 1889
+
+Analysis number: 1890
+
+Analysis number: 1891
+
+Analysis number: 1892
+
+Analysis number: 1893
+
+Analysis number: 1894
+
+Analysis number: 1895
+
+Analysis number: 1896
+
+Analysis number: 1897
+
+Analysis number: 1898
+
+Analysis number: 1899
+
+Analysis number: 1900
+
+Analysis number: 1901
+
+Analysis number: 1902
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\options.c
+null
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1903
+
+Analysis number: 1904
+
+Analysis number: 1905
+
+Analysis number: 1906
+
+Analysis number: 1907
+
+Analysis number: 1908
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1909
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1910
+
+Analysis number: 1911
+
+Analysis number: 1912
+
+Analysis number: 1913
+
+Analysis number: 1914
+
+Analysis number: 1915
+
+Analysis number: 1916
+
+Analysis number: 1917
+
+Analysis number: 1918
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\search.c
+null
+
+Analysis number: 1919
+
+Analysis number: 1920
+
+Analysis number: 1921
+
+Analysis number: 1922
+
+Analysis number: 1923
+
+Analysis number: 1924
+
+Analysis number: 1925
+
+Analysis number: 1926
+
+Analysis number: 1927
+
+Analysis number: 1928
+
+Analysis number: 1929
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\zfile.c
+null
+
+Analysis number: 1930
+
+Analysis number: 1931
+
+Analysis number: 1932
+
+Analysis number: 1933
+
+Analysis number: 1934
+
+Analysis number: 1935
+
+Analysis number: 1936
+
+Analysis number: 1937
+
+Analysis number: 1938
+
+Analysis number: 1939
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\zfile.c
+null
+
+Analysis number: 1940
+
+Analysis number: 1941
+
+Analysis number: 1942
+
+Analysis number: 1943
+
+Analysis number: 1944
+C:\Users\Perseu\runtime-EclipseApplication\SilverSearcher\analysis\print.c
+null
+
+Analysis number: 1945
+
+Analysis number: 1946
+
+Analysis number: 1947
+
+Analysis number: 1948
+
+Analysis number: 1949
+
+Analysis number: 1950
+
+Analysis number: 1951
+
+Analysis number: 1952
+
+Analysis number: 1953
+
+Analysis number: 1954
+
+Analysis number: 1955
+
+Analysis number: 1956
+
+Analysis number: 1957
+
+Analysis number: 1958
+
+Analysis number: 1959
+
+Analysis number: 1960
+
+Analysis number: 1961
+
+Analysis number: 1962
+
+Analysis number: 1963
+
+Analysis number: 1964
+
+Analysis number: 1965
+
+Analysis number: 1966
+
+Analysis number: 1967
+
+Analysis number: 1968
+
+Analysis number: 1969
+
+Analysis number: 1970
+
+Analysis number: 1971
+
+Analysis number: 1972
+
+Analysis number: 1973
+
+Analysis number: 1974
+
+Analysis number: 1975
+
+Analysis number: 1976
+
+Analysis number: 1977
+
+Analysis number: 1978
+
+Analysis number: 1979
+
+Analysis number: 1980
+
+Analysis number: 1981
+
+Analysis number: 1982
+
+Analysis number: 1983
+
+Analysis number: 1984
+
+Analysis number: 1985
+
+Analysis number: 1986
+
+Analysis number: 1987
+
+Analysis number: 1988
+
+Analysis number: 1989
+
+Analysis number: 1990
+
+Analysis number: 1991
+
+Analysis number: 1992
+
+Analysis number: 1993
+
+Analysis number: 1994
+
+Analysis number: 1995
+
+Analysis number: 1996
+
+Analysis number: 1997
+
+Analysis number: 1998
+
+Analysis number: 1999
+
+Analysis number: 2000
+
+Analysis number: 2001

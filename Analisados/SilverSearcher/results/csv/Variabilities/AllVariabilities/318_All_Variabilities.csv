@@ -1,0 +1,3 @@
+def(USE_PCRE_JIT),
+True,
+def(AG_DEBUG),

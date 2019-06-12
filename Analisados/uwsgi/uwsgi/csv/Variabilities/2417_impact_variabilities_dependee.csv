@@ -1,0 +1,10 @@
+True,fr_get_hostname,parameter,Function,4
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,4
+True,uwsgi_add_sockets_to_queue,exclusion,Function,4
+def(__BIG_ENDIAN__),uwsgi_swap16,exclusion,Function,4
+True,corerouter_manage_subscription,parameter,Function,4
+True,subscriptions,additon,Variable,4
+True,uwsgi_malloc,exclusion,Function,4
+True,uwsgi_str_num,parameter,Function,4
+True,uwsgi_concat3,parameter,Function,4
+True,uwsgi_concat2,parameter,Function,4

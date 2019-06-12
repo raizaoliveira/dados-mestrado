@@ -1,0 +1,7 @@
+def(UWSGI_PASTE),uwsgi_paste_loader,parameter,Function,4
+True,args,exclusion,Variable,4
+True,uwsgi_log_verbose,additon,Function,4
+True,uwsgi_parse_response,additon,Function,4
+True,uwsgi_swap16,exclusion,Function,4
+True,uwsgi_log,exclusion,Function,4
+True,callable,exclusion,Variable,4

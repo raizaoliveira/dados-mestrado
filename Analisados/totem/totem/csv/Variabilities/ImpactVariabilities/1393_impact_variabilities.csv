@@ -1,0 +1,5 @@
+True,
+!def(HAVE_GTK_ONLY),
+!def(USE_STABLE_LIBGNOMEUI),
+def(__linux__),
+def(HAVE_X86),

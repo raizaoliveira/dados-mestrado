@@ -1,0 +1,3 @@
+def(UWSGI_SSL),True
+True,def(UWSGI_SSL)
+True,def(UWSGI_PCRE)

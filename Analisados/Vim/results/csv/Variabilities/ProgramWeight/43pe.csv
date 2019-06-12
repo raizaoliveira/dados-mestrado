@@ -1,0 +1,10 @@
+mch_write,1,function
+last_sourcing_lnum,1,variable
+qf_guess_filepath,1,function
+fname,1,variable
+msg,1,function
+msg_attr,1,function
+mch_getperm,1,function
+p,1,variable
+qf_get_fnum,1,function
+directory,1,variable

@@ -1,0 +1,7 @@
+True,fr_get_hostname,parameter,Function,5
+def(UWSGI_SENDFILE),uwsgi_sendfile,additon,Function,5
+True,uwsgi_concat2,parameter,Function,5
+True,uwsgi_log,additon,Function,5
+True,fastrouter_manage_subscription,parameter,Function,5
+True,cache_command,parameter,Function,5
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,5

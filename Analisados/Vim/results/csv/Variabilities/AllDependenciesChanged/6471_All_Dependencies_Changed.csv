@@ -1,0 +1,5 @@
+def(WIN32),True
+def(INET_SOCKETS),def(_WIN32)
+True,def(WIN32)
+!def(INET_SOCKETS),def(_WIN32)
+True,def(_WIN32)

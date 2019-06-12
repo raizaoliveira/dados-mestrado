@@ -1,0 +1,6 @@
+(def(__linux__)&def(UWSGI_ASYNC)),async_add,additon,Function,6
+(def(__linux__)&def(UWSGI_ASYNC)),async_del,additon,Function,6
+def(UWSGI_ASYNC),find_wsgi_req_by_fd,additon,Function,6
+def(UWSGI_PASTE),uwsgi_paste_loader,parameter,Function,6
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,6
+(def(UWSGI_ASYNC)&!def(__linux__)),async_wait,additon,Function,6

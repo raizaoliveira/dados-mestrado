@@ -1,0 +1,8 @@
+def(UWSGI_SENDFILE),uwsgi_sendfile,additon,Function,4
+def(__linux__),get_linux_tcp_info,parameter,Function,4
+True,uwsgi_python_do_send_headers,exclusion,Function,4
+True,wsgi_req,exclusion,Variable,4
+True,uwsgi_router_access,parameter,Function,4
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,4
+def(UWSGI_UDP),bind_to_udp,parameter,Function,4
+def(UWSGI_SENDFILE),uwsgi_response_subhandler_wsgi,exclusion,Function,4

@@ -1,0 +1,4 @@
+True,argv,additon,Variable,5
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,5
+def(UWSGI_SCTP),connect_to_sctp,parameter,Function,5
+True,fr_get_hostname,parameter,Function,5

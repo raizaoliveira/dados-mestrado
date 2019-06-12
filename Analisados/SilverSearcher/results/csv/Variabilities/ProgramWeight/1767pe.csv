@@ -1,0 +1,17 @@
+is_symlink,1,function
+fgetln,1,function
+si,1,variable
+color_reset,1,variable
+argc,1,variable
+vasprintf,1,function
+strlcpy,1,function
+ag_strndup,1,function
+realpath,1,function
+paths,1,variable
+ag_malloc,1,function
+argv,1,variable
+fprintf_w32,1,function
+ag_asprintf,1,function
+base_paths,1,variable
+die,1,function
+getline,1,function

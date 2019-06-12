@@ -1,0 +1,3 @@
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,3
+True,manage_python_response,additon,Function,3
+True,uwsgi_log,additon,Function,3

@@ -1,0 +1,4 @@
+def(FEAT_FKMAP),
+True,
+def(FEAT_MBYTE),
+!def(PROTO),

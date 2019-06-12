@@ -1,0 +1,5 @@
+True,uwsgi_log,exclusion,Function,2
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,2
+True,uwsgi_send_message,exclusion,Function,2
+True,wsgi_req,exclusion,Variable,2
+True,manage_python_response,exclusion,Function,2

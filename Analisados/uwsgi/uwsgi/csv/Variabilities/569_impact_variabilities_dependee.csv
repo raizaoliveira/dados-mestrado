@@ -1,0 +1,16 @@
+def(UWSGI_EMBEDDED),spool_buffer,additon,Variable,6
+True,wsgi_req,exclusion,Variable,6
+True,uwsgi_concat2,exclusion,Function,6
+True,uh,additon,Variable,6
+True,uwsgi_parse_response,additon,Function,6
+True,callable,exclusion,Variable,6
+True,uwsgi_swap16,exclusion,Function,6
+True,uwsgi_log,exclusion,Function,6
+True,timeout,additon,Variable,6
+True,uwsgi_log_verbose,additon,Function,6
+True,nagios_poll,additon,Function,6
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,6
+True,args,exclusion,Variable,6
+True,nagios,additon,Function,6
+def(UWSGI_PASTE),uwsgi_paste_loader,parameter,Function,6
+True,buffer,additon,Variable,6

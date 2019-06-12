@@ -1,0 +1,10 @@
+def(UWSGI_UDP),bind_to_udp,parameter,Function,5
+True,bind_to_tcp,additon,Function,5
+def(UWSGI_IPV6),bind_to_tcp,additon,Function,5
+True,uwsgi_get_socket_num,additon,Function,5
+def(UWSGI_IPV6),tcp_port,additon,Variable,5
+def(UWSGI_IPV6),uwsgi_getsockname,additon,Function,5
+True,uwsgi_getsockname,additon,Function,5
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,5
+True,uwsgi_get_shared_socket_num,additon,Function,5
+def(UWSGI_IPV6),bind_to_tcp6,additon,Function,5

@@ -1,0 +1,8 @@
+!def(HAVE_GETUTXENT),True
+!def(TCP_KEEPCNT),True
+True,!def(HAVE_GETUTXENT)
+!def(TCP_KEEPIDLE),True
+True,def(HAVE_GETUTXENT)
+!def(TCP_KEEPINTVL),True
+def(HAVE_GETUTXENT),True
+def(__linux__),True

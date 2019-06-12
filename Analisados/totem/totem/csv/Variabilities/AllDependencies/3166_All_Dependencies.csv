@@ -1,0 +1,14 @@
+True,!def(XShmGetEventBase)
+True,!def(USE_STABLE_LIBGNOMEUI)
+True,def(HAVE_HAL_0_2)
+True,def(HAVE_X86)
+def(HAVE_X86),True
+True,def(THUMB_DEBUG)
+def(HAVE_HAL),def(HAVE_HAL_0_2)
+!def(HAVE_X86),True
+True,def(HAVE_HAL_0_5)
+True,def(HAVE_HAL)
+def(HAVE_HAL_0_5),!def(HAVE_HAL)
+True,!def(HAVE_GTK_ONLY)
+def(HAVE_HAL),True
+True,def(__linux__)

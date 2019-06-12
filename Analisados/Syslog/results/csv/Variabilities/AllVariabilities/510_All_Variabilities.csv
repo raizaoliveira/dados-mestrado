@@ -1,0 +1,4 @@
+!def(HAVE_GETUTENT),
+True,
+!def(HAVE_INET_ATON),
+def(__linux__),

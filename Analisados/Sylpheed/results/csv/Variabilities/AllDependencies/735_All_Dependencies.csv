@@ -1,0 +1,5 @@
+True,!def(HAVE_STRNDUP)
+True,!def(HAVE_ASPRINTF)
+!def(HAVE_ASPRINTF),True
+!def(HAVE_GETLINE),!def(HAVE_FGETLN)
+True,!def(HAVE_GETLINE)

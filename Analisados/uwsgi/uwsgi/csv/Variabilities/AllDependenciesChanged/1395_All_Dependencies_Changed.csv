@@ -1,0 +1,5 @@
+def(UWSGI_ASYNC),True
+True,!def(PYTHREE)
+True,def(UWSGI_SENDFILE)
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_DEBUG),True

@@ -1,0 +1,5 @@
+True,def(UWSGI_EMBEDDED)
+def(__BIG_ENDIAN__),True
+True,def(UWSGI_UDP)
+def(UWSGI_LDAP),True
+def(UWSGI_UDP),True

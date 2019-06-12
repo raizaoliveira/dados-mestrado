@@ -1,0 +1,4 @@
+True,key,exclusion,Variable,1
+True,hash,exclusion,Variable,1
+True,hash_hash,exclusion,Function,1
+True,ht,exclusion,Variable,1

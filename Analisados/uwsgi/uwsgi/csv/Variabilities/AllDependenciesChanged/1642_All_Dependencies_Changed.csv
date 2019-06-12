@@ -1,0 +1,5 @@
+True,def(UWSGI_EVENT_USE_EPOLL)
+True,!def(PYTHREE)
+def(UWSGI_EVENT_USE_KQUEUE),True
+def(__BIG_ENDIAN__),True
+def(UWSGI_EVENT_USE_EPOLL),True

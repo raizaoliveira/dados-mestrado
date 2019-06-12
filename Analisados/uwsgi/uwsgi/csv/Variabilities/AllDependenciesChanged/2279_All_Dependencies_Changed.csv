@@ -1,0 +1,12 @@
+def(__BIG_ENDIAN__),True
+def(__BIG_ENDIAN__),def(UWSGI_EMBEDDED)
+True,def(UWSGI_SENDFILE)
+def(UWSGI_DEBUG),True
+True,def(UWSGI_SCTP)
+!def(UWSGI_PYPY),!def(PYTHREE)
+def(UWSGI_PCRE),True
+def(UWSGI_DEBUG),def(UWSGI_EMBEDDED)
+True,def(UWSGI_EMBEDDED)
+True,def(__BIG_ENDIAN__)
+True,def(UWSGI_DEBUG)
+True,!def(PYTHREE)

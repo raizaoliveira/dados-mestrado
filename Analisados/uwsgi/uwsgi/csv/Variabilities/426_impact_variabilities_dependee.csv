@@ -1,0 +1,5 @@
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,3
+!def(NGX_HAVE_LITTLE_ENDIAN),uwsgi_swap16,additon,Function,3
+True,uwsgi_log,additon,Function,3
+True,wsgi_req,exclusion,Variable,3
+True,python_call,exclusion,Function,3

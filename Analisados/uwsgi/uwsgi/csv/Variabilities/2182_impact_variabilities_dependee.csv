@@ -1,0 +1,15 @@
+True,argvs,exclusion,Variable,6
+True,len,additon,Variable,6
+True,cache_command,additon,Function,6
+True,bufferend,additon,Variable,6
+True,message,additon,Variable,6
+def(UWSGI_SCTP),connect_to_sctp,parameter,Function,6
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,6
+True,data,additon,Variable,6
+True,uwsgi_python_add_item,additon,Function,6
+True,host,additon,Variable,6
+True,wsgi_req,additon,Variable,6
+True,fr_get_hostname,additon,Function,6
+True,argc,exclusion,Variable,6
+True,ptrbuf,additon,Variable,6
+True,argv,exclusion,Variable,6

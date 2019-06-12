@@ -1,0 +1,7 @@
+def(UWSGI_DEBUG),True
+True,def(UWSGI_EMBEDDED)
+True,def(UWSGI_DEBUG)
+def(UWSGI_SPOOLER),True
+def(__BIG_ENDIAN__),def(UWSGI_EMBEDDED)
+def(UWSGI_SPOOLER),(def(__BIG_ENDIAN__)&def(UWSGI_SPOOLER))
+def(__BIG_ENDIAN__),True

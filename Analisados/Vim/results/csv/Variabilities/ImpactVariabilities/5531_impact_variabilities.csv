@@ -1,0 +1,7 @@
+def(MAIN),
+def(WIN32),
+def(_WIN32),
+!def(FEAT_GUI_GTK),
+def(FEAT_BEVAL),
+True,
+def(PROTO),

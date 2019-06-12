@@ -1,0 +1,6 @@
+True,http_manage_subscription,parameter,Function,3
+True,optarg,additon,Variable,3
+True,cache_command,parameter,Function,3
+def(UWSGI_UDP),main,exclusion,Function,3
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,3
+True,i,additon,Variable,3

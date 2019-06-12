@@ -1,0 +1,12 @@
+True,def(JSON_C_VERSION)
+True,def(SYSLOG_NG_HAVE_UTMPX_H)
+True,!def(SYSLOG_NG_HAVE_INET_ATON)
+True,!def(PCRE_NEWLINE_ANYCRLF)
+True,def(__linux__)
+True,!def(JSON_C_VERSION)
+def(__linux__),True
+!def(_AIX),True
+def(_AIX),True
+!def(PCRE_NEWLINE_ANYCRLF),True
+!def(SYSLOG_NG_HAVE_UTMPX_H),True
+True,!def(SYSLOG_NG_HAVE_STRCASESTR)

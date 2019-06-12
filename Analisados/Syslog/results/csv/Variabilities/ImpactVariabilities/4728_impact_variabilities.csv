@@ -1,0 +1,4 @@
+True,
+!def(SYSLOG_NG_HAVE_MEMRCHR),
+def(__linux__),
+!def(SYSLOG_NG_HAVE_STRCASESTR),

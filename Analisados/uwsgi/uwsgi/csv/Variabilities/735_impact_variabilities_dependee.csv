@@ -1,0 +1,8 @@
+True,i,exclusion,Variable,2
+True,environ,additon,Variable,2
+True,uwsgi_cluster_simple_add_node,additon,Function,2
+True,uwsgi_cluster_add_node,exclusion,Function,2
+True,optarg,exclusion,Variable,2
+True,argv,additon,Variable,2
+True,uwsgi_log,additon,Function,2
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,2

@@ -1,0 +1,13 @@
+True,usr,additon,Variable,6
+def(UWSGI_UDP),bind_to_udp,parameter,Function,6
+def(UWSGI_PCRE),uwsgi_add_expires,exclusion,Function,6
+True,wsgi_req,exclusion,Variable,6
+True,mime_type,exclusion,Variable,6
+True,set_http_date,parameter,Function,6
+True,uwsgi_parse_vars,additon,Function,6
+def(UWSGI_PCRE),uwsgi_real_file_serve,additon,Function,6
+def(__linux__),get_linux_tcp_info,parameter,Function,6
+True,uwsgi_concat2,parameter,Function,6
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,6
+True,st,exclusion,Variable,6
+True,uwsgi_router_access,parameter,Function,6

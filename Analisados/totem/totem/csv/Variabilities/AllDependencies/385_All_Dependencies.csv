@@ -1,0 +1,4 @@
+True,def(HAVE_RSVG)
+!def(USE_STABLE_LIBGNOMEUI),True
+True,!def(USE_STABLE_LIBGNOMEUI)
+True,!def(XShmGetEventBase)

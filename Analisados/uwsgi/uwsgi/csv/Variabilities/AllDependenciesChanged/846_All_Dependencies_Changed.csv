@@ -1,0 +1,6 @@
+(!def(UWSGI_SPOOLER)&!def(UWSGI_PROXY)),True
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_EVENT_USE_EPOLL),True
+def(__BIG_ENDIAN__),True
+def(UWSGI_UDP),True
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),True

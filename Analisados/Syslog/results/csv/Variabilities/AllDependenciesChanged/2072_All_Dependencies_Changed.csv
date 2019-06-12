@@ -1,0 +1,8 @@
+True,def(HAVE_GETUTXENT)
+!def(TCP_KEEPCNT),True
+!def(HAVE_GETUTXENT),True
+!def(TCP_KEEPINTVL),True
+True,!def(HAVE_INET_ATON)
+!def(TCP_KEEPIDLE),True
+def(HAVE_GETUTXENT),True
+True,!def(HAVE_GETUTXENT)

@@ -1,0 +1,8 @@
+(def(UWSGI_SPOOLER)&def(UWSGI_EMBEDDED)),True
+def(__BIG_ENDIAN__),True
+def(__BIG_ENDIAN__),def(UWSGI_EMBEDDED)
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_SPOOLER),True
+def(PYTHREE),True
+def(UWSGI_EMBEDDED),True
+True,def(__BIG_ENDIAN__)

@@ -1,0 +1,4 @@
+!def(UNBIT),
+True,
+def(__BIG_ENDIAN__),
+!def(NGX_HAVE_LITTLE_ENDIAN),

@@ -1,0 +1,17 @@
+!def(RISCOS),True
+True,!def(EBCDIC)
+(!def(FEAT_BEVAL)&def(WSDEBUG_TRACE)),True
+(!def(FEAT_BEVAL)&def(WSDEBUG_SENSE)),True
+True,!def(FEAT_BEVAL)
+True,!def(RISCOS)
+(!def(PROTO)&!def(__BORLANDC__)),True
+True,def(FEAT_GUI_MOTIF)
+def(EBCDIC),True
+!def(NO_CONSOLE),True
+True,(!def(PROTO)&!def(__BORLANDC__))
+!def(EBCDIC),True
+(!def(FEAT_GUI_GTK)&def(FEAT_GUI_MOTIF)),True
+(!def(FEAT_GUI_GTK)&def(FEAT_GUI_MOTIF)),def(FEAT_GUI_MOTIF)
+def(FEAT_GUI),True
+True,!def(LESSTIF_VERSION)
+!def(FEAT_BEVAL),True

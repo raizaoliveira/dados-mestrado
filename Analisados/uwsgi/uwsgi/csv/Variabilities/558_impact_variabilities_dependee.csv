@@ -1,0 +1,9 @@
+True,uwsgi_log_verbose,additon,Function,4
+True,uwsgi_concat3,exclusion,Function,4
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,4
+True,uwsgi_concat,additon,Function,4
+True,args,additon,Variable,4
+True,uwsgi_log,additon,Function,4
+True,callable,additon,Variable,4
+True,uwsgi_concat2,exclusion,Function,4
+True,wsgi_req,additon,Variable,4

@@ -1,0 +1,4 @@
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,2
+True,async_id,additon,Variable,2
+True,wsgi_req,additon,Variable,2
+True,argv,additon,Variable,2

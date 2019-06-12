@@ -1,0 +1,13 @@
+totem,1,variable
+egg_recent_util_get_icon,1,function
+view,1,variable
+linux_scan,1,function
+item,1,variable
+XShmGetEventBase,1,variable
+scan_for_video_devices,1,function
+save_pixbuf,1,function
+totem_action_error_try_download,1,function
+totem_action_error,1,function
+save_still_pixbuf,1,function
+path,1,variable
+msg,1,variable

@@ -1,0 +1,4 @@
+!def(UWSGI_PYPY),!def(PYTHREE)
+!def(UWSGI_PYPY),True
+def(__BIG_ENDIAN__),True
+True,def(UWSGI_EVENT_USE_EPOLL)

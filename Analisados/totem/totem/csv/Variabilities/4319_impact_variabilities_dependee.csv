@@ -1,0 +1,4 @@
+True,xml_parser_get_property,additon,Function,1
+True,xml_parser_init,additon,Function,1
+True,xml_parser_build_tree,additon,Function,1
+True,xml_parser_free_tree,additon,Function,1

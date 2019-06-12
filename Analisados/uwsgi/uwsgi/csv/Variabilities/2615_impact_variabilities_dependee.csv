@@ -1,0 +1,2 @@
+True,usr,additon,Variable,2
+def(UWSGI_UDP),bind_to_udp,parameter,Function,2

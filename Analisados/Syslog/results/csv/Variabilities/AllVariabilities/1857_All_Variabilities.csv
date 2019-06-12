@@ -1,0 +1,7 @@
+!def(HAVE_INET_ATON),
+True,
+def(__linux__),
+def(_AIX),
+!def(HAVE_GETUTENT),
+def(ENV_LD_LIBRARY_PATH),
+def(HAVE_CLOCK_GETTIME),

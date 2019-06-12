@@ -1,0 +1,4 @@
+True,eap,additon,Variable,2
+def(WIN32),read,qualifier,Function,2
+def(WIN32),close,additon,Function,2
+def(WIN32),write,qualifier,Function,2

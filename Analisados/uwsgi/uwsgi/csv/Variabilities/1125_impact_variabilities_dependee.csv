@@ -1,0 +1,2 @@
+True,uwsgi_socket_nb,additon,Function,2
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,2

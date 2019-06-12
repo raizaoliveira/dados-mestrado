@@ -1,0 +1,5 @@
+True,http_manage_subscription,parameter,Function,2
+True,cache_command,parameter,Function,2
+True,uwsgi_log,additon,Function,2
+True,close_session,specifier,Function,2
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,2

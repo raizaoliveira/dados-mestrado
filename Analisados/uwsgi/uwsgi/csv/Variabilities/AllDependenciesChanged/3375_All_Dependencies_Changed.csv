@@ -1,0 +1,7 @@
+def(UWSGI_ROUTING),True
+True,def(__linux__)
+!def(UWSGI_PYPY),!def(PYTHREE)
+def(UWSGI_IPV6),True
+def(UWSGI_SSL),True
+True,def(UWSGI_SSL)
+True,def(UWSGI_UDP)

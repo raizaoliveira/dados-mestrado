@@ -1,0 +1,2 @@
+def(WSDEBUG),True
+True,def(WIN32)

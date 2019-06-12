@@ -1,0 +1,4 @@
+!def(HAVE_FGETLN),
+True,
+!def(HAVE_VASPRINTF),
+!def(HAVE_GETLINE),

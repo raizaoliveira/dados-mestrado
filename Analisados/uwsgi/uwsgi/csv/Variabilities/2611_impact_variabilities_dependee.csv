@@ -1,0 +1,3 @@
+def(UWSGI_SSL),uwsgi_add_subscribe_node,exclusion,Function,3
+def(UWSGI_UDP),bind_to_udp,parameter,Function,3
+True,usr,exclusion,Variable,3

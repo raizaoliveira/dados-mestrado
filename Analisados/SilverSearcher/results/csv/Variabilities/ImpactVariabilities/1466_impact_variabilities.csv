@@ -1,0 +1,6 @@
+!def(HAVE_STRLCPY),
+!def(HAVE_VASPRINTF),
+!def(HAVE_REALPATH),
+!def(HAVE_FGETLN),
+True,
+!def(HAVE_GETLINE),

@@ -1,0 +1,11 @@
+def(_AIX),True
+True,def(_AIX)
+True,!def(SYSLOG_NG_HAVE_STRCASESTR)
+True,def(JSON_C_VERSION)
+True,def(SYSLOG_NG_HAVE_UTMPX_H)
+True,!def(JSON_C_VERSION)
+True,def(__linux__)
+def(__linux__),True
+!def(SYSLOG_NG_HAVE_UTMPX_H),True
+True,!def(SYSLOG_NG_HAVE_INET_ATON)
+!def(_AIX),True

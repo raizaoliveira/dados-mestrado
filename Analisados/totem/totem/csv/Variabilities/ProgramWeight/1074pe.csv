@@ -1,0 +1,12 @@
+g_str_has_prefix,1,function
+egg_recent_util_get_icon,1,function
+msg,1,variable
+linux_scan,1,function
+totem_action_error_try_download,1,function
+load_icon_file,1,function
+totem_action_error,1,function
+XShmGetEventBase,1,variable
+save_pixbuf,1,function
+pixbuf,1,variable
+totem_download_from_fourcc,1,function
+totem,1,variable

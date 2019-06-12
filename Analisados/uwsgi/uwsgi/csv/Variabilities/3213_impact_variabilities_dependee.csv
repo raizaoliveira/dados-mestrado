@@ -1,0 +1,7 @@
+def(__linux__),get_linux_tcp_info,parameter,Function,5
+True,uwsgi_parse_vars,exclusion,Function,5
+True,uwsgi_router_access,parameter,Function,5
+def(UWSGI_UDP),bind_to_udp,parameter,Function,5
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,5
+True,uwsgi_concat2,parameter,Function,5
+True,wsgi_req,additon,Variable,5

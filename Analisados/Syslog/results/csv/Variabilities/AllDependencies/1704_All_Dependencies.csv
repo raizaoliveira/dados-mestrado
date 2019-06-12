@@ -1,0 +1,6 @@
+True,def(__linux__)
+True,!def(HAVE_INET_ATON)
+True,def(HAVE_CLOCK_GETTIME)
+True,!def(HAVE_GETUTENT)
+!def(HAVE_INET_ATON),True
+def(__linux__),True

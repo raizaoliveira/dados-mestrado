@@ -1,0 +1,15 @@
+boot_time,1,variable
+msg_init,1,function
+afuser_dd_queue,1,function
+linux_msg_format_init,1,function
+now,1,variable
+testcase,1,function
+inet_aton,1,function
+msg_event_create,1,function
+test_zones,1,function
+test_timezone,1,function
+msg_event,1,function
+line,1,variable
+getutent,1,function
+buf,1,variable
+diff,1,variable

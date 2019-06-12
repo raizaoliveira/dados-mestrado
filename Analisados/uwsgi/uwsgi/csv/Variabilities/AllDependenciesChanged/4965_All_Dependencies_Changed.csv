@@ -1,0 +1,17 @@
+!def(__UCLIBC__),True
+def(UWSGI_ROUTING),(def(UWSGI_SSL)&def(UWSGI_ROUTING))
+(def(UWSGI_EMBEDDED)&!def(PYTHREE)&def(UWSGI_SPOOLER)),True
+def(UWSGI_SPOOLER),True
+def(__BIG_ENDIAN__),True
+def(__UCLIBC__),True
+True,def(UWSGI_SSL)
+True,def(UWSGI_ROUTING)
+!def(__linux__),True
+def(__linux__),True
+True,def(__linux__)
+def(UWSGI_ROUTING),(!def(UWSGI_XML_LIBXML2)&def(UWSGI_ROUTING))
+True,def(UWSGI_IPV6)
+def(UWSGI_IPV6),True
+!def(UWSGI_PYPY),!def(PYTHREE)
+True,def(__BIG_ENDIAN__)
+def(UWSGI_ROUTING),True

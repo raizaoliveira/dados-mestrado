@@ -1,0 +1,16 @@
+def(WIN32),read,additon,Function,4
+True,filepos,additon,Variable,4
+True,senseVerb,additon,Variable,4
+True,sense,additon,Variable,4
+True,verb,additon,Variable,4
+True,value,exclusion,Variable,4
+True,file,additon,Variable,4
+True,left,additon,Variable,4
+True,accText,additon,Variable,4
+True,label,additon,Variable,4
+True,help,additon,Variable,4
+def(WIN32),write,qualifier,Function,4
+True,vs,exclusion,Variable,4
+def(_WIN32),strerror_win32,qualifier,Function,4
+def(WIN32),close,additon,Function,4
+True,name,additon,Variable,4

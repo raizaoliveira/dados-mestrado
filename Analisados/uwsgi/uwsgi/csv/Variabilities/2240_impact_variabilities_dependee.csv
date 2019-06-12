@@ -1,0 +1,5 @@
+True,uwsgi_cheaper_algo_backlog,exclusion,Function,5
+True,argv,exclusion,Variable,5
+def(UWSGI_SCTP),connect_to_sctp,parameter,Function,5
+True,uwsgi_cheaper_algo_spare,exclusion,Function,5
+True,cheaper_backlog2_algo,exclusion,Function,5

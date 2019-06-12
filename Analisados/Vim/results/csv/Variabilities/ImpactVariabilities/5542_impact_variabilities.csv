@@ -1,0 +1,6 @@
+def(_WIN32),
+True,
+def(FEAT_GUI_W32),
+def(MAIN),
+def(FEAT_BEVAL),
+def(WIN32),

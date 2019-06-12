@@ -1,0 +1,13 @@
+def(__linux__),uwsgi_as_root,additon,Function,6
+True,environ,exclusion,Variable,6
+True,bind_to_tcp,additon,Function,6
+True,uwsgi_start,additon,Function,6
+True,i,additon,Variable,6
+True,optarg,additon,Variable,6
+True,masterpid,additon,Variable,6
+True,http_loop,additon,Function,6
+True,uwsgi_malloc,additon,Function,6
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,6
+True,uwsgi_log,additon,Function,6
+True,argv,exclusion,Variable,6
+(def(__linux__)&def(UWSGI_ASYNC)),async_queue_init,additon,Function,6

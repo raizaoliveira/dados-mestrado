@@ -1,0 +1,4 @@
+def(UWSGI_UDP),True
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),True
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_INI),True

@@ -1,0 +1,11 @@
+True,wsgi_req,additon,Variable,5
+def(UWSGI_PCRE),uwsgi_add_expires,type,Function,5
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,5
+True,real_filename,additon,Variable,5
+True,st,additon,Variable,5
+def(UWSGI_UDP),bind_to_udp,parameter,Function,5
+def(__linux__),get_linux_tcp_info,parameter,Function,5
+True,uwsgi_concat2,parameter,Function,5
+True,set_http_date,parameter,Function,5
+True,uwsgi_router_access,parameter,Function,5
+True,real_filename_len,additon,Variable,5

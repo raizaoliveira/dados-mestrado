@@ -1,0 +1,2 @@
+def(UWSGI_SCTP),connect_to_sctp,parameter,Function,4
+True,uwsgi_sock,exclusion,Variable,4

@@ -1,0 +1,7 @@
+True,uwsgi_add_rb_timer,exclusion,Function,6
+True,fr_get_hostname,parameter,Function,6
+def(UWSGI_EVENT_USE_KQUEUE),event_queue_add_fd_read,additon,Function,6
+def(UWSGI_SCTP),uwsgi_add_rb_timer,exclusion,Function,6
+True,corerouter_alloc_session,parameter,Function,6
+def(UWSGI_SCTP),connect_to_sctp,parameter,Function,6
+def(UWSGI_SCTP),corerouter_alloc_session,exclusion,Function,6

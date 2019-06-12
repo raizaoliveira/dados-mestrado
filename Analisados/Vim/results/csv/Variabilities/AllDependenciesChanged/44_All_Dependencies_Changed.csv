@@ -1,0 +1,3 @@
+!def(RISCOS),True
+(!def(PROTO)&!def(__BORLANDC__)),True
+True,!def(RISCOS)

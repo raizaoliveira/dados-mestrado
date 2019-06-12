@@ -1,0 +1,17 @@
+def(UWSGI_SSL),True
+def(UWSGI_MINTERPRETERS),True
+def(UWSGI_SPOOLER),def(UWSGI_EMBEDDED)
+def(UWSGI_SPOOLER),True
+!def(UWSGI_PYPY),True
+def(UWSGI_ROUTING),True
+True,def(__linux__)
+True,def(UWSGI_EMBEDDED)
+True,def(UWSGI_UDP)
+def(UWSGI_SPOOLER),(def(__BIG_ENDIAN__)&def(UWSGI_SPOOLER))
+def(__linux__),True
+(!def(UWSGI_SENDFILE)&!def(UWSGI_ASYNC)&!def(UWSGI_MINTERPRETERS)),True
+!def(__linux__),True
+(!def(UWSGI_SENDFILE)&!def(UWSGI_ASYNC)&def(UWSGI_MINTERPRETERS)),True
+!def(UWSGI_MINTERPRETERS),True
+True,def(UWSGI_SSL)
+(def(__linux__)&def(UWSGI_SPOOLER)),def(UWSGI_SPOOLER)

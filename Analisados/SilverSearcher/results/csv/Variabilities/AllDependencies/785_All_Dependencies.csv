@@ -1,0 +1,7 @@
+!def(HAVE_GETLINE),!def(HAVE_FGETLN)
+True,!def(STRERROR_R_CHAR_P)
+!def(STRERROR_R_CHAR_P),True
+True,!def(HAVE_GETLINE)
+True,!def(HAVE_VASPRINTF)
+True,!def(HAVE_STRNDUP)
+def(STRERROR_R_CHAR_P),True

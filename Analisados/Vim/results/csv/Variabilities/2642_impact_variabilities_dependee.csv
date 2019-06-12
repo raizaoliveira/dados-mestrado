@@ -1,0 +1,9 @@
+True,label,exclusion,Variable,3
+True,message,additon,Variable,3
+True,name,exclusion,Variable,3
+True,vimShell,additon,Variable,3
+True,filepos,exclusion,Variable,3
+True,line,exclusion,Variable,3
+True,accText,exclusion,Variable,3
+True,verb,exclusion,Variable,3
+True,severity,additon,Variable,3

@@ -1,0 +1,8 @@
+True,def(__linux__)
+def(UWSGI_ROUTING),(def(UWSGI_SSL)&def(UWSGI_ROUTING))
+True,def(UWSGI_ROUTING)
+def(UWSGI_ROUTING),True
+def(__BIG_ENDIAN__),True
+def(UWSGI_ROUTING),(def(UWSGI_MATHEVAL)&def(UWSGI_ROUTING))
+!def(UWSGI_PYPY),!def(PYTHREE)
+def(UWSGI_IPV6),True

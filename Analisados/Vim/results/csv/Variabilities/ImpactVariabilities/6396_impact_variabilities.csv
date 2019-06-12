@@ -1,0 +1,4 @@
+def(NBDEBUG),
+True,
+def(MAIN),
+def(FEAT_BEVAL),

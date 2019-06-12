@@ -1,0 +1,7 @@
+scandir;True; @ main;
+perror;True; @ main;
+__builtin_va_start;True;True;True;True;True; @ log_debug;log_msg;log_warn;log_err;plog;
+vplog;True;True;True;True;True; @ log_debug;log_msg;log_warn;log_err;plog;
+__builtin_va_end;True;True;True;True;True; @ log_debug;log_msg;log_warn;log_err;plog;
+printf;True;True;True;True;True; @ vplog;vplog;vplog;vplog;vplog;
+vprintf;True; @ vplog;

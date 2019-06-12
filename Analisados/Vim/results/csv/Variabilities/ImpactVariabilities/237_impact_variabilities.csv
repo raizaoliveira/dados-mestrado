@@ -1,0 +1,3 @@
+!def(NO_CONSOLE),
+def(FEAT_MBYTE),
+True,

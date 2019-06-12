@@ -1,0 +1,4 @@
+def(__BIG_ENDIAN__),uwsgi_parse_vars,exclusion,Function,2
+True,uwsgi_log,exclusion,Function,2
+def(__BIG_ENDIAN__),uwsgi_parse_response,exclusion,Function,2
+def(__BIG_ENDIAN__),uwsgi_swap16,exclusion,Function,2

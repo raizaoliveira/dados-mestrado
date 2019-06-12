@@ -1,0 +1,12 @@
+True,ufr,additon,Variable,6
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,6
+def(UWSGI_SCTP),choosen_fd,exclusion,Variable,6
+True,interesting_fd,additon,Variable,6
+True,fr_session,additon,Variable,6
+True,fr_get_hostname,parameter,Function,6
+def(UWSGI_EVENT_USE_KQUEUE),event_queue_add_fd_write,additon,Function,6
+True,close_session,additon,Function,6
+True,uwsgi_malloc,additon,Function,6
+True,uwsgi_log,additon,Function,6
+True,uwsgi_new_gateway_socket,additon,Function,6
+True,cache_command,parameter,Function,6

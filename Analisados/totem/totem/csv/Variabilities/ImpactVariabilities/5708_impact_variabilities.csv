@@ -1,0 +1,5 @@
+def(WITH_SMCLIENT),
+!def(TOTEM_PL_PARSER_MINI),
+def(HAVE_HAL_0_5),
+True,
+def(__linux__),

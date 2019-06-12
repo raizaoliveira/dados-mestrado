@@ -1,0 +1,3 @@
+def(__BIG_ENDIAN__),True
+def(UWSGI_SPOOLER),True
+def(UWSGI_LDAP),True

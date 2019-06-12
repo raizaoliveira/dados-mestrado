@@ -1,0 +1,2 @@
+def(UWSGI_ASYNC),True
+True,def(UWSGI_UDP)

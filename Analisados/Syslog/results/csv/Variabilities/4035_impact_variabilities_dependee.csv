@@ -1,0 +1,5 @@
+True,_,additon,Function,4
+def(__linux__),test_zones,exclusion,Function,4
+True,rcpt_instance,additon,Function,4
+True,boot_time,exclusion,Variable,4
+True,is_file_regular,exclusion,Function,4

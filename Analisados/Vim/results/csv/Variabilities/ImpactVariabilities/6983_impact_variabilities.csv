@@ -1,0 +1,6 @@
+def(FEAT_BEVAL),
+True,
+def(FEAT_GUI_W32),
+!def(FEAT_GUI_W32),
+def(MAIN),
+def(FEAT_GUI),

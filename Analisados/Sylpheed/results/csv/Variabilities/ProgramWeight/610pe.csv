@@ -1,0 +1,5 @@
+strndup,1,function
+strlcpy,1,function
+strlcat,1,function
+ignore_pattern_files,1,variable
+getline,1,function

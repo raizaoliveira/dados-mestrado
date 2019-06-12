@@ -1,0 +1,10 @@
+def(HAVE_X86),True
+True,!def(HAVE_GTK_ONLY)
+True,!def(USE_STABLE_LIBGNOMEUI)
+def(THUMB_DEBUG),True
+True,!def(XShmGetEventBase)
+True,def(HAVE_X86)
+True,def(__linux__)
+True,def(THUMB_DEBUG)
+def(__linux__),True
+!def(HAVE_X86),True

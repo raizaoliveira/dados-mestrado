@@ -1,0 +1,4 @@
+True,uwsgi_do_sendfile,additon,Function,3
+def(UWSGI_PASTE),uwsgi_paste_loader,parameter,Function,3
+True,wsgi_req,additon,Variable,3
+True,manage_python_response,exclusion,Function,3

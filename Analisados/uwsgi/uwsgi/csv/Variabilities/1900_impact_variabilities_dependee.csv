@@ -1,0 +1,4 @@
+True,uwsgi_concat2,parameter,Function,3
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,3
+True,cache_command,parameter,Function,3
+True,fr_get_hostname,parameter,Function,3

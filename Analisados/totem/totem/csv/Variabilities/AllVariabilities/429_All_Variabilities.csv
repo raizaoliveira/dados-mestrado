@@ -1,0 +1,6 @@
+!def(HAVE_XTEST),
+!def(USE_STABLE_LIBGNOMEUI),
+def(ENABLE_REMEMBER_INFO),
+!def(XShmGetEventBase),
+def(HAVE_XTEST),
+True,

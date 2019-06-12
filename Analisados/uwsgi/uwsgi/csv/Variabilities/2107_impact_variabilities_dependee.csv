@@ -1,0 +1,15 @@
+True,wsgi_req,exclusion,Variable,10
+def(UWSGI_SPOOLER),spool_request,exclusion,Function,10
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,10
+True,ptr,additon,Variable,10
+def(UWSGI_SCTP),fastrouter_loop,additon,Function,10
+True,ptrbuf,exclusion,Variable,10
+def(UWSGI_SPOOLER),spooler,exclusion,Function,10
+True,bufferend,exclusion,Variable,10
+True,vallen,additon,Variable,10
+True,fr_get_hostname,parameter,Function,10
+True,key,additon,Variable,10
+True,uwsgi_sock,exclusion,Variable,10
+True,val,additon,Variable,10
+def(UWSGI_SCTP),connect_to_sctp,parameter,Function,10
+True,keylen,additon,Variable,10

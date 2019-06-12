@@ -1,0 +1,2 @@
+def(HAVE_X86),totem_action_error_try_download,parameter,Function,3
+!def(USE_STABLE_LIBGNOMEUI),egg_recent_util_get_icon,parameter,Function,3

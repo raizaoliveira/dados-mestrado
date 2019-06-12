@@ -1,0 +1,2 @@
+def(__BIG_ENDIAN__),uwsgi_parse_response,additon,Function,1
+def(__BIG_ENDIAN__),uwsgi_swap16,parameter,Function,1

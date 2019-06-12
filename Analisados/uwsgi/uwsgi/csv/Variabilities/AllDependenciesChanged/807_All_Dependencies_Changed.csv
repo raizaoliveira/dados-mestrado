@@ -1,0 +1,4 @@
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),True
+def(__BIG_ENDIAN__),True
+def(UWSGI_ASYNC),True
+True,def(UWSGI_EMBEDDED)

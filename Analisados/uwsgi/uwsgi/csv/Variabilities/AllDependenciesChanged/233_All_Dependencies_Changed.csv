@@ -1,0 +1,3 @@
+True,def(__BIG_ENDIAN__)
+(!def(ROCK_SOLID)&!def(UNBIT)&def(__BIG_ENDIAN__)),(!def(ROCK_SOLID)&!def(UNBIT))
+(!def(ROCK_SOLID)&!def(UNBIT)&(def(ROCK_SOLID)|def(UNBIT)|!def(__BIG_ENDIAN__))),(!def(ROCK_SOLID)&!def(UNBIT))

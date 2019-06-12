@@ -1,0 +1,4 @@
+def(UWSGI_PASTE),uwsgi_paste_loader,parameter,Function,3
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,3
+True,environ,exclusion,Variable,3
+True,argv,exclusion,Variable,3

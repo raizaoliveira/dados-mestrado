@@ -1,0 +1,15 @@
+!def(NO_CONSOLE),True
+True,def(NBDEBUG)
+True,(!def(FEAT_GUI_MOTIF)&def(FEAT_GUI_GTK)&def(FEAT_GUI_W32)&(def(FEAT_GUI_GTK)|def(FEAT_GUI_W32)))
+(!def(FEAT_GUI_MOTIF)&def(FEAT_GUI_GTK)),True
+!def(RISCOS),True
+True,!def(FEAT_BEVAL)
+True,def(EBCDIC)
+(!def(FEAT_BEVAL)&def(WSDEBUG_SENSE)),True
+!def(FEAT_BEVAL),True
+(!def(FEAT_BEVAL)&def(WSDEBUG_TRACE)),True
+True,!def(RISCOS)
+def(EBCDIC),True
+!def(EBCDIC),True
+(!def(FEAT_GUI_MOTIF)&def(FEAT_GUI_GTK)),(!def(FEAT_GUI_MOTIF)&def(FEAT_GUI_GTK)&def(FEAT_GUI_W32)&(def(FEAT_GUI_GTK)|def(FEAT_GUI_W32)))
+def(FEAT_GUI),True

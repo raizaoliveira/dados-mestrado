@@ -1,0 +1,3 @@
+True,fr_get_hostname,parameter,Function,5
+def(UWSGI_EVENT_USE_KQUEUE),event_queue_add_fd_read,additon,Function,5
+def(UWSGI_SCTP),connect_to_sctp,parameter,Function,5

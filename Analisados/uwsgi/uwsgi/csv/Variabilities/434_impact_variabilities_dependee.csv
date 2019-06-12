@@ -1,0 +1,6 @@
+True,uh,exclusion,Variable,2
+True,buffer,exclusion,Variable,2
+True,nagios,exclusion,Function,2
+True,nagios_poll,exclusion,Function,2
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,2
+True,timeout,exclusion,Variable,2

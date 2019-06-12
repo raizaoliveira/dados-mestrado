@@ -1,0 +1,12 @@
+close,1,function
+lookup,1,function
+nbdbg,1,function
+sd,1,variable
+read,1,function
+write,1,function
+strerror_win32,1,function
+sendToVim,1,function
+wsdebug,1,function
+port,1,variable
+eap,1,variable
+msg,1,function

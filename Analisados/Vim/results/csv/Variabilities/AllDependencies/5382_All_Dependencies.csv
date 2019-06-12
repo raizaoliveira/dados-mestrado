@@ -1,0 +1,15 @@
+def(FEAT_SUN_WORKSHOP),def(FEAT_BEVAL)
+def(MAIN),True
+def(WSDEBUG_TRACE),True
+def(INET_SOCKETS),True
+!def(NO_CONSOLE),True
+True,def(NBDEBUG)
+def(WSDEBUG),True
+def(WSDEBUG_SENSE),True
+def(DEBUG),True
+True,def(WSDEBUG)
+def(FEAT_BEVAL),True
+!def(INET_SOCKETS),True
+!def(INET_SOCKETS),def(INET_SOCKETS)
+def(FEAT_GUI),True
+True,def(WSDEBUG_TRACE)

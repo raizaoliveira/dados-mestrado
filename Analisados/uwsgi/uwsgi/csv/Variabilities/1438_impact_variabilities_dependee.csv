@@ -1,0 +1,13 @@
+True,manage_cluster_announce,additon,Function,5
+True,manage_string_opt,exclusion,Function,5
+True,len,additon,Variable,5
+True,fr_get_hostname,additon,Function,5
+True,wsgi_req,exclusion,Variable,5
+True,fastrouter_manage_subscription,additon,Function,5
+True,cache_command,additon,Function,5
+True,data,additon,Variable,5
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,5
+True,ptrbuf,additon,Variable,5
+True,argv,additon,Variable,5
+True,bufferend,additon,Variable,5
+True,uwsgi_python_add_item,additon,Function,5

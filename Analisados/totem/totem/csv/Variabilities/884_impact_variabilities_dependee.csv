@@ -1,0 +1,7 @@
+True,totem,exclusion,Variable,3
+def(HAVE_X86),msg,additon,Variable,3
+!def(USE_STABLE_LIBGNOMEUI),egg_recent_util_get_icon,parameter,Function,3
+def(HAVE_X86),totem_action_set_mrl,additon,Function,3
+def(HAVE_X86),totem,additon,Variable,3
+def(HAVE_X86),totem_action_error_try_download,parameter,Function,3
+True,totem_action_error,additon,Function,3

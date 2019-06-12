@@ -1,0 +1,2 @@
+def(UWSGI_SPOOLER),spooler,exclusion,Function,4
+True,uwsgi_parse_response,exclusion,Function,4

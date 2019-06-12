@@ -1,0 +1,7 @@
+def(UWSGI_SNMP),tlen,type,Variable,6
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,6
+def(UWSGI_PROXY),proxyfd,exclusion,Variable,6
+def(UWSGI_SPOOLER),spooler,additon,Function,6
+True,current_wsgi_req,additon,Function,6
+def(UWSGI_PROXY),upcs,additon,Variable,6
+True,uwsgi_swap16,exclusion,Function,6

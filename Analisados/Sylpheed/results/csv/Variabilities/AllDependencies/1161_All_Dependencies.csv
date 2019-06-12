@@ -1,0 +1,8 @@
+True,!def(HAVE_VASPRINTF)
+True,!def(_WIN32)
+True,!def(HAVE_GETLINE)
+!def(_WIN32),True
+!def(HAVE_GETLINE),!def(HAVE_FGETLN)
+True,!def(HAVE_REALPATH)
+True,def(_WIN32)
+True,!def(HAVE_STRNDUP)

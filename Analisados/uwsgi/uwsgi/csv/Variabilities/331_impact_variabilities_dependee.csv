@@ -1,0 +1,2 @@
+def(UWSGI_SNMP),tlen,type,Variable,2
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,2

@@ -1,0 +1,3 @@
+def(UWSGI_UDP),bind_to_udp,parameter,Function,3
+!def(UWSGI_PYPY),python_call,additon,Function,3
+True,uwsgi_socket_nb,additon,Function,3

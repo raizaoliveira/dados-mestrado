@@ -1,0 +1,17 @@
+sd,1,variable
+hash,1,variable
+buf,1,variable
+hash_hash,1,function
+wsdebug,1,function
+strerror_win32,1,function
+ht,1,variable
+write,1,function
+read,1,function
+sendToVim,1,function
+eap,1,variable
+msg,1,function
+key,1,variable
+nbdbg,1,function
+port,1,variable
+close,1,function
+lookup,1,function

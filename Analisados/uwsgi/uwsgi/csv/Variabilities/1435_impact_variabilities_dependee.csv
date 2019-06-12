@@ -1,0 +1,10 @@
+True,uwsgi_gevent_switch,exclusion,Variable,4
+True,uwsgi_gevent_spawn,exclusion,Variable,4
+def(UWSGI_EMBEDDED),up,exclusion,Variable,4
+True,wsgi_req,exclusion,Variable,4
+True,args,exclusion,Variable,4
+True,gevent_current,exclusion,Variable,4
+True,callable,exclusion,Variable,4
+True,gevent_current_args,exclusion,Variable,4
+True,uwsgi_greenlet_args,exclusion,Variable,4
+True,uwsgi_gevent_switch_args,exclusion,Variable,4

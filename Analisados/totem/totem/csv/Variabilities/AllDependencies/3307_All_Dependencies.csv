@@ -1,0 +1,12 @@
+def(HAVE_X86),True
+True,def(HAVE_HAL)
+True,def(HAVE_HAL_0_5)
+def(HAVE_HAL),True
+True,def(HAVE_HAL_0_2)
+True,def(__linux__)
+def(HAVE_HAL_0_5),!def(HAVE_HAL)
+True,def(HAVE_X86)
+True,!def(HAVE_GTK_ONLY)
+True,!def(XShmGetEventBase)
+def(HAVE_HAL),def(HAVE_HAL_0_2)
+!def(HAVE_X86),True

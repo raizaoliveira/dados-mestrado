@@ -1,0 +1,10 @@
+True,uwsgi_cluster_simple_add_node,exclusion,Function,2
+True,wsgi_req,exclusion,Variable,2
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,2
+True,async_id,exclusion,Variable,2
+True,i,additon,Variable,2
+True,uwsgi_log,exclusion,Function,2
+True,optarg,additon,Variable,2
+True,argv,additon,Variable,2
+True,bind_to_tcp,exclusion,Function,2
+True,bind_to_unix,exclusion,Function,2

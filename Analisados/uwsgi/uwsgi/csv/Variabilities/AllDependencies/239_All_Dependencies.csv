@@ -1,0 +1,12 @@
+!def(NGX_HAVE_LITTLE_ENDIAN),def(__BIG_ENDIAN__)
+!def(ROCK_SOLID),True
+(def(__BIG_ENDIAN__)&!def(ROCK_SOLID)),def(__BIG_ENDIAN__)
+def(__BIG_ENDIAN__),True
+True,def(__BIG_ENDIAN__)
+(def(__BIG_ENDIAN__)&!def(ROCK_SOLID)),!def(ROCK_SOLID)
+!def(ROCK_SOLID),def(__BIG_ENDIAN__)
+!def(ROCK_SOLID),(def(__BIG_ENDIAN__)&!def(ROCK_SOLID))
+(!def(ROCK_SOLID)&!def(UNBIT)&def(__BIG_ENDIAN__)),(!def(ROCK_SOLID)&!def(UNBIT))
+(!def(ROCK_SOLID)&!def(UNBIT)&(def(ROCK_SOLID)|def(UNBIT)|!def(__BIG_ENDIAN__))),(!def(ROCK_SOLID)&!def(UNBIT))
+True,!def(NGX_HAVE_LITTLE_ENDIAN)
+True,!def(ROCK_SOLID)

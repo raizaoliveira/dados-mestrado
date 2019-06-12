@@ -1,0 +1,9 @@
+def(__linux__),True
+def(THUMB_DEBUG),True
+True,def(HAVE_X86)
+True,!def(XShmGetEventBase)
+True,def(__linux__)
+def(HAVE_X86),True
+True,def(THUMB_DEBUG)
+!def(HAVE_X86),True
+True,!def(USE_STABLE_LIBGNOMEUI)

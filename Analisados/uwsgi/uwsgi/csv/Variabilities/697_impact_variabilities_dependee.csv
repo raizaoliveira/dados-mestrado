@@ -1,0 +1,6 @@
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,4
+True,ptrbuf,additon,Variable,4
+True,wsgi_req,additon,Variable,4
+True,uwsgi_log,additon,Function,4
+True,bufferend,additon,Variable,4
+True,print_dict,additon,Function,4

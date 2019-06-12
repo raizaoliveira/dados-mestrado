@@ -1,0 +1,5 @@
+True,!def(HAVE_GETUTXENT)
+True,def(HAVE_GETUTXENT)
+def(__linux__),True
+def(HAVE_GETUTXENT),True
+!def(HAVE_GETUTXENT),True

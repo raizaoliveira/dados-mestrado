@@ -1,0 +1,5 @@
+True,
+def(HAVE_HAL_0_5),
+!def(TOTEM_PL_PARSER_MINI),
+def(__linux__),
+def(HAVE_X86),

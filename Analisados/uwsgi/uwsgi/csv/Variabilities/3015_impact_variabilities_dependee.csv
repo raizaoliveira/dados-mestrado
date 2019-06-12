@@ -1,0 +1,4 @@
+def(UWSGI_UDP),bind_to_udp,parameter,Function,3
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,3
+True,uwsgi_router_access,parameter,Function,3
+def(__linux__),get_linux_tcp_info,parameter,Function,3

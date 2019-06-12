@@ -1,0 +1,2 @@
+def(UWSGI_DEBUG),True
+def(UWSGI_SENDFILE),True

@@ -1,0 +1,2 @@
+!def(ROCK_SOLID),spool_buffer,exclusion,Variable,4
+(!def(ROCK_SOLID)&!def(UNBIT)),tlen,type,Variable,4

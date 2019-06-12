@@ -1,0 +1,2 @@
+True,(!def(UWSGI_UDP)&def(__BIG_ENDIAN__))
+True,!def(NGX_HAVE_LITTLE_ENDIAN)

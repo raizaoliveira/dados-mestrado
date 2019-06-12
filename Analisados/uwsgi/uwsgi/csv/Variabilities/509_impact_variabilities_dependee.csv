@@ -1,0 +1,7 @@
+def(UWSGI_SPOOLER),spooler,additon,Function,5
+True,uwsgi_swap16,additon,Function,5
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,5
+True,uwsgi_parse_response,additon,Function,5
+True,wsgi_req,exclusion,Variable,5
+True,uwsgi_log,exclusion,Function,5
+True,uwsgi_load_plugin,additon,Function,5

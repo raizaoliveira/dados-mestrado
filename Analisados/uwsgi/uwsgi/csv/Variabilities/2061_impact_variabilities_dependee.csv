@@ -1,0 +1,7 @@
+True,uwsgi_log,exclusion,Function,5
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,5
+True,cache_command,parameter,Function,5
+def(UWSGI_SPOOLER),dir,exclusion,Variable,5
+True,fr_get_hostname,parameter,Function,5
+def(UWSGI_SPOOLER),spooler,parameter,Function,5
+True,uwsgi_send_empty_pkt,exclusion,Function,5

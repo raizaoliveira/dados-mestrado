@@ -1,0 +1,11 @@
+True,cache_command,parameter,Function,5
+def(UWSGI_EVENT_USE_KQUEUE),event_queue_add_fd_write,additon,Function,5
+True,uwsgi_malloc,additon,Function,5
+def(UWSGI_EVENT_USE_KQUEUE),fd,additon,Variable,5
+True,count_options,additon,Function,5
+True,uwsgi_concat2,additon,Function,5
+True,manage_opt,exclusion,Function,5
+True,http_manage_subscription,parameter,Function,5
+True,uwsgi_log,additon,Function,5
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,5
+def(UWSGI_EVENT_USE_EPOLL),event_queue_add_fd_read,additon,Function,5

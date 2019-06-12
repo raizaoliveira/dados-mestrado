@@ -1,0 +1,5 @@
+def(UWSGI_ROUTING),True
+True,def(UWSGI_UDP)
+(def(__linux__)&def(UWSGI_SPOOLER)),def(UWSGI_SPOOLER)
+def(UWSGI_SPOOLER),def(UWSGI_EMBEDDED)
+True,def(__linux__)

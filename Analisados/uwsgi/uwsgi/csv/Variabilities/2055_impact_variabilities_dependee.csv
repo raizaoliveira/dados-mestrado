@@ -1,0 +1,13 @@
+True,cache_command,parameter,Function,6
+def(UWSGI_SENDFILE),uwsgi_response_subhandler_wsgi,exclusion,Function,6
+def(UWSGI_EMBEDDED),up,exclusion,Variable,6
+True,uwsgi_log,exclusion,Function,6
+True,fr_get_hostname,parameter,Function,6
+True,init_pyargv,additon,Function,6
+True,uwsgi_strncopy,additon,Function,6
+True,environ,additon,Variable,6
+True,uwsgi_get_app_id,additon,Function,6
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,6
+True,init_uwsgi_vars,additon,Function,6
+True,uwsgi_concat2,parameter,Function,6
+True,get_uwsgi_pydict,exclusion,Function,6

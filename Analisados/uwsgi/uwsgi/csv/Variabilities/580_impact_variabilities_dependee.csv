@@ -1,0 +1,2 @@
+True,uwsgi_log,exclusion,Function,3
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,3

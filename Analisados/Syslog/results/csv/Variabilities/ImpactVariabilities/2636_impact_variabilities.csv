@@ -1,0 +1,4 @@
+True,
+!def(HAVE_UTMPX_H),
+def(HAVE_UTMPX_H),
+def(__linux__),

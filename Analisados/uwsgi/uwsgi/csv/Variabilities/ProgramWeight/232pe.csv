@@ -1,0 +1,13 @@
+uwsgi,1,variable
+spool_request,1,function
+uwsgi_enqueue_message,1,function
+uh,1,variable
+uwsgi_swap16,1,function
+spool_buffer,1,variable
+uwsgi_parse_response,1,function
+tlen,1,variable
+timeout,1,variable
+spooler,1,function
+uwsgi_send_message,1,function
+buffer,1,variable
+ngx_http_uwsgi_create_request,1,function

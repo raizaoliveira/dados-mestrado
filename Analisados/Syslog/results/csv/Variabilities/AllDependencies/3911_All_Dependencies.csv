@@ -1,0 +1,16 @@
+True,def(__linux__)
+True,!def(HAVE_MEMRCHR)
+!def(_AIX),True
+True,def(HAVE_UTMPX_H)
+True,def(_AIX)
+def(_AIX),True
+True,!def(HAVE_STRCASESTR)
+True,!def(PCRE_NEWLINE_ANYCRLF)
+!def(HAVE_UTMPX_H),True
+!def(HAVE_INET_ATON),True
+!def(PCRE_NEWLINE_ANYCRLF),True
+True,def(JSON_C_VERSION)
+True,!def(JSON_C_VERSION)
+True,!def(HAVE_INET_ATON)
+def(__linux__),True
+True,!def(HAVE_UTMPX_H)

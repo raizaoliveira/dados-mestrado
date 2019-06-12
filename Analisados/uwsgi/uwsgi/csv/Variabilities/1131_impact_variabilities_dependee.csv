@@ -1,0 +1,6 @@
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,6
+True,ufr,additon,Variable,6
+def(UWSGI_EVENT_USE_KQUEUE),event_queue_add_fd_write,additon,Function,6
+def(UWSGI_EVENT_USE_EPOLL),event_queue_add_fd_read,additon,Function,6
+True,uwsgi_log,additon,Function,6
+def(UWSGI_EVENT_USE_EPOLL),event_queue_init,additon,Function,6

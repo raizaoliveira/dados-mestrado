@@ -1,0 +1,3 @@
+True,def(UWSGI_EMBEDDED)
+True,def(__BIG_ENDIAN__)
+True,def(UWSGI_PASTE)

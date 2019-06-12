@@ -1,0 +1,4 @@
+True,def(__linux__)
+def(UWSGI_ASYNC),True
+True,def(UWSGI_UDP)
+def(UWSGI_ROUTING),True

@@ -1,0 +1,7 @@
+!def(UWSGI_PYPY),!def(PYTHREE)
+def(UWSGI_IPV6),True
+True,def(UWSGI_UDP)
+def(UWSGI_ROUTING),True
+True,def(__linux__)
+def(__BIG_ENDIAN__),True
+True,def(__BIG_ENDIAN__)

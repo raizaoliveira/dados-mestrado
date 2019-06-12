@@ -1,0 +1,4 @@
+True,callable,exclusion,Variable,3
+True,args,exclusion,Variable,3
+True,wsgi_req,exclusion,Variable,3
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,3

@@ -1,0 +1,15 @@
+True,def(HAVE_STRNDUP)
+True,!def(_WIN32)
+!def(HAVE_REALPATH),!def(HAVE_STRLCPY)
+!def(_WIN32),True
+True,!def(HAVE_VASPRINTF)
+!def(HAVE_STRNDUP),True
+def(_WIN32),True
+!def(HAVE_GETLINE),!def(HAVE_FGETLN)
+True,def(_WIN32)
+def(PATH_MAX),True
+!def(HAVE_STRNDUP),!def(HAVE_STRLCPY)
+def(PATH_MAX),!def(HAVE_REALPATH)
+def(HAVE_STRNDUP),True
+True,!def(HAVE_GETLINE)
+!def(PATH_MAX),!def(HAVE_REALPATH)

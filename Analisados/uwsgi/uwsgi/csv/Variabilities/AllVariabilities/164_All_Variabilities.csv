@@ -1,0 +1,7 @@
+!def(NGX_HAVE_LITTLE_ENDIAN),
+def(__sun__),
+(!def(__sun__)&def(__BIG_ENDIAN__)),
+(def(__sun__)&def(__BIG_ENDIAN__)),
+!def(UNBIT),
+True,
+def(__BIG_ENDIAN__),

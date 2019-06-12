@@ -1,0 +1,6 @@
+!def(HAVE_REALPATH),
+!def(HAVE_VASPRINTF),
+!def(HAVE_GETLINE),
+True,
+!def(HAVE_STRNDUP),
+!def(HAVE_FGETLN),

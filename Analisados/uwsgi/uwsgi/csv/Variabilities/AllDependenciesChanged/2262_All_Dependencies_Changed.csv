@@ -1,0 +1,3 @@
+!def(UWSGI_PYPY),!def(PYTHREE)
+True,def(UWSGI_SCTP)
+True,def(__BIG_ENDIAN__)

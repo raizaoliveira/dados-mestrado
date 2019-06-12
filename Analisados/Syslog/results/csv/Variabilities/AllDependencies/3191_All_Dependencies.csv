@@ -1,0 +1,12 @@
+!def(PCRE_NEWLINE_ANYCRLF),True
+True,!def(HAVE_UTMPX_H)
+True,def(HAVE_CLOCK_GETTIME)
+def(__linux__),True
+True,!def(HAVE_INET_ATON)
+True,!def(HAVE_MEMRCHR)
+True,def(HAVE_UTMPX_H)
+True,!def(HAVE_STRCASESTR)
+True,!def(PCRE_NEWLINE_ANYCRLF)
+True,def(__linux__)
+!def(HAVE_INET_ATON),True
+!def(HAVE_UTMPX_H),True

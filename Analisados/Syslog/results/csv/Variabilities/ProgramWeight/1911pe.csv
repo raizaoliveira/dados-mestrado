@@ -1,0 +1,9 @@
+testcase,1,function
+test_zones,1,function
+inet_aton,1,function
+getutent,1,function
+now,1,variable
+buf,1,variable
+diff,1,variable
+endutent,1,function
+test_timezone,1,function

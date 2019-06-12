@@ -1,0 +1,2 @@
+scandir;True; @ main;
+perror;True; @ main;

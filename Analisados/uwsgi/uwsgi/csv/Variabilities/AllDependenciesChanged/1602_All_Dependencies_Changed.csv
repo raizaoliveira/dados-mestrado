@@ -1,0 +1,4 @@
+def(UWSGI_ASYNC),True
+def(__BIG_ENDIAN__),True
+True,def(__APPLE__)
+True,!def(PYTHREE)

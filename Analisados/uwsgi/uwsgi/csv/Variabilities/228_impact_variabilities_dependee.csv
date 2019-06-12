@@ -1,0 +1,2 @@
+(!def(ROCK_SOLID)&!def(UNBIT)),tlen,type,Variable,3
+def(__BIG_ENDIAN__),uwsgi_swap16,parameter,Function,3

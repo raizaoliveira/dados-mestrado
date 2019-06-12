@@ -1,0 +1,16 @@
+balloonEval,1,variable
+beval,1,variable
+last_sourcing_lnum,1,variable
+p,1,variable
+directory,1,variable
+msg,1,function
+fn,1,function
+fname,1,function
+mch_write,1,function
+vs,1,variable
+qf_get_fnum,1,function
+mch_getperm,1,function
+qf_guess_filepath,1,function
+sign,1,variable
+gui,1,variable
+computeIndex,1,function

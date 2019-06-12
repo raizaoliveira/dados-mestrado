@@ -1,0 +1,10 @@
+True,uwsgi_parse_vars,exclusion,Function,7
+True,uwsgi_router_access,parameter,Function,7
+def(UWSGI_SSL),uwsgi_add_subscribe_node,additon,Function,7
+def(UWSGI_PCRE),uwsgi_real_file_serve,exclusion,Function,7
+True,uwsgi_concat2,parameter,Function,7
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,7
+def(UWSGI_UDP),bind_to_udp,parameter,Function,7
+def(__linux__),get_linux_tcp_info,parameter,Function,7
+True,usr,exclusion,Variable,7
+def(UWSGI_PCRE),uwsgi_alarms_init,exclusion,Function,7

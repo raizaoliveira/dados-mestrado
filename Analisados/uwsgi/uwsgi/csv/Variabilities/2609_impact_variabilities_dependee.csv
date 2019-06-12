@@ -1,0 +1,5 @@
+True,usr,additon,Variable,4
+def(UWSGI_UDP),bind_to_udp,parameter,Function,4
+True,current_slot,exclusion,Variable,4
+def(UWSGI_PCRE),slot_prev,exclusion,Variable,4
+def(UWSGI_SSL),uwsgi_add_subscribe_node,additon,Function,4

@@ -1,0 +1,2 @@
+def(UWSGI_SNMP),tlen,type,Variable,3
+True,python_call,additon,Function,3

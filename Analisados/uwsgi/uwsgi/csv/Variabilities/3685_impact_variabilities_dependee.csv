@@ -1,0 +1,14 @@
+True,fr_get_hostname,parameter,Function,5
+True,uwsgi_parse_legion,parameter,Function,5
+def(__linux__),get_linux_tcp_info,parameter,Function,5
+(def(UWSGI_MATHEVAL)&def(UWSGI_ROUTING)),uwsgi_route_var_math,parameter,Function,5
+True,uwsgi_concat2,parameter,Function,5
+True,uwsgi_route_var_geoip,parameter,Function,5
+True,uwsgi_router_ssi,parameter,Function,5
+True,corerouter_manage_subscription,parameter,Function,5
+def(__linux__),get_linux_unbit_SIOBKLGQ,parameter,Function,5
+True,stats_dump_var,parameter,Function,5
+True,append_vars_to_ubuf,parameter,Function,5
+True,cache_simple_command,parameter,Function,5
+def(UWSGI_UDP),bind_to_udp,parameter,Function,5
+True,uwsgi_router_access,parameter,Function,5

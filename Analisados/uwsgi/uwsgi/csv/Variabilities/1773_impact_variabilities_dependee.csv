@@ -1,0 +1,8 @@
+True,main,exclusion,Function,2
+True,remains,exclusion,Function,2
+True,wsgi_req,exclusion,Variable,2
+True,uwsgi_concat2,parameter,Function,2
+True,fr_get_hostname,parameter,Function,2
+True,cache_command,parameter,Function,2
+True,fastrouter_manage_subscription,parameter,Function,2
+True,uc,exclusion,Variable,2

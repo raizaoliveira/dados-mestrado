@@ -1,0 +1,2 @@
+True,uwsgi_sendfile,parameter,Function,2
+def(UWSGI_SNMP),tlen,type,Variable,2

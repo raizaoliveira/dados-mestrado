@@ -1,0 +1,15 @@
+def(UWSGI_HTTP),True
+def(UWSGI_UDP),def(__BIG_ENDIAN__)
+def(UWSGI_ASYNC),(def(__linux__)&def(UWSGI_ASYNC))
+def(UWSGI_ROUTING),True
+def(__BIG_ENDIAN__),True
+def(__BIG_ENDIAN__),def(UWSGI_UDP)
+def(UWSGI_UDP),(def(UWSGI_MULTICAST)&def(UWSGI_UDP))
+def(UWSGI_INI),True
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),True
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_EVENT_FILEMONITOR_USE_INOTIFY),def(UWSGI_EMBEDDED)
+True,def(UWSGI_YAML)
+def(UWSGI_UDP),True
+def(UWSGI_YAML),True
+!def(UWSGI_UDP),True

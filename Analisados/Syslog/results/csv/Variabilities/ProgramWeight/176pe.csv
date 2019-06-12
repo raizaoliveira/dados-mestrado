@@ -1,0 +1,3 @@
+getutent,1,function
+buf,1,variable
+inet_aton,1,function

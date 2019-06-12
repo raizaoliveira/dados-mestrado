@@ -1,0 +1,11 @@
+True,cache_command,parameter,Function,2
+True,wsgi_req,exclusion,Variable,2
+True,fr_get_hostname,parameter,Function,2
+True,st,additon,Variable,2
+True,uwsgi_concat2,parameter,Function,2
+True,ptrbuf,exclusion,Variable,2
+True,uwsgi_static_stat,additon,Function,2
+True,fastrouter_manage_subscription,parameter,Function,2
+True,uwsgi_log,additon,Function,2
+True,filename,additon,Variable,2
+True,bufferend,exclusion,Variable,2

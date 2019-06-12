@@ -1,0 +1,8 @@
+(def(UWSGI_ASYNC)&!def(__linux__)),queuefd,exclusion,Variable,4
+(def(UWSGI_ASYNC)&!def(__linux__)),fd,exclusion,Variable,4
+(def(UWSGI_ASYNC)&!def(__linux__)),async_wait,exclusion,Function,4
+(def(__linux__)&def(UWSGI_ASYNC)),async_wait,additon,Function,4
+(def(__linux__)&def(UWSGI_ASYNC)),async_add,exclusion,Function,4
+def(UWSGI_PASTE),uwsgi_paste_loader,parameter,Function,4
+(def(UWSGI_ASYNC)&!def(__linux__)),etype,exclusion,Variable,4
+(def(UWSGI_ASYNC)&!def(__linux__)),async_add,additon,Function,4

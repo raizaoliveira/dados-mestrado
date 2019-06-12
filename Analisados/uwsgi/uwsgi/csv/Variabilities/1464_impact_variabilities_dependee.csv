@@ -1,0 +1,6 @@
+True,fastrouter_manage_subscription,parameter,Function,4
+def(UWSGI_EMBEDDED),up,additon,Variable,4
+def(UWSGI_SENDFILE),uwsgi_response_subhandler_wsgi,additon,Function,4
+True,cache_command,parameter,Function,4
+True,uwsgi_log,additon,Function,4
+True,fr_get_hostname,parameter,Function,4

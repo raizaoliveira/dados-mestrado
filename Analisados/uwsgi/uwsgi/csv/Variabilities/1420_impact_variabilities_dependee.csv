@@ -1,0 +1,4 @@
+True,wsgi_req,additon,Variable,3
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,3
+True,ping,additon,Function,3
+True,uwsgi_ping_node,exclusion,Function,3

@@ -1,0 +1,7 @@
+True,(!def(PROTO)&!def(__BORLANDC__))
+!def(RISCOS),True
+!def(NO_CONSOLE),True
+(!def(PROTO)&!def(__BORLANDC__)),True
+def(EBCDIC),True
+!def(EBCDIC),True
+True,!def(RISCOS)

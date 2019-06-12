@@ -1,0 +1,7 @@
+True,!def(HAVE_X86)
+def(HAVE_X86),True
+True,!def(USE_STABLE_LIBGNOMEUI)
+True,def(HAVE_X86)
+!def(USE_STABLE_LIBGNOMEUI),True
+!def(HAVE_X86),True
+True,!def(XShmGetEventBase)

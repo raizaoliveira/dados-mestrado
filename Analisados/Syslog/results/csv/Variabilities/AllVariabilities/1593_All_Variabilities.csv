@@ -1,0 +1,6 @@
+!def(HAVE_GETUTENT),
+def(_AIX),
+def(ENV_LD_LIBRARY_PATH),
+True,
+def(__linux__),
+!def(HAVE_INET_ATON),

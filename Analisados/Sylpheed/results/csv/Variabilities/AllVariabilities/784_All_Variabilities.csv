@@ -1,0 +1,8 @@
+def(USE_PCRE_JIT),
+!def(HAVE_FGETLN),
+True,
+!def(HAVE_STRNDUP),
+!def(HAVE_GETLINE),
+!def(STRERROR_R_CHAR_P),
+def(STRERROR_R_CHAR_P),
+!def(HAVE_VASPRINTF),

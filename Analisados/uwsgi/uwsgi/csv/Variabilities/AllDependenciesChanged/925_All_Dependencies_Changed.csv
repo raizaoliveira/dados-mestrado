@@ -1,0 +1,8 @@
+True,def(UWSGI_EMBEDDED)
+True,def(UWSGI_EVENT_USE_KQUEUE)
+!def(__linux__),True
+True,def(UWSGI_DEBUG)
+def(UWSGI_LDAP),True
+def(__BIG_ENDIAN__),True
+True,def(UWSGI_EVENT_USE_EPOLL)
+def(UWSGI_EVENT_USE_EPOLL),def(UWSGI_EVENT_USE_KQUEUE)

@@ -1,0 +1,17 @@
+True,uh,exclusion,Variable,6
+(def(UWSGI_ASYNC)&!def(__linux__)),async_add,exclusion,Function,6
+True,callable,additon,Variable,6
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,6
+(def(UWSGI_ASYNC)&!def(__linux__)),queuefd,additon,Variable,6
+def(UWSGI_PASTE),uwsgi_paste_loader,parameter,Function,6
+True,buffer,exclusion,Variable,6
+True,uwsgi_concat2,additon,Function,6
+True,timeout,exclusion,Variable,6
+True,nagios_poll,exclusion,Function,6
+(def(UWSGI_ASYNC)&!def(__linux__)),etype,additon,Variable,6
+(def(UWSGI_ASYNC)&!def(__linux__)),fd,additon,Variable,6
+True,args,additon,Variable,6
+True,uwsgi_log_verbose,exclusion,Function,6
+True,nagios,exclusion,Function,6
+(def(__linux__)&def(UWSGI_ASYNC)),async_add,additon,Function,6
+True,uwsgi_log,additon,Function,6

@@ -1,0 +1,14 @@
+True,def(WSDEBUG)
+def(WSDEBUG_TRACE),True
+def(WSDEBUG_SENSE),True
+!def(RISCOS),True
+True,def(RISCOS)
+True,!def(RISCOS)
+def(FEAT_SUN_WORKSHOP),def(FEAT_BEVAL)
+def(WSDEBUG),True
+def(FEAT_GUI),True
+True,def(WSDEBUG_TRACE)
+def(RISCOS),True
+True,def(NBDEBUG)
+def(FEAT_BEVAL),True
+!def(NO_CONSOLE),True

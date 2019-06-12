@@ -1,0 +1,8 @@
+def(UWSGI_SCTP),connect_to_sctp,exclusion,Function,7
+def(UWSGI_EVENT_USE_KQUEUE),event_queue_add_fd_read,exclusion,Function,7
+def(UWSGI_SCTP),uwsgi_corerouter_loop,additon,Function,7
+True,uwsgi_concat2,exclusion,Function,7
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,7
+True,uwsgi_add_sockets_to_queue,additon,Function,7
+True,uwsgi_log,additon,Function,7
+True,fr_get_hostname,parameter,Function,7

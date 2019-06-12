@@ -1,0 +1,14 @@
+True,!def(SYSLOG_NG_HAVE_STRCASESTR)
+def(__linux__),True
+!def(SYSLOG_NG_HAVE_UTMPX_H),True
+!def(_AIX),True
+True,def(SYSLOG_NG_HAVE_MODERN_UTMP)
+True,def(JSON_C_VERSION)
+!def(SYSLOG_NG_HAVE_MODERN_UTMP),True
+def(_AIX),True
+True,!def(SYSLOG_NG_HAVE_INET_ATON)
+True,def(__linux__)
+def(SYSLOG_NG_HAVE_MODERN_UTMP),True
+True,def(SYSLOG_NG_HAVE_UTMPX_H)
+True,!def(JSON_C_VERSION)
+True,!def(SYSLOG_NG_HAVE_MODERN_UTMP)

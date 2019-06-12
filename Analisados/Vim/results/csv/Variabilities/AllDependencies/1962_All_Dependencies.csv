@@ -1,0 +1,15 @@
+(!def(FEAT_BEVAL)&def(WSDEBUG_TRACE)),True
+def(FEAT_GUI),True
+(!def(FEAT_BEVAL)&def(WSDEBUG_SENSE)),True
+True,def(RISCOS)
+!def(RISCOS),True
+!def(FEAT_BEVAL),True
+True,!def(FEAT_BEVAL)
+True,!def(RISCOS)
+True,(!def(FEAT_BEVAL)&def(WSDEBUG_TRACE))
+def(RISCOS),True
+True,def(WSDEBUG)
+True,(!def(FEAT_BEVAL)&def(WSDEBUG))
+True,def(NBDEBUG)
+(!def(FEAT_BEVAL)&def(WSDEBUG)),True
+!def(NO_CONSOLE),True

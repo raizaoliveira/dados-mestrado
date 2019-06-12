@@ -1,0 +1,6 @@
+True,
+!def(HAVE_STRLCAT),
+!def(HAVE_STRNDUP),
+!def(HAVE_GETLINE),
+!def(HAVE_STRLCPY),
+def(USE_PCRE_JIT),

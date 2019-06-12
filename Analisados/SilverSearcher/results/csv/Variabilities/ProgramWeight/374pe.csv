@@ -1,0 +1,3 @@
+set_log_level,1,function
+strlcpy,1,function
+strlcat,1,function

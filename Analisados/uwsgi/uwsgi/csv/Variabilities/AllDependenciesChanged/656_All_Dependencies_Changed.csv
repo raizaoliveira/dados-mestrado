@@ -1,0 +1,6 @@
+True,def(UWSGI_PASTE)
+True,(def(__linux__)&def(UWSGI_ASYNC))
+True,(def(UWSGI_ASYNC)&!def(__linux__))
+True,def(UWSGI_ASYNC)
+True,def(__BIG_ENDIAN__)
+def(UWSGI_ROUTING),True

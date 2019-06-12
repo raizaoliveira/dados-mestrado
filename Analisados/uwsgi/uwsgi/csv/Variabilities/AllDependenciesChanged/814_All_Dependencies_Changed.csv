@@ -1,0 +1,7 @@
+True,def(UWSGI_EMBEDDED)
+True,def(UWSGI_EVENT_USE_EPOLL)
+def(__BIG_ENDIAN__),True
+def(UWSGI_EVENT_USE_KQUEUE),def(UWSGI_EMBEDDED)
+(def(__linux__)&def(UWSGI_ASYNC)),True
+True,def(UWSGI_EVENT_USE_KQUEUE)
+def(UWSGI_ASYNC),True

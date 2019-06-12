@@ -1,0 +1,2 @@
+def(__linux__),scan_for_video_devices,additon,Function,2
+!def(USE_STABLE_LIBGNOMEUI),egg_recent_util_get_icon,parameter,Function,2

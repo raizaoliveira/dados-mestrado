@@ -1,0 +1,16 @@
+def(UWSGI_UDP),manage_string_opt,additon,Function,3
+True,cache_command,exclusion,Function,3
+True,ptrbuf,exclusion,Variable,3
+True,argv,exclusion,Variable,3
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,3
+True,optarg,exclusion,Variable,3
+True,data,exclusion,Variable,3
+True,wsgi_req,exclusion,Variable,3
+True,uwsgi_python_add_item,exclusion,Function,3
+True,len,exclusion,Variable,3
+True,uwsgi_hooked_parse_dict_dgram,exclusion,Function,3
+True,manage_cluster_announce,exclusion,Function,3
+True,i,exclusion,Variable,3
+True,bufferend,exclusion,Variable,3
+True,manage_string_opt,additon,Function,3
+True,argc,exclusion,Variable,3

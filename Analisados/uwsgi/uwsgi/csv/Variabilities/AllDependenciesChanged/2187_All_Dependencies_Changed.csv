@@ -1,0 +1,7 @@
+def(UWSGI_SENDFILE),True
+True,def(__BIG_ENDIAN__)
+True,def(UWSGI_SCTP)
+def(UWSGI_PYPY),True
+def(__BIG_ENDIAN__),True
+!def(UWSGI_PYPY),True
+!def(UWSGI_PYPY),!def(PYTHREE)

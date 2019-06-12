@@ -1,0 +1,4 @@
+True,alarm_has_fired,additon,Function,2
+True,alarm_set,additon,Function,2
+True,alarm_cancel,additon,Function,2
+def(__linux__),linux_msg_format_init,additon,Function,2

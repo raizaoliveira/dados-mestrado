@@ -1,0 +1,2 @@
+True,def(SYSLOG_NG_HAVE_UTMPX_H)
+True,!def(SYSLOG_NG_HAVE_UTMPX_H)

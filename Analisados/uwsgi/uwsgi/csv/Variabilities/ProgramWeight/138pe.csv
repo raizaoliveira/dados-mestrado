@@ -1,0 +1,2 @@
+ngx_http_uwsgi_create_request,1,function
+uwsgi_swap16,1,function

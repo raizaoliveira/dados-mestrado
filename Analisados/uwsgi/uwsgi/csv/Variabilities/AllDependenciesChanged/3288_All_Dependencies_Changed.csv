@@ -1,0 +1,6 @@
+def(UWSGI_ASYNC),True
+def(UWSGI_IPV6),True
+True,def(UWSGI_UDP)
+def(UWSGI_ROUTING),True
+!def(UWSGI_PYPY),!def(PYTHREE)
+True,def(__linux__)

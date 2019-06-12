@@ -1,0 +1,4 @@
+getline,1,function
+strndup,1,function
+fgetln,1,function
+vasprintf,1,function

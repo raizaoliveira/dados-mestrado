@@ -1,0 +1,16 @@
+def(UWSGI_PASTE),uwsgi_paste_loader,parameter,Function,9
+True,wsgi_req,additon,Variable,9
+(def(UWSGI_ASYNC)&!def(__linux__)),etype,exclusion,Variable,9
+True,uwsgi_log,additon,Function,9
+(def(UWSGI_ASYNC)&!def(__linux__)),async_add,additon,Function,9
+True,manage_python_response,additon,Function,9
+(def(__linux__)&def(UWSGI_ASYNC)),async_queue_init,exclusion,Function,9
+True,current_wsgi_req,exclusion,Function,9
+(def(UWSGI_ASYNC)&!def(__linux__)),fd,exclusion,Variable,9
+def(UWSGI_EMBEDDED),spool_buffer,exclusion,Variable,9
+True,nagios,parameter,Function,9
+(def(__linux__)&def(UWSGI_ASYNC)),async_wait,exclusion,Function,9
+(def(__linux__)&def(UWSGI_ASYNC)),async_add,exclusion,Function,9
+True,uwsgi_load_plugin,parameter,Function,9
+(def(UWSGI_ASYNC)&!def(__linux__)),queuefd,exclusion,Variable,9
+def(UWSGI_EMBEDDED),uwsgi,exclusion,Variable,9

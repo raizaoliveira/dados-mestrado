@@ -1,0 +1,4 @@
+def(__BIG_ENDIAN__),True
+True,!def(NGX_HAVE_LITTLE_ENDIAN)
+True,def(UWSGI_SCTP)
+!def(UWSGI_PYPY),!def(PYTHREE)

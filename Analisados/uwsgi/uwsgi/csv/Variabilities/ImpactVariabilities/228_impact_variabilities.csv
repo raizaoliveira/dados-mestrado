@@ -1,0 +1,7 @@
+def(SCTP),
+!def(NGX_HAVE_LITTLE_ENDIAN),
+(!def(ROCK_SOLID)&!def(UNBIT)),
+!def(ROCK_SOLID),
+True,
+def(__BIG_ENDIAN__),
+!def(UNBIT),

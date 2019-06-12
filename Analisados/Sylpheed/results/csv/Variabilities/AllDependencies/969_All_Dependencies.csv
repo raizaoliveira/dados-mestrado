@@ -1,0 +1,9 @@
+True,!def(HAVE_VASPRINTF)
+True,def(HAVE_LZMA_H)
+True,!def(HAVE_GETLINE)
+True,!def(HAVE_STRNDUP)
+def(HAVE_LZMA_H),True
+!def(HAVE_GETLINE),!def(HAVE_FGETLN)
+True,def(_WIN32)
+!def(_WIN32),True
+True,!def(_WIN32)

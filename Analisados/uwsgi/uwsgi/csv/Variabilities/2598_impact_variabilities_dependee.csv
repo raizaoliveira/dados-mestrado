@@ -1,0 +1,4 @@
+True,async_add_fd_write,additon,Function,2
+def(UWSGI_UDP),bind_to_udp,parameter,Function,2
+True,async_add_fd_read,additon,Function,2
+True,async_add_timeout,additon,Function,2

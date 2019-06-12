@@ -1,0 +1,15 @@
+test_timezone,1,function
+now,1,variable
+testcase,1,function
+boot_time,1,variable
+test_zones,1,function
+_close_utmp,1,function
+diff,1,variable
+inet_aton,1,function
+endutent,1,function
+buf,1,variable
+_fetch_utmp_entry,1,function
+strcasestr,1,function
+getutent,1,function
+memrchr,1,function
+linux_msg_format_init,1,function

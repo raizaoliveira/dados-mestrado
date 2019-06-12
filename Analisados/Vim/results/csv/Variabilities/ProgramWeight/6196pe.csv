@@ -1,0 +1,11 @@
+write,1,function
+wsdebug,1,function
+msg,1,function
+strerror_win32,1,function
+sendToVim,1,function
+sd,1,variable
+close,1,function
+lookup,1,function
+read,1,function
+port,1,variable
+nbdbg,1,function

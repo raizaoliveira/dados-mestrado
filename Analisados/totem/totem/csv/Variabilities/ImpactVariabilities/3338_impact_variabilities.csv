@@ -1,0 +1,5 @@
+def(HAVE_X86),
+True,
+def(HAVE_HAL_0_5),
+!def(HAVE_GTK_ONLY),
+def(__linux__),

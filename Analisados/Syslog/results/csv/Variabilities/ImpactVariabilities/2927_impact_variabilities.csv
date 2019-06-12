@@ -1,0 +1,5 @@
+!def(HAVE_UTMPX_H),
+def(__linux__),
+def(HAVE_UTMPX_H),
+True,
+!def(HAVE_INET_ATON),

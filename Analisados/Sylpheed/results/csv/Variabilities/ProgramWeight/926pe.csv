@@ -1,0 +1,7 @@
+fgetln,1,function
+getline,1,function
+realpath,1,function
+vasprintf,1,function
+strndup,1,function
+ag_asprintf,1,function
+is_symlink,1,function

@@ -1,0 +1,5 @@
+True,!def(HAVE_STRLCPY)
+True,!def(HAVE_GETLINE)
+!def(HAVE_STRLCAT),True
+True,!def(HAVE_STRLCAT)
+True,!def(HAVE_STRNDUP)

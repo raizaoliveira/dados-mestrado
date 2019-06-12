@@ -1,0 +1,6 @@
+True,len,additon,Variable,2
+def(WIN32),read,additon,Function,2
+def(WIN32),write,additon,Function,2
+True,vt,additon,Variable,2
+def(WIN32),close,additon,Function,2
+True,state,additon,Variable,2

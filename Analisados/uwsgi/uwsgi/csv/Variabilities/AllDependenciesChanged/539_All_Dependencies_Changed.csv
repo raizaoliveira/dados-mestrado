@@ -1,0 +1,5 @@
+def(UWSGI_DEBUG),True
+True,def(UWSGI_DEBUG)
+True,def(UWSGI_EMBEDDED)
+(!def(UWSGI_UDP)&def(__BIG_ENDIAN__)),True
+(!def(UWSGI_UDP)&def(__BIG_ENDIAN__)),def(UWSGI_EMBEDDED)

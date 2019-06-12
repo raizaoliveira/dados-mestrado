@@ -1,0 +1,16 @@
+fd,1,variable
+test_timezone,1,function
+buf,1,variable
+afuser_dd_queue,1,function
+alarm_cancel,1,function
+getutent,1,function
+msg_event_create,1,function
+msg_event_suppress_recursions_and_send,1,function
+alarm_has_fired,1,function
+test_zones,1,function
+diff,1,variable
+testcase,1,function
+alarm_set,1,function
+line,1,variable
+now,1,variable
+inet_aton,1,function

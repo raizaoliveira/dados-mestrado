@@ -1,0 +1,14 @@
+!def(FEAT_MBYTE),True
+True,!def(LESSTIF_VERSION)
+True,def(FEAT_MBYTE)
+(!def(PROTO)&!def(__BORLANDC__)),True
+def(FEAT_MBYTE),True
+def(FEAT_FKMAP),True
+!def(RISCOS),True
+!def(EBCDIC),True
+True,(!def(PROTO)&!def(__BORLANDC__))
+!def(FEAT_MBYTE),def(FEAT_MBYTE)
+!def(NO_CONSOLE),True
+def(FEAT_GUI),True
+True,!def(RISCOS)
+def(EBCDIC),True

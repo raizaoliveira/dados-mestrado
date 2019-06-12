@@ -1,0 +1,4 @@
+True,def(HAVE_GETUTXENT)
+!def(HAVE_GETUTXENT),True
+True,!def(HAVE_GETUTXENT)
+def(HAVE_GETUTXENT),True

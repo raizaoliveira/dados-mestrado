@@ -1,0 +1,4 @@
+True,def(UWSGI_PASTE)
+True,def(__BIG_ENDIAN__)
+def(UWSGI_SENDFILE),True
+def(UWSGI_ASYNC),True

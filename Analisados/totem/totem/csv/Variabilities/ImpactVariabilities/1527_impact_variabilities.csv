@@ -1,0 +1,6 @@
+def(HAVE_X86),
+True,
+!def(USE_STABLE_LIBGNOMEUI),
+!def(HAVE_GTK_ONLY),
+def(THUMB_DEBUG),
+def(__linux__),

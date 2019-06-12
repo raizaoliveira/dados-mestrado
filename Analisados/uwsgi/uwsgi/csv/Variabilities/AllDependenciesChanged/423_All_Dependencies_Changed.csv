@@ -1,0 +1,3 @@
+def(UWSGI_UDP),True
+True,!def(NGX_HAVE_LITTLE_ENDIAN)
+def(UWSGI_DEBUG),True

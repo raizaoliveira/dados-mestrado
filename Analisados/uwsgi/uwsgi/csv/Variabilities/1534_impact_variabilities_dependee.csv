@@ -1,0 +1,5 @@
+True,fr_get_hostname,parameter,Function,2
+True,wsgi_req,additon,Variable,2
+True,ptr,additon,Variable,2
+True,fastrouter_manage_subscription,parameter,Function,2
+True,cache_command,parameter,Function,2

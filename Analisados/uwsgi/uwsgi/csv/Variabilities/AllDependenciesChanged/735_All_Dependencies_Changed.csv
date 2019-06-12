@@ -1,0 +1,6 @@
+def(UWSGI_UDP),True
+def(UWSGI_EMBEDDED),True
+True,def(UWSGI_EMBEDDED)
+def(UWSGI_PROXY),True
+(def(UWSGI_MULTICAST)&def(UWSGI_UDP)),True
+(def(UWSGI_UDP)&!def(UWSGI_MULTICAST)),True

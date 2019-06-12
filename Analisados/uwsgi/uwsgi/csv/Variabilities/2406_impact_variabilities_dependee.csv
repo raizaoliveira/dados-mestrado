@@ -1,0 +1,7 @@
+True,uwsgi_log,exclusion,Function,3
+True,uwsgi_str_num,parameter,Function,3
+True,uwsgi_concat3,parameter,Function,3
+True,fr_get_hostname,parameter,Function,3
+True,corerouter_manage_subscription,parameter,Function,3
+True,uwsgi_concat2,parameter,Function,3
+True,uwsgi_sock,additon,Variable,3

@@ -1,0 +1,4 @@
+True,ptr,additon,Variable,4
+True,fr_get_hostname,parameter,Function,4
+def(UWSGI_SCTP),connect_to_sctp,parameter,Function,4
+True,wsgi_req,additon,Variable,4

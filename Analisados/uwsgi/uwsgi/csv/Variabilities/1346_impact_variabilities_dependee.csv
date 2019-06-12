@@ -1,0 +1,12 @@
+True,bufferend,exclusion,Variable,4
+True,uwsgi_swap16,additon,Function,4
+def(UWSGI_EMBEDDED),uwsgi,additon,Variable,4
+True,ptrbuf,exclusion,Variable,4
+True,cache_command,exclusion,Function,4
+def(__BIG_ENDIAN__),uwsgi_simple_parse_vars,additon,Function,4
+True,len,exclusion,Variable,4
+True,fr_get_hostname,exclusion,Function,4
+True,data,exclusion,Variable,4
+True,fastrouter_manage_subscription,exclusion,Function,4
+True,manage_cluster_announce,exclusion,Function,4
+True,uwsgi_python_add_item,exclusion,Function,4

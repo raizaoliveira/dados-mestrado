@@ -1,0 +1,2 @@
+True,cache_command,parameter,Function,2
+!def(PyFrame_GetLineNumber),PyFrame_GetLineNumber,specifier,Function,2

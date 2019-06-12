@@ -1,0 +1,4 @@
+True,eap,exclusion,Variable,2
+True,len,exclusion,Variable,2
+True,s,exclusion,Variable,2
+True,buf,additon,Variable,2

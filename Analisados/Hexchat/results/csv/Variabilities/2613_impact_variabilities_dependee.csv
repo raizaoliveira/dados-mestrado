@@ -1,0 +1,5 @@
+def(WIN32),tray_menu_settings,parameter,Function,5
+!def(WIN32),servlist_save,additon,Function,5
+True,main,exclusion,Function,5
+def(WIN32),fe_args,exclusion,Function,5
+def(WIN32),load_default_config,exclusion,Function,5

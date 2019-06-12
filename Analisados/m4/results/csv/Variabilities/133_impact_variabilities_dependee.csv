@@ -1,0 +1,3 @@
+def(DEBUG_SYM),symtab_print_list,parameter,Function,2
+True,next_token,exclusion,Function,2
+True,m4_next_token,additon,Function,2

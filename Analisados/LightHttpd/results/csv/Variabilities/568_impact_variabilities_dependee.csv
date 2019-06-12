@@ -1,0 +1,2 @@
+def(USE_POLL),ev,additon,Variable,1
+def(USE_POLL),fdevent_poll_init,exclusion,Function,1

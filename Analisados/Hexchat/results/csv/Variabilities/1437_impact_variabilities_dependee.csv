@@ -1,0 +1,7 @@
+True,fe_timeout_add,additon,Function,5
+True,hexchat_remote,additon,Function,5
+!def(WIN32),xchat_exec,exclusion,Function,5
+def(USE_MSPROXY),msproxy_keepalive,additon,Function,5
+True,argv,exclusion,Variable,5
+!def(WIN32),get_xdir_fs,additon,Function,5
+True,xchat_remote,exclusion,Function,5

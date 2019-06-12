@@ -1,0 +1,3 @@
+def(WIN32),load_config,exclusion,Function,4
+!def(WIN32),fe_tray_set_balloon,additon,Function,4
+!def(WIN32),servlist_save,exclusion,Function,4

@@ -1,0 +1,6 @@
+True,xmlNanoFTPNewCtxt,additon,Function,3
+True,xmlNanoFTPCwd,exclusion,Function,3
+!def(HAVE_UNICODE_H),isolat1ToUTF8,parameter,Function,3
+def(STANDALONE),ftpList,parameter,Function,3
+def(STANDALONE),ftpData,parameter,Function,3
+!def(HAVE_UNICODE_H),UTF8Toisolat1,parameter,Function,3

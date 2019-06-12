@@ -1,0 +1,5 @@
+__builtin_clz,1,function
+__builtin_ctzll,1,function
+__builtin_ctz,1,function
+exp,1,variable
+NUM_ITER,1,variable

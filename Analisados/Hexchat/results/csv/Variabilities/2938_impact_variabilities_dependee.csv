@@ -1,0 +1,4 @@
+True,uri,additon,Variable,2
+def(WIN32),tray_menu_settings,parameter,Function,2
+def(WIN32),get_xdir,additon,Function,2
+True,get_xdir,additon,Function,2

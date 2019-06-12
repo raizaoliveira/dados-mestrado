@@ -1,0 +1,3 @@
+True,
+!def(DISABLE_SERIAL_AUTOPROBE),
+def(DEBUG),

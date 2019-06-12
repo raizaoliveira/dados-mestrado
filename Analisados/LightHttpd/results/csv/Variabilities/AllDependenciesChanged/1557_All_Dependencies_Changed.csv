@@ -1,0 +1,6 @@
+True,def(WIN32)
+def(WIN32),True
+!def(WIN32),def(WIN32)
+def(WIN32),!def(WIN32)
+def(DEBUG_PROC_OPEN),True
+!def(WIN32),True

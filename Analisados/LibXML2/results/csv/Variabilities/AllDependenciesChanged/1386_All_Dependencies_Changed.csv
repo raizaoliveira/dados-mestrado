@@ -1,0 +1,5 @@
+def(DEBUG_TREE),True
+!def(DEBUG_VALID_ALGO),True
+True,!def(NO_DEBUG_MEMORY)
+True,def(STANDALONE)
+True,def(LIBXML_C14N_ENABLED)

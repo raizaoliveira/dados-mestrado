@@ -1,0 +1,7 @@
+def(DEBUG_TREE),
+!def(isinf),
+(def(DEBUG_STEP)&!def(isinf)),
+!def(HAVE_UNICODE_H),
+!def(USE_UTF_8),
+def(DEBUG_INPUT),
+True,

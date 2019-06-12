@@ -1,0 +1,3 @@
+True,argc,exclusion,Variable,5
+True,argv,exclusion,Variable,5
+def(WIN32),get_xdir,exclusion,Function,5

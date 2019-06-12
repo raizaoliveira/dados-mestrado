@@ -1,0 +1,6 @@
+(!def(USE_LIBCANBERRA)&!def(HAVE_GTK_MAC)&def(__APPLE__)),
+!def(WIN32),
+def(WIN32),
+def(USE_IPV6),
+!def(USE_IPV6),
+True,

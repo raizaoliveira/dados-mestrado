@@ -1,0 +1,8 @@
+def(WIN32),get_xdir_fs,exclusion,Function,4
+True,portable_mode,additon,Function,4
+def(WIN32),get_xdir,additon,Function,4
+!def(WIN32),check_prefs_dir,exclusion,Function,4
+True,fe_message,exclusion,Function,4
+True,xdir,additon,Variable,4
+True,get_xdir_utf8,exclusion,Function,4
+True,xdir_fs,exclusion,Variable,4

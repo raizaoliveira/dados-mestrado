@@ -1,0 +1,11 @@
+def(DEBUG_ARRAY),True
+def(DEBUG_PROC_OPEN),True
+def(USE_LDAP),True
+def(HAVE_PCRE_H),True
+def(WIN32),True
+!def(USE_OPENSSL),True
+def(HAVE_LSTAT),True
+def(HAVE_IPV6),True
+!def(USE_MMAP),True
+def(HAVE_FORK),True
+!def(__WIN32),True

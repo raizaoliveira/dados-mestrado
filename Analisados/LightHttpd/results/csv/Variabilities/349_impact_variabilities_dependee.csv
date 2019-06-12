@@ -1,0 +1,3 @@
+True,buffer_append_string_len,exclusion,Function,1
+True,buffer_init_string,exclusion,Function,1
+True,buffer_init,additon,Function,1

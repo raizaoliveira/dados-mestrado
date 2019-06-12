@@ -1,0 +1,4 @@
+True,
+def(DEBUG_SYM),
+def(ENABLE_CHANGEWORD),
+!def(HAVE_TMPFILE),

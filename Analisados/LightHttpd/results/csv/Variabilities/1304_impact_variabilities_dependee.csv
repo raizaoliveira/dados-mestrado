@@ -1,0 +1,6 @@
+True,realm,exclusion,Variable,2
+True,req,exclusion,Variable,2
+True,username,exclusion,Variable,2
+True,password,exclusion,Variable,2
+True,p,exclusion,Variable,2
+True,srv,exclusion,Variable,2

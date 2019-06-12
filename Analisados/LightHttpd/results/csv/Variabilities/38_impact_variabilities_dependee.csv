@@ -1,0 +1,13 @@
+True,password,additon,Variable,1
+True,req,additon,Variable,1
+True,buffer_is_equal_string,additon,Function,1
+True,p,additon,Variable,1
+True,buffer_init,exclusion,Function,1
+True,srv,additon,Variable,1
+True,buffer_append_string,exclusion,Function,1
+True,buffer_append_string_len,additon,Function,1
+True,buffer_append_string_buffer,additon,Function,1
+True,realm,additon,Variable,1
+True,buffer_is_equal,exclusion,Function,1
+True,buffer_init_string,additon,Function,1
+True,username,additon,Variable,1

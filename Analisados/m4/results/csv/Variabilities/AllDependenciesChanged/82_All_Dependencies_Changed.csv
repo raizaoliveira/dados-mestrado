@@ -1,0 +1,3 @@
+def(DEBUG_SYM),True
+def(ENABLE_CHANGEWORD),True
+True,def(DEBUG_SYM)

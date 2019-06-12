@@ -1,0 +1,4 @@
+def(HAVE_FORK),True
+def(USE_LDAP),True
+!def(USE_OPENSSL),True
+!def(USE_LDAP),True

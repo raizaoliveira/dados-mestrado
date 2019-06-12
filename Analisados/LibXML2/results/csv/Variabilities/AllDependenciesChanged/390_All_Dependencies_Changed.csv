@@ -1,0 +1,3 @@
+(def(MEM_LIST)&!def(NO_DEBUG_MEMORY)),True
+True,def(STANDALONE)
+True,def(LIBXML_XPTR_ENABLED)

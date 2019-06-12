@@ -1,0 +1,3 @@
+def(WIN32),win32_read_thread,parameter,Function,3
+True,chanlist_filereq_done,parameter,Function,3
+True,rawlog_save,parameter,Function,3

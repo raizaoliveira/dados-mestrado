@@ -1,0 +1,4 @@
+!def(VMS),True
+True,def(STANDALONE)
+True,!def(DEBUG_VALID_ALGO)
+True,def(LIBXML_C14N_ENABLED)

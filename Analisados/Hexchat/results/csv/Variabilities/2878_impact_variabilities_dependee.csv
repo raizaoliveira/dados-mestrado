@@ -1,0 +1,6 @@
+True,argv,additon,Variable,4
+def(WIN32),fe_args,additon,Function,4
+def(WIN32),load_default_config,exclusion,Function,4
+True,argc,additon,Variable,4
+!def(WIN32),servlist_save,exclusion,Function,4
+def(WIN32),tray_menu_settings,parameter,Function,4

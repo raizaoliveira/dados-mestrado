@@ -1,0 +1,2 @@
+True,def(HAVE_FORK)
+True,def(USE_FREEBSD_KQUEUE)

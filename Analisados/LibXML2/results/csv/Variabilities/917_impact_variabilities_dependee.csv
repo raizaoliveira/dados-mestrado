@@ -1,0 +1,10 @@
+True,startindex,exclusion,Variable,4
+True,xmlCopyNode,parameter,Function,4
+def(STANDALONE),ftpData,parameter,Function,4
+True,xmlStrlen,parameter,Function,4
+def(STANDALONE),ftpList,parameter,Function,4
+True,xmlEncodeEntities,parameter,Function,4
+True,start,exclusion,Variable,4
+True,inputPop,parameter,Function,4
+True,node,exclusion,Variable,4
+True,xmlXPtrBuildNodeList,parameter,Function,4

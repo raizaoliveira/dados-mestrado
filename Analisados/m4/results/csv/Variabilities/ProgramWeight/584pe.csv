@@ -1,0 +1,8 @@
+free,1,variable
+m4_get_symbol_value,1,function
+m4_builtin_find_by_func,1,function
+m4_get_symbol_traced,1,function
+dir_list,1,variable
+m4_get_symbol_value_func,1,function
+m4_get_module_name,1,function
+alloca,1,function

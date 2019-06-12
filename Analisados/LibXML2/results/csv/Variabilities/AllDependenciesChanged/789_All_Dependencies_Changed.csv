@@ -1,0 +1,4 @@
+!def(VMS),True
+True,def(STANDALONE)
+def(LIBXML_XPATH_ENABLED),True
+(def(MEM_LIST)&!def(NO_DEBUG_MEMORY)),True

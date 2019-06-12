@@ -1,0 +1,3 @@
+(!def(USE_LIBCANBERRA)&!def(HAVE_GTK_MAC)),True
+True,def(WIN32)
+True,(!def(USE_OPENSSL)&!def(USE_LIBPROXY)&!def(USE_SIGACTION)&!def(WIN32))

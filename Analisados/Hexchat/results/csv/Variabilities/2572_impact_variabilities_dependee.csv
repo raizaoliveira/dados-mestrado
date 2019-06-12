@@ -1,0 +1,16 @@
+!def(WIN32),servlist_save,exclusion,Function,5
+!def(WIN32),default_file,exclusion,Function,5
+True,get_default_spell_languages,exclusion,Function,5
+def(WIN32),fe_args,additon,Function,5
+!def(WIN32),load_config,exclusion,Function,5
+def(WIN32),load_default_config,additon,Function,5
+!def(WIN32),check_config_dir,exclusion,Function,5
+def(WIN32),tray_menu_settings,parameter,Function,5
+!def(WIN32),load_default_config,exclusion,Function,5
+True,xdir,additon,Variable,5
+True,get_xdir,exclusion,Function,5
+!def(WIN32),make_config_dirs,exclusion,Function,5
+True,portable_mode,additon,Function,5
+def(WIN32),get_xdir,additon,Function,5
+!def(WIN32),hexchat_open_file,exclusion,Function,5
+!def(WIN32),hexchat_fopen_file,exclusion,Function,5

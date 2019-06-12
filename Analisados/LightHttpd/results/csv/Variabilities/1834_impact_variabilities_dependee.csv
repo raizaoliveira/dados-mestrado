@@ -1,0 +1,4 @@
+True,cgi_handler_ctx_init,exclusion,Function,1
+True,handler_ctx_init,additon,Function,1
+True,cgi_env_add,additon,Function,1
+True,env_add,exclusion,Function,1

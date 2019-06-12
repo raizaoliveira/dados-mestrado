@@ -1,0 +1,10 @@
+True,chunkqueue_append_file,exclusion,Function,2
+True,chunkqueue_get_memory,additon,Function,2
+True,con,exclusion,Variable,2
+True,mod_status_row_append,additon,Function,2
+True,chunkqueue_use_memory,additon,Function,2
+True,srv,exclusion,Variable,2
+True,p,exclusion,Variable,2
+True,log_error_write,exclusion,Function,2
+def(HAVE_FORK),r,exclusion,Variable,2
+True,process_ssi_stmt,exclusion,Function,2

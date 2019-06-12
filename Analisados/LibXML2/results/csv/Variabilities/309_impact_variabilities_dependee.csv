@@ -1,0 +1,15 @@
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,6
+True,ptr,additon,Variable,6
+True,xmlEncodeSpecialChars,additon,Function,6
+!def(NO_DEBUG_MEMORY),xmlRealloc,additon,Function,6
+True,xmlPredefinedEntities,additon,Variable,6
+!def(NO_DEBUG_MEMORY),xmlMalloc,additon,Function,6
+True,output,additon,Variable,6
+True,buffer,additon,Variable,6
+True,xmlEncodeEntities,exclusion,Function,6
+True,depth,additon,Variable,6
+True,buffer_size,additon,Variable,6
+def(STANDALONE),ftpData,parameter,Function,6
+True,xmlEncodeEntitiesReentrant,additon,Function,6
+True,node,additon,Variable,6
+def(STANDALONE),ftpList,parameter,Function,6

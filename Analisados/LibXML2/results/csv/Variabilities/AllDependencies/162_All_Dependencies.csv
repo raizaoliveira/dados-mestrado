@@ -1,0 +1,17 @@
+!def(USE_UTF_8),True
+!def(isinf),!def(NO_DEBUG_MEMORY)
+def(DEBUG),!def(NO_DEBUG_MEMORY)
+!def(NO_DEBUG_MEMORY),True
+!def(NO_DEBUG_MEMORY),(def(MEM_LIST)&!def(NO_DEBUG_MEMORY))
+True,!def(isinf)
+True,!def(USE_UTF_8)
+(def(MEM_LIST)&!def(NO_DEBUG_MEMORY)),!def(NO_DEBUG_MEMORY)
+def(DEBUG),True
+def(DEBUG_TREE),!def(NO_DEBUG_MEMORY)
+def(DEBUG_TREE),True
+True,!def(NO_DEBUG_MEMORY)
+def(DEBUG_SAX_TREE),True
+!def(isinf),True
+!def(DEBUG),!def(NO_DEBUG_MEMORY)
+True,!def(HAVE_UNICODE_H)
+!def(HAVE_UNICODE_H),True

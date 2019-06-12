@@ -1,0 +1,14 @@
+True,htmlIsAutoClosed,additon,Function,6
+True,htmlTagLookup,additon,Function,6
+True,xmlBufferWriteChar,additon,Function,6
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,6
+def(STANDALONE),ftpList,parameter,Function,6
+def(LIBXML_HTML_ENABLED),htmlNodeDump,additon,Function,6
+!def(NO_DEBUG_MEMORY),xmlRealloc,additon,Function,6
+!def(NO_DEBUG_MEMORY),xmlMallocLoc,exclusion,Function,6
+def(LIBXML_HTML_ENABLED),htmlDocDump,additon,Function,6
+!def(NO_DEBUG_MEMORY),xmlMalloc,additon,Function,6
+True,xmlEncodeEntities,additon,Function,6
+def(LIBXML_HTML_ENABLED),htmlSaveFile,additon,Function,6
+True,xmlBufferWriteCHAR,exclusion,Function,6
+def(STANDALONE),ftpData,parameter,Function,6

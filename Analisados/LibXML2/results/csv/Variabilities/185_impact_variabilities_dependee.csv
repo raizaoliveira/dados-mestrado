@@ -1,0 +1,9 @@
+!def(NO_DEBUG_MEMORY),xmlMemStrdup,exclusion,Function,3
+!def(NO_DEBUG_MEMORY),xmlRealloc,exclusion,Function,3
+True,inputPop,additon,Function,3
+True,input,additon,Variable,3
+True,ctxt,exclusion,Variable,3
+!def(HAVE_UNICODE_H),UTF8Toisolat1,parameter,Function,3
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,3
+!def(NO_DEBUG_MEMORY),xmlMalloc,exclusion,Function,3
+!def(HAVE_UNICODE_H),isolat1ToUTF8,parameter,Function,3

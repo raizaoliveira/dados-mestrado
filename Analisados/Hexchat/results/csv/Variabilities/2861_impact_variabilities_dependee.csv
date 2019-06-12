@@ -1,0 +1,5 @@
+True,url_check_word,additon,Function,3
+True,hexchat_exec,exclusion,Function,3
+True,fe_open_url,exclusion,Function,3
+True,prefs,additon,Variable,3
+def(WIN32),tray_menu_settings,parameter,Function,3

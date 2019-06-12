@@ -1,0 +1,15 @@
+True,portable_mode,additon,Function,3
+True,editlist_file,exclusion,Variable,3
+!def(WIN32),check_prefs_dir,additon,Function,3
+!def(WIN32),xchat_fopen_file,exclusion,Function,3
+True,file,exclusion,Variable,3
+True,fe_message,additon,Function,3
+True,xdir_fs,additon,Variable,3
+!def(WIN32),xchat_open_file,exclusion,Function,3
+True,sess,additon,Variable,3
+!def(WIN32),load_config,exclusion,Function,3
+True,get_xdir_utf8,additon,Function,3
+!def(WIN32),get_xdir_fs,additon,Function,3
+!def(WIN32),get_xdir_utf8,exclusion,Function,3
+!def(WIN32),default_file,exclusion,Function,3
+True,get_xdir_fs,exclusion,Function,3

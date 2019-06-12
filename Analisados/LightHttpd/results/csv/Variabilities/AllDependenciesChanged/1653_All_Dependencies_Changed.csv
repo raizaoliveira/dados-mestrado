@@ -1,0 +1,3 @@
+!def(__WIN32),True
+def(HAVE_PCRE_H),True
+def(USE_LDAP),True

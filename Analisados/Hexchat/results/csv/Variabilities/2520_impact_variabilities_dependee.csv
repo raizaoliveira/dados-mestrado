@@ -1,0 +1,8 @@
+def(WIN32),fe_open_url_inner,additon,Function,4
+def(WIN32),tray_menu_settings,parameter,Function,4
+!def(WIN32),setup_apply,additon,Function,4
+True,mg_is_gui_target,additon,Function,4
+True,setup_open,additon,Function,4
+def(WIN32),get_xdir,additon,Function,4
+True,fe_message,additon,Function,4
+True,fe_open_url,exclusion,Function,4

@@ -1,0 +1,15 @@
+__builtin_clz,1,function
+__builtin_ctzll,1,function
+g,1,variable
+main,1,function
+ecx,1,variable
+crc32c_short,1,function
+__builtin_ctz,1,function
+crc,1,variable
+crc32c_hw,1,function
+len,1,variable
+sse42,1,variable
+exp,1,variable
+crc32c_long,1,function
+crc32c,1,function
+next,1,function

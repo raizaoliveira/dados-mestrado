@@ -1,0 +1,13 @@
+def(LIBXML_C14N_ENABLED),xmlC14NNamespacesCompare,parameter,Function,7
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,7
+!def(NO_DEBUG_MEMORY),xmlRealloc,additon,Function,7
+def(LIBXML_XPTR_ENABLED),xmlXPtrBuildNodeList,parameter,Function,7
+def(LIBXML_OUTPUT_ENABLED),xmlDumpEntityDecl,parameter,Function,7
+def(LIBXML_C14N_ENABLED),xmlC14NAttrsCompare,parameter,Function,7
+def(LIBXML_TREE_ENABLED),xmlDocSetRootElement,additon,Function,7
+def(LIBXML_C14N_ENABLED),xmlC14NPrintNamespaces,parameter,Function,7
+def(LIBXML_C14N_ENABLED),xmlC14NPrintAttrs,parameter,Function,7
+def(STANDALONE),ftpList,parameter,Function,7
+def(STANDALONE),ftpData,parameter,Function,7
+!def(NO_DEBUG_MEMORY),xmlMalloc,additon,Function,7
+def(LIBXML_OUTPUT_ENABLED),xmlSaveFile,additon,Function,7

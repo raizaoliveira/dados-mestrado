@@ -1,0 +1,2 @@
+True,def(WIN32)
+(!def(USE_LIBPROXY)&!def(USE_SIGACTION)&def(USE_DBUS)),True

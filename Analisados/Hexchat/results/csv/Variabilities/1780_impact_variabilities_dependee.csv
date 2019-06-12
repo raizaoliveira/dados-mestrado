@@ -1,0 +1,7 @@
+True,dcc,additon,Variable,3
+True,source,additon,Variable,3
+True,argc,additon,Variable,3
+!def(WIN32),fe_tray_set_balloon,additon,Function,3
+True,condition,additon,Variable,3
+True,prefs,exclusion,Variable,3
+True,argv,additon,Variable,3

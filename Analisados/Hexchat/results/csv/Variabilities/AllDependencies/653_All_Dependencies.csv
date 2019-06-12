@@ -1,0 +1,7 @@
+def(WIN32),True
+True,!def(WIN32)
+(!def(USE_XLIB)&!def(WIN32)),True
+def(WIN32),(!def(USE_XLIB)&def(WIN32))
+(!def(__EMX__)&!def(WIN32)),True
+!def(WIN32),True
+(!def(USE_XLIB)&def(WIN32)),True

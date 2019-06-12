@@ -1,0 +1,8 @@
+strcmp;True;True; @ rd_kafka_anyconf_set;rd_kafka_anyconf_set;
+strdup;True; @ rd_kafka_anyconf_set;
+snprintf;True;True;True;True;True; @ rd_kafka_anyconf_set;rd_kafka_anyconf_set;rd_kafka_anyconf_set;rd_kafka_anyconf_set;rd_kafka_anyconf_set;
+atoi;True; @ rd_kafka_anyconf_set;
+RD_ARRAYSIZE;True; @ rd_kafka_anyconf_set;
+rd_kafka_anyconf_set;True;True; @ rd_kafka_conf_set;rd_kafka_topic_conf_set;
+strncmp;True; @ rd_kafka_topic_conf_set;
+strlen;True; @ rd_kafka_topic_conf_set;

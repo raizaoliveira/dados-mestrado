@@ -1,0 +1,4 @@
+(!def(isinf)&def(LIBXML_XPATH_ENABLED)),True
+True,(!def(isinf)&def(LIBXML_XPATH_ENABLED))
+!def(NO_DEBUG_MEMORY),True
+True,def(STANDALONE)

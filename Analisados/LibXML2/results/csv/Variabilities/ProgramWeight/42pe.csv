@@ -1,0 +1,6 @@
+xmlNewNode,1,function
+xmlFreeDoc,1,function
+xmlNewDoc,1,function
+xmlNewChild,1,function
+xmlNewDtd,1,function
+xmlDocDump,1,function

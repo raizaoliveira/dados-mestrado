@@ -1,0 +1,16 @@
+True,cgi_handler_ctx_free,exclusion,Function,3
+def(WIN32),proc,additon,Variable,3
+True,proc,exclusion,Variable,3
+!def(WIN32),proc_close,additon,Function,3
+!def(WIN32),proc_open,additon,Function,3
+True,p,exclusion,Variable,3
+True,chunkqueue_append_mem,additon,Function,3
+!def(WIN32),proc,exclusion,Variable,3
+True,srv,exclusion,Variable,3
+!def(WIN32),pipe_close_parent,additon,Function,3
+True,err,additon,Variable,3
+True,out,additon,Variable,3
+def(WIN32),proc_close,exclusion,Function,3
+True,chunkqueue_append_mem_to_tempfile,exclusion,Function,3
+True,in,additon,Variable,3
+True,handler_ctx_free,additon,Function,3

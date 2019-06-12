@@ -1,0 +1,6 @@
+True,argv,additon,Variable,3
+True,condition,exclusion,Variable,3
+True,dcc,exclusion,Variable,3
+!def(WIN32),hexchat_exec,exclusion,Function,3
+True,source,exclusion,Variable,3
+!def(WIN32),hexchat_execv,additon,Function,3

@@ -1,0 +1,4 @@
+!def(VMS),True
+True,def(STANDALONE)
+!def(USE_UTF_8),True
+True,!def(NO_DEBUG_MEMORY)

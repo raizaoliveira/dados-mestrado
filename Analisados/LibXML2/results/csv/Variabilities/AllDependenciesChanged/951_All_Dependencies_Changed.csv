@@ -1,0 +1,4 @@
+True,def(STANDALONE)
+(def(MEM_LIST)&!def(NO_DEBUG_MEMORY)),True
+!def(VMS),True
+!def(NO_DEBUG_MEMORY),True

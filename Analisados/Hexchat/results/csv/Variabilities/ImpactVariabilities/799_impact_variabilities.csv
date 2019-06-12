@@ -1,0 +1,4 @@
+(!def(USE_LIBPROXY)&!def(USE_SIGACTION)&def(WIN32)),
+def(USE_MSPROXY),
+True,
+def(USE_XLIB),

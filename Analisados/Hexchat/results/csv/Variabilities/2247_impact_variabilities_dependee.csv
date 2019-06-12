@@ -1,0 +1,2 @@
+!def(WIN32),servlist_save,exclusion,Function,3
+def(WIN32),load_default_config,exclusion,Function,3

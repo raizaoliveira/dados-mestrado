@@ -1,0 +1,11 @@
+def(STANDALONE),ftpData,parameter,Function,6
+def(LIBXML_XPTR_ENABLED),xmlXPtrBuildNodeList,parameter,Function,6
+def(LIBXML_HTML_ENABLED),encoding,additon,Variable,6
+def(LIBXML_C14N_ENABLED),xmlC14NAttrsCompare,parameter,Function,6
+def(LIBXML_HTML_ENABLED),sax,additon,Variable,6
+def(LIBXML_C14N_ENABLED),xmlC14NPrintAttrs,parameter,Function,6
+def(LIBXML_C14N_ENABLED),xmlC14NNamespacesCompare,parameter,Function,6
+!def(NO_DEBUG_MEMORY),xmlFree,exclusion,Function,6
+def(STANDALONE),ftpList,parameter,Function,6
+def(LIBXML_C14N_ENABLED),xmlC14NPrintNamespaces,parameter,Function,6
+True,encoding,exclusion,Variable,6

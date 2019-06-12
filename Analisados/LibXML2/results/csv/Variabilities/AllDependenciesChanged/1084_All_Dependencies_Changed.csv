@@ -1,0 +1,3 @@
+!def(VMS),True
+True,!def(DEBUG_VALID_ALGO)
+True,def(STANDALONE)

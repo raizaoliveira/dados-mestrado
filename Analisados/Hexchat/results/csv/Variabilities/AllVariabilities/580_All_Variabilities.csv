@@ -1,0 +1,5 @@
+def(_WIN64),
+!def(WIN32),
+True,
+!def(_WIN64),
+def(WIN32),

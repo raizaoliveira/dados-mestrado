@@ -1,0 +1,5 @@
+def(LIBXML_HTML_ENABLED),
+def(STANDALONE),
+!def(isinf),
+!def(NO_DEBUG_MEMORY),
+True,

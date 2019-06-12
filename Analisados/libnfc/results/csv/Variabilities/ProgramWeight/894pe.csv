@@ -1,0 +1,10 @@
+uart_close,1,function
+print_hex,1,function
+uart_list_ports,1,function
+pn532_uart_list_devices,1,function
+pn532_uart_wakeup,1,function
+arygon_reset_tama,1,function
+pn532_uart_check_communication,1,function
+uart_set_speed,1,function
+arygon_list_devices,1,function
+uart_open,1,function

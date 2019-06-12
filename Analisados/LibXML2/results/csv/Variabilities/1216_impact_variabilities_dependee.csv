@@ -1,0 +1,12 @@
+True,buffer,additon,Variable,5
+True,xmlNewDtd,parameter,Function,5
+True,xmlEncodeEntities,additon,Function,5
+def(LIBXML_C14N_ENABLED),xmlC14NPrintNamespaces,parameter,Function,5
+def(STANDALONE),ftpList,parameter,Function,5
+True,xmlNewNode,parameter,Function,5
+def(LIBXML_C14N_ENABLED),xmlC14NAttrsCompare,parameter,Function,5
+def(LIBXML_C14N_ENABLED),xmlC14NPrintAttrs,parameter,Function,5
+def(STANDALONE),ftpData,parameter,Function,5
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,5
+True,cur,additon,Variable,5
+def(LIBXML_C14N_ENABLED),xmlC14NNamespacesCompare,parameter,Function,5

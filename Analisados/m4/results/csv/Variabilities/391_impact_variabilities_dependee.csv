@@ -1,0 +1,3 @@
+def(DEBUG_SYM),dump_symbol_CB,additon,Function,2
+def(DEBUG_SYM),m4_get_symbol_value,additon,Function,2
+True,m4_get_symbol_value_text,exclusion,Function,2

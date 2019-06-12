@@ -1,0 +1,4 @@
+True,
+def(USE_MSPROXY),
+def(USE_XLIB),
+(!def(USE_XLIB)&!def(WIN32)),

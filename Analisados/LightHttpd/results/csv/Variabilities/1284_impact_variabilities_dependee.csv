@@ -1,0 +1,4 @@
+True,host,exclusion,Variable,3
+True,srv,exclusion,Variable,3
+True,p,exclusion,Variable,3
+True,proc,exclusion,Variable,3

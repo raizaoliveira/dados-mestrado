@@ -1,0 +1,8 @@
+(!def(__CYGWIN__)&!def(_MSC_VER)),
+(def(_MSC_VER)&!def(_M_X64)&(!def(_M_X64)|!def(_MSC_VER))),
+def(_DEBUG),
+!def(_MSC_VER),
+def(_MSC_VER),
+(def(_M_X64)&def(_MSC_VER)),
+!def(__CYGWIN__),
+True,

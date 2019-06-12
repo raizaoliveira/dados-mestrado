@@ -1,0 +1,2 @@
+!def(WIN32),servlist_save,additon,Function,3
+def(WIN32),tray_menu_settings,parameter,Function,3

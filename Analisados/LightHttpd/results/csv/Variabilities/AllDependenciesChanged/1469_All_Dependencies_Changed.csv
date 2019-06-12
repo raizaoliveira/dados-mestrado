@@ -1,0 +1,3 @@
+def(USE_FREEBSD_KQUEUE),True
+True,!def(USE_FREEBSD_KQUEUE)
+!def(__WIN32),True

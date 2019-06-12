@@ -1,0 +1,4 @@
+True,def(STANDALONE)
+!def(VMS),True
+True,def(LIBXML_C14N_ENABLED)
+True,!def(NO_DEBUG_MEMORY)

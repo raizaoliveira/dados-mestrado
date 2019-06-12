@@ -1,0 +1,9 @@
+!def(HAVE_UNICODE_H),UTF8Toisolat1,parameter,Function,4
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,4
+!def(isinf),xmlXPathEvalExpression,additon,Function,4
+!def(isinf),xmlXPathEvalExpr,exclusion,Function,4
+!def(isinf),xmlXPathNewContext,parameter,Function,4
+True,inputPop,parameter,Function,4
+!def(NO_DEBUG_MEMORY),xmlRealloc,additon,Function,4
+!def(HAVE_UNICODE_H),isolat1ToUTF8,parameter,Function,4
+!def(NO_DEBUG_MEMORY),xmlMalloc,additon,Function,4

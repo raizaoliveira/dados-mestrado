@@ -1,0 +1,3 @@
+!def(HAVE_UNICODE_H),UTF8Toisolat1,parameter,Function,2
+!def(HAVE_UNICODE_H),isolat1ToUTF8,parameter,Function,2
+True,inputPop,parameter,Function,2

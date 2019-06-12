@@ -1,0 +1,8 @@
+(!def(isinf)&def(LIBXML_XPATH_ENABLED)),xmlXPathEval,exclusion,Function,3
+(!def(isinf)&def(LIBXML_XPATH_ENABLED)),xmlXPathFreeContext,exclusion,Function,3
+True,document,exclusion,Variable,3
+(!def(isinf)&def(LIBXML_XPATH_ENABLED)),xmlXPathFreeObject,exclusion,Function,3
+(!def(isinf)&def(LIBXML_XPATH_ENABLED)),xmlXPathNewContext,exclusion,Function,3
+def(STANDALONE),ftpList,parameter,Function,3
+def(STANDALONE),ftpData,parameter,Function,3
+(!def(isinf)&def(LIBXML_XPATH_ENABLED)),xmlXPathEvalExpr,exclusion,Function,3

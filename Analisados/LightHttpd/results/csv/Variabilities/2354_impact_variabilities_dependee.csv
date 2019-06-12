@@ -1,0 +1,2 @@
+True,log_error_write,exclusion,Function,3
+def(HAVE_SYS_UN_H),fcgi_addr_un,exclusion,Variable,3

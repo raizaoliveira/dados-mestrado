@@ -1,0 +1,4 @@
+def(WIN32),fe_open_url_inner,additon,Function,2
+True,uri,additon,Variable,2
+def(WIN32),tray_menu_settings,parameter,Function,2
+True,fe_open_url,exclusion,Function,2

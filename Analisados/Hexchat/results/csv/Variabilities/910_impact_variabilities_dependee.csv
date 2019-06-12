@@ -1,0 +1,10 @@
+!def(WIN32),get_xdir_fs,exclusion,Function,4
+!def(WIN32),load_config,exclusion,Function,4
+!def(WIN32),tray_make_item,exclusion,Function,4
+!def(WIN32),tray_menu_quit_cb,type,Function,4
+!def(WIN32),tray_find_away_status,exclusion,Function,4
+def(WIN32),get_xdir_fs,additon,Function,4
+True,tray_make_item,additon,Function,4
+True,tray_find_away_status,additon,Function,4
+!def(WIN32),servlist_save,additon,Function,4
+!def(WIN32),check_prefs_dir,exclusion,Function,4

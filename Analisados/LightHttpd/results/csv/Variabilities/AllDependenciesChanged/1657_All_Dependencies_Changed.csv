@@ -1,0 +1,11 @@
+def(WIN32),!def(WIN32)
+def(USE_LDAP),True
+def(WIN32),True
+!def(WIN32),def(WIN32)
+def(HAVE_FORK),True
+True,def(WIN32)
+!def(USE_OPENSSL),True
+True,!def(WIN32)
+def(DEBUG_PROC_OPEN),!def(WIN32)
+!def(WIN32),True
+def(DEBUG_PROC_OPEN),def(WIN32)

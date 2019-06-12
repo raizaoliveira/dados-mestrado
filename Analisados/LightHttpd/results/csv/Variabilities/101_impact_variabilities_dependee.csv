@@ -1,0 +1,4 @@
+True,buffer_is_equal_string,exclusion,Function,1
+True,buffer_is_equal,additon,Function,1
+True,buffer_copy_string,additon,Function,1
+True,buffer_copy_string_buffer,exclusion,Function,1

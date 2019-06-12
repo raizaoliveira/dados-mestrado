@@ -1,0 +1,7 @@
+!def(HAVE_TMPFILE),
+!def(alloca),
+!def(_LIBC),
+True,
+((((!def(CRAY2)|def(alloca)|(!def(alloca)&!def(CRAY2)))&(!def(CRAY2)|def(alloca)))|(!def(alloca)&!def(CRAY2)))&((def(CRAY2)&!def(alloca))|(def(CRAY2)&!def(alloca)&(def(alloca)|def(CRAY2)))|(!def(alloca)&!def(CRAY2)))),
+(((def(CRAY2)&!def(alloca))|(def(CRAY2)&!def(alloca)&(def(alloca)|def(CRAY2))))&(def(alloca)|def(CRAY2))&((def(CRAY2)&!def(alloca))|(def(CRAY2)&!def(alloca)&(def(alloca)|def(CRAY2)))|(!def(alloca)&!def(CRAY2)))),
+def(DEBUG_SYM),

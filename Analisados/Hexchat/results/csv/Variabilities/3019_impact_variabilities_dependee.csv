@@ -1,0 +1,5 @@
+True,setup_open,exclusion,Function,2
+def(WIN32),tray_menu_settings,exclusion,Function,2
+True,tray_make_item,exclusion,Function,2
+def(WIN32),tray_menu_quit_cb,exclusion,Function,2
+True,mg_create_icon_item,exclusion,Function,2

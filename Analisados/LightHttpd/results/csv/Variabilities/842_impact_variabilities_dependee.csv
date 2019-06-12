@@ -1,0 +1,4 @@
+def(USE_FREEBSD_KQUEUE),fdevent_freebsd_kqueue_init,additon,Function,5
+def(USE_FREEBSD_KQUEUE),ev,exclusion,Variable,5
+True,srv,exclusion,Variable,5
+True,p,exclusion,Variable,5

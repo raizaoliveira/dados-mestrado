@@ -1,0 +1,3 @@
+True,arygon_check_communication,exclusion,Function,1
+True,arygon_ack,exclusion,Function,1
+True,arygon_reset_tama,additon,Function,1

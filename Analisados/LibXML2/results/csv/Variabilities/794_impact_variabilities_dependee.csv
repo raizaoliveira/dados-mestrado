@@ -1,0 +1,12 @@
+True,xmlXPathFreeContext,exclusion,Function,4
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,4
+True,inputPop,parameter,Function,4
+True,xmlXPathNodeCollectAndTest,exclusion,Function,4
+def(STANDALONE),ftpList,parameter,Function,4
+!def(NO_DEBUG_MEMORY),xmlMalloc,additon,Function,4
+!def(NO_DEBUG_MEMORY),xmlRealloc,additon,Function,4
+True,xmlEncodeEntities,parameter,Function,4
+def(STANDALONE),ftpData,parameter,Function,4
+True,xmlXPathDebugDumpObject,additon,Function,4
+True,xmlXPathEval,exclusion,Function,4
+!def(VMS),ctxt,exclusion,Variable,4

@@ -1,0 +1,6 @@
+def(WIN32),!def(WIN32)
+True,!def(USE_FREEBSD_KQUEUE)
+!def(WIN32),def(WIN32)
+!def(WIN32),True
+True,!def(USE_POLL)
+def(WIN32),True

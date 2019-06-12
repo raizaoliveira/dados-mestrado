@@ -1,0 +1,6 @@
+!def(_LIBC),
+True,
+def(DEBUG_SYM),
+!def(alloca),
+(((def(CRAY2)&!def(alloca))|(def(CRAY2)&!def(alloca)&(def(alloca)|def(CRAY2))))&(def(alloca)|def(CRAY2))&((def(CRAY2)&!def(alloca))|(def(CRAY2)&!def(alloca)&(def(alloca)|def(CRAY2)))|(!def(alloca)&!def(CRAY2)))),
+((((!def(CRAY2)|def(alloca)|(!def(alloca)&!def(CRAY2)))&(!def(CRAY2)|def(alloca)))|(!def(alloca)&!def(CRAY2)))&((def(CRAY2)&!def(alloca))|(def(CRAY2)&!def(alloca)&(def(alloca)|def(CRAY2)))|(!def(alloca)&!def(CRAY2)))),

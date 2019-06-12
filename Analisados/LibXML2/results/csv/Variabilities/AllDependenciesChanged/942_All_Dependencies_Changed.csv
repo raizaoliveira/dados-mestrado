@@ -1,0 +1,12 @@
+!def(HAVE_SYS_MMAN_H),True
+True,!def(NO_DEBUG_MEMORY)
+!def(NO_DEBUG_MEMORY),True
+def(HAVE_SYS_MMAN_H),True
+def(XML_USE_BUFFER_CONTENT),True
+True,def(STANDALONE)
+(def(MEM_LIST)&!def(NO_DEBUG_MEMORY)),True
+!def(VMS),True
+True,def(XML_USE_BUFFER_CONTENT)
+def(DEBUG_RANGES),True
+!def(XML_USE_BUFFER_CONTENT),True
+def(DEBUG_TREE),True

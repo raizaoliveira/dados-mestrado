@@ -1,0 +1,5 @@
+def(LIBXML_XPTR_ENABLED),xmlXPtrBuildNodeList,parameter,Function,3
+def(STANDALONE),ftpData,parameter,Function,3
+True,xmlEncodeEntities,parameter,Function,3
+def(STANDALONE),ftpList,parameter,Function,3
+True,inputPop,parameter,Function,3

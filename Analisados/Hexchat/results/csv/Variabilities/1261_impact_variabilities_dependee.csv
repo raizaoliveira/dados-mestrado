@@ -1,0 +1,4 @@
+!def(WIN32),xchat_exec,additon,Function,3
+!def(WIN32),get_xdir_fs,exclusion,Function,3
+def(WIN32),get_xdir_fs,additon,Function,3
+!def(WIN32),xchat_execv,exclusion,Function,3

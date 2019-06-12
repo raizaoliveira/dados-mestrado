@@ -1,0 +1,5 @@
+True,m4_symtab_apply,additon,Function,2
+True,m4_hack_all_symbols,exclusion,Function,2
+def(DEBUG_SYM),symtab_print_list,additon,Function,2
+True,next_token,exclusion,Function,2
+True,m4_symtab,exclusion,Variable,2

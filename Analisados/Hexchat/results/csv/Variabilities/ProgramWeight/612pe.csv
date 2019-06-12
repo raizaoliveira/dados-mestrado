@@ -1,0 +1,5 @@
+xchat_open_file,1,function
+portable_mode,1,function
+get_xdir_fs,1,function
+default_file,1,function
+check_prefs_dir,1,function

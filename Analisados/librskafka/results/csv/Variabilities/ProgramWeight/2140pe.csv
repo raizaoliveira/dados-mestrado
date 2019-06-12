@@ -1,0 +1,6 @@
+__builtin_ctzll,1,function
+__builtin_clz,1,function
+g,1,variable
+exp,1,variable
+__builtin_ctz,1,function
+main,1,function

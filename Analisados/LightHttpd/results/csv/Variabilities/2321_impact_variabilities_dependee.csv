@@ -1,0 +1,7 @@
+True,hctx,additon,Variable,2
+True,p,additon,Variable,2
+True,env_add,exclusion,Function,2
+True,cgi_env_add,additon,Function,2
+True,cgi_connection_close_fdtocgi,exclusion,Function,2
+True,srv,additon,Variable,2
+True,con,additon,Variable,2

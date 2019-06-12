@@ -1,0 +1,4 @@
+!def(VMS),
+!def(NO_DEBUG_MEMORY),
+True,
+def(STANDALONE),

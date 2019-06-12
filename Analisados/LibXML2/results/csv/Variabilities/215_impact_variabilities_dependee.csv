@@ -1,0 +1,13 @@
+!def(isinf),xmlXPathFreeContext,additon,Function,7
+True,node,additon,Variable,7
+!def(isinf),xmlXPathFreeNodeSetList,additon,Function,7
+!def(isinf),xmlXPathEvalExpr,additon,Function,7
+!def(isinf),xmlXPathEval,additon,Function,7
+True,xmlStrlen,additon,Function,7
+def(STANDALONE),ftpList,parameter,Function,7
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,7
+!def(HAVE_UNICODE_H),UTF8Toisolat1,parameter,Function,7
+!def(HAVE_UNICODE_H),isolat1ToUTF8,parameter,Function,7
+!def(isinf),xmlXPathNewContext,additon,Function,7
+def(STANDALONE),ftpData,parameter,Function,7
+True,xmlDebugDumpString,additon,Function,7

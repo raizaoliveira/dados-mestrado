@@ -1,0 +1,5 @@
+True,def(STANDALONE)
+def(XML_USE_BUFFER_CONTENT),True
+!def(VMS),True
+(def(MEM_LIST)&!def(NO_DEBUG_MEMORY)),True
+!def(NO_DEBUG_MEMORY),True

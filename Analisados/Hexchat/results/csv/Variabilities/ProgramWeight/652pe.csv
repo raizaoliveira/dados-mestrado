@@ -1,0 +1,7 @@
+check_prefs_dir,1,function
+portable_mode,1,function
+default_file,1,function
+create_msg_dialog,1,function
+fe_message,1,function
+xchat_open_file,1,function
+get_xdir_fs,1,function

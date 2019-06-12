@@ -1,0 +1,7 @@
+True,argv,additon,Variable,5
+True,freq,exclusion,Variable,5
+True,chanlist_filereq_done,parameter,Function,5
+True,rawlog_save,parameter,Function,5
+True,file,additon,Variable,5
+True,editlist_file,additon,Variable,5
+True,argc,additon,Variable,5

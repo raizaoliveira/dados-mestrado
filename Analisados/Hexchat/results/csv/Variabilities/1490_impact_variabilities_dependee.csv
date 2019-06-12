@@ -1,0 +1,6 @@
+!def(WIN32),fe_tray_set_balloon,additon,Function,4
+!def(WIN32),fe_open_url_inner,exclusion,Function,4
+True,prefs,additon,Variable,4
+True,argv,additon,Variable,4
+!def(WIN32),servlist_save,exclusion,Function,4
+def(WIN32),get_xdir_fs,exclusion,Function,4

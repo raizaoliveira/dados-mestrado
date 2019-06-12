@@ -1,0 +1,5 @@
+def(WIN32),
+def(USE_MSPROXY),
+True,
+(!def(USE_LIBCANBERRA)&!def(HAVE_GTK_MAC)&def(WIN32)),
+!def(WIN32),

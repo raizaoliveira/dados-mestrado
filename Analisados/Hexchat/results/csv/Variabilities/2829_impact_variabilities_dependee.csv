@@ -1,0 +1,4 @@
+True,fe_timeout_add,exclusion,Function,3
+!def(WIN32),hexchat_exec,exclusion,Function,3
+True,hexchat_exec,additon,Function,3
+def(WIN32),tray_menu_settings,parameter,Function,3

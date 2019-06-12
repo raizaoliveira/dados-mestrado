@@ -1,0 +1,5 @@
+True,editlist_file,exclusion,Variable,3
+True,freq,additon,Variable,3
+True,rawlog_save,parameter,Function,3
+True,file,exclusion,Variable,3
+True,chanlist_filereq_done,parameter,Function,3

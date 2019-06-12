@@ -1,0 +1,4 @@
+True,uri,exclusion,Variable,4
+!def(WIN32),setup_apply,additon,Function,4
+def(WIN32),tray_menu_settings,parameter,Function,4
+!def(WIN32),servlist_save,exclusion,Function,4

@@ -1,0 +1,3 @@
+def(HAVE_FORK),True
+True,!def(__WIN32)
+True,def(HAVE_FORK)

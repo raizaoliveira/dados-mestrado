@@ -1,0 +1,4 @@
+def(XML_USE_BUFFER_CONTENT),True
+True,def(STANDALONE)
+!def(VMS),True
+True,def(XML_USE_BUFFER_CONTENT)

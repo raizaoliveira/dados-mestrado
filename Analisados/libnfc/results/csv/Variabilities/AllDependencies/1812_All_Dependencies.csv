@@ -1,0 +1,5 @@
+!def(WIN32),True
+def(ENVVARS),True
+True,def(SERIAL_AUTOPROBE_ENABLED)
+def(SERIAL_AUTOPROBE_ENABLED),True
+def(DEBUG),True

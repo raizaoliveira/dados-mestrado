@@ -1,0 +1,17 @@
+!def(WIN32),make_config_dirs,additon,Function,4
+!def(WIN32),default_file,additon,Function,4
+def(WIN32),tray_menu_settings,parameter,Function,4
+True,xdir,exclusion,Variable,4
+True,new_pix,exclusion,Variable,4
+True,get_xdir,additon,Function,4
+True,get_default_spell_languages,additon,Function,4
+!def(WIN32),hexchat_fopen_file,additon,Function,4
+!def(WIN32),check_config_dir,additon,Function,4
+True,do_ulist,exclusion,Variable,4
+def(WIN32),get_xdir,exclusion,Function,4
+!def(WIN32),load_config,additon,Function,4
+True,portable_mode,exclusion,Function,4
+!def(WIN32),load_default_config,additon,Function,4
+!def(WIN32),hexchat_open_file,additon,Function,4
+True,do_layout,exclusion,Variable,4
+!def(WIN32),setup_apply,exclusion,Function,4

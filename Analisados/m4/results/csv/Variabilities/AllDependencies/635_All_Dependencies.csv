@@ -1,0 +1,6 @@
+True,!def(STDC_HEADERS)
+!def(NDEBUG),True
+def(DEBUG_SYM),True
+True,def(DEBUG_SYM)
+True,!def(alloca)
+def(DEBUG_INCL),True

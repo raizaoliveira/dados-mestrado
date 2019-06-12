@@ -1,0 +1,3 @@
+!def(HAVE_TMPFILE),
+True,
+def(DEBUG_SYM),

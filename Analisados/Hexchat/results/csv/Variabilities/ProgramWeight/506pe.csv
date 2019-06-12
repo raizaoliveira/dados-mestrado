@@ -1,0 +1,4 @@
+get_xdir_fs,1,function
+portable_mode,1,function
+xdir_fs,1,variable
+get_xdir_utf8,1,function

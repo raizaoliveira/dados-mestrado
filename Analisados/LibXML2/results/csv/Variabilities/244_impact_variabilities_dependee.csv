@@ -1,0 +1,8 @@
+!def(NO_DEBUG_MEMORY),xmlMallocLoc,exclusion,Function,3
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,3
+def(STANDALONE),ftpList,parameter,Function,3
+def(STANDALONE),ftpData,parameter,Function,3
+!def(NO_DEBUG_MEMORY),xmlMalloc,additon,Function,3
+!def(NO_DEBUG_MEMORY),xmlMemStrdup,additon,Function,3
+True,uri,additon,Variable,3
+!def(NO_DEBUG_MEMORY),xmlRealloc,additon,Function,3

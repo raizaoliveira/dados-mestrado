@@ -1,0 +1,4 @@
+def(USE_POLL),fdevent_poll_init,exclusion,Function,2
+def(USE_FREEBSD_KQUEUE),ev,exclusion,Variable,2
+def(USE_POLL),ev,additon,Variable,2
+def(USE_FREEBSD_KQUEUE),fdevent_freebsd_kqueue_init,additon,Function,2

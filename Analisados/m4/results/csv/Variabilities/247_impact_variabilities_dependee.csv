@@ -1,0 +1,4 @@
+!def(STDC_HEADERS),malloc,exclusion,Variable,2
+True,xrealloc,exclusion,Function,2
+!def(STDC_HEADERS),xmalloc,additon,Variable,2
+True,xfree,exclusion,Function,2

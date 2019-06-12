@@ -1,0 +1,2 @@
+def(HAVE_PCRE_H),True
+def(HAVE_PWD_H),True

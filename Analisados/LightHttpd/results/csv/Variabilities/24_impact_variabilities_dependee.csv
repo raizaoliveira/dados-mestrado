@@ -1,0 +1,12 @@
+True,buffer_append_string_len,exclusion,Function,1
+True,buffer_append_string,additon,Function,1
+True,p,exclusion,Variable,1
+True,req,exclusion,Variable,1
+True,buffer_init_string,exclusion,Function,1
+True,buffer_init,additon,Function,1
+True,password,exclusion,Variable,1
+True,buffer_copy_string_len,additon,Function,1
+True,username,exclusion,Variable,1
+True,srv,exclusion,Variable,1
+True,realm,exclusion,Variable,1
+True,buffer_append_string_buffer,exclusion,Function,1

@@ -1,0 +1,3 @@
+True,argv,additon,Variable,3
+!def(WIN32),xchat_execv,exclusion,Function,3
+!def(WIN32),xchat_exec,additon,Function,3

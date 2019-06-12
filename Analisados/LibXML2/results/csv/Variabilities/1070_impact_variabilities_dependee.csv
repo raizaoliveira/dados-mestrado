@@ -1,0 +1,4 @@
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,4
+def(STANDALONE),ftpData,parameter,Function,4
+True,xmlEncodeEntities,parameter,Function,4
+def(STANDALONE),ftpList,parameter,Function,4

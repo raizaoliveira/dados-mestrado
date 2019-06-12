@@ -1,0 +1,4 @@
+!def(NDEBUG),True
+def(DEBUG_SYM),True
+True,!def(STDC_HEADERS)
+True,def(DEBUG_SYM)

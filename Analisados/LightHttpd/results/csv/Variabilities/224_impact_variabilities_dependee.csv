@@ -1,0 +1,3 @@
+True,mod_userdir_patch_connection,parameter,Function,1
+True,mod_userdir_setup_connection,exclusion,Function,1
+True,buffer_is_equal_string,exclusion,Function,1

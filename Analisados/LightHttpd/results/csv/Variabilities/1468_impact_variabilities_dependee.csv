@@ -1,0 +1,6 @@
+True,bitset_free,exclusion,Function,1
+True,bitset_init,exclusion,Function,1
+True,bitset_set_bit,exclusion,Function,1
+True,bitset_clear_bit,exclusion,Function,1
+True,log_error_write,additon,Function,1
+True,bitset_test_bit,exclusion,Function,1

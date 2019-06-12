@@ -1,0 +1,6 @@
+True,scgi_env_add,exclusion,Function,3
+def(HAVE_SYS_UN_H),fcgi_addr_un,additon,Variable,3
+True,env_add,additon,Function,3
+True,log_error_write,additon,Function,3
+True,parse_binpath,additon,Function,3
+True,hctx,exclusion,Variable,3

@@ -1,0 +1,7 @@
+True,xmlCopyNode,parameter,Function,2
+True,xmlStrlen,parameter,Function,2
+True,inputPop,parameter,Function,2
+True,xmlXPtrBuildNodeList,parameter,Function,2
+True,xmlEncodeEntities,parameter,Function,2
+def(STANDALONE),ftpData,parameter,Function,2
+def(STANDALONE),ftpList,parameter,Function,2

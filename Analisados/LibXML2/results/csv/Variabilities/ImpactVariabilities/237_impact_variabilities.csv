@@ -1,0 +1,6 @@
+!def(HAVE_LIBREADLINE),
+!def(isinf),
+!def(NO_DEBUG_MEMORY),
+True,
+def(HAVE_LIBREADLINE),
+def(STANDALONE),

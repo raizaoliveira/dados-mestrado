@@ -1,0 +1,11 @@
+True,xmlEncodeEntities,parameter,Function,3
+True,xmlStrlen,parameter,Function,3
+def(STANDALONE),ftpList,parameter,Function,3
+def(STANDALONE),ftpData,parameter,Function,3
+True,xmlCopyNode,parameter,Function,3
+True,xmlDefaultCatalog,additon,Variable,3
+True,ret,additon,Variable,3
+True,inputPop,parameter,Function,3
+True,catal,additon,Variable,3
+True,xmlXPtrBuildNodeList,parameter,Function,3
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,3

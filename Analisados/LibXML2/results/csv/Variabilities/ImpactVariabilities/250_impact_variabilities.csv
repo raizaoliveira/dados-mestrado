@@ -1,0 +1,5 @@
+!def(XML_USE_BUFFER_CONTENT),
+!def(isinf),
+True,
+def(STANDALONE),
+!def(NO_DEBUG_MEMORY),

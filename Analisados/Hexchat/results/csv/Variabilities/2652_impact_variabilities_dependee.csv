@@ -1,0 +1,9 @@
+!def(WIN32),servlist_save,exclusion,Function,4
+def(WIN32),load_default_config,additon,Function,4
+True,fe_open_url,exclusion,Function,4
+def(WIN32),fe_open_url_inner,additon,Function,4
+!def(WIN32),setup_apply,additon,Function,4
+def(WIN32),tray_menu_settings,parameter,Function,4
+True,setup_prefs,additon,Variable,4
+True,argc,exclusion,Variable,4
+True,argv,exclusion,Variable,4

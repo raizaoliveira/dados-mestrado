@@ -1,0 +1,5 @@
+True,!def(USE_UTF_8)
+!def(USE_UTF_8),True
+True,!def(HAVE_UNICODE_H)
+!def(HAVE_UNICODE_H),True
+def(DEBUG_TREE),True

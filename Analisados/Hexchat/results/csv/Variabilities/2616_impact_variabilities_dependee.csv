@@ -1,0 +1,4 @@
+def(WIN32),tray_menu_settings,parameter,Function,3
+True,source,additon,Variable,3
+True,condition,additon,Variable,3
+True,dcc,additon,Variable,3

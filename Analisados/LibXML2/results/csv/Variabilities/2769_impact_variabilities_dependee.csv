@@ -1,0 +1,13 @@
+True,xmlNewText,exclusion,Function,4
+def(LIBXML_C14N_ENABLED),xmlC14NNamespacesCompare,parameter,Function,4
+True,xmlAddChild,exclusion,Function,4
+def(LIBXML_C14N_ENABLED),xmlC14NPrintAttrs,parameter,Function,4
+def(LIBXML_C14N_ENABLED),xmlC14NAttrsCompare,parameter,Function,4
+def(STANDALONE),ftpList,parameter,Function,4
+True,xmlNewNode,exclusion,Function,4
+def(LIBXML_C14N_ENABLED),xmlC14NPrintNamespaces,parameter,Function,4
+True,xmlNewChild,exclusion,Function,4
+True,xmlFreeDoc,exclusion,Function,4
+True,xmlNewProp,exclusion,Function,4
+def(STANDALONE),ftpData,parameter,Function,4
+True,xmlNewDoc,exclusion,Function,4

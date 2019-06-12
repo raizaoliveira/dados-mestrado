@@ -1,0 +1,15 @@
+True,xmlNewNode,parameter,Function,5
+True,xmlEncodeEntities,parameter,Function,5
+True,xmlBufferAdd,additon,Function,5
+True,xmlCopyNode,additon,Function,5
+True,xmlXPtrBuildNodeList,additon,Function,5
+True,len,additon,Variable,5
+True,node,exclusion,Variable,5
+True,doc,exclusion,Variable,5
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,5
+True,content,additon,Variable,5
+True,xmlBufferAddHead,exclusion,Function,5
+True,cur,additon,Variable,5
+def(STANDALONE),ftpList,parameter,Function,5
+def(STANDALONE),ftpData,parameter,Function,5
+True,xmlNodeSetContent,additon,Function,5

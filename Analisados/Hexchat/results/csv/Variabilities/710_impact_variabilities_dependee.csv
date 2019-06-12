@@ -1,0 +1,15 @@
+True,editlist_file,additon,Variable,4
+True,fe_message,exclusion,Function,4
+True,portable_mode,exclusion,Function,4
+!def(WIN32),get_xdir_fs,exclusion,Function,4
+True,get_xdir_utf8,exclusion,Function,4
+True,get_xdir_fs,additon,Function,4
+True,xdir_fs,exclusion,Variable,4
+!def(WIN32),default_file,additon,Function,4
+!def(WIN32),xchat_fopen_file,additon,Function,4
+True,rawlog_save,parameter,Function,4
+def(WIN32),win32_read_thread,parameter,Function,4
+def(WIN32),gtkutil_file_req,additon,Function,4
+!def(WIN32),xchat_open_file,additon,Function,4
+True,file,additon,Variable,4
+True,chanlist_filereq_done,parameter,Function,4

@@ -1,0 +1,7 @@
+def(DEBUG_SYM),
+(((def(CRAY2)&!def(alloca))|(def(CRAY2)&!def(alloca)&(def(alloca)|def(CRAY2))))&(def(alloca)|def(CRAY2))&((def(CRAY2)&!def(alloca))|(def(CRAY2)&!def(alloca)&(def(alloca)|def(CRAY2)))|(!def(alloca)&!def(CRAY2)))),
+((((!def(CRAY2)|def(alloca)|(!def(alloca)&!def(CRAY2)))&(!def(CRAY2)|def(alloca)))|(!def(alloca)&!def(CRAY2)))&((def(CRAY2)&!def(alloca))|(def(CRAY2)&!def(alloca)&(def(alloca)|def(CRAY2)))|(!def(alloca)&!def(CRAY2)))),
+!def(alloca),
+!def(HAVE_TMPFILE),
+!def(_LIBC),
+True,

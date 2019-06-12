@@ -1,0 +1,6 @@
+!def(WIN32),setup_apply,exclusion,Function,4
+def(WIN32),tray_menu_settings,parameter,Function,4
+True,new_pix,exclusion,Variable,4
+True,setup_prefs,exclusion,Variable,4
+True,do_layout,exclusion,Variable,4
+True,do_ulist,exclusion,Variable,4

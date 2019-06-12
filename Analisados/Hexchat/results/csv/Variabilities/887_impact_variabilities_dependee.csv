@@ -1,0 +1,4 @@
+True,fe_input_add,exclusion,Function,3
+def(WIN32),filter,exclusion,Function,3
+True,filter,exclusion,Function,3
+def(WIN32),win32_read_thread,exclusion,Function,3

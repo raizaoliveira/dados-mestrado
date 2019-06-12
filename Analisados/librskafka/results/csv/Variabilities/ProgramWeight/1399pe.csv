@@ -1,0 +1,5 @@
+rd_kafka_conf_set,1,function
+__builtin_ctzll,1,function
+__builtin_ctz,1,function
+exp,1,variable
+__builtin_clz,1,function

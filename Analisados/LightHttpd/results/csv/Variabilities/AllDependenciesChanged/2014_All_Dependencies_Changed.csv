@@ -1,0 +1,2 @@
+!def(USE_LDAP),True
+def(USE_LDAP),True

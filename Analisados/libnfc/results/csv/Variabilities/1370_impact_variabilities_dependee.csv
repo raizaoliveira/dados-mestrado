@@ -1,0 +1,8 @@
+True,uart_close,additon,Function,1
+True,uart_set_speed,additon,Function,1
+True,uart_flush_input,additon,Function,1
+True,nfc_device_new,additon,Function,1
+True,acr122s_get_firmware_version,additon,Function,1
+True,nfc_device_free,additon,Function,1
+True,uart_open,additon,Function,1
+True,uart_list_ports,additon,Function,1

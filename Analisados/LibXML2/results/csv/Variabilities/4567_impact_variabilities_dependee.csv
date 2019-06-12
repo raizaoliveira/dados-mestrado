@@ -1,0 +1,12 @@
+True,ctxt,exclusion,Variable,3
+True,xmlSchemaNewParserCtxt,exclusion,Function,3
+True,xmlSchemaParse,exclusion,Function,3
+True,xmlValidateNCName,exclusion,Function,3
+def(LIBXML_C14N_ENABLED),xmlC14NPrintAttrs,parameter,Function,3
+def(LIBXML_C14N_ENABLED),xmlC14NNamespacesCompare,parameter,Function,3
+True,xmlSchemaNewMemParserCtxt,exclusion,Function,3
+True,xmlSchemaFreeParserCtxt,exclusion,Function,3
+True,xmlSchemaSetParserErrors,exclusion,Function,3
+True,xmlEncodeEntitiesReentrant,exclusion,Function,3
+def(LIBXML_C14N_ENABLED),xmlC14NPrintNamespaces,parameter,Function,3
+def(LIBXML_C14N_ENABLED),xmlC14NAttrsCompare,parameter,Function,3

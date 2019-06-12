@@ -1,0 +1,3 @@
+def(USE_FREEBSD_SENDFILE),True
+def(HAVE_FORK),True
+def(USE_LINUX_SENDFILE),True

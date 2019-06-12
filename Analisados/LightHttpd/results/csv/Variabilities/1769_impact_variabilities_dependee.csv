@@ -1,0 +1,11 @@
+True,getenv,exclusion,Variable,3
+def(HAVE_FORK),fcgi_spawn_connection,exclusion,Function,3
+True,log_error_write,exclusion,Function,3
+True,parse_binpath,exclusion,Function,3
+True,hctx,exclusion,Variable,3
+True,srv,exclusion,Variable,3
+True,host,exclusion,Variable,3
+def(HAVE_FORK),scgi_spawn_connection,exclusion,Function,3
+True,proc,exclusion,Variable,3
+True,p,exclusion,Variable,3
+True,env_add,exclusion,Function,3

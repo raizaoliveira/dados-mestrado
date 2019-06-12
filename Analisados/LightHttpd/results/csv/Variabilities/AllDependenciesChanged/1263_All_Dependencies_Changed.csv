@@ -1,0 +1,6 @@
+def(HAVE_FORK),True
+True,def(HAVE_FORK)
+def(USE_OPENSSL),True
+def(HAVE_PWD_H),True
+def(HAVE_PCRE_H),True
+!def(__WIN32),True

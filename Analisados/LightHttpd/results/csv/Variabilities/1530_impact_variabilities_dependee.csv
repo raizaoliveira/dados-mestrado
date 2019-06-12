@@ -1,0 +1,10 @@
+def(WIN32),proc_open,additon,Function,5
+True,proc,exclusion,Variable,5
+def(WIN32),proc,exclusion,Variable,5
+!def(WIN32),proc,additon,Variable,5
+def(WIN32),proc_close,additon,Function,5
+True,err,exclusion,Variable,5
+True,out,exclusion,Variable,5
+True,in,exclusion,Variable,5
+!def(WIN32),proc_open,exclusion,Function,5
+!def(WIN32),proc_close,exclusion,Function,5

@@ -1,0 +1,4 @@
+True,get_xdir_fs,additon,Function,1
+True,portable_mode,exclusion,Function,1
+True,xdir_fs,exclusion,Variable,1
+True,get_xdir_utf8,exclusion,Function,1

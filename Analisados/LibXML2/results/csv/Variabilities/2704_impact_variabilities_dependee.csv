@@ -1,0 +1,10 @@
+True,tmp,additon,Variable,7
+True,xmlChar,additon,Variable,7
+def(LIBXML_C14N_ENABLED),xmlC14NAttrsCompare,parameter,Function,7
+def(LIBXML_C14N_ENABLED),xmlC14NNamespacesCompare,parameter,Function,7
+def(LIBXML_C14N_ENABLED),xmlC14NPrintNamespaces,parameter,Function,7
+def(LIBXML_C14N_ENABLED),xmlC14NPrintAttrs,parameter,Function,7
+True,reader,exclusion,Variable,7
+True,ctxt,additon,Variable,7
+def(STANDALONE),ftpData,parameter,Function,7
+def(STANDALONE),ftpList,parameter,Function,7

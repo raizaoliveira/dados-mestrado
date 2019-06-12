@@ -1,0 +1,5 @@
+!def(HAVE_UNICODE_H),isolat1ToUTF8,parameter,Function,3
+!def(NO_DEBUG_MEMORY),xmlRealloc,additon,Function,3
+True,inputPop,parameter,Function,3
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,3
+!def(HAVE_UNICODE_H),UTF8Toisolat1,parameter,Function,3

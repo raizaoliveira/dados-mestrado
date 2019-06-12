@@ -1,0 +1,4 @@
+def(LIBXML_C14N_ENABLED),
+def(STANDALONE),
+True,
+!def(NO_DEBUG_MEMORY),

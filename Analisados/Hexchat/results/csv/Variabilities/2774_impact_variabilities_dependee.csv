@@ -1,0 +1,2 @@
+True,mg_is_gui_target,exclusion,Function,3
+def(WIN32),tray_menu_settings,parameter,Function,3

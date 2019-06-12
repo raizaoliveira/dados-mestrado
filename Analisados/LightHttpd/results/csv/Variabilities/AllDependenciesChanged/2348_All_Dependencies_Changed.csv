@@ -1,0 +1,2 @@
+def(USE_SOLARIS_DEVPOLL),True
+def(USE_LINUX_EPOLL),True

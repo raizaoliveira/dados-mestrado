@@ -1,0 +1,15 @@
+def(LIBXML_C14N_ENABLED),xmlC14NNamespacesCompare,parameter,Function,6
+True,attr,additon,Variable,6
+True,ctxt,additon,Variable,6
+def(STANDALONE),ftpData,parameter,Function,6
+def(LIBXML_C14N_ENABLED),xmlC14NPrintAttrs,parameter,Function,6
+True,xmlDocDump,type,Function,6
+True,doc,additon,Variable,6
+def(STANDALONE),ftpList,parameter,Function,6
+def(LIBXML_C14N_ENABLED),xmlC14NPrintNamespaces,parameter,Function,6
+def(LIBXML_XPTR_ENABLED),xmlXPtrBuildNodeList,parameter,Function,6
+def(LIBXML_C14N_ENABLED),xmlC14NAttrsCompare,parameter,Function,6
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,6
+!def(NO_DEBUG_MEMORY),xmlMalloc,additon,Function,6
+True,elem,additon,Variable,6
+True,xmlNewTextLen,additon,Function,6

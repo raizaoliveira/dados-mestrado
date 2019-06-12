@@ -1,0 +1,7 @@
+True,do_layout,additon,Variable,2
+True,menu_destroy,exclusion,Function,2
+True,new_pix,additon,Variable,2
+True,do_ulist,additon,Variable,2
+True,tray_menu_destroy,additon,Function,2
+True,do_identd,additon,Variable,2
+!def(WIN32),setup_apply,additon,Function,2

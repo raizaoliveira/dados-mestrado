@@ -1,0 +1,4 @@
+!def(WIN32),load_config,additon,Function,3
+True,argv,additon,Variable,3
+!def(WIN32),servlist_save,additon,Function,3
+True,argc,additon,Variable,3

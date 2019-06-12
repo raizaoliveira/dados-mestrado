@@ -1,0 +1,3 @@
+print_hex,1,function
+pn532_uart_list_devices,1,function
+pn532_uart_wakeup,1,function

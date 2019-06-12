@@ -1,0 +1,10 @@
+ptr,1,variable
+cur,1,variable
+buffer,1,variable
+xmlNewChild,1,function
+xmlNewDoc,1,function
+xmlNewNode,1,function
+xmlDocDump,1,function
+buf,1,variable
+xmlFreeDoc,1,function
+xmlNewDtd,1,function

@@ -1,0 +1,3 @@
+def(USE_MSPROXY),
+def(USE_XLIB),
+True,

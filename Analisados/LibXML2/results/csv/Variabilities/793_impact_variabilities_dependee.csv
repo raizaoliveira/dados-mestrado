@@ -1,0 +1,16 @@
+!def(NO_DEBUG_MEMORY),xmlRealloc,additon,Function,3
+True,xmlXPtrWrapLocationSet,parameter,Function,3
+True,xmlXPathWrapNodeSet,parameter,Function,3
+True,xmlXPathNewNodeSet,parameter,Function,3
+True,xmlXPathNewString,parameter,Function,3
+def(STANDALONE),ftpList,parameter,Function,3
+True,xmlCopyNode,parameter,Function,3
+True,xmlXPathNewBoolean,parameter,Function,3
+True,ret,additon,Variable,3
+def(STANDALONE),ftpData,parameter,Function,3
+True,xmlXPtrNewLocationSetNodes,parameter,Function,3
+True,xmlEncodeEntities,parameter,Function,3
+!def(NO_DEBUG_MEMORY),xmlMalloc,additon,Function,3
+True,inputPop,parameter,Function,3
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,3
+True,xmlXPathNewFloat,parameter,Function,3

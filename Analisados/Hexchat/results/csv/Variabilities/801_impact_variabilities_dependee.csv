@@ -1,0 +1,15 @@
+True,chanlist_filereq_done,exclusion,Function,5
+!def(WIN32),dcc_did_connect,additon,Function,5
+True,dcc_saveas_cb,exclusion,Function,5
+True,callback,exclusion,Variable,5
+True,dcc,additon,Variable,5
+True,condition,additon,Variable,5
+True,prefs,additon,Variable,5
+True,userdata,exclusion,Variable,5
+True,source,additon,Variable,5
+True,fe_dcc_update,additon,Function,5
+True,flags,exclusion,Variable,5
+True,fe_open_url,additon,Function,5
+True,freq,exclusion,Variable,5
+!def(WIN32),browse_folder,additon,Function,5
+True,rawlog_save,exclusion,Function,5

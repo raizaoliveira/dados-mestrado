@@ -1,0 +1,6 @@
+True,!def(alloca)
+def(DEBUG_INCL),True
+True,!def(STDC_HEADERS)
+def(DEBUG_SYM),True
+True,!def(HAVE_TMPFILE)
+True,def(DEBUG_SYM)

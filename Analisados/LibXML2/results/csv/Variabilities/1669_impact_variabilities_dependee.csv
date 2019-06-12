@@ -1,0 +1,7 @@
+def(LIBXML_C14N_ENABLED),xmlC14NNamespacesCompare,parameter,Function,3
+def(LIBXML_C14N_ENABLED),xmlC14NAttrsCompare,parameter,Function,3
+def(STANDALONE),ftpData,parameter,Function,3
+def(LIBXML_C14N_ENABLED),xmlC14NPrintNamespaces,parameter,Function,3
+def(LIBXML_C14N_ENABLED),xmlC14NPrintAttrs,parameter,Function,3
+def(LIBXML_XPTR_ENABLED),xmlXPtrBuildNodeList,parameter,Function,3
+def(STANDALONE),ftpList,parameter,Function,3

@@ -1,0 +1,3 @@
+True,uart_close,additon,Function,1
+True,acr122s_close,exclusion,Function,1
+True,nfc_device_free,additon,Function,1

@@ -1,0 +1,4 @@
+def(WIN32),get_xdir,exclusion,Function,3
+True,get_xdir,exclusion,Function,3
+True,uri,exclusion,Variable,3
+True,fe_open_url,additon,Function,3

@@ -1,0 +1,3 @@
+True,
+!def(__CYGWIN__),
+(!def(__CYGWIN__)&!def(_MSC_VER)),

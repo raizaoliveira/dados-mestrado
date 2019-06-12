@@ -1,0 +1,7 @@
+True,ctxt,additon,Variable,3
+def(STANDALONE),ftpData,parameter,Function,3
+def(STANDALONE),ftpList,parameter,Function,3
+True,len,additon,Variable,3
+!def(XML_USE_BUFFER_CONTENT),newbuf,additon,Variable,3
+True,xmlChar,additon,Variable,3
+!def(XML_USE_BUFFER_CONTENT),size,additon,Variable,3

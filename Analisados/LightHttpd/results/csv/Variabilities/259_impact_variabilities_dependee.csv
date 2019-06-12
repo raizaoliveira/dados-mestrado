@@ -1,0 +1,6 @@
+True,file_cache_get_entry,additon,Function,1
+True,buffer_copy_string_len,additon,Function,1
+True,buffer_copy_string,exclusion,Function,1
+True,buffer_append_string,additon,Function,1
+True,buffer_append_string_buffer,exclusion,Function,1
+True,buffer_copy_string_buffer,additon,Function,1

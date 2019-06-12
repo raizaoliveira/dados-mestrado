@@ -1,0 +1,4 @@
+True,tray_make_item,additon,Function,3
+!def(WIN32),tray_foreach_server,additon,Function,3
+True,tray_find_away_status,additon,Function,3
+!def(WIN32),tray_menu_quit_cb,additon,Function,3

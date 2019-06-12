@@ -1,0 +1,5 @@
+!def(isinf),
+True,
+!def(NO_DEBUG_MEMORY),
+!def(HAVE_UNICODE_H),
+def(STANDALONE),

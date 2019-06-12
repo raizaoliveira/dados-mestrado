@@ -1,0 +1,16 @@
+True,username,exclusion,Variable,3
+!def(WIN32),proc_open,additon,Function,3
+True,req,exclusion,Variable,3
+True,p,exclusion,Variable,3
+!def(WIN32),proc_close,exclusion,Function,3
+!def(WIN32),proc,additon,Variable,3
+def(WIN32),proc_open,exclusion,Function,3
+def(WIN32),pipe_close_child,exclusion,Function,3
+True,srv,exclusion,Variable,3
+True,proc,additon,Variable,3
+True,password,exclusion,Variable,3
+def(WIN32),proc_close,additon,Function,3
+True,realm,exclusion,Variable,3
+True,proc_open_pipes,additon,Function,3
+!def(WIN32),pipe_close_child,additon,Function,3
+def(WIN32),proc,additon,Variable,3

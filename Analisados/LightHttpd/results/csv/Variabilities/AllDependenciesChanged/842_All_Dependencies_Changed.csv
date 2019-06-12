@@ -1,0 +1,5 @@
+True,def(USE_FREEBSD_KQUEUE)
+True,def(USE_LDAP)
+True,!def(USE_POLL)
+True,def(HAVE_PCRE_H)
+def(HAVE_FORK),True

@@ -1,0 +1,7 @@
+!def(NO_DEBUG_MEMORY),xmlFree,exclusion,Function,3
+True,xmlDefaultXMLCatalogList,exclusion,Variable,3
+def(STANDALONE),ftpData,parameter,Function,3
+True,inputPop,parameter,Function,3
+True,xmlStrlen,parameter,Function,3
+def(STANDALONE),ftpList,parameter,Function,3
+True,xmlEncodeEntities,parameter,Function,3

@@ -1,0 +1,4 @@
+def(WIN32),
+!def(WIN32),
+def(USE_MSPROXY),
+True,

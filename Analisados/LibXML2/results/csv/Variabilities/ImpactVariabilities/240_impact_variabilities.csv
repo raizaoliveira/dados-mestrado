@@ -1,0 +1,4 @@
+def(STANDALONE),
+True,
+!def(isinf),
+!def(NO_DEBUG_MEMORY),

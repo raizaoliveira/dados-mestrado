@@ -1,0 +1,3 @@
+!def(WIN32),get_xdir_fs,additon,Function,4
+True,portable_mode,additon,Function,4
+def(WIN32),get_xdir_fs,exclusion,Function,4

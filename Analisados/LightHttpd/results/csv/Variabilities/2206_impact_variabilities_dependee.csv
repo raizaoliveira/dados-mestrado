@@ -1,0 +1,3 @@
+True,chunkqueue_get_memory,exclusion,Function,1
+True,chunkqueue_append_mem,additon,Function,1
+True,chunkqueue_use_memory,exclusion,Function,1

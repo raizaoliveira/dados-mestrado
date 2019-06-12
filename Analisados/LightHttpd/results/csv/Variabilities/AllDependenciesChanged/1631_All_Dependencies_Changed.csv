@@ -1,0 +1,4 @@
+def(USE_LINUX_SENDFILE),True
+def(USE_SOLARIS_DEVPOLL),True
+def(HAVE_FORK),True
+def(USE_LINUX_EPOLL),True

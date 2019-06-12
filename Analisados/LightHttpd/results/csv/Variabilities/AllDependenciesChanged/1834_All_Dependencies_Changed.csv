@@ -1,0 +1,3 @@
+(def(USE_OPENSSL)&!def(__WIN32)),True
+(def(__CYGWIN__)&!def(__WIN32)),True
+!def(__WIN32),True

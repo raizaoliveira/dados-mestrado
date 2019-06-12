@@ -1,0 +1,5 @@
+!def(USE_UTF_8),
+!def(HAVE_UNICODE_H),
+def(DEBUG_INPUT),
+True,
+def(DEBUG_TREE),

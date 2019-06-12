@@ -1,0 +1,7 @@
+True,portable_mode,additon,Function,4
+def(WIN32),load_default_config,additon,Function,4
+!def(WIN32),hexchat_execv,exclusion,Function,4
+!def(WIN32),hexchat_exec,additon,Function,4
+True,argv,additon,Variable,4
+!def(WIN32),servlist_save,additon,Function,4
+def(WIN32),get_xdir,additon,Function,4

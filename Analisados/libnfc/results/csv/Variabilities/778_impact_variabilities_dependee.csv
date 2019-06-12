@@ -1,0 +1,2 @@
+True,pn532_uart_ack,exclusion,Function,1
+True,pn532_uart_check_communication,parameter,Function,1

@@ -1,0 +1,5 @@
+!def(WIN32),setup_apply,additon,Function,2
+True,setup_prefs,additon,Variable,2
+True,new_pix,additon,Variable,2
+True,do_ulist,additon,Variable,2
+True,do_layout,additon,Variable,2

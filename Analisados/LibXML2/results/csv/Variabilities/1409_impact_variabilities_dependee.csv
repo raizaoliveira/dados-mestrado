@@ -1,0 +1,12 @@
+def(LIBXML_C14N_ENABLED),xmlC14NNamespacesCompare,parameter,Function,3
+True,startindex,additon,Variable,3
+def(STANDALONE),ftpData,parameter,Function,3
+def(LIBXML_C14N_ENABLED),xmlC14NAttrsCompare,parameter,Function,3
+def(LIBXML_C14N_ENABLED),xmlC14NPrintAttrs,parameter,Function,3
+True,endindex,additon,Variable,3
+def(STANDALONE),ftpList,parameter,Function,3
+True,pos,additon,Variable,3
+True,start,additon,Variable,3
+True,cur,additon,Variable,3
+def(LIBXML_C14N_ENABLED),xmlC14NPrintNamespaces,parameter,Function,3
+True,end,additon,Variable,3

@@ -1,0 +1,5 @@
+!def(WIN32),mg_submenu,additon,Function,4
+!def(WIN32),servlist_save,additon,Function,4
+True,mg_submenu,additon,Function,4
+def(WIN32),tray_menu_settings,additon,Function,4
+True,mg_create_icon_item,additon,Function,4

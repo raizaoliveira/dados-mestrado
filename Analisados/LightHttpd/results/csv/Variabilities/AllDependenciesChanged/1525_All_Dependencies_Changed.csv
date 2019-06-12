@@ -1,0 +1,2 @@
+def(HAVE_IPV6),True
+!def(__WIN32),True

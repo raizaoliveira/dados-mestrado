@@ -1,0 +1,2 @@
+True,tray_menu_destroy,exclusion,Function,3
+!def(WIN32),fe_tray_set_balloon,additon,Function,3

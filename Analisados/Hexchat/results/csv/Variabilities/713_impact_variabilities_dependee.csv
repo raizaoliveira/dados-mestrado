@@ -1,0 +1,6 @@
+True,file,exclusion,Variable,4
+True,editlist_file,exclusion,Variable,4
+True,argv,exclusion,Variable,4
+True,argc,exclusion,Variable,4
+True,rawlog_save,parameter,Function,4
+True,chanlist_filereq_done,parameter,Function,4

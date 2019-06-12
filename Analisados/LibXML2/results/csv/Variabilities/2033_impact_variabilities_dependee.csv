@@ -1,0 +1,14 @@
+True,xmlXPathDebugDumpObject,exclusion,Function,7
+def(LIBXML_HTML_ENABLED),htmlDefaultSAXHandlerInit,additon,Function,7
+def(LIBXML_C14N_ENABLED),xmlC14NNamespacesCompare,parameter,Function,7
+def(STANDALONE),ftpList,parameter,Function,7
+def(LIBXML_C14N_ENABLED),xmlC14NAttrsCompare,parameter,Function,7
+True,with_comments,exclusion,Function,7
+!def(NO_DEBUG_MEMORY),xmlRealloc,exclusion,Function,7
+def(LIBXML_XPTR_ENABLED),xmlXPtrBuildNodeList,parameter,Function,7
+True,xmlDebugDumpOneNode,exclusion,Function,7
+!def(NO_DEBUG_MEMORY),xmlFree,exclusion,Function,7
+!def(NO_DEBUG_MEMORY),xmlMalloc,exclusion,Function,7
+def(LIBXML_C14N_ENABLED),xmlC14NPrintNamespaces,parameter,Function,7
+def(STANDALONE),ftpData,parameter,Function,7
+def(LIBXML_C14N_ENABLED),xmlC14NPrintAttrs,parameter,Function,7

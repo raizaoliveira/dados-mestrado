@@ -1,0 +1,12 @@
+True,realm,additon,Variable,2
+True,password,additon,Variable,2
+True,username,additon,Variable,2
+True,srv,additon,Variable,2
+True,buffer_is_empty,additon,Function,2
+True,p,additon,Variable,2
+def(USE_LDAP),auth_ldap_init,additon,Function,2
+True,log_error_write,additon,Function,2
+True,s,additon,Variable,2
+True,buffer_copy_string_len,additon,Function,2
+True,buffer_copy_string,additon,Function,2
+True,req,additon,Variable,2

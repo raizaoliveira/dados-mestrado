@@ -1,0 +1,3 @@
+!def(WIN32),servlist_save,additon,Function,4
+def(WIN32),load_config,additon,Function,4
+True,main,exclusion,Function,4

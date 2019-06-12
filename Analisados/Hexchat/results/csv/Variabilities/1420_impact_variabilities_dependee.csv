@@ -1,0 +1,5 @@
+!def(WIN32),fe_open_url_inner,additon,Function,4
+True,prefs,exclusion,Variable,4
+def(WIN32),fe_args,exclusion,Function,4
+True,argc,additon,Variable,4
+True,argv,additon,Variable,4

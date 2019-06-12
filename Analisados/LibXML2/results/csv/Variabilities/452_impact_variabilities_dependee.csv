@@ -1,0 +1,16 @@
+def(LIBXML_XPTR_ENABLED),xmlXPtrRangeToFunction,parameter,Function,5
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,5
+def(LIBXML_XPTR_ENABLED),xmlXPtrStringRangeFunction,parameter,Function,5
+def(LIBXML_XPTR_ENABLED),xmlXPtrRangeFunction,parameter,Function,5
+def(LIBXML_XPTR_ENABLED),xmlXPtrStartPointFunction,parameter,Function,5
+def(LIBXML_XPTR_ENABLED),xmlXPtrEndPointFunction,parameter,Function,5
+def(LIBXML_XPTR_ENABLED),xmlXPtrRangeInsideFunction,parameter,Function,5
+def(STANDALONE),ftpList,parameter,Function,5
+def(LIBXML_XPTR_ENABLED),xmlXPtrHereFunction,parameter,Function,5
+def(STANDALONE),ftpData,parameter,Function,5
+True,inputPop,parameter,Function,5
+def(LIBXML_XPTR_ENABLED),xmlXPtrOriginFunction,parameter,Function,5
+True,xmlEncodeEntities,parameter,Function,5
+def(LIBXML_XPTR_ENABLED),xmlXPtrBuildNodeList,parameter,Function,5
+def(LIBXML_XPTR_ENABLED),xmlXPtrNewLocationSetNodes,parameter,Function,5
+def(LIBXML_XPTR_ENABLED),xmlXPtrWrapLocationSet,parameter,Function,5

@@ -1,0 +1,9 @@
+True,def(STANDALONE)
+!def(XML_USE_BUFFER_CONTENT),True
+True,!def(VMS)
+True,!def(NO_DEBUG_MEMORY)
+!def(VMS),True
+True,def(XML_USE_BUFFER_CONTENT)
+def(DEBUG_RANGES),True
+True,!def(XML_USE_BUFFER_CONTENT)
+def(XML_USE_BUFFER_CONTENT),True

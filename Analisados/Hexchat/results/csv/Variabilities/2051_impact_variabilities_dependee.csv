@@ -1,0 +1,6 @@
+def(WIN32),sess,exclusion,Variable,4
+def(WIN32),fe_print_text,additon,Function,4
+True,sess,exclusion,Variable,4
+True,argc,exclusion,Variable,4
+True,argv,exclusion,Variable,4
+!def(WIN32),fe_print_text,exclusion,Function,4

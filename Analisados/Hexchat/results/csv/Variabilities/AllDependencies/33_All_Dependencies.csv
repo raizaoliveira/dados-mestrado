@@ -1,0 +1,4 @@
+!def(STATIC),True
+def(STATIC),True
+True,!def(STATIC)
+True,def(STATIC)

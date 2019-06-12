@@ -1,0 +1,12 @@
+True,xmlXPtrNewLocationSetNodes,parameter,Function,2
+True,xmlXPathNewFloat,parameter,Function,2
+True,xmlXPathNewNodeSet,parameter,Function,2
+True,xmlXPathNewBoolean,parameter,Function,2
+True,xmlXPtrWrapLocationSet,parameter,Function,2
+def(STANDALONE),ftpData,parameter,Function,2
+def(STANDALONE),ftpList,parameter,Function,2
+True,xmlCopyNode,parameter,Function,2
+True,xmlEncodeEntities,parameter,Function,2
+True,xmlXPathNewString,parameter,Function,2
+True,inputPop,parameter,Function,2
+True,xmlXPathWrapNodeSet,parameter,Function,2

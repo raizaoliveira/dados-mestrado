@@ -1,0 +1,6 @@
+!def(LIBXML_HTML_ENABLED),ctxt,additon,Variable,3
+def(STANDALONE),ftpData,parameter,Function,3
+def(STANDALONE),ftpList,parameter,Function,3
+!def(LIBXML_HTML_ENABLED),old,additon,Variable,3
+def(LIBXML_HTML_ENABLED),old,exclusion,Variable,3
+def(LIBXML_HTML_ENABLED),ctxt,exclusion,Variable,3

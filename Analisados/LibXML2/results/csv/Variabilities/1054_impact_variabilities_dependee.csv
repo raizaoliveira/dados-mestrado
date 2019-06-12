@@ -1,0 +1,14 @@
+True,ctxt,exclusion,Variable,5
+True,node,additon,Variable,5
+True,xmlXIncludeCopyNode,additon,Function,5
+True,xmlCopyNode,additon,Function,5
+def(STANDALONE),ftpList,parameter,Function,5
+True,doc,additon,Variable,5
+True,xmlXPtrBuildNodeList,additon,Function,5
+True,xmlNodeSetContent,exclusion,Function,5
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,5
+True,cur,additon,Variable,5
+True,xmlEncodeEntities,parameter,Function,5
+True,xmlXIncludeCopyXPointer,additon,Function,5
+def(STANDALONE),ftpData,parameter,Function,5
+True,len,exclusion,Variable,5

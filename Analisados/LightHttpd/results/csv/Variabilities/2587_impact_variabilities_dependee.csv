@@ -1,0 +1,5 @@
+True,config_append_cond_match_buffer,exclusion,Function,2
+True,config_check_cond,exclusion,Function,2
+True,log_error_write,exclusion,Function,2
+True,response_header_insert,exclusion,Function,2
+def(HAVE_PCRE_H),pcre_keyvalue_buffer_append,additon,Function,2

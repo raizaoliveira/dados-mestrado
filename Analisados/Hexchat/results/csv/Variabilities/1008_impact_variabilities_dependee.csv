@@ -1,0 +1,11 @@
+True,get_xdir_fs,additon,Function,3
+True,get_xdir_utf8,exclusion,Function,3
+!def(WIN32),default_file,additon,Function,3
+!def(WIN32),xchat_fopen_file,additon,Function,3
+True,portable_mode,exclusion,Function,3
+!def(WIN32),get_xdir_utf8,additon,Function,3
+!def(WIN32),load_config,exclusion,Function,3
+True,xdir_fs,exclusion,Variable,3
+!def(WIN32),servlist_save,additon,Function,3
+True,fe_message,exclusion,Function,3
+!def(WIN32),xchat_open_file,additon,Function,3

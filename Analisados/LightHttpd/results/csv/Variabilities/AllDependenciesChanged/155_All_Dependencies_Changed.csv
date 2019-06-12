@@ -1,0 +1,3 @@
+def(HAVE_PCRE_H),True
+def(USE_LDAP),True
+def(HAVE_PWD_H),True

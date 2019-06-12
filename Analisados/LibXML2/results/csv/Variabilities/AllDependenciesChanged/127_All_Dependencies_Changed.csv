@@ -1,0 +1,2 @@
+def(DEBUG_TREE),True
+True,!def(HAVE_UNICODE_H)

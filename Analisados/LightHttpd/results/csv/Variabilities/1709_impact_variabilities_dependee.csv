@@ -1,0 +1,8 @@
+True,apr_md5_encode,exclusion,Function,1
+True,password,exclusion,Variable,1
+True,p,exclusion,Variable,1
+True,srv,exclusion,Variable,1
+True,log_error_write,exclusion,Function,1
+True,realm,exclusion,Variable,1
+True,req,exclusion,Variable,1
+True,username,exclusion,Variable,1

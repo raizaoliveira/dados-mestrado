@@ -1,0 +1,8 @@
+pn532_uart_check_communication,1,function
+nfc_device_free,1,function
+setenv,1,function
+arygon_reset_tama,1,function
+pn532_uart_list_devices,1,function
+pn532_uart_wakeup,1,function
+arygon_list_devices,1,function
+print_hex,1,function

@@ -1,0 +1,8 @@
+True,!def(NO_DEBUG_MEMORY)
+!def(USE_UTF_8),True
+(def(MEM_LIST)&!def(NO_DEBUG_MEMORY)),True
+True,def(XML_USE_BUFFER_CONTENT)
+True,!def(DEBUG_VALID_ALGO)
+True,def(STANDALONE)
+!def(NO_DEBUG_MEMORY),True
+!def(VMS),True

@@ -1,0 +1,4 @@
+True,!def(DEBUG_VALID_ALGO)
+True,!def(NO_DEBUG_MEMORY)
+!def(VMS),True
+True,def(STANDALONE)

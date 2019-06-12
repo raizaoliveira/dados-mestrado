@@ -1,0 +1,8 @@
+!def(NO_DEBUG_MEMORY),True
+def(DEBUG_RANGES),True
+True,def(STANDALONE)
+!def(VMS),True
+True,!def(DEBUG_VALID_ALGO)
+True,def(XML_USE_BUFFER_CONTENT)
+(def(MEM_LIST)&!def(NO_DEBUG_MEMORY)),True
+def(XML_USE_BUFFER_CONTENT),True

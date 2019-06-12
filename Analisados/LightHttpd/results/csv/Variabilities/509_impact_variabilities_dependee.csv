@@ -1,0 +1,5 @@
+True,buffer_copy_string_len,exclusion,Function,1
+True,buffer_append_string,exclusion,Function,1
+True,mod_userdir_patch_connection,exclusion,Function,1
+True,buffer_is_equal,exclusion,Function,1
+True,http_response_redirect_to_directory,exclusion,Function,1

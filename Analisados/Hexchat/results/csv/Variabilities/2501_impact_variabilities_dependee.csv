@@ -1,0 +1,5 @@
+True,sess,additon,Variable,4
+True,gtk_xtext_unselect,additon,Function,4
+True,gtk_xtext_get_type,additon,Function,4
+def(WIN32),tray_menu_settings,parameter,Function,4
+def(WIN32),load_default_config,exclusion,Function,4

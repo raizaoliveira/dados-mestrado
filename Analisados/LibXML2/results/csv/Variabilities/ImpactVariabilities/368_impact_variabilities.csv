@@ -1,0 +1,6 @@
+True,
+!def(NO_DEBUG_MEMORY),
+def(WITH_EXTRA_ENT_DETECT),
+(!def(isinf)&def(LIBXML_XPATH_ENABLED)),
+def(LIBXML_HTML_ENABLED),
+def(STANDALONE),

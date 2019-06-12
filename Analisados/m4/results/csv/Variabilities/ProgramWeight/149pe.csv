@@ -1,0 +1,4 @@
+dir_list,1,variable
+mkstemp,1,function
+malloc,1,variable
+tmpfile,1,function

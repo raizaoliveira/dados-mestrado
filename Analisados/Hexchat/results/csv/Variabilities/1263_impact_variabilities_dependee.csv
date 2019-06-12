@@ -1,0 +1,13 @@
+!def(WIN32),fe_tray_set_balloon,exclusion,Function,6
+!def(WIN32),sess,exclusion,Variable,6
+!def(WIN32),fe_print_text,additon,Function,6
+def(WIN32),load_config,additon,Function,6
+!def(WIN32),servlist_save,additon,Function,6
+def(WIN32),sess,exclusion,Variable,6
+!def(WIN32),xchat_execv,additon,Function,6
+def(WIN32),fe_args,exclusion,Function,6
+!def(WIN32),get_xdir_fs,additon,Function,6
+!def(WIN32),xchat_exec,exclusion,Function,6
+True,sess,additon,Variable,6
+def(WIN32),get_xdir_fs,exclusion,Function,6
+True,prefs,exclusion,Variable,6

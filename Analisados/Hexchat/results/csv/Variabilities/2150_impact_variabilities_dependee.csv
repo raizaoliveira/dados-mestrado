@@ -1,0 +1,8 @@
+True,source,exclusion,Variable,4
+!def(WIN32),fe_tray_set_balloon,exclusion,Function,4
+True,argv,additon,Variable,4
+!def(WIN32),hexchat_execv,additon,Function,4
+True,condition,exclusion,Variable,4
+def(WIN32),load_config,exclusion,Function,4
+True,dcc,exclusion,Variable,4
+!def(WIN32),hexchat_exec,exclusion,Function,4

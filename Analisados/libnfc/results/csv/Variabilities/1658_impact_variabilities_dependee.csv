@@ -1,0 +1,4 @@
+True,uart_close,exclusion,Function,1
+True,uart_set_speed,exclusion,Function,1
+True,uart_list_ports,exclusion,Function,1
+True,uart_open,exclusion,Function,1

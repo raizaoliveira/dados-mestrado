@@ -1,0 +1,9 @@
+def(WIN32),fe_args,additon,Function,3
+True,menu_destroy,exclusion,Function,3
+True,setup_prefs,exclusion,Variable,3
+True,tray_menu_destroy,additon,Function,3
+def(WIN32),tray_menu_settings,parameter,Function,3
+True,fe_open_url,additon,Function,3
+True,argc,additon,Variable,3
+def(WIN32),fe_open_url_inner,exclusion,Function,3
+True,argv,additon,Variable,3

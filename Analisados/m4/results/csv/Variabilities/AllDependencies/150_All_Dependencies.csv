@@ -1,0 +1,2 @@
+def(DEBUG_INCL),True
+True,!def(STDC_HEADERS)

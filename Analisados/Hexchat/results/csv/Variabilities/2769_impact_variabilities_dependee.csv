@@ -1,0 +1,3 @@
+def(WIN32),tray_menu_settings,parameter,Function,3
+True,argc,exclusion,Variable,3
+True,argv,exclusion,Variable,3

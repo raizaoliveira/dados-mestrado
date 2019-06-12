@@ -1,0 +1,3 @@
+True,(!def(USE_LIBPROXY)&!def(USE_SIGACTION)&!def(WIN32))
+True,!def(WIN32)
+!def(WIN32),True

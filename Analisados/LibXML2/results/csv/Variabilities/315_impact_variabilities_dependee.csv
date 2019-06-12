@@ -1,0 +1,15 @@
+True,xmlNodeGetContent,additon,Function,8
+True,cur,additon,Variable,8
+True,level,additon,Variable,8
+True,xmlNewNode,parameter,Function,8
+True,format,additon,Variable,8
+def(STANDALONE),ftpData,parameter,Function,8
+True,xmlFreeNode,exclusion,Function,8
+True,buf,additon,Variable,8
+def(LIBXML_HTML_ENABLED),encoding,additon,Variable,8
+!def(NO_DEBUG_MEMORY),xmlFree,additon,Function,8
+def(LIBXML_HTML_ENABLED),htmlNodeDump,exclusion,Function,8
+True,doc,additon,Variable,8
+def(STANDALONE),ftpList,parameter,Function,8
+True,len,exclusion,Variable,8
+True,node,additon,Variable,8

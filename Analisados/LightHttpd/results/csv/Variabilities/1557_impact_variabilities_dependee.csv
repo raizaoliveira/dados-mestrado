@@ -1,0 +1,12 @@
+def(WIN32),proc_open,exclusion,Function,3
+!def(WIN32),proc_close,additon,Function,3
+True,proc_open_buffer,additon,Function,3
+def(WIN32),pipe_close_child,exclusion,Function,3
+True,err,exclusion,Variable,3
+def(WIN32),proc,additon,Variable,3
+!def(WIN32),proc_open,additon,Function,3
+!def(WIN32),proc,exclusion,Variable,3
+def(WIN32),proc_close,exclusion,Function,3
+True,out,exclusion,Variable,3
+True,proc,exclusion,Variable,3
+True,in,exclusion,Variable,3

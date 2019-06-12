@@ -1,0 +1,5 @@
+True,l,exclusion,Variable,2
+True,addr,additon,Variable,2
+True,dc,exclusion,Variable,2
+def(HAVE_PCRE_H),n,additon,Variable,2
+True,log_error_write,exclusion,Function,2

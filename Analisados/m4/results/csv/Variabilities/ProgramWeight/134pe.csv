@@ -1,0 +1,10 @@
+m4_symtab_apply,1,function
+m4_next_token,1,function
+dir_list,1,variable
+malloc,1,variable
+symtab_print_list,1,function
+m4_symbol_define,1,function
+tmpfile,1,function
+m4_symbol_del,1,function
+mkstemp,1,function
+m4_symbol_lookup,1,function

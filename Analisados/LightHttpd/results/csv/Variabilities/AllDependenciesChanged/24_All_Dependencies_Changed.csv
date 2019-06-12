@@ -1,0 +1,4 @@
+def(USE_LDAP),True
+def(DEBUG_CHUNK),True
+def(HAVE_PCRE_H),True
+def(HAVE_PWD_H),True

@@ -1,0 +1,16 @@
+isolat1ToUTF8,1,function
+ptr,1,variable
+xmlFreeDoc,1,function
+cur,1,variable
+xmlNewDtd,1,function
+xmlDocDump,1,function
+UTF16ToUTF8,1,function
+xmlInitCharEncodingHandlers,1,function
+UTF8ToUTF16,1,function
+xmlNewNode,1,function
+buffer,1,variable
+buf,1,variable
+xmlNewDoc,1,function
+xmlNewCharEncodingHandler,1,function
+xmlNewChild,1,function
+UTF8Toisolat1,1,function

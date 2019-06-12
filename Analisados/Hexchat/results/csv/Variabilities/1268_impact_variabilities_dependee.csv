@@ -1,0 +1,7 @@
+def(WIN32),fe_print_text,exclusion,Function,6
+def(WIN32),get_xdir_fs,exclusion,Function,6
+!def(WIN32),sess,additon,Variable,6
+def(WIN32),sess,additon,Variable,6
+!def(WIN32),get_xdir_fs,additon,Function,6
+True,sess,exclusion,Variable,6
+!def(WIN32),fe_tray_set_balloon,additon,Function,6

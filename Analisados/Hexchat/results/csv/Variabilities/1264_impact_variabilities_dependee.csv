@@ -1,0 +1,4 @@
+def(WIN32),get_xdir_fs,additon,Function,4
+def(WIN32),load_config,exclusion,Function,4
+!def(WIN32),get_xdir_fs,exclusion,Function,4
+!def(WIN32),servlist_save,exclusion,Function,4

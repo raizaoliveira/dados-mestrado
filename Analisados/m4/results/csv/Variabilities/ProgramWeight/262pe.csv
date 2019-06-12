@@ -1,0 +1,16 @@
+output_cursor,1,variable
+make_room_for,1,function
+diversion_table,1,variable
+output_unused,1,variable
+mktemp,1,function
+dir_list,1,variable
+selected_diversion,1,variable
+length,1,variable
+total_buffer_size,1,variable
+mkstemp,1,function
+xmalloc,1,variable
+output_diversion,1,variable
+wanted_size,1,variable
+output_file,1,variable
+tmpl,1,variable
+tmpfile,1,function

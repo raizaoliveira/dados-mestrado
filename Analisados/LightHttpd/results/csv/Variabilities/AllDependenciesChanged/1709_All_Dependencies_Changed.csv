@@ -1,0 +1,3 @@
+def(USE_OPENSSL),True
+!def(USE_OPENSSL),True
+def(USE_LDAP),True

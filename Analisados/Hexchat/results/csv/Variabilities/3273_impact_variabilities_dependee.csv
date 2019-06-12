@@ -1,0 +1,6 @@
+!def(WIN32),setup_apply,exclusion,Function,2
+True,do_ulist,exclusion,Variable,2
+True,do_layout,exclusion,Variable,2
+True,do_identd,exclusion,Variable,2
+True,setup_prefs,exclusion,Variable,2
+True,new_pix,exclusion,Variable,2

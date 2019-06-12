@@ -1,0 +1,2 @@
+def(HAVE_FORK),True
+True,def(USE_LDAP)

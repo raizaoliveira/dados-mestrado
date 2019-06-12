@@ -1,0 +1,4 @@
+True,!def(USE_POLL)
+(def(__CYGWIN__)&!def(__WIN32)),True
+(def(USE_OPENSSL)&!def(__WIN32)),True
+!def(__WIN32),True

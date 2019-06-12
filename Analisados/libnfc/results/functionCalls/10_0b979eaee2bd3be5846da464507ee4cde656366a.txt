@@ -1,0 +1,8 @@
+nfc_connect;True; @ main;
+printf;True;True;True;True;True;True;True;True;True;True;True;True;True; @ main;main;main;main;main;main;main;main;main;main;main;main;main;
+nfc_target_init;True; @ main;
+print_hex_bits;True;True;True; @ main;main;main;
+nfc_configure;True;True; @ main;main;
+nfc_target_receive_bits;True; @ main;
+nfc_target_send_bits;True; @ main;
+nfc_disconnect;True; @ main;

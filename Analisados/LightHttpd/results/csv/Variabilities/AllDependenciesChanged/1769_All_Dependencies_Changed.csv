@@ -1,0 +1,5 @@
+def(USE_OPENSSL),True
+def(HAVE_FORK),True
+!def(__WIN32),True
+True,def(HAVE_FORK)
+True,!def(__WIN32)

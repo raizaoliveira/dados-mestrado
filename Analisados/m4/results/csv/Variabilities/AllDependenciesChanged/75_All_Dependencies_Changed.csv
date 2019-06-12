@@ -1,0 +1,3 @@
+def(DEBUG_SYM),True
+def(HAVE_EFGCVT),!def(HAVE_EFGCVT)
+!def(HAVE_EFGCVT),def(HAVE_EFGCVT)

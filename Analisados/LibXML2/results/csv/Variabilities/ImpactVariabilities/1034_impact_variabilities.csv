@@ -1,0 +1,3 @@
+!def(NO_DEBUG_MEMORY),
+def(STANDALONE),
+True,

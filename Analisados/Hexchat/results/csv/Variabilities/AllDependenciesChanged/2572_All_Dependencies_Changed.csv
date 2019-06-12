@@ -1,0 +1,7 @@
+True,!def(WIN32)
+!def(USE_LIBCANBERRA),True
+!def(WIN32),True
+True,!def(USE_LIBCANBERRA)
+True,(!def(USE_LIBPROXY)&!def(USE_SIGACTION)&!def(WIN32))
+def(WIN32),True
+True,def(WIN32)

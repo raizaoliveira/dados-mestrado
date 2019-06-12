@@ -1,0 +1,6 @@
+True,
+!def(HAVE_TMPFILE),
+def(HAVE_EFGCVT),
+def(DEBUG_SYM),
+def(WITH_MODULES),
+def(ENABLE_CHANGEWORD),

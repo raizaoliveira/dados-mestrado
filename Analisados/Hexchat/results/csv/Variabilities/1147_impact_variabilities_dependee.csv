@@ -1,0 +1,2 @@
+!def(WIN32),get_xdir_fs,exclusion,Function,3
+def(WIN32),get_xdir_fs,additon,Function,3

@@ -1,0 +1,4 @@
+True,argc,exclusion,Variable,4
+def(WIN32),fe_args,additon,Function,4
+True,argv,exclusion,Variable,4
+def(WIN32),tray_menu_settings,parameter,Function,4
